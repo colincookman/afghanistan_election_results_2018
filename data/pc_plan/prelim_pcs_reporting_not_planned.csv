@@ -1,0 +1,36 @@
+"pc_code","prelim_results_status","province_name","province_code","district_name","district_code","pc_name","pc_location","assessment_status","pc_change_initial_final_plan","vr_prelim","vr_total_removed","vr_removed_spoiled_IDs","vr_removed_no_tazkera","vr_removed_no_DOB","vr_removed_closed_PC","vr_removed_lost_book","vr_removed_duplicates","vr_removed_underage","vr_general_total","vr_general_male","vr_general_fem","vr_final_kuchi","vr_final_sikh","vr_final_all_male","vr_final_all_fem","vr_final_all_total"
+"0621426","Reporting","NANGARHAR","06","HISARAK","0621"," Syah Aab School","Syah Aab","Not Assessed","dropped",1152,49,18,0,5,0,0,20,6,1058,522,536,45,0,567,536,1103
+"0621427","Reporting","NANGARHAR","06","HISARAK","0621"," Malik Derah (Malik’s House)","Nawar","Not Assessed","dropped",1194,40,7,0,0,0,0,24,9,1084,520,564,70,0,585,569,1154
+"0621428","Reporting","NANGARHAR","06","HISARAK","0621"," Aragha School","Raagha Kalai","Not Assessed","dropped",630,112,0,0,16,0,0,3,93,518,452,66,0,0,452,66,518
+"0621430","Reporting","NANGARHAR","06","HISARAK","0621"," Raagha Mosque","Raagha Kalai","Not Assessed","dropped",600,35,0,0,19,0,0,8,8,564,564,0,1,0,565,0,565
+"0621431","Reporting","NANGARHAR","06","HISARAK","0621"," Syah Aab","Syah Aab Kalai","Not Assessed","dropped",2400,164,20,0,19,0,0,65,60,2235,1167,1068,1,0,1167,1069,2236
+"2309266","Reporting","GHOR","23","TOLAK","2309"," Chahar Rah Tolak School"," Dahan Aab Barah","Old","dropped",1384,72,10,0,15,0,0,29,18,1296,789,507,16,0,805,507,1312
+"2702042","Reporting","KANDAHAR","27","ARGHANDAB","2702"," Khoshal Khan School"," Nagahan","Old","dropped",2879,272,47,0,20,0,0,167,38,2543,2407,136,64,0,2471,136,2607
+"2702043","Reporting","KANDAHAR","27","ARGHANDAB","2702"," Kohak School"," Kohak","Old","dropped",2094,249,28,0,14,0,0,114,93,1821,1786,35,24,0,1810,35,1845
+"2702045","Reporting","KANDAHAR","27","ARGHANDAB","2702"," Shah Ashraf School"," Tabeen","Old","dropped",1225,105,4,0,4,0,0,86,11,1120,1099,21,0,0,1099,21,1120
+"2702047","Reporting","KANDAHAR","27","ARGHANDAB","2702"," Ba Ba Sahib Du Rahi, Directorate of Irrigation"," Ba Ba Wali Sahib","Old","dropped",1709,197,33,0,18,0,0,116,30,1477,1398,79,35,0,1433,79,1512
+"2702049","Reporting","KANDAHAR","27","ARGHANDAB","2702"," Jala Awr School"," Du Rahi","Old","dropped",1639,117,16,0,4,0,0,75,22,1422,1396,26,100,0,1496,26,1522
+"2703060","Reporting","KANDAHAR","27","DAMAN","2703"," Haji Habib Aka Mosque"," Srah Qalla","Old","dropped",602,429,15,0,406,0,0,6,2,167,166,1,6,0,172,1,173
+"2703061","Reporting","KANDAHAR","27","DAMAN","2703"," Semalzo Mosque"," Similzai village","Relocated","dropped",1260,106,5,0,11,0,0,68,22,957,945,12,197,0,1142,12,1154
+"2703067","Reporting","KANDAHAR","27","DAMAN","2703"," Shor Andam School "," Shor Andam","Old","dropped",1982,233,16,0,17,0,0,138,62,1546,1306,240,203,0,1495,254,1749
+"2703068","Reporting","KANDAHAR","27","DAMAN","2703"," Naqeleen School "," Naqeleen","Old","dropped",1450,274,26,0,114,0,0,104,30,1120,921,199,56,0,974,202,1176
+"2703069","Reporting","KANDAHAR","27","DAMAN","2703"," Da Ghra da Kali School"," Gharah village","New","dropped",1318,147,16,0,4,0,0,117,10,1071,944,127,100,0,1044,127,1171
+"2703073","Reporting","KANDAHAR","27","DAMAN","2703"," Farm Tarank School "," Hakim Jan Kalachah","Old","dropped",1944,233,19,0,34,0,0,161,19,1614,1313,301,97,0,1375,336,1711
+"2703074","Reporting","KANDAHAR","27","DAMAN","2703"," Haji Saifullah Petrol Pump Dalai School "," Dalai village","Old","dropped",989,157,46,0,6,0,0,91,14,792,649,143,40,0,688,144,832
+"2705093","Reporting","KANDAHAR","27","ZHERAY","2705"," Old Clinic"," Hawz Madad","Old","dropped",2479,124,27,0,4,0,0,63,30,2133,2038,95,222,0,2260,95,2355
+"2705094","Reporting","KANDAHAR","27","ZHERAY","2705"," Grrandai Akhundzadah Primary School"," Makwan Dasht","New","dropped",1376,174,0,0,5,0,0,154,15,1040,1040,0,162,0,1202,0,1202
+"2705095","Reporting","KANDAHAR","27","ZHERAY","2705"," Amanullah School"," Sablaghi","Old","dropped",1189,173,18,0,6,0,0,141,8,1010,1010,0,6,0,1016,0,1016
+"2705106","Reporting","KANDAHAR","27","ZHERAY","2705"," Camp no. 11 School","  Zerrai Dasht","Old","dropped",13,5,3,0,0,0,0,2,0,8,8,0,0,0,8,0,8
+"2707120","Reporting","KANDAHAR","27","KHAKREZ","2707"," Khakrez village Clinic"," Khak Rez village","Not Assessed","dropped",6,2,2,0,0,0,0,0,0,4,4,0,0,0,4,0,4
+"2708137","Reporting","KANDAHAR","27","ARGHESTAN","2708"," Ameen Qalla School"," Amin Qalla","Old","dropped",688,44,6,0,2,0,0,4,32,642,640,2,2,0,642,2,644
+"2711163","Reporting","KANDAHAR","27","SPENBOLDAK","2711"," Baz Mohammad School ","Nawai Kalai village","Relocated","dropped",4043,209,9,0,31,0,0,119,50,3794,3412,382,40,0,3445,389,3834
+"2711166","Reporting","KANDAHAR","27","SPENBOLDAK","2711"," Haji Raziq School "," Boldak Wesh","Relocated","dropped",5988,354,2,0,23,0,0,160,169,5498,4412,1086,136,0,4547,1087,5634
+"2711167","Reporting","KANDAHAR","27","SPENBOLDAK","2711"," Imam Abu Haneefah School "," Bilal Abad","Relocated","dropped",3458,276,26,0,47,0,0,109,94,3178,2780,398,4,0,2783,399,3182
+"2711168","Reporting","KANDAHAR","27","SPENBOLDAK","2711"," Ghazi Abdullah Khan High School"," Speen Boldak","Old","dropped",4525,234,47,0,33,0,0,51,103,4156,3767,389,135,0,3901,390,4291
+"2711169","Reporting","KANDAHAR","27","SPENBOLDAK","2711"," Haji Shah Mahmoud School "," Boldak Bazar","Relocated","dropped",4586,235,4,0,15,0,0,166,50,4315,3809,506,36,0,3845,506,4351
+"2711170","Reporting","KANDAHAR","27","SPENBOLDAK","2711"," Nawabad School "," Speen Boldak","Relocated","dropped",4651,328,15,0,28,0,0,144,141,4180,3800,380,143,0,3943,380,4323
+"2711171","Reporting","KANDAHAR","27","SPENBOLDAK","2711"," Nemat School "," Speen Boldak","Old","dropped",2807,165,18,0,20,0,0,75,52,2514,2430,84,128,0,2558,84,2642
+"2711172","Reporting","KANDAHAR","27","SPENBOLDAK","2711"," Sayed Wali School "," Haji Afzal village ","Old","dropped",4338,3032,26,0,2954,0,0,24,28,1176,1107,69,130,0,1232,74,1306
+"2711173","Reporting","KANDAHAR","27","SPENBOLDAK","2711"," Haji Basir School "," Speen Boldak","Relocated","dropped",4480,354,34,0,47,0,0,82,191,3820,3372,448,306,0,3667,459,4126
+"2718224","Reporting","KANDAHAR","27","TAKHTAPUL","2718"," Ghat Maktab School"," Mohmand Khan village","Old","dropped",1208,216,28,0,9,0,0,158,21,992,602,390,0,0,602,390,992
+"2718225","Reporting","KANDAHAR","27","TAKHTAPUL","2718"," Hasan zai School"," Hasanzee","Old","dropped",365,46,5,0,4,0,0,32,5,319,278,41,0,0,278,41,319
