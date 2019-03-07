@@ -6,7 +6,7 @@ For more details about this dataset, please see the [primary project readme file
 
 For questions, suggestions, or to contribute further, please leave an issue request here on Github or contact [Colin Cookman](https://colincookman.wordpress.com/about/) by email or Twitter.
 
-## [prelim_af_candidate_ps_data_2018.csv](https://drive.google.com/open?id=1o5Pzj4PgQnoLtZVC5cyDs7og50KWySeW)
+## [prelim_af_candidate_ps_data_2018.csv](https://drive.google.com/open?id=1Oqzv-O671w7jwEiWWlMVV7QMtQmRGVNS)
 - **electorate:** Either general candidates (in which case the constituency is the province) or Kuchi or Sikh / Hindu candidates (in which case the constituency is nationwide).
 - **province_code:** Two-digit IEC numeric code for province. Kuchi and Sikh candidate results are listed under the provinces in which votes were cast.
 - **province_name_eng:** Province name in English, as provided by IEC. (Due to the lack of standardized transliteration, this almost certainly will not consistently match other datasets.)
