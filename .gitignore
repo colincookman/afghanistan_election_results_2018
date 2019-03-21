@@ -25,3 +25,5 @@ raw/final_parliamentary_results_ps.csv
 raw/final_parliamentary_results_winners.csv
 data/preliminary_results/prelim_af_candidate_pc_data.csv
 raw/prelim_parliamentary_results_ps.csv
+data/district_data/Popl_Estimates_CSO_USFOR_IMMAP_shared.xlsx
+data/district_data/MapSync CSO-USFOR-IMMAP Population Estimates.xlsx
