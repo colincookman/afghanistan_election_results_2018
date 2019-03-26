@@ -13,16 +13,10 @@ scan_reports/.DS_Store
 2018_final_results_scrape.R
 2018_prelim_results_analysis.R
 2018_prelim_results_scrape.R
-data/final_pc_ps_candidate_vote_counts.csv
 data/final_results/final_af_candidate_ps_data_2018.csv
-data/final_results/final_af_candidate_ps_data_2018_lite.csv
 data/keyfiles/candidate_uids.gsheet
 data/past_elections/wj_2010/wj_2010_final.csv
 data/preliminary_results/prelim_af_candidate_ps_data_2018.csv
-raw/final_parliamentary_results.csv
-raw/final_parliamentary_results_candidates.csv
-raw/final_parliamentary_results_ps.csv
-raw/final_parliamentary_results_winners.csv
 data/preliminary_results/prelim_af_candidate_pc_data.csv
 raw/prelim_parliamentary_results_ps.csv
 data/district_data/Popl_Estimates_CSO_USFOR_IMMAP_shared.xlsx
