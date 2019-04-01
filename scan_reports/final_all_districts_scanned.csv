@@ -1,0 +1,283 @@
+"district","list_position","x","province_code"
+"PROVINCIAL CAPITAL OF KAPISA (MAHMUDI RAQI)",2,"#district > option:nth-child(2)",2
+"HISSA-E- DUWUMI KOHISTAN",3,"#district > option:nth-child(3)",2
+"KOH BAND",4,"#district > option:nth-child(4)",2
+"HISSA-E-AWALI KOHISTAN",5,"#district > option:nth-child(5)",2
+"NIJRAB",6,"#district > option:nth-child(6)",2
+"TAGAB",7,"#district > option:nth-child(7)",2
+"ALASAY",8,"#district > option:nth-child(8)",2
+"PROVINCIAL CAPITAL OF PARWAN (CHARIKAR)",2,"#district > option:nth-child(2)",3
+"BAGRAM",3,"#district > option:nth-child(3)",3
+"SHINWARI",4,"#district > option:nth-child(4)",3
+"SAYID KHAIL",5,"#district > option:nth-child(5)",3
+"JABULUSSARAJ",6,"#district > option:nth-child(6)",3
+"SALANG",7,"#district > option:nth-child(7)",3
+"SYAHGIRDI GHORBAND",8,"#district > option:nth-child(8)",3
+"KOHI SAFI",9,"#district > option:nth-child(9)",3
+"SURKHI PARSA",10,"#district > option:nth-child(10)",3
+"SHAYKH ALI",11,"#district > option:nth-child(11)",3
+"PROVINCIAL CAPITAL OF LAGHMAN ( MEHTERLAM )",2,"#district > option:nth-child(2)",7
+"QARGHAYEE",3,"#district > option:nth-child(3)",7
+"ALISHING",4,"#district > option:nth-child(4)",7
+"ALINGAR",5,"#district > option:nth-child(5)",7
+"DAWLAT SHAH",6,"#district > option:nth-child(6)",7
+"BAD PAKH",7,"#district > option:nth-child(7)",7
+"PROVINCIAL CAPITAL OF PANJSHER ( BAZARAK )",2,"#district > option:nth-child(2)",8
+"RUKHA",3,"#district > option:nth-child(3)",8
+"DARAH",4,"#district > option:nth-child(4)",8
+"HISSA-E-AWAL ( KHINJ )",5,"#district > option:nth-child(5)",8
+"UNABA",6,"#district > option:nth-child(6)",8
+"SHUTUL",7,"#district > option:nth-child(7)",8
+"PARYAN",8,"#district > option:nth-child(8)",8
+"AB SHAR",9,"#district > option:nth-child(9)",8
+"PROVINCIAL CAPITAL OF BAMYAN ( BAMYAN )",2,"#district > option:nth-child(2)",10
+"SHEBAR",3,"#district > option:nth-child(3)",10
+"SAIGHAN",4,"#district > option:nth-child(4)",10
+"KAHMARD",5,"#district > option:nth-child(5)",10
+"YAKAWLANG",6,"#district > option:nth-child(6)",10
+"PANJAB",7,"#district > option:nth-child(7)",10
+"WARAS",8,"#district > option:nth-child(8)",10
+"YAKAWLANG NO 2",9,"#district > option:nth-child(9)",10
+"PROVINCIAL CAPITAL OF PAKTIKA ( SHARAN )",2,"#district > option:nth-child(2)",12
+"MATA KHAN",3,"#district > option:nth-child(3)",12
+"YOSUF KHEL",4,"#district > option:nth-child(4)",12
+"YAHYA KHEL",5,"#district > option:nth-child(5)",12
+"SAR RAWZA",6,"#district > option:nth-child(6)",12
+"OMNA",7,"#district > option:nth-child(7)",12
+"ZARGHUN SHAHR",8,"#district > option:nth-child(8)",12
+"GOMAL",9,"#district > option:nth-child(9)",12
+"JANI KHEL",10,"#district > option:nth-child(10)",12
+"SURUBI",11,"#district > option:nth-child(11)",12
+"URGOON",12,"#district > option:nth-child(12)",12
+"ZIRUK",13,"#district > option:nth-child(13)",12
+"NIKA",14,"#district > option:nth-child(14)",12
+"BARMAL",15,"#district > option:nth-child(15)",12
+"GIYAN",16,"#district > option:nth-child(16)",12
+"DILA WA KHUSHAMAND",17,"#district > option:nth-child(17)",12
+"WAZAKHWAH",18,"#district > option:nth-child(18)",12
+"WOR MAMAY",19,"#district > option:nth-child(19)",12
+"TURWO",20,"#district > option:nth-child(20)",12
+"PROVINCIAL CAPITAL OF KHOST ( KHOST )",2,"#district > option:nth-child(2)",14
+"MANDUZAY (ESMAYEL KHEL)",3,"#district > option:nth-child(3)",14
+"GURBUZ",4,"#district > option:nth-child(4)",14
+"TANAY",5,"#district > option:nth-child(5)",14
+"MUSA KHEL",6,"#district > option:nth-child(6)",14
+"NADIRSHAH KOT",7,"#district > option:nth-child(7)",14
+"SABARI (YAQUBI)",8,"#district > option:nth-child(8)",14
+"ALI SHER",9,"#district > option:nth-child(9)",14
+"BAAK",10,"#district > option:nth-child(10)",14
+"QALANDAR",11,"#district > option:nth-child(11)",14
+"SPERA",12,"#district > option:nth-child(12)",14
+"SHAMUL",13,"#district > option:nth-child(13)",14
+"JAJI MAIDAN",14,"#district > option:nth-child(14)",14
+"PROVINCIAL CAPITAL OF KUNARHA ( ASAD ABAD )",2,"#district > option:nth-child(2)",15
+"MARA WARA",3,"#district > option:nth-child(3)",15
+"WATAPOOR",4,"#district > option:nth-child(4)",15
+"NARANG WA BADIL",5,"#district > option:nth-child(5)",15
+"SAR KANI",6,"#district > option:nth-child(6)",15
+"SHIGAL WA SHELTAN",7,"#district > option:nth-child(7)",15
+"DARA-E-PECH",8,"#district > option:nth-child(8)",15
+"BAR KUNAR",9,"#district > option:nth-child(9)",15
+"SAWKAI",10,"#district > option:nth-child(10)",15
+"KHAS KUNAR",11,"#district > option:nth-child(11)",15
+"GHAZI ABAD",12,"#district > option:nth-child(12)",15
+"DANGAM",13,"#district > option:nth-child(13)",15
+"CHAPA DARA",14,"#district > option:nth-child(14)",15
+"NOOR GAL",15,"#district > option:nth-child(15)",15
+"NARI",16,"#district > option:nth-child(16)",15
+"SHELTAN",17,"#district > option:nth-child(17)",15
+"PROVINCIAL CAPITAL OF NOORISTAN ( PAROON )",2,"#district > option:nth-child(2)",16
+"WAYGAL",3,"#district > option:nth-child(3)",16
+"WAMA",4,"#district > option:nth-child(4)",16
+"NOOR GRAM",5,"#district > option:nth-child(5)",16
+"DUAB",6,"#district > option:nth-child(6)",16
+"KAMDESH",7,"#district > option:nth-child(7)",16
+"MANDOL",8,"#district > option:nth-child(8)",16
+"BARG-E-MATAL",9,"#district > option:nth-child(9)",16
+"PROVINCIAL CAPITAL OF BADAKHSHAN ( FAIZ ABAD )",2,"#district > option:nth-child(2)",17
+"ARGO",3,"#district > option:nth-child(3)",17
+"ARGHANJ KHWAH",4,"#district > option:nth-child(4)",17
+"YAFTAL-E-SUFLA",5,"#district > option:nth-child(5)",17
+"KHASH",6,"#district > option:nth-child(6)",17
+"BAHARAK",7,"#district > option:nth-child(7)",17
+"DARAYIM",8,"#district > option:nth-child(8)",17
+"KOHISTAN",9,"#district > option:nth-child(9)",17
+"YAWAN",10,"#district > option:nth-child(10)",17
+"JURM",11,"#district > option:nth-child(11)",17
+"TASHKAN",12,"#district > option:nth-child(12)",17
+"SHUHADA",13,"#district > option:nth-child(13)",17
+"SHAHR-E-BUZURG",14,"#district > option:nth-child(14)",17
+"RAGHISTAN",15,"#district > option:nth-child(15)",17
+"KISHM",16,"#district > option:nth-child(16)",17
+"WARDOOJ",17,"#district > option:nth-child(17)",17
+"TAGAB",18,"#district > option:nth-child(18)",17
+"YAMGAN",19,"#district > option:nth-child(19)",17
+"SHIGHNAN",20,"#district > option:nth-child(20)",17
+"KHWAHAN",21,"#district > option:nth-child(21)",17
+"KUFAB",22,"#district > option:nth-child(22)",17
+"DARWAZ-E-PAYIN (MAMAY)",23,"#district > option:nth-child(23)",17
+"ESHKASHIM",24,"#district > option:nth-child(24)",17
+"SHIKI",25,"#district > option:nth-child(25)",17
+"ZEBAK",26,"#district > option:nth-child(26)",17
+"KIRAN WA MENJAN",27,"#district > option:nth-child(27)",17
+"DARWAZ-E-BALA (NESAY)",28,"#district > option:nth-child(28)",17
+"WAKHAN",29,"#district > option:nth-child(29)",17
+"PROVINCIAL CAPITAL OF SAMANGAN ( AYBAK )",2,"#district > option:nth-child(2)",20
+"HAZRAT-E-SULTAN",3,"#district > option:nth-child(3)",20
+"KHURAM WA SARBAGH",4,"#district > option:nth-child(4)",20
+"FEROZ NAKHCHEER",5,"#district > option:nth-child(5)",20
+"ROI-DO-AB",6,"#district > option:nth-child(6)",20
+"DARA-E-SOOF-E-PAYIN",7,"#district > option:nth-child(7)",20
+"DARA-E-SOOF-E-BALA",8,"#district > option:nth-child(8)",20
+"NAHR-E-SHAHI",2,"#district > option:nth-child(2)",21
+"DEHDADI",3,"#district > option:nth-child(3)",21
+"CHAR KENT",4,"#district > option:nth-child(4)",21
+"MARMUL",5,"#district > option:nth-child(5)",21
+"BALKH",6,"#district > option:nth-child(6)",21
+"SHOLGARA",7,"#district > option:nth-child(7)",21
+"CHIMTAL",8,"#district > option:nth-child(8)",21
+"DAWLAT ABAD",9,"#district > option:nth-child(9)",21
+"KHULM",10,"#district > option:nth-child(10)",21
+"CHAR BOLAK",11,"#district > option:nth-child(11)",21
+"SHORTEPA",12,"#district > option:nth-child(12)",21
+"KALDAR",13,"#district > option:nth-child(13)",21
+"KISHINDEH",14,"#district > option:nth-child(14)",21
+"ZARI",15,"#district > option:nth-child(15)",21
+"PROVINCIAL CAPITAL OF BALKH ( MAZAR-E-SHARIF )",16,"#district > option:nth-child(16)",21
+"PROVINCIAL CAPITAL OF BALKH ( MAZAR-E-SHARIF )",17,"#district > option:nth-child(17)",21
+"PROVINCIAL CAPITAL OF BALKH ( MAZAR-E-SHARIF )",18,"#district > option:nth-child(18)",21
+"PROVINCIAL CAPITAL OF BALKH ( MAZAR-E-SHARIF )",19,"#district > option:nth-child(19)",21
+"PROVINCIAL CAPITAL OF BALKH ( MAZAR-E-SHARIF )",20,"#district > option:nth-child(20)",21
+"PROVINCIAL CAPITAL OF BALKH ( MAZAR-E-SHARIF )",21,"#district > option:nth-child(21)",21
+"PROVINCIAL CAPITAL OF BALKH ( MAZAR-E-SHARIF )",22,"#district > option:nth-child(22)",21
+"PROVINCIAL CAPITAL OF BALKH ( MAZAR-E-SHARIF )",23,"#district > option:nth-child(23)",21
+"PROVINCIAL CAPITAL OF BALKH ( MAZAR-E-SHARIF )",24,"#district > option:nth-child(24)",21
+"PROVINCIAL CAPITAL OF BALKH ( MAZAR-E-SHARIF )",25,"#district > option:nth-child(25)",21
+"PROVINCIAL CAPITAL OF SAR-E-PUL ( SAR-E-PUL )",2,"#district > option:nth-child(2)",22
+"SAYAD",3,"#district > option:nth-child(3)",22
+"KOHISTANAT",4,"#district > option:nth-child(4)",22
+"SOZMA QALA",5,"#district > option:nth-child(5)",22
+"SANGCHARAK",6,"#district > option:nth-child(6)",22
+"GOSFANDI",7,"#district > option:nth-child(7)",22
+"BALKHAB",8,"#district > option:nth-child(8)",22
+"PROVINCIAL CAPITAL OF GHOR ( CHIGHCHERAN )",2,"#district > option:nth-child(2)",23
+"DULEENA",3,"#district > option:nth-child(3)",23
+"DAWLATYAR",4,"#district > option:nth-child(4)",23
+"CHAR SADA",5,"#district > option:nth-child(5)",23
+"PASABAND",6,"#district > option:nth-child(6)",23
+"SHAHRAK",7,"#district > option:nth-child(7)",23
+"LAL WA SARJANGAL",8,"#district > option:nth-child(8)",23
+"TAYWARA",9,"#district > option:nth-child(9)",23
+"TULAK",10,"#district > option:nth-child(10)",23
+"SAGHAR",11,"#district > option:nth-child(11)",23
+"PROVINCIAL CAPITAL OF DAYKUNDI ( NILI )",2,"#district > option:nth-child(2)",24
+"SHAHRISTAN",3,"#district > option:nth-child(3)",24
+"GIZAB",4,"#district > option:nth-child(4)",24
+"ISHTERLAI",5,"#district > option:nth-child(5)",24
+"KHEDIR",6,"#district > option:nth-child(6)",24
+"GETI",7,"#district > option:nth-child(7)",24
+"MIRAMOR",8,"#district > option:nth-child(8)",24
+"SANG-E-TAKHT",9,"#district > option:nth-child(9)",24
+"KEJRAN",10,"#district > option:nth-child(10)",24
+"PROVINCIAL CAPITAL OF UROZGAN ( TIRINKOT )",2,"#district > option:nth-child(2)",25
+"DEHRAOUD",3,"#district > option:nth-child(3)",25
+"CHORA",4,"#district > option:nth-child(4)",25
+"SHAHID-E-HASSAS",5,"#district > option:nth-child(5)",25
+"KHAS UROZGAN",6,"#district > option:nth-child(6)",25
+"CHINARTO",7,"#district > option:nth-child(7)",25
+"GIZAB",8,"#district > option:nth-child(8)",25
+"PROVINCIAL CAPITAL OF ZABUL ( QALAT )",2,"#district > option:nth-child(2)",26
+"TARANK WA JALDAK",3,"#district > option:nth-child(3)",26
+"SHINKAI",4,"#district > option:nth-child(4)",26
+"MIZAN",5,"#district > option:nth-child(5)",26
+"ARGHANDAB",6,"#district > option:nth-child(6)",26
+"SHAH JOI",7,"#district > option:nth-child(7)",26
+"DAICHOPAN",8,"#district > option:nth-child(8)",26
+"ATGHAR",9,"#district > option:nth-child(9)",26
+"NAW BAHAR",10,"#district > option:nth-child(10)",26
+"SHEMEL ZAYI",11,"#district > option:nth-child(11)",26
+"KAKAR (KHAK-E-AFGHAN)",12,"#district > option:nth-child(12)",26
+"PROVINCIAL CAPITAL OF JAWZJAN ( SHEBERGHAN )",2,"#district > option:nth-child(2)",28
+"KHWAJA DUKOH",3,"#district > option:nth-child(3)",28
+"KHANAQA",4,"#district > option:nth-child(4)",28
+"MINGAJIK",5,"#district > option:nth-child(5)",28
+"QUSH TEPA",6,"#district > option:nth-child(6)",28
+"KHAMYAB",7,"#district > option:nth-child(7)",28
+"AQCHAH",8,"#district > option:nth-child(8)",28
+"FAIZABAD",9,"#district > option:nth-child(9)",28
+"MARDYAN",10,"#district > option:nth-child(10)",28
+"QARQIN",11,"#district > option:nth-child(11)",28
+"DARZAB",12,"#district > option:nth-child(12)",28
+"PROVINCIAL CAPITAL OF FARYAB ( MAIMANA )",2,"#district > option:nth-child(2)",29
+"PASHTUN KOT",3,"#district > option:nth-child(3)",29
+"KHWAJA SABZ POSH-E-WALI",4,"#district > option:nth-child(4)",29
+"ALMAR",5,"#district > option:nth-child(5)",29
+"BIL CHIRAGH",6,"#district > option:nth-child(6)",29
+"SHIRIN TAGAB",7,"#district > option:nth-child(7)",29
+"QAISAR",8,"#district > option:nth-child(8)",29
+"GURZIWAN",9,"#district > option:nth-child(9)",29
+"DAWLAT ABAD",10,"#district > option:nth-child(10)",29
+"KOHISTAN",11,"#district > option:nth-child(11)",29
+"QARAM QUL",12,"#district > option:nth-child(12)",29
+"QURGHAN",13,"#district > option:nth-child(13)",29
+"ANDKHOY",14,"#district > option:nth-child(14)",29
+"KHANI CHARBAGH",15,"#district > option:nth-child(15)",29
+"PROVINCIAL CAPITAL OF BADGHIS ( QALA-E-NOW )",2,"#district > option:nth-child(2)",31
+"AB KAMARI",3,"#district > option:nth-child(3)",31
+"MUQUR",4,"#district > option:nth-child(4)",31
+"QADIS",5,"#district > option:nth-child(5)",31
+"BALA MURGHAB",6,"#district > option:nth-child(6)",31
+"JAWAND",7,"#district > option:nth-child(7)",31
+"GHORMACH",8,"#district > option:nth-child(8)",31
+"ENJIL",2,"#district > option:nth-child(2)",32
+"NIZAM-E-SHAHID (GUZARA)",3,"#district > option:nth-child(3)",32
+"KARRUKH",4,"#district > option:nth-child(4)",32
+"ZENDAJAN",5,"#district > option:nth-child(5)",32
+"PASHTUN ZARGHUN",6,"#district > option:nth-child(6)",32
+"KUSHK (RUBAT-E-SANGI)",7,"#district > option:nth-child(7)",32
+"GULRAN",8,"#district > option:nth-child(8)",32
+"ADRASKAN",9,"#district > option:nth-child(9)",32
+"KUSHK-E-KUHNA",10,"#district > option:nth-child(10)",32
+"GHORYAN",11,"#district > option:nth-child(11)",32
+"OBE",12,"#district > option:nth-child(12)",32
+"KOHSAN",13,"#district > option:nth-child(13)",32
+"SHINDAND",14,"#district > option:nth-child(14)",32
+"FERSI",15,"#district > option:nth-child(15)",32
+"CHISHT-E-SHARIF",16,"#district > option:nth-child(16)",32
+"ZIR KOH",17,"#district > option:nth-child(17)",32
+"POSHTKO",18,"#district > option:nth-child(18)",32
+"KOHE ZOR",19,"#district > option:nth-child(19)",32
+"ZAWOL",20,"#district > option:nth-child(20)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",21,"#district > option:nth-child(21)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",22,"#district > option:nth-child(22)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",23,"#district > option:nth-child(23)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",24,"#district > option:nth-child(24)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",25,"#district > option:nth-child(25)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",26,"#district > option:nth-child(26)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",27,"#district > option:nth-child(27)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",28,"#district > option:nth-child(28)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",29,"#district > option:nth-child(29)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",30,"#district > option:nth-child(30)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",31,"#district > option:nth-child(31)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",32,"#district > option:nth-child(32)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",33,"#district > option:nth-child(33)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",34,"#district > option:nth-child(34)",32
+"PROVINCIAL CAPITAL OF HERAT (HERAT)",35,"#district > option:nth-child(35)",32
+"PROVINCIAL CAPITAL OF FARAH (FARAH)",2,"#district > option:nth-child(2)",33
+"PUSHTRUD",3,"#district > option:nth-child(3)",33
+"KHAK-E-SAFED",4,"#district > option:nth-child(4)",33
+"QALA-E-KAH",5,"#district > option:nth-child(5)",33
+"SHIB KOH",6,"#district > option:nth-child(6)",33
+"BALA BULUK",7,"#district > option:nth-child(7)",33
+"ANAR DARA",8,"#district > option:nth-child(8)",33
+"BAKWA",9,"#district > option:nth-child(9)",33
+"LASH-E-JUWAYN",10,"#district > option:nth-child(10)",33
+"GULISTAN",11,"#district > option:nth-child(11)",33
+"PUR CHAMAN",12,"#district > option:nth-child(12)",33
+"PROVINCIAL CAPITAL OF NIMROZ (ZARANJ)",2,"#district > option:nth-child(2)",34
+"KANG",3,"#district > option:nth-child(3)",34
+"ASL-E-CHAKHANSUR",4,"#district > option:nth-child(4)",34
+"CHAR BURJAK",5,"#district > option:nth-child(5)",34
+"KHASHROD",6,"#district > option:nth-child(6)",34
+"DULARAM",7,"#district > option:nth-child(7)",34
+"",1,"#district > option:nth-child(1)",36
