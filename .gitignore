@@ -25,3 +25,5 @@ data/district_data/District_Lookup_Sheet_prod.xlsx
 .Rhistory
 .RData
 data/af_candidate_ps_data_2018_final.csv
+data/past_elections/wj_2010/raw/WJ_2010_missing_candidate_codes.gsheet
+data/past_elections/wj_2010/raw/wj_2010_final.csv
