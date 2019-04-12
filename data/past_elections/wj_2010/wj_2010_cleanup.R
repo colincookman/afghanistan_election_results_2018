@@ -17,7 +17,7 @@ setwd("~/Google Drive/GitHub/afghanistan_election_results_2018/data/past_electio
 # CANDIDATE LISTS ------------------------------------------------------------------
 rm(list = ls())
 
-# pull additional candidate info from Afghan Election Data project -----------------
+# pull additional candidate metadata (incumbency / gender) from Afghan Election Data project -----------------
 
 base_url <- "https://2010.afghanistanelectiondata.org/"
 province_urls <- paste0(base_url, "candidates/province_", 1:34)
@@ -151,24 +151,55 @@ write.csv(province_results, "./raw/rough_candidate_data.csv", row.names = F)
 
 # find candidate codes in available prelim data, ommitting Kuchi candidates missing from other data source
 
+candidate_metadata <- read.csv("./raw/rough_candidate_data.csv", stringsAsFactors = F)
+candidate_metadata$province_code = as.character(str_pad(candidate_metadata$province_code, 2, pad = "0", side = "left"))
+
 wj_2010_prelim <- read.csv("./raw/prelim_af_candidate_ps_data_2010.csv", stringsAsFactors = F)
 wj_2010_prelim$province_code = as.character(str_pad(wj_2010_prelim$province_code, 2, pad = "0", side = "left"))
 
-prelim_cand_data <- wj_2010_prelim %>% filter(electorate == "General") %>% group_by(province_code, candidate_id, voter_id, ballot_position) %>% summarize(
+cand_vote_data <- wj_2010_prelim %>% filter(electorate == "General") %>% group_by(province_code, candidate_id, voter_id, ballot_position) %>% summarize(
   prelim_votes = sum(votes, na.rm = TRUE)
 )
 
-unique_meta_data <- province_results[(!duplicated(province_results$prelim_votes) | !duplicated(province_results$prelim_votes, fromLast = TRUE)) == "TRUE", ]
-unique_candidate_votes <- prelim_cand_data[(!duplicated(prelim_cand_data$prelim_votes) | !duplicated(prelim_cand_data$prelim_votes, fromLast = TRUE)) == "TRUE", ]
+unique_meta_data <- candidate_metadata[(!duplicated(candidate_metadata$prelim_votes)) == "TRUE", ]
+unique_cand_votes <- cand_vote_data[(!duplicated(cand_vote_data$prelim_votes)) == "TRUE", ]
 
-candidate_meta_data <- left_join(unique_meta_data, unique_candidate_votes)
+known_candidate_metadata <- left_join(unique_cand_votes, unique_meta_data, by = c("province_code", "prelim_votes"))
 
 # candidates for which codes must be checked manually
 
-missing_candidate_codes <- province_results %>% select(province_code, candidate_name_eng, candidate_gender) %>%
+unknown_candidate_metadata <- candidate_metadata %>% select(province_code, candidate_name_eng, candidate_gender) %>%
   anti_join(unique_meta_data, by = "candidate_name_eng")
 
-write.csv(missing_candidate_codes, "./raw/missing_candidate_codes.csv", row.names = F)
+# write.csv(unknown_candidate_metadata, "./raw/missing_candidate_codes.csv", row.names = F)
+
+missing_candidate_codes_corrected <- read.csv("./raw/WJ_2010_missing_candidate_codes.csv", stringsAsFactors = F)
+missing_candidate_codes_corrected$province_code = as.character(str_pad(missing_candidate_codes_corrected$province_code, 2, pad = "0", side = "left"))
+missing_candidate_codes_corrected$notes <- NULL
+
+# dupe_errors <- missing_candidate_codes_corrected[(duplicated(missing_candidate_codes_corrected$candidate_id) | duplicated(missing_candidate_codes_corrected$candidate_id, fromLast = TRUE)) == "TRUE", ]
+
+updated_candidate_metadata <- left_join(missing_candidate_codes_corrected, unknown_candidate_metadata)
+
+province_codes <- wj_2010_prelim %>% select(province_code, province_name_eng) %>% unique()
+still_missing <- left_join(unknown_candidate_metadata, missing_candidate_codes_corrected) %>% filter(is.na(candidate_id))
+still_missing$province_name_eng <- NULL
+still_missing <- left_join(still_missing, province_codes)
+write.csv(still_missing, "./raw/still_missing.csv", row.names = F)
+
+still_missing_ided <- read.csv("./raw/still_missing.csv", stringsAsFactors = F)
+still_missing_ided$province_code = as.character(str_pad(still_missing_ided$province_code, 2, pad = "0", side = "left"))
+still_missing_ided$province_name_eng <- NULL
+
+known_metadata_ids <- known_candidate_metadata %>% select(candidate_id)
+
+first_corrected_ids <- missing_candidate_codes_corrected %>% select(candidate_id)
+second_corrected_ids <- still_missing_ided %>% select(candidate_id)
+all_known <- full_join(first_corrected_ids, second_corrected_ids)
+all_known <- full_join(all_known, known_metadata_ids)
+
+ided_but_not_in_vote_data <- setdiff(all_known$candidate_id, cand_vote_data$candidate_id)
+in_vote_data_but_no_id <- setdiff(cand_vote_data$candidate_id, all_known$candidate_id)
 
 # get translated party affiliation data from DI candidate lists --------------------
 

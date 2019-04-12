@@ -1,0 +1,495 @@
+province_code,candidate_name_eng,candidate_gender,candidate_id,province_name_eng
+1,Dr. Muhammad Yahya Weyar,Male,4892130,Kabul
+1,Sofi Muhammad Sharif Mujahed,Male,5765329,Kabul
+1,Sayed Muhammad Gulabzoy,Male,9166513,Kabul
+1,Muhammad Zia Yari,Male,3466622,Kabul
+1, Muhammad Jawad Bazil,Male,7835492,Kabul
+1,Abdul Mateen Muhammad Khil,Male,996195,Kabul
+1,Saranwal Muhammad Shakir Baryal,Male,5765371,Kabul
+1,Noor Ahmad Chardhiwal,Male,990359,Kabul
+1,Alhaj Malik Taaj Muhammad,Male,990384,Kabul
+1,Sayed Yaqoob Hushmand Fararudi,Male,3466659,Kabul
+1,Alhaj Dr. Najeebullah Babakar Khill,Male,996229,Kabul
+1, Jawad Neyosh,Male,3768441,Kabul
+1,Dr. Shala Rashed,Female,5765414,Kabul
+1,Alhaj Sardar Muhammad Waqibeen,Male,5765397,Kabul
+1, Sayed Obaid,Male,3466675,Kabul
+1,Zarghoona Bakhsi,Female,5301671,Kabul
+1, Ahmad Fahim Nabiyar,Male,3680628,Kabul
+1, Alhaj Abdul Maroof Zia,Male,5188309,Kabul
+1,Eng. Mula Gul Ahmadzai,Male,7408159,Kabul
+1,Humaira Muhammadi,Female,5749744,Kabul
+1,Hajji Sayed Mahmood Mukhlis,Male,939974,Kabul
+1, Sayed Abdullah,Male,988772,Kabul
+1,Hasan,Male,,Kabul
+1, Hakim,Male,3466693,Kabul
+1,Sayed Muhammad Jawali,Male,5308404,Kabul
+1,Ali Raza Mahmoodi,Male,3906633,Kabul
+1, Dr. Abdul Khalil Khakzad,Male,1017429,Kabul
+1, Afifa Shams,Female,6371308,Kabul
+1, Sayed Enayatullah Hufyani,Male,3466613,Kabul
+2, Masuda Ghafari,Female,5794615,Kapisa
+2,Ghulam Darwish Sanjni,Male,5794610,Kapisa
+2,Muhammad Mustafa Yasa,Male,2893485,Kapisa
+2, Hajji Muhammad Tahir Safi,Male,2864462,Kapisa
+2,Abdul Wahab Askenwal,Male,5794607,Kapisa
+3,Samiah Azizi Sadat,Female,2504925,Parwan
+3,Muhammad Yaqub A.K.A Hajji Khan Padshah,Male,3618900,Parwan
+3,Muhammad Nazir Kargar,Male,2254002,Parwan
+3,Zainab Haibat,Female,593069,Parwan
+3,Alhaj Maulawi Rahmatullah Hanafi,Male,10692813,Parwan
+3, Roshna Khalid,Female,484040,Parwan
+3, Maulawi Lal Muhammad,Male,6913001,Parwan
+3,Muhammad Afzal Afzali,Male,5947103,Parwan
+4,Hajji Mohammad Asif Mahdiyar,Male,6414770,Wardak
+4,Mohammad Dawood Husaini,Male,1515013,Wardak
+4, Dr. Mohammad Ibrahim Karimi,Male,2918784,Wardak
+4,General Zalmai Wardak,Male,1515017,Wardak
+4,Ustad Mohammad Anwar Maidanwall,Male,1515015,Wardak
+5,Eng. Abdul Latif Ahmadzai,Male,990147,Logar
+5, Alhaj Noor Rahman Jazib,Male,5613959,Logar
+5,Eng. Asadullah Falah,Male,14139841,Logar
+5,Ghulam Yahya Lashkar,Male,639759,Logar
+6,Dr. Abdul Ahmad Zahidi Nai Qalah,Male,4820452,Ghazni
+6,Alhaj Allah Nazar Zeiayee,Male,13038521,Ghazni
+6,Kubra Sadat Ghaznawi,Female,2451078,Ghazni
+6,Khalida Ghaznawi,Female,2701411,Ghazni
+6, Amir Muhammad Daftani Amir Harakat,Male,8948608,Ghazni
+6,Alhaj Dr. Muhammad Ghani Bahaduri,Male,3248044,Ghazni
+6,Ustad Noori,Male,9032594,Ghazni
+7,Muhammad Nasir Khaliqyar,Male,5280150,Paktika
+7,Nadir Khan Suliman Khil,Male,3086953,Paktika
+8, Shah Wali Mangal,Male,7787021,Paktia
+8,Omar Gul Muqbil,Male,5169826,Paktia
+8,Ustad Muhammad Javid Joshan,Male,5601243,Paktia
+8,Noor Muhammad Hikmat,Male,5169806,Paktia
+8, Mirza Khan Mangal,Male,5211732,Paktia
+8, Mudir Muhammad Ullah Abid Mangal,Male,8208752,Paktia
+8, Hajji Amanullah Zurmati,Male,5169808,Paktia
+8,Military Expert  Colonel Muhammad Gul Miranay,Male,8660355,Paktia
+8,Qazi Ghulam Nabi,Male,5604738,Paktia
+8,Juma Noor,Male,3588395,Paktia
+8,Zyarat Khan Ghafoorzai,Male,101670360,Paktia
+8,Semen Akbari,Female,5199601,Paktia
+9,Fida Muhammad Dagarwal,Male,6808811,Khost
+9,Muhammad Yusuf Shah,Male,5006794,Khost
+9,Dr. Malalai Wali,Female,7023610,Khost
+9,Hajji Noor Wali Jan,Male,7023624,Khost
+9, Ustad Abdullah,Male,7023603,Khost
+9,Hajji Muhammad Amin Wahidyar,Male,5029089,Khost
+9,Alhaj Maulawi Sardar Zadran,Male,4283506,Khost
+9,Alhaj Qad Alam Miakhil,Male,5006779,Khost
+9,Shafa Gull Angar,Male,7647079,Khost
+9,Zarghuna,Female,7023626,Khost
+9, Dr. Muhammad Arif,Male,5111976,Khost
+9, Ghafar Muhammad,Male,9166508,Khost
+9,Hajji Khan Zaman Sabarai,Male,7023620,Khost
+9, Maulawi Sayed Said,Male,7023614,Khost
+10, Dr. Farooq Miranai,Male,6413016,Nangerhar
+10,Dr. Mahbubullah Shenwari,Male,4327734,Nangerhar
+10, Jawed Omari,Male,5508242,Nangerhar
+10,Najeba Sapai,Female,1329001,Nangerhar
+10,Sayed Hakem Pacha Muhammadi Pacah,Male,4341450,Nangerhar
+10, Rana Qadiri,Female,1145213,Nangerhar
+10, Woloswal Said Agha Sherzad,Male,1571997,Nangerhar
+10,Hassan Khil Amar Khil,Male,8913426,Nangerhar
+10,Nadira Wali Sajid,Female,3997757,Nangerhar
+10,Atta Muhammad Nijat,Male,8858301,Nangerhar
+10,Ahmadullah Fayaz,Male,7771232,Nangerhar
+10,Dr. Shah Bibi Saiedi,Female,7462502,Nangerhar
+10,Dr. Sayed Rahem Arab,Male,1419485,Nangerhar
+10,Sayed Bilal Ahmad Fatimi,Male,6495805,Nangerhar
+10,Alhaj Mamor  Mohammad Esa Omar,Male,12636179,Nangerhar
+10,Muhammad Akbar,Male,8913411,Nangerhar
+10,Muhammad Nasir Ahmadzai,Male,4982515,Nangerhar
+10, Simeen Ahmadzai,Female,8913445,Nangerhar
+10,Suhaila Bahar,Female,8913416,Nangerhar
+10, Khaibar,Male,1347724,Nangerhar
+10, Hajji Gull dad Khan Shenwari,Male,8913452,Nangerhar
+10,Abdul Hadi Jalali,Male,8913429,Nangerhar
+10,Eng. Said Muzafar-u-din Stor,Male,7595590,Nangerhar
+10,Dr. Tajwar Khan Nasiri,Male,1347412,Nangerhar
+10,Asadullah Hasar Shahiwal,Male,8678605,Nangerhar
+11,Hajji Rahim Dad,Male,5061102,Kunarha
+11,Eng. Sher Ali Khan,Male,5061109,Kunarha
+11,Eng. Gull Agha Hussaini Sahibzada,Male,55335,Kunarha
+12, Maulawi Sayed Rahman,Male,7732224,Laghman
+12,Alhaj Hafiz Ahmad Gullzad,Male,7732223,Laghman
+12,Abdul Wahid Mulla Farshghan,Male,8238890,Laghman
+12,Abdul Rashed Omar Khil,Male,7732221,Laghman
+12,Maulawi Abdul Halim Halimi,Male,7732212,Laghman
+12, Aseer-u-din Hotak,Male,102508749,Laghman
+12,Dr. Muhibullah Niazai,Male,4000316,Laghman
+12, Ghufranullah,Male,7732217,Laghman
+12,Eng. Muhammad Afzal Afzal Zada,Male,7732226,Laghman
+12, Shuialay Asadullah Saqib,Male,8594067,Laghman
+12, Dr. Zakia Qudrat Jalili,Female,7732207,Laghman
+12, Nematullah Rakazai,Male,3416766,Laghman
+12, Zabihullah Bahar Ghazi,Male,7732220,Laghman
+12,Maulawi Hayatullah  Hayat Furqani Pashayee,Male,7732213,Laghman
+12, Alhaj Maulawi Abdul Qahar Haqani,Male,2965261,Laghman
+12, Maulawi Wali Ahmad Buttshekan,Male,4342784,Laghman
+13,Abdul Raqib Mushtaq,Male,8337640,Nooristan
+13,Malik Muhammad Sabir,Male,101050508,Nooristan
+14,Abdul Shukor Waqif Hakemi,Male,2233840,Badakhshan
+14,Irangull Saihon,Female,2233810,Badakhshan
+14,Ustad Zulaikha Akbar Zada Yaftali,Female,2233806,Badakhshan
+14,Murshid Samaonwal  Munshi Hafizullah Habib Kofi,Male,9042050,Badakhshan
+14,Ustad Maliha Arzish,Female,2450650,Badakhshan
+14,Asal Muhammad Shakeri Badakhshani,Male,9042023,Badakhshan
+14,Muhammad Zahir Hatam,Male,9042001,Badakhshan
+14,Qudratullah Sharifi,Male,2233841,Badakhshan
+14, Gulshan Shamim Rasoli,Female,2547206,Badakhshan
+14, Dr. Maliha Aziz,Female,2233809,Badakhshan
+14, Rahila Nizam A.K.A Laila,Female,102998440,Badakhshan
+14,Dr. Ahmad Jawed Muhsin Zada,Male,2232520,Badakhshan
+14,Dawlat Muhammad Joshan,Male,2074033,Badakhshan
+14,Dr. Ghulam Rabani,Male,1841366,Badakhshan
+14,Abdul Bashir Haidari Pilot,Male,2233815,Badakhshan
+15, Qari Muhammad Hashim Haikal Zada,Male,1645261,Takhar
+15,Mirza Abdul Rahim,Male,2958419,Takhar
+15,Dr. Nasrullah Qazi Zada,Male,12300860,Takhar
+15,Eng. Abdul Hadi,Male,674739,Takhar
+15,Sayed Abdul Hadi Dabir,Male,2958415,Takhar
+15,Sayed Javid,Male,11535867,Takhar
+15, Muhammad Qaied Afandi,Male,2958421,Takhar
+15, Sayed Habib ‐ur‐ Rahman,Male,2958402,Takhar
+15,Sayed Qutb-u-Din Sayed,Male,525313,Takhar
+15,Mawlana Haseeb,Male,2958408,Takhar
+15,Shararah Aman,Female,1946735,Takhar
+15,Murshid Agha,Male,13539285,Takhar
+15,Muhammad Ishaq Farjad,Male,2958409,Takhar
+15, Muhammad Akbar Anwari,Male,2958423,Takhar
+15, Dr. Muhammad Yusuf Osmani,Male,287780,Takhar
+16,Eng. Muhammad Asim,Male,6984238,Baghlan
+16,Agha Mir Ghafoori,Male,6984248,Baghlan
+16,Maulawi Abdul Haq Muzhari,Male,8805609,Baghlan
+16,Enayatullah Watanyar,Male,8344576,Baghlan
+16,Alhaj Abd‐ur‐ Rahman Shafaq,Male,7374596,Baghlan
+16,Hajji Javid Ahmad,Male,8331925,Baghlan
+16,Hafizullah Sulaiman Khil,Male,6984211,Baghlan
+16,Malek Ahmad Nikzad,Male,260953,Baghlan
+16,Mahbooba Andarabi,Female,6984233,Baghlan
+16,Abd‐ur‐ Rehman Hakimzadah,Male,11336231,Baghlan
+16,Asadullah Kohzad,Male,8300446,Baghlan
+16,Maulawi Muhammad Zia Rohani,Male,249839,Baghlan
+16,Hajji Abdul Wahab,Male,7557536,Baghlan
+16,Maulawi Shah Mahmood,Male,8674726,Baghlan
+16,Abdullah Seddiqi,Male,7420692,Baghlan
+16,Rahmatullah Wahidi,Male,6984246,Baghlan
+16,Maulawi Abdul Shukoor,Male,8306409,Baghlan
+16,Pahlawan Yahya,Male,6984239,Baghlan
+16,Muhammad Noor Noori,Male,102766223,Baghlan
+16,Alhaj Muhammad Alam Aymaq,Male,6984317,Baghlan
+16,Eng. Zalmay Zaheer,Male,2801887,Baghlan
+16,Seddiqa A.K.A Zohra,Female,12265956,Baghlan
+16,Ustad Naqibullah Qanaa,Male,7112559,Baghlan
+16,Abdul Fatah Danishfar,Male,7107492,Baghlan
+16,Alhaj Muhammad  Zahir Nazarzai Shinwari,Male,8301404,Baghlan
+16,Ustad Muhammad Noor Shirzad,Male,2164819,Baghlan
+16,Hajji Muhammad Akbar Barikzai,Male,3503446,Baghlan
+16,Abdul Gheyas Barati,Male,8716274,Baghlan
+16,Khalil ‐ur‐ Rahman Azizi,Male,4140409,Baghlan
+16,Malim Amar ‐ud‐ Din Khairi,Male,2040134,Baghlan
+16,Nadira Nahrain Wal Kohdamani,Female,319599,Baghlan
+16,Noor Muhammad Nikkhwa,Male,8309011,Baghlan
+16,Ghulam Sarwar Hubab,Male,6984250,Baghlan
+16,Sayed Hasam ‐ud‐ Din Haq Been,Male,12242639,Baghlan
+17, Malim Chahari,Male,1850042,Kunduz
+17,Dr. Fatima Aziz,Female,8352210,Kunduz
+17, Eng. Muhammad Omar,Male,8352229,Kunduz
+17, Abdul Ghafar Sadid,Male,755632,Kunduz
+17, Hajji Shir Muhammad Arab,Male,6866696,Kunduz
+17, Amanullah Zahiri,Male,2037648,Kunduz
+17,Alhaj Abdul Momin Omar Khil,Male,149553,Kunduz
+17, Eng. Yaseen Abdali,Male,8352221,Kunduz
+17,Ghulam Qadir Rahimi,Male,8380916,Kunduz
+17,Abdul Razaq Qaram Qull,Male,7413632,Kunduz
+17, Hajji Malik Muhammad Zakhil,Male,4436621,Kunduz
+17,Dr. Zelgai Nizam,Male,4100592,Kunduz
+17, Muhammad Jamal Bajawri,Male,5611202,Kunduz
+17,Dr. Habiba Arfan,Female,3956033,Kunduz
+17, Alhaj Rahim ‐ud‐ Din Tayeb,Male,8352228,Kunduz
+17, Ustad Sadat,Male,14312945,Kunduz
+17,Hajji Abdul Hamid Aymaq,Male,8352204,Kunduz
+17,Rahila Sarwari,Female,12520623,Kunduz
+17,Najeebullah Nabeel,Male,3151411,Kunduz
+17, Habib Ahmad Fazal,Male,8352217,Kunduz
+17,Ghulam Rasool Alizada,Male,3159466,Kunduz
+17, Maulawi Rahman Nahwi,Male,301816,Kunduz
+17, Sardar Ahmad Shah,Male,8352220,Kunduz
+17,Alhaj Qari Islam Mujahid,Male,8352206,Kunduz
+17, Hajji Abdul Jameel Samadi,Male,3596716,Kunduz
+17,Dr. Abdullah Shikib,Male,8352230,Kunduz
+17,Eng. Ajmal Khan Hotak,Male,7183933,Kunduz
+17,Hajji Sayed Mukhtar Agha Sadat Sabiri,Male,2031060,Kunduz
+17, Bashir Ahmad Khan Kunduzwal,Male,102734879,Kunduz
+17,Khuwaja Shireen,Male,428258,Kunduz
+18,Qari Abdul Mateen Amin,Male,4615493,Samangan
+18,Hajji Abdu Qadem Haji Khadim,Male,1707579,Samangan
+18,Abdul Momin Tolo,Male,5798706,Samangan
+18,Zia Gull Nasiri,Female,5798714,Samangan
+18,Dr. Karam-u-din Wakil Zada,Male,1813532,Samangan
+18,Feroz Khan Mubariz,Male,5798718,Samangan
+18,Hajji Abdul Aziz Abdul Hakeem Karem,Male,12918523,Samangan
+19,Gul Rahman Hamdard,Male,4059705,Balkh
+19,Ahmad Naveed Barat,Male,4059704,Balkh
+19,Muhsin Jan Agha,Male,6598180,Balkh
+19,Abdul Qudoos Qataa,Male,4119178,Balkh
+19,Qari Abdul Hamid Hamid,Male,9797970,Balkh
+19,Hajji Abdul Rasool Talash,Male,449994,Balkh
+19, Hajji Muhammad Akbar,Male,1901003,Balkh
+19,Dr. Muhammad Kazem,Male,4502648,Balkh
+19, Qamar Aishchi,Female,7192137,Balkh
+19, Ali Hussain Khalili,Male,9765683,Balkh
+19,Ghulam Ali Paykar Zada,Male,716729,Balkh
+19, Raees Amanullah Amin Tor Janzada,Male,4059728,Balkh
+19, Zaib ‐un‐ Nisa,Female,4356034,Balkh
+19, Dr. Abdul Hakeem Safi,Male,9755177,Balkh
+19,Ustad Kamila Rawoofi,Female,2783508,Balkh
+19,Israr Tashqurghani,Male,4059706,Balkh
+19,Eng. Ghulam Rabani Kargar,Male,4059727,Balkh
+19,Eng. Muhammad Essa,Male,9701919,Balkh
+19, Sayed Jabar Agha,Male,4059720,Balkh
+19,Dr. Rahim Gul Ibrahim Khil,Male,4059709,Balkh
+20, Hajji Abdul Qadir,Male,2138097,Juzjan
+20,Masuda Omari,Female,514951,Juzjan
+20,Hajji Said Abdul Qayum,Male,13631081,Juzjan
+20, Said Hamid Beg Jan Zada,Male,1827066,Juzjan
+20,Maghfirat Samimi,Female,5349817,Juzjan
+20,Eng. Turialay Esar,Male,6550818,Juzjan
+20,Dr. Kawsar Baburi,Male,6550820,Juzjan
+20,Torsun Sansizai,Male,6535546,Juzjan
+20,Abdul Salam Saljuqi,Male,6550803,Juzjan
+20,Muhammad Ayub Muwafaq,Male,6546242,Juzjan
+20,Qazi Abdul Majed Ahrari,Male,6512071,Juzjan
+20,Muhammad Irshad Bay,Male,5454511,Juzjan
+21,Dr. Amar ‐ud‐ Din,Male,1465715,Sar-i-Pul
+21,Malim Shahab ‐ud‐ Din,Male,9856057,Sar-i-Pul
+21,Kifayatullah Samadi,Male,1779155,Sar-i-Pul
+21,Masooma Mirzayee,Female,327089,Sar-i-Pul
+21,Muhammad Dawood Khan Sayad,Male,8997314,Sar-i-Pul
+21,Diploma Eng. Alhaj Sayed Muhibullah Gailani,Male,507305,Sar-i-Pul
+21,Hajji Mahbooba Sadiq,Female,327004,Sar-i-Pul
+21,Saraj ‐ud‐ Din Qitmis,Male,8997301,Sar-i-Pul
+21,Hajji Abdul Ghafar,Male,1475566,Sar-i-Pul
+21,Sayed Ghulam Hussain Balkhabi,Male,13874583,Sar-i-Pul
+21,Alhaj Qari Abdul Manan,Male,1508673,Sar-i-Pul
+21,Jamila Sharifi,Female,1712060,Sar-i-Pul
+21,Ustad Jafari,Male,8997304,Sar-i-Pul
+21,Sayed Muhammad Hashimi,Male,8997313,Sar-i-Pul
+22,Eng. Muhammad Hashim Awartaq,Male,1779209,Faryab
+22,Alhaj Said Salahuddin Sadat,Male,10233649,Faryab
+22,Hajji Muhammad Aziz Hamraz,Male,11582504,Faryab
+22, Eng. Abdul Rahman Afghan,Male,8761362,Faryab
+22, Noorullah Musib,Male,2141208,Faryab
+22,Said Zain-u-din Abidi,Male,11582552,Faryab
+22,Rangina Kargar,Female,8063801,Faryab
+22,Abdul Manan,Male,5794923,Faryab
+22,Asifa Shadab,Female,5794919,Faryab
+22,Hajji Abid Nazar,Male,579412,Faryab
+22, Karima Baihaqi,Female,7829886,Faryab
+22,Lall Muhammad Joya,Male,6714523,Faryab
+22,Jawed Khan,Male,5794915,Faryab
+22,Dr. Sayed Sadrudin Makhdum,Male,5794905,Faryab
+22,Muhammad Nawed Saied,Male,276121,Faryab
+22,Hajji Dr. Abdul Satar,Male,11582502,Faryab
+22, Dagarwal Abdullah,Male,7325007,Faryab
+22,Ustad Abdullah Sharar,Male,394740,Faryab
+22,Gull Ahmad Rezaye,Male,4430005,Faryab
+22,Ghaibullah Dastyar,Male,291829,Faryab
+22,Salima Kamal-u-din,Female,347502,Faryab
+22, Fahima Nairo,Female,7902051,Faryab
+22,Abdul Qadir Rahin Kakar,Male,5794922,Faryab
+22,Maulana Abdul Qadir Amami,Male,5794901,Faryab
+22, Dr. Azizullah Kohistani,Male,2780104,Faryab
+22,Khal Nazar,Male,5794910,Faryab
+22,Hajji Abdul Hakim Shirzad,Male,5794911,Faryab
+22,Hajji Qudratullah,Male,1824178,Faryab
+22,Sayed Abdullah Habibi,Male,8758999,Faryab
+23,Muhammad Yaqub Shams,Male,6199147,Badghis
+23,Dr. Zabihullah Hakemi,Male,1307463,Badghis
+23, Sayed Abdul Karim Nasrat,Male,6201026,Badghis
+23,Amir Muhammad,Male,7907498,Badghis
+23,Hajji Mualim Ghulam Sakhi,Male,210401,Badghis
+23, Muhammad Zahir Shah Asmat,Male,8949309,Badghis
+23,Hajji Muhammad Aziz Omarzai,Male,200072,Badghis
+23,Dr. Abdul Baqi Zhubal,Male,6964160,Badghis
+23,Mullah Malang,Male,4138006,Badghis
+23,Alhaj Qari Duwlat Muhammad Usmani,Male,1931259,Badghis
+23, Arbab Esa Khan Zamanzai,Male,5224104,Badghis
+23, Habibullah Milatyar,Male,210405,Badghis
+23,Dr. Muazam Seddiqi,Male,1921569,Badghis
+23,Alhaj Maulawi Muhammad Asif Ghareeb Yar,Male,1034752,Badghis
+24,Alhaj Wakel Zaren Zaren,Male,7439051,Herat
+24,Muhammad Ibrahim Furuzish,Male,5221150,Herat
+24,Hajji Abdullah Baghdashti,Male,10606723,Herat
+24,Abdullah Zarefi,Male,3581307,Herat
+24,Multan Khan Noorzai,Male,3581312,Herat
+24,Maulawi Abdul Ghani,Male,100130013,Herat
+24,Sharifa Shuhab,Female,6308071,Herat
+24,Shams-u-din Homayoon Gharzai,Male,3581327,Herat
+24,Nisar Ahmad Nadiri,Male,3581303,Herat
+24,Hajji Muhammad Mushfiq,Male,3581310,Herat
+24,Hajji Muhammad Ibrahim Kushki,Male,6344079,Herat
+24,Wazir Ahmad Arsali,Male,3581329,Herat
+24,Hajji Mualim Ghulam Rasol Burhani,Male,10717576,Herat
+24,Muhammad Haroon Fushanji,Male,3581332,Herat
+24,Colonel Muhammad Israel,Male,10658523,Herat
+24,Dr. Noorullah Rashid Tahiri,Male,11515788,Herat
+24,Faiz Ahmad Noorzai,Male,7956370,Herat
+24,Habibullah Habib,Male,5224386,Herat
+24,Dr. Najeebullah,Male,8164980,Herat
+24,Abdul Ghani Rahmani Wardak,Male,3581302,Herat
+24,Qeida Afif Tawaien,Female,5305083,Herat
+24,Dr. Aziz Ahamd,Male,3581325,Herat
+24,Parween Shamsi,Female,7938049,Herat
+24,Tahira Omar,Female,5245202,Herat
+24,Nadia Salih,Female,52455076,Herat
+24,Alhaj Sayed Sarwar Muhsini,Male,10612567,Herat
+24,Farzana Ahmadi,Female,7301701,Herat
+24,Sayed Abas Rustami,Male,5221451,Herat
+24,Muhammad Rafi Malikzai,Male,3788194,Herat
+24,Safiullah Mujadidi,Male,10624233,Herat
+24,Ghulam Sakhi Afsari,Male,7293377,Herat
+24,Tahira Sajadi,Female,10745901,Herat
+24,Maulawi Lal Muhammad Temori,Male,3581304,Herat
+24,Ghulam Mahbub Talash,Male,5236132,Herat
+24,Wakel Sayed Muhammad Rafiq Nadem,Male,10602013,Herat
+24,Baser Khan,Male,3169528,Herat
+24,Fauzia Gilani,Female,3581337,Herat
+24,Khangull Muhammadi,Male,5350896,Herat
+24,Hajeya Shamaiel Azizi,Female,3581313,Herat
+24,Ghulam Haidar Sarwari,Male,10647025,Herat
+24,Dr. Sayed Maroof Qazi Zada Ansari,Male,10718544,Herat
+24,Fatima Istanikzai Baloch,Female,10713799,Herat
+24,Muhammad Nasir Ahmad Yan,Male,10641972,Herat
+24,Abdul Baser,Male,7939880,Herat
+24,Hajji Fakhari,Male,10631180,Herat
+24,Afzal Shah Door Andish,Male,10643009,Herat
+24,Abdul Manan,Male,3565695,Herat
+24,Hajji Muhammad Halim Taraki,Male,10687553,Herat
+25, Hajji Dastgir,Male,6959871,Farah
+25,Alhaj Asadullah Shirzad,Male,6984801,Farah
+25, Eng. Ahmad Shah Yad Farahi,Male,11632418,Farah
+25,Hajji Abdul Wahid,Male,5789914,Farah
+25,Zubida,Female,5733477,Farah
+25,Keshwar Shaiq Sarwari,Female,5791505,Farah
+25, Muhammad Hashim Majbur,Male,6984704,Farah
+25,Hayatullah,Male,698408,Farah
+26,Ghulam Muhayddin Sajastani,Male,4320501,Nimroz
+27,Abdul Jabar,Male,5798809,Helmand
+27,Nasima Niazai,Female,13470115,Helmand
+27,Hajji Wali Jan Sabiri,Male,3269129,Helmand
+27,Hajji Abdul Hameed,Male,5689315,Helmand
+27, Said Abdul Qadir Gailani,Male,2630506,Helmand
+27, Shadi Khan Showonkai,Male,7368632,Helmand
+27,Hajji Ghulam Muhammad Ishaqzai,Male,9388591,Helmand
+27, Habiba Sadat,Female,5798803,Helmand
+27,Hajji Mahbub Khan Garamser,Male,5798902,Helmand
+27, Eng. Muhammad Dawoud Farhang,Male,13763717,Helmand
+27,Hajji Abdul Satar Dawari,Male,5605023,Helmand
+27, Hajji Shah Mahmud Mir,Male,6122096,Helmand
+27, Muhammad Hassan,Male,7196388,Helmand
+27,Hajji Abdul Wahid Helmandwal,Male,8169705,Helmand
+27,Abdul Rahaman Baloch,Male,7196826,Helmand
+27,Reza Gull,Female,2630505,Helmand
+27, Hajji Abdul Ali Sarwari,Male,7062828,Helmand
+27,Hajji Taj Muhammad Popal,Male,7095094,Helmand
+27,Hajji Abdul Hakim Wadan,Male,6420337,Helmand
+27,Abdul Baqi Bariz,Male,13782454,Helmand
+27,Shah Wali Khan Zamin Dawari,Male,5689249,Helmand
+27, Momina Sultani,Female,5891153,Helmand
+27,Abdul Baqi Sangar,Male,11870907,Helmand
+27,Fatima,Female,5798807,Helmand
+27,Wakel Abdul Ahad Khan,Male,5913487,Helmand
+27,Hajji Gull Mohammad,Male,7533130,Helmand
+27,Hajji Muhammad Sadiq Aryubi,Male,5798810,Helmand
+27,Alhaj Muhammad Salim Rudi,Male,6105005,Helmand
+27,Hajji Mahboob Shah,Male,9020628,Helmand
+27,Hajji Ghulam Hassan,Male,9310458,Helmand
+27, Hajji Said Agha Noor,Male,5447870,Helmand
+28,Obaidullah Achakzai,Male,7079648,Kandahar
+28,Fariba Ahmadi Kakar,Female,5768603,Kandahar
+28,Hajji Mahmood,Male,8146249,Kandahar
+28,Ahmad Wali Achakzai,Male,5683309,Kandahar
+28,Hajji Muhammad Barikaie,Male,5699180,Kandahar
+28, Hajji Ibrahim Muslim,Male,5768608,Kandahar
+28, Abdul Khaliq Noorzai,Male,7060172,Kandahar
+28,Shakiba Hashimi,Female,6496945,Kandahar
+28, Ruqia Achakzai,Female,5768604,Kandahar
+28, Hajji Faiz ‐ul‐ Haq Mushkani,Male,8675337,Kandahar
+28, Rana Tareen,Female,5768612,Kandahar
+28,Mullah Masood,Male,4529244,Kandahar
+28,Hajji Muhammad Shah Achakzai,Male,4542710,Kandahar
+28,Fahima Kakar,Female,5768606,Kandahar
+28, Hajji Mamoor Abdul Qadir Sharifi,Male,7315413,Kandahar
+28,Muhammad Ismail Khan Majroh,Male,2379858,Kandahar
+28,Najeebullah Achakzai,Male,5768607,Kandahar
+28,Ahmad Jan Nazari,Male,5768611,Kandahar
+28,Samin Gul Seray,Female,7254499,Kandahar
+28,Hajji Ezatullah Azizi Noorzai,Male,6946685,Kandahar
+28,Hajeyanai Nafisa Tukhi,Female,7252093,Kandahar
+28,Qahir Khan,Male,7310873,Kandahar
+28,Muhammad Omar Shirzad,Male,5201810,Kandahar
+28, Niaz Muhammad Hajji Amir Lalay,Male,5767605,Kandahar
+29,Abdul Qadir Qalatwal,Male,6998194,Zabul
+29,Khan Rabani Khan,Male,8948805,Zabul
+29,Dr. Gullnar Muslih Rashidi,Female,102888044,Zabul
+29,Timor Shah Khan,Male,3410638,Zabul
+29,Fauzia Yunusi Kakar,Female,6789505,Zabul
+29,Hajji Muhammad Ismail Zabuli,Male,3411775,Zabul
+30,Muhammad Hashim,Male,5794704,Urozgan
+30, Muhammad Hanif,Male,7060012,Urozgan
+30,Hajji Esmatullah Faiz,Male,7731121,Urozgan
+30, Muhammad Karim,Male,4310955,Urozgan
+30,Hajji Naqebullah Erfani ,Male,7207066,Urozgan
+30, Hajji Muhammad Lall,Male,9159512,Urozgan
+30,Raihana Azad,Female,5794705,Urozgan
+30,Malika Barikzai,Female,5794707,Urozgan
+30, Abdullah Salihi,Male,8670594,Urozgan
+30, Anis Gull Amini,Female,4208235,Urozgan
+30,Muhammad Arif Arifi,Male,4554116,Urozgan
+30,Muhibullah Zahid,Male,5794702,Urozgan
+30,Asadullah Mustafa,Male,7739182,Urozgan
+31, Fazal Ahmad,Male,13574996,Ghor
+31,Hajji Khuda Bakhsh Katib,Male,2293010,Ghor
+31,Alhaj Khateeb Shams ‐ud‐ Din,Male,5884076,Ghor
+31,Sayed Baqir Sajadi,Male,2293021,Ghor
+31,Rajab Ali Danish Lalli,Male,2293023,Ghor
+31, Dr. Sara,Female,9366572,Ghor
+31, Ustad Muhammad Qasim Shabnam,Male,2306074,Ghor
+31,Jamila Amami,Female,2293015,Ghor
+31,Abdul Ghafoor Rezwani,Male,8839042,Ghor
+31,Maulawi Noor Mohammad,Male,2293022,Ghor
+31,Nadir Ahsani,Male,101265267,Ghor
+32, Said Yusuf Mubariz,Male,5795002,Bamyan
+32, Muhammad Jawad Asghari,Male,5795001,Bamyan
+32,Sayed Muhammad Amin Arif,Male,5517199,Bamyan
+32,Rezaee Hussaini,Female,101571256,Bamyan
+32, Mustufi Zulmai,Male,1304417,Bamyan
+32,Hussain Madani,Male,5795017,Bamyan
+32, Ahmad Omid,Male,5795013,Bamyan
+32, Shaikh Hassan Jan Ahmadi,Male,5795016,Bamyan
+32,Asadullah Mukhlis,Male,5463006,Bamyan
+32,Ustad Noor Shah Shahkar,Male,5463029,Bamyan
+32,Muhammad Tahir Muhammadi,Male,5795006,Bamyan
+32,Sher Muhammad Mauj,Male,1464901,Bamyan
+32, Muhammad Kazem Hassani Bamiak,Male,5795003,Bamyan
+32,Sultan Aziz Qurbani,Male,50289,Bamyan
+32,Bismillah Amiri,Male,42267,Bamyan
+32, Maulawi Kamal-u-din Hamid,Male,5795005,Bamyan
+32,Zabihullah,Male,1557838,Bamyan
+32,Hajji Shaikh  Muhammad Baqir Natiqi,Male,2779587,Bamyan
+32,Khuda Dad Bayani,Male,5795010,Bamyan
+32, Muhammad Reza Danish,Male,5463027,Bamyan
+32,Dr. Muhammad Akaram,Male,1643130,Bamyan
+32,Sayed Zareef Rahmani,Male,5795011,Bamyan
+33,Alhaj Maulawi Enayatullah Sharifi,Male,295901,Panjshir
+33,Ustad Ghulam Ali Amin,Male,1146752,Panjshir
+34,Sayed Abdul Hakim Natiqi,Male,100770730,Daikondi
+34,Dr. Abdul Kareem Roshan,Male,5845382,Daikondi
+34, Ghulam Yahya Akhlaqi,Male,2958218,Daikondi
+34,Din Muhammad Hakimi,Male,1462625,Daikondi
+34,Muhammad Ibrhim Fidayi Shikhali,Male,376745,Daikondi
+34,Zamin Poya,Male,2958221,Daikondi
