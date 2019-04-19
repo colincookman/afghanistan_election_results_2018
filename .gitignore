@@ -33,3 +33,5 @@ raw/candidate_codebook.gsheet
 raw/still_missing_biodata.gsheet
 raw/still_missing_candidate_code.gsheet
 raw/party_names.gsheet
+data/district_data/District_Lookup_Sheet - District Lookup Tool.csv
+data/past_elections/wj_2010/raw/still_missing.csv
