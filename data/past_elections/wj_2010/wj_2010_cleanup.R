@@ -2,6 +2,7 @@ library(XML)
 library(pdftools)
 library(readr)
 library(tidyverse)
+library(zoo)
 library(lubridate)
 library(stringr)
 library(ggrepel)
@@ -297,7 +298,9 @@ kuchi_candidate_metadata <- kuchi_candidate_metadata %>%
   dplyr::select(electorate, province_code, candidate_code, ballot_position, candidate_name_eng, incumbent, candidate_gender, prelim_winner, final_winner)
 
 combined <- full_join(all_candidate_vote_metadata, kuchi_candidate_metadata)
-write.csv(combined, "./data/keyfiles/candidate_key_2010.csv", row.names = F)
+combined$candidate_name_eng <- trimws(combined$candidate_name_eng)
+combined$candidate_name_dari <- trimws(combined$candidate_name_dari)
+write.csv(candidate_key, "./data/keyfiles/candidate_key_2010.csv", row.names = F)
 
 # get candidate names in Dari from IEC ---------------------------------------------
 
@@ -417,11 +420,45 @@ all_candidate_dari_names$province_code <- as.character(str_pad(all_candidate_dar
 
 all_candidate_dari_names <- all_candidate_dari_names %>% arrange(electorate, province_code, ballot_position)
 
+write.csv(all_candidate_dari_names, "./data/keyfiles/candidate_key_2010.csv", row.names = F)
+
+# also get Kuchi and Saranwal Bakshi prelim / final winner status
+
+# kuchi prelim <- http://www.iec.org.af/results_10/pdf/province/kuchiLead.pdf
+# kuchi final <- http://www.iec.org.af/results_10/pdf/Kuchi_winning.pdf
+# Saranwal not prelim or final winner
+
+candidate_key <- read.csv("./data/keyfiles/candidate_key_2010.csv", stringsAsFactors = F)
+candidate_key$prelim_winner[candidate_key$candidate_code == "3664609"] <- "No"
+candidate_key$final_winner[candidate_key$candidate_code == "3664609"] <- "No"
+candidate_key$incumbent[candidate_key$candidate_code == "3664609"] <- "No"
+candidate_key$candidate_gender[candidate_key$candidate_code == "5765426"] <- "Female"
+
+kuchi_prelim_winners <- c(39, 17, 48, 49, 13, 29, 45, 38, 26, 46)
+kuchi_final_winners <- c(13, 15, 17, 23, 28, 29, 39, 45, 48, 49)
+
+candidate_key$prelim_winner[candidate_key$electorate == "Kuchi"] <- ifelse(candidate_key$ballot_position %in% kuchi_prelim_winners, "Yes", "No")
+candidate_key$final_winner[candidate_key$electorate == "Kuchi"] <- ifelse(candidate_key$ballot_position %in% kuchi_final_winners, "Yes", "No")
+
+# kuchi incumbent check against 2005 results - checked against NDI database and 2005 results fuzzy name check
+incumbent_kuchis <- c(38, 48, 6, 46, 51, 19, 23, 39)
+candidate_key$incumbent[candidate_key$electorate == "Kuchi"] <- ifelse(candidate_key$ballot_position %in% incumbent_kuchis, "Yes", "No")
+
+candidate_key <- candidate_key %>% arrange(electorate, province_code, ballot_position)
+candidate_key$candidate_name_eng <- trimws(candidate_key$candidate_name_eng)
+
+write.csv(candidate_key, "./data/keyfiles/candidate_key_2010.csv", row.names = F)
+
 # get party affiliations from IEC / DI candidate lists --------------------
-# also get Kuchi and Saranwal Bakshi prelim / final winner status and incumbency if possible
 
 
-# combined and write final candidate data csv
+winners_only <- candidate_key %>% filter(prelim_winner == "Yes" | final_winner == "Yes")
+winners_only <- left_join(winners_only, province_key)
+winners_only$province_code_2018 <- as.character(str_pad(winners_only$province_code_2018, 2, pad = "0", side = "left"))
+winners_only <- dplyr::select(winners_only, -c(general_seats, female_seats, province_name_dari, province_name_pashto)) %>% arrange(
+  province_name_eng, candidate_name_eng
+)
+write.csv(winners_only, "./raw/winners_2010.csv", row.names = F)
 
 #-----------------------------------------------------------------------------------
 # PRELIM RESULTS -------------------------------------------------------------------
@@ -476,7 +513,7 @@ wj_2010_prelim <- dplyr::select(wj_2010_prelim, results_status, results_date, el
   arrange(province_code, pc_code, ps_code, ballot_position)
 
 # NOTE: AED ascribes the wrong candidate codes to Kuchi candidates in the results data, 
-# have to use ballot position identifiers instead and replace with corrected
+# have to use ballot position identifiers instead and replace with corrected codes
 
 kuchi_metadata <- candidate_key %>% filter(electorate == "Kuchi") %>% dplyr::select(-province_code, -candidate_gender)
 kuchi_votes <- wj_2010_prelim %>% filter(electorate == "Kuchi") %>% dplyr::select(-candidate_id, -voter_id)
@@ -499,30 +536,72 @@ wj_2010_prelim_with_metadata <- wj_2010_prelim_with_metadata %>% rename(
   ps_type = ps_station_type
 )
 
+# CREATE A PS - PC - PROVINCE REPORTING KEY
 
-# NEED TO DECIPHER WHAT INVALIDATED VOTES MEANS HERE
+wj_2010_prelim_reporting_ps <- wj_2010_prelim_with_metadata %>% 
+  dplyr::select(electorate, province_code, district_code, district_number, pc_code, pc_number, ps_code, ps_type) %>% unique() %>% 
+  mutate(prelim_reporting = "YES")
 
-# ADD PC NAME / KEYFILE DATA
+write.csv(wj_2010_prelim_reporting_ps, "./data/keyfiles/prelim_ps_reporting_key_2010.csv", row.names = F)
 
-# ADD ZERO VOTE COUNTS FOR PS THAT LEFT THOSE BLANK - CONFIRM NO PS DID PARTIAL 0 / BLANKS
+# ADD ZERO VOTE COUNTS FOR PS THAT LEFT THOSE BLANK
 
-wj_prelim_results_data <- wj_2010_prelim_with_metadata %>% dplyr::select(
-  results_date, results_status, electorate, province_code, province_name_eng, 
-  district_code, district_number, district_name_eng,
-  pc_code, pc_number, 
+general_ballot <- candidate_key %>% filter(electorate == "General") %>% dplyr::select(province_code, candidate_code, ballot_position)
+kuchi_ballot <- candidate_key %>% filter(electorate == "Kuchi") %>% dplyr::select(electorate, candidate_code, ballot_position)
+
+general_ps_ballots <- wj_2010_prelim_reporting_ps %>% filter(electorate == "General") %>% left_join(general_ballot)
+kuchi_ps_ballots <- wj_2010_prelim_reporting_ps %>% filter(electorate == "Kuchi") %>% left_join(kuchi_ballot)
+
+full_ballot_per_ps <- full_join(general_ps_ballots, kuchi_ps_ballots)
+full_ballot_per_ps$candidate_code <- as.character(full_ballot_per_ps$candidate_code)
+full_ballot_per_ps$ballot_position <- as.character(full_ballot_per_ps$ballot_position)
+full_ballot_per_ps$province_code <- as.character(str_pad(full_ballot_per_ps$province_code, 2, pad = "0", side = "left"))
+
+full_ballot_with_parents <- left_join(full_ballot_per_ps, wj_2010_prelim_reporting_ps)
+
+wj_2010_prelim_with_metadata$ballot_position <- as.character(wj_2010_prelim_with_metadata$ballot_position)
+wj_2010_prelim_just_votes <- wj_2010_prelim_with_metadata %>% dplyr::select(candidate_code, ps_code, votes)
+
+full_ballot_with_votes <- left_join(full_ballot_with_parents, wj_2010_prelim_just_votes)
+full_ballot_with_votes$votes[is.na(full_ballot_with_votes$votes)] <- 0
+
+candidate_key$candidate_code <- as.character(candidate_key$candidate_code)
+candidate_key$ballot_position <- as.character(candidate_key$ballot_position)
+full_ballot_with_votes <- full_ballot_with_votes %>% left_join(candidate_key)
+
+province_key <- read.csv("./data/keyfiles/province_key_2010.csv", stringsAsFactors = F)
+province_key$province_code <- as.character(str_pad(province_key$province_code, 2, pad = "0", side = "left"))
+
+wj_2010_prelim_all_data <- left_join(full_ballot_with_votes, province_key) %>% dplyr::select(-c(general_seats, female_seats, province_code_2018))
+wj_2010_prelim_all_data <- left_join(wj_2010_prelim_all_data, pc_key, by = "pc_code")
+wj_2010_prelim_all_data$results_status <- "PRELIMINARY"
+wj_2010_prelim_all_data$results_date <- mdy("10-20-2010")
+
+wj_2010_prelim_all_data <- wj_2010_prelim_all_data %>% rowwise() %>%
+  mutate(ps_number = str_split(ps_code, "-")[[1]][[2]])
+
+wj_2010_prelim_all_data$ballot_position <- as.numeric(wj_2010_prelim_all_data$ballot_position)
+
+wj_2010_prelim_all_data <- wj_2010_prelim_all_data %>% dplyr::select(
+  results_date, results_status, electorate, 
+  province_code, province_name_eng, province_name_dari, province_name_pashto,
+  district_code, district_number, district_name_eng, district_name_dari, provincial_capital,
+  pc_code, pc_number, pc_location, pc_location_dari,
   ps_code, ps_number, ps_type,
-  candidate_code, ballot_position, candidate_name_eng, 
-  candidate_party_id, incumbent, prelim_winner, final_winner,
-  votes #, votes_invalidated, invalidated ??
-)
+  candidate_code, ballot_position, candidate_name_eng, candidate_name_dari,
+  candidate_gender, incumbent, prelim_winner, final_winner,
+  votes
+) %>% arrange(province_code, district_code, pc_code, ps_code, ballot_position)
+
+# STILL NEED TO DECIPHER WHAT "INVALIDATED VOTES" MEANS - THINK THIS IS PS DATA, NOT CANDIDATE-SPECIFIC?
 
 # write csvs
 
-write.csv(wj_2010_prelim_with_metadata, "./data/prelim_af_candidate_ps_data_2010.csv", row.names = F)
+write.csv(wj_2010_prelim_all_data, "./data/prelim_af_candidate_ps_data_2010.csv", row.names = F)
 
-wj_2010_prelim_lite <- select(wj_2010_prelim, ps_code, candidate_code, votes, votes_invalidated) # ??
+wj_2010_prelim_lite <- dplyr::select(wj_2010_prelim_all_data, ps_code, candidate_code, votes)
   
-write.csv(wj_2010_final_lite, "prelim_af_candidate_ps_data_2010_lite.csv", row.names = F)
+write.csv(wj_2010_prelim_lite, "./data/prelim_af_candidate_ps_data_2010_lite.csv", row.names = F)
 
 # ----------------------------------------------------------------------------------
 # FINAL RESULTS --------------------------------------------------------------------
@@ -544,7 +623,7 @@ wj_2010_final$pc_code <- as.character(str_pad(wj_2010_final$pc_code, 7, pad = "0
 wj_2010_final$ps_open_status <- "YES"
 
 wj_2010_final <- select(wj_2010_final, province_code, province_name_eng, district_name_eng, district_name_dari,
-                        pc_code, pc_name_eng, pc_location, ps_number, ps_station_type, ps_open_status, 
+                        pc_code, pc_location, ps_number, ps_station_type, ps_open_status, 
                         candidate_id, voter_id, candidate_gender, candidate_name_dari, ballot_position, votes)
 
 wj_2010_final$results_status <- "FINAL"
@@ -559,27 +638,179 @@ wj_2010_final <- wj_2010_final %>% mutate(
   ps_code = paste(pc_code, ps_number, sep = "-")
 )
 
-# SEPARATE OUT KUCHI ELECTORATE -- KUCHI CANDIDATES ON GENERAL BALLOT?
-
-wj_2010_final <- select(wj_2010_final, results_status, results_date, province_code, province_name_eng, 
+wj_2010_final <- dplyr::select(wj_2010_final, results_status, results_date, province_code, province_name_eng, 
                         district_code, district_number, district_name_eng, district_name_dari,
-                        pc_code, pc_name_eng, pc_location, pc_number,
+                        pc_code, pc_location, pc_number,
                         ps_code, ps_number, ps_station_type, ps_open_status, 
                         candidate_id, voter_id, candidate_name_dari, ballot_position, candidate_gender, votes) %>%
   arrange(province_code, pc_code, ps_code, ballot_position)
 
+wj_2010_final$electorate <- "General"
+wj_2010_final$candidate_name_dari <- trimws(wj_2010_final$candidate_name_dari)
 
-# ADD FULL CANDIDATE AND PROVINCE/DISTRICT DATA
-# ADD WINNER STATUS
+# NOTE: AED omits Kuchi candidates from final results
+# have to pull directly from IEC site here http://www.iec.org.af/results_10/pdf/KuchiPollingStations.pdf
+# not easily parseable due to blank cells - use Tabula to convert instead
 
-write.csv(wj_2010_final, "final_af_candidate_ps_data_2010.csv", row.names = F)
+final_kuchi_votes <- read.csv("./raw/tabula-wj_2010_final_kuchi.csv", stringsAsFactors = F)
+colnames(final_kuchi_votes) <- c("identifier", "ps_1", "ps_2", "ps_3", "ps_4", "ps_5", "ps_6", "ps_7", "ps_8", "ps_9", "ps_10", "ps_11", "pc_total")
+rownames(final_kuchi_votes) <- 1:dim(final_kuchi_votes)[1]
 
-wj_2010_final_lite <- select(wj_2010_final, ps_code, candidate_id, voter_id, votes)
+header_row_1 <- grep("Polling", final_kuchi_votes$identifier)
+header_row_2 <- grep("Candidates", final_kuchi_votes$identifier)
+final_kuchi_votes <- final_kuchi_votes[-c(header_row_1, header_row_2), ]
+
+rownames(final_kuchi_votes) <- 1:dim(final_kuchi_votes)[1]
+final_kuchi_votes$pc_code <- as.character(as.numeric(final_kuchi_votes$identifier))
+
+pc_starts <- which(!is.na(final_kuchi_votes$pc_code))
+pc_names <- pc_starts+1
+final_kuchi_votes <- final_kuchi_votes[-pc_names, ]
+rownames(final_kuchi_votes) <- 1:dim(final_kuchi_votes)[1]
+pc_starts <- which(!is.na(final_kuchi_votes$pc_code))
+
+final_kuchi_votes$pc_code <- na.locf(final_kuchi_votes$pc_code)
+final_kuchi_votes <- final_kuchi_votes[-pc_starts, ]
+rownames(final_kuchi_votes) <- 1:dim(final_kuchi_votes)[1]
+
+final_kuchi_votes <- final_kuchi_votes[-c(1233, 445, 729, 6475, 7949, 1621, 895), ]
+rownames(final_kuchi_votes) <- 1:dim(final_kuchi_votes)[1]
+final_kuchi_votes <- final_kuchi_votes %>% rename(
+  candidate_name_dari = identifier
+) %>% dplyr::select(-pc_total)
+
+final_kuchi_votes$ps_1 <- as.numeric(final_kuchi_votes$ps_1)
+
+ps_numbers <- 1:11
+
+for(i in (1:length(ps_numbers))) {
+  ps_number <- ps_numbers[i]
+  candidate_name_dari <- final_kuchi_votes$candidate_name_dari
+  votes <- final_kuchi_votes[, ps_number+1]
+  pc_code <- final_kuchi_votes$pc_code
   
-write.csv(wj_2010_final_lite, "final_af_candidate_ps_data_2010_lite.csv", row.names = F)
+  temp <- data.frame(cbind(pc_code, ps_number, candidate_name_dari, votes))
+  
+  if(i == 1) {
+    out <- temp
+  }else{
+    out <- rbind(out, temp)
+  }
+}
+
+kuchi_final_ps_votes <- out
+
+kuchi_final_ps_votes$ps_number <- as.character(str_pad(kuchi_final_ps_votes$ps_number, 2, pad = "0", side = "left"))
+kuchi_final_ps_votes$pc_code <- as.character(str_pad(kuchi_final_ps_votes$pc_code, 7, pad = "0", side = "left"))
+kuchi_final_ps_votes <- kuchi_final_ps_votes %>% mutate(
+  ps_code = paste(pc_code, ps_number, sep = "-"))
+kuchi_final_ps_votes <- kuchi_final_ps_votes %>% filter(!is.na(votes))
+kuchi_final_ps_votes$electorate <- "Kuchi"
+
+kuchi_final_ps_reporting <- kuchi_final_ps_votes %>% dplyr::select(electorate, pc_code, ps_code) %>% unique()
+
+kuchi_final_ballot <- left_join(kuchi_final_ps_reporting, pc_plan) %>% dplyr::select(electorate, province_code, district_code, pc_code, ps_code, ps_number) %>%
+  left_join(kuchi_ballot) %>% left_join(kuchi_metadata)
+  
+kuchi_final_all_data <- left_join(kuchi_final_ballot, kuchi_final_ps_votes)
+
+kuchi_final_all_data <- kuchi_final_all_data %>% rowwise() %>%
+  mutate(ps_number = str_split(ps_code, "-")[[1]][[2]])
+
+kuchi_final_all_data$votes[is.na(kuchi_final_all_data$votes)] <- 0
+
+kuchi_final_all_data <- left_join(kuchi_final_all_data, ps_key)
+kuchi_final_all_data$ps_station_type[is.na(kuchi_final_all_data$ps_station_type)] <- "K"
+kuchi_final_all_data$votes <- as.numeric(as.character(kuchi_final_all_data$votes))
+kuchi_final_all_data$candidate_code <- as.character(kuchi_final_all_data$candidate_code)
+kuchi_final_all_data$results_status <- "FINAL"
+kuchi_final_all_data$results_date <- ymd("2010-11-24")
+# kuchi_final_all_data$ballot_position <- as.numeric(kuchi_final_all_data$ballot_position)
+kuchi_final_all_data <- left_join(kuchi_final_all_data, province_key)
+kuchi_final_all_data <- left_join(kuchi_final_all_data, pc_key)
+kuchi_final_all_data <- left_join(kuchi_final_all_data, district_key)
+
+kuchi_final_metadata <- candidate_key %>% filter(electorate == "Kuchi") %>% dplyr::select(-province_code)
+kuchi_final_metadata$candidate_code <- as.character(kuchi_final_metadata$candidate_code)
+kuchi_final_all_data_metadata <- left_join(kuchi_final_all_data, kuchi_final_metadata)
+kuchi_final_all_data_metadata <- kuchi_final_all_data_metadata %>% rename(
+  ps_type = ps_station_type
+)
+
+# general candidates
+
+wj_2010_final_with_metadata <- wj_2010_final %>% filter(electorate == "General") %>%
+  mutate(candidate_code = ifelse(candidate_id == voter_id, as.character(candidate_id), as.character(voter_id))) 
+
+wj_2010_final_with_metadata <- wj_2010_final_with_metadata %>% left_join(general_metadata)
+
+wj_2010_final_with_metadata <- wj_2010_final_with_metadata %>% arrange(electorate, province_code, ps_code, ballot_position) %>% rename(
+  ps_type = ps_station_type
+)
+
+wj_2010_final_with_metadata$ps_open_status <- "YES"
+
+final_general_ballot <- candidate_key %>% filter(electorate == "General") %>% dplyr::select(province_code, candidate_code, ballot_position)
+final_general_ps_ballots <- wj_2010_final_reporting_ps %>% filter(electorate == "General") %>% left_join(final_general_ballot)
+
+final_full_ballot_with_parents <- left_join(final_general_ps_ballots, wj_2010_final_reporting_ps)
+
+wj_2010_final_just_votes <- wj_2010_final_with_metadata %>% dplyr::select(candidate_code, ps_code, votes)
+
+final_full_ballot_with_votes <- left_join(final_full_ballot_with_parents, wj_2010_final_just_votes)
+final_full_ballot_with_votes$votes[is.na(final_full_ballot_with_votes$votes)] <- 0
+
+# candidate_key$candidate_code <- as.character(candidate_key$candidate_code)
+# candidate_key$ballot_position <- as.character(candidate_key$ballot_position)
+final_full_ballot_with_votes <- final_full_ballot_with_votes %>% left_join(candidate_key)
+
+wj_2010_final_all_data <- left_join(final_full_ballot_with_votes, province_key)
+wj_2010_final_all_data <- left_join(wj_2010_final_all_data, pc_key)
+
+wj_2010_final_all_data_with_kuchi <- full_join(wj_2010_final_all_data, kuchi_final_all_data_metadata)
+wj_2010_final_all_data_with_kuchi$results_status <- "FINAL"
+wj_2010_final_all_data_with_kuchi$results_date <- ymd("2010-11-24")
+wj_2010_final_all_data_with_kuchi <- wj_2010_final_all_data_with_kuchi %>% rowwise() %>%
+  mutate(ps_number = str_split(ps_code, "-")[[1]][[2]],
+         pc_number = str_sub(pc_code, 5,7),
+         final_reporting = "YES")
+
+missing_from_pc_key <- wj_2010_final_all_data_with_kuchi[(wj_2010_final_all_data_with_kuchi$pc_code %in% pc_key$pc_code == FALSE), ]
+
+
+wj_2010_final_all_data_export <- wj_2010_final_all_data_with_kuchi %>% dplyr::select(
+  results_date, results_status, electorate, 
+  province_code, province_name_eng, province_name_dari, province_name_pashto,
+  district_code, district_number, district_name_eng, district_name_dari, provincial_capital,
+  pc_code, pc_number, pc_location, pc_location_dari,
+  ps_code, ps_number, ps_type,
+  candidate_code, ballot_position, candidate_name_eng, candidate_name_dari,
+  candidate_gender, incumbent, prelim_winner, final_winner,
+  votes
+) %>% arrange(electorate, province_code, district_code, pc_code, ps_code, ballot_position)
+
+write.csv(wj_2010_final_all_data_export, "./data/final_af_candidate_ps_data_2010.csv", row.names = F)
+
+wj_2010_final_lite <- dplyr::select(wj_2010_final_all_data_export, ps_code, candidate_code, votes)
+  
+write.csv(wj_2010_final_lite, "./data/final_af_candidate_ps_data_2010_lite.csv", row.names = F)
+
+
+# CREATE A PS - PC - PROVINCE REPORTING KEY
+
+wj_2010_final_reporting_ps <- wj_2010_final_all_data_export %>% 
+  dplyr::select(electorate, province_code, district_code, district_number, pc_code, pc_number, ps_code, ps_number, ps_type) %>% unique() %>% 
+  mutate(final_reporting = "YES")
+
+write.csv(wj_2010_final_reporting_ps, "./data/keyfiles/final_ps_reporting_key_2010.csv", row.names = F)
 
 # ----------------------------------------------------------------------------------
 # COMBINE FINAL AND PRELIM RESULTS -------------------------------------------------
+
+final_2010_data <- read.csv("./data/final_af_candidate_ps_data_2010.csv", stringsAsFactors = F)
+prelim_2010_data <- read.csv("./data/prelim_af_candidate_ps_data_2010.csv", stringsAsFactors = F)
+
+all_data_combined <- full_join(final_2010_data, prelim_2010_data)
 
 # ----------------------------------------------------------------------------------
 # POLLING CENTER PLAN --------------------------------------------------------------
@@ -601,21 +832,122 @@ pc_plan <- select(pc_plan, province_code, province_name_eng, province_name_dari,
                     province_code, district_code, pc_code
                   )
 
-# reporting status
+# correct district code errors in PC plan
+# 0101448, 0101449, 0101473 should be district 0101, nahia unknown
+pc_plan$district_code[pc_plan$district_code == "0114" & pc_plan$pc_code == "0101448"] <- "0101"
+pc_plan$district_code[pc_plan$district_code == "0114" & pc_plan$pc_code == "0101449"] <- "0101"
+pc_plan$district_code[pc_plan$district_code == "0114" & pc_plan$pc_code == "0101473"] <- "0101"
+pc_plan$district_number[pc_plan$district_code == "0101" & pc_plan$district_number == "14"] <- "01"
+
+# 0111494 should be district 0111
+pc_plan$district_code[pc_plan$district_code == "0114" & pc_plan$pc_code == "0111494"] <- "0111"
+pc_plan$district_number[pc_plan$district_code == "0111" & pc_plan$district_number == "14"] <- "11"
+
+# district 1508 "نمك آب" should be "نمک آب"
+pc_plan$district_name_dari[pc_plan$district_code == "1508"] <- "نمک آب"
+
+# PROVINCE KEY ----------------------------------------------------------------
+
+province_key <- pc_plan %>% dplyr::select(province_code, province_name_eng, province_name_dari) %>% unique()
+setwd("~/Google Drive/GitHub/afghanistan_election_results_2018")
+province_key_2018 <- read.csv("./data/keyfiles/province_key.csv", stringsAsFactors = F)
+setwd("~/Google Drive/GitHub/afghanistan_election_results_2018/data/past_elections/wj_2010")
+province_key_2018$province_code <- as.character(str_pad(province_key_2018$province_code, 2, pad = "0", side = "left"))
+province_key_2018 <- province_key_2018 %>% rename(
+  province_code_2018 = province_code
+)
+
+province_key$province_code_2018 <- c("01", "02", "03", "04", "05", "11", "12", "13", "14", "06", 
+                                           "15", "07", "16", "17", "18", "09", "19", "20", "21", "28", "22",
+                                           "29", "31", "32", "33", "34", "30", "27", "26", "25", "23", "10", "08", "24")
+
+province_rosetta <- left_join(province_key, province_key_2018, by = "province_code_2018")
+
+province_rosetta <- province_rosetta %>% dplyr::select(
+  province_code, province_name_eng.x, province_name_dari.x, province_name_pashto, general_seats, female_seats, province_code_2018
+)
+
+# manually add Ghazni, initially missing from 2018 key
+province_rosetta$general_seats[province_rosetta$province_code == "06"] <- 8
+province_rosetta$female_seats[province_rosetta$province_code == "06"] <- 3
+province_rosetta$province_name_pashto[province_rosetta$province_code == "06"] <- "غزنی"
+
+province_rosetta <- rbind(province_rosetta, c("35", "Kuchi", "کوچی", "کوچی", 7, 3))
+
+province_rosetta <- province_rosetta %>% rename(
+  province_name_eng = province_name_eng.x,
+  province_name_dari = province_name_dari.x
+)
+
+write.csv(province_rosetta, "./data/keyfiles/province_key_2010.csv", row.names = F)
+
+# DISTRICT KEY ----------------------------------------------------------------
+
+district_key <- pc_plan %>% dplyr::select(province_code, district_code, district_number, district_name_eng, district_name_dari) %>% unique()
+district_key <- district_key %>% mutate(
+  district_or_subdivision_name_eng = district_name_eng
+)
+
+district_key$district_or_subdivision_name_eng[grep("\\d", district_key$district_name_dari)] <- district_key$district_name_dari[grep("\\d", district_key$district_name_dari)]
+district_key$district_or_subdivision_name_eng[grep("\\d", district_key$district_or_subdivision_name_eng)] <- 
+  paste0("NAHIA ", str_extract(district_key$district_or_subdivision_name_eng, "\\d+")[grep("\\d", district_key$district_or_subdivision_name_eng)])
+
+district_key$provincial_capital <- ifelse((substr(district_key$district_code, 3,4) == "01"), "YES", "NO")
+
+district_key$district_name_eng <- str_to_upper(district_key$district_name_eng)
+district_key$district_or_subdivision_name_eng <- str_to_upper(district_key$district_or_subdivision_name_eng)
+
+dupes <- district_key[duplicated(district_key$district_name_eng) | duplicated(district_key$district_name_eng, fromLast = TRUE), ]
+
+district_key <- district_key %>% dplyr::select(province_code, province_name_eng, province_name_dari, province_name_pashto,
+                                               district_code, district_number, district_name_eng, district_or_subdivision_name_eng,
+                                               district_name_dari, provincial_capital) %>% arrange(province_code, district_code)
+write.csv(district_key, "./data/keyfiles/district_key_2010.csv", row.names = F)
+
+# manually match 2012 and 2018 district codes to 2010 key based on Map Sync dataset
+
+
+
+# PC KEY ---------------------------------------------------------------------------
+
+pc_key <- pc_plan %>% dplyr::select(province_code, district_code, district_name_dari, pc_code, pc_location, pc_location_dari, 
+                                    ps_count, ps_male, ps_fem, ps_kuchi, est_voters, access_notes) %>%
+  arrange(province_code, district_code, pc_code)
+
+pc_key <- left_join(pc_key, province_key) 
+
+pc_key <- left_join(pc_key, district_key)
+
+pc_key <- dplyr::select(pc_key, province_code, province_code_2018, province_name_eng, province_name_dari, province_name_pashto,
+                        district_code, provincial_capital,district_number, district_name_eng, district_or_subdivision_name_eng, district_name_dari, provincial_capital,
+                        pc_code, pc_location, pc_location_dari, ps_count, ps_male, ps_fem, ps_kuchi, est_voters, access_notes) %>%
+  arrange(province_code, district_code, pc_code)
+
+pc_key$province_code_2018 <- as.character(str_pad(pc_key$province_code_2018, 2, pad = "0", side = "left"))
+
+write.csv(pc_key, "./data/keyfiles/pc_key_2010.csv", row.names = F)
+  
+# PC REPORTING STATUS --------------------------------------------------------------
+
+
 
 wj_2010_prelim <- read.csv("./prelim_af_candidate_ps_data_2010.csv", stringsAsFactors = F)
 wj_2010_final <- read.csv("./final_af_candidate_ps_data_2010.csv", stringsAsFactors = F)
 
 
+# PS KEY ---------------------------------------------------------------------------
 
+ps_key <- wj_2010_prelim %>% dplyr::select(province_code, district_code, pc_code, ps_code, ps_number, ps_station_type) %>% unique() %>%
+  arrange(province_code, district_code, pc_code, ps_code)
+
+write.csv(ps_key, "./data/keyfiles/ps_key_2010.csv", row.names = F)
+
+# add final PS not in prelim
+# find missing sequence PS / check against PC plan
 
 # ----------------------------------------------------------------------------------
 # CREATE KEY FILES -----------------------------------------------------------------
 
-# pc key
-# province key and 2018 rosetta
-# district key and 2018 rosetta
-# candidate key
 # summary province pc-ps-candidate-votes table
 
 

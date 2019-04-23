@@ -35,3 +35,5 @@ raw/still_missing_candidate_code.gsheet
 raw/party_names.gsheet
 data/district_data/District_Lookup_Sheet - District Lookup Tool.csv
 data/past_elections/wj_2010/raw/still_missing.csv
+data/past_elections/wj_2010/data/prelim_af_candidate_ps_data_2010.csv
+data/past_elections/wj_2010/data/final_af_candidate_ps_data_2010.csv
