@@ -977,6 +977,15 @@ pc_key <- dplyr::select(pc_key, province_code, province_code_2018, province_name
 
 pc_key$province_code_2018 <- as.character(str_pad(pc_key$province_code_2018, 2, pad = "0", side = "left"))
 
+# pc_key_check <- pc_key %>% rowwise %>% mutate(
+#  count_check = sum(c(ps_male, ps_fem, ps_kuchi), na.rm = TRUE),
+#  check_error = ifelse(count_check != ps_count, "ERROR", "OK")
+#)
+
+pc_key$ps_fem[is.na(pc_key$ps_fem)] <- 0
+pc_key$ps_male[is.na(pc_key$ps_male)] <- 0
+pc_key$ps_kuchi[is.na(pc_key$ps_kuchi)] <- 0
+
 write.csv(pc_key, "./data/keyfiles/pc_key_2010.csv", row.names = F)
   
 # PC REPORTING STATUS --------------------------------------------------------------
@@ -1009,12 +1018,99 @@ write.csv(pc_reporting_status, "./data/all_pc_reporting_status.csv", row.names =
 
 # PS KEY ---------------------------------------------------------------------------
 
-ps_key <- all_data_combined %>% dplyr::select(province_code, district_code, pc_code, ps_code, ps_number, ps_type) %>% unique() %>%
-  arrange(province_code, district_code, pc_code, ps_code)
+ps_plan <- pc_key %>% dplyr::select(province_code, district_code, pc_code, ps_male, ps_fem, ps_kuchi)
 
-write.csv(ps_key, "./data/keyfiles/ps_key_2010.csv", row.names = F)
+ps_out <- list()
+for(i in 1:length(ps_plan$pc_code)){
+  codes <- ps_plan[i, 1:3]
+  ps_m_count <- as.numeric(ps_plan[i, 4])
+  ps_f_count <- as.numeric(ps_plan[i, 5])
+  ps_k_count <- as.numeric(ps_plan[i, 6])
+  
+  if(!is.na(ps_m_count) & ps_m_count > 0){
+  for(j in 1:ps_m_count){
+    ps_number = j
+    ps_type = "M"
+    
+    ps_row = cbind(codes, ps_number, ps_type)
+    ps_row$ps_number = as.character(str_pad(ps_number, 2, pad = "0", side = "left"))
+    ps_row <- ps_row %>% mutate(
+      ps_code = paste(pc_code, ps_number, sep = "-")
+    )
+    
+    ps_out <- rbind(ps_out, ps_row)
+  }
+  } else{}
+  
+  if(!is.na(ps_f_count) & ps_f_count >0){
+  for(m in 1:ps_f_count){
+    ps_number = m + ps_m_count
+    ps_type = "F"
+    
+    ps_row = cbind(codes, ps_number, ps_type)
+    ps_row$ps_number = as.character(str_pad(ps_number, 2, pad = "0", side = "left"))
+    ps_row <- ps_row %>% mutate(
+      ps_code = paste(pc_code, ps_number, sep = "-")
+    )
+    
+    ps_out <- rbind(ps_out, ps_row)
+  } 
+  } else{}
+    
+  if(!is.na(ps_k_count) & ps_k_count >0){
+    for(k in 1:ps_k_count){
+    ps_number = k + ps_m_count + ps_f_count
+    ps_type = "K"
+    
+    ps_row = cbind(codes, ps_number, ps_type)
+    ps_row$ps_number = as.character(str_pad(ps_number, 2, pad = "0", side = "left"))
+    ps_row <- ps_row %>% mutate(
+      ps_code = paste(pc_code, ps_number, sep = "-")
+    )
+    
+    ps_out <- rbind(ps_out, ps_row)
+  } 
+  } else {}
+}
 
-# find missing sequence PS / check against PC plan
+  
+ps_reporting <- all_data_combined %>% group_by(results_status) %>% 
+  dplyr::select(province_code, district_code, pc_code, ps_code, ps_number, ps_type) %>% unique() %>%
+  arrange(province_code, district_code, pc_code, ps_code) %>% mutate(reporting_results = "YES")
+ps_reporting$ps_number <- as.character(str_pad(ps_reporting$ps_number, 2, pad = "0", side = "left"))
+
+ps_reporting_key <- ps_out %>% dplyr::select(province_code, district_code, pc_code, ps_code, ps_number, ps_type) %>% 
+  arrange(province_code, district_code, pc_code, ps_code) %>% left_join(ps_reporting)
+
+ps_reporting_key$reporting_results[is.na(ps_reporting_key$reporting_results)] <- "NO"
+
+ps_reporting_key$results_status[ps_reporting_key$reporting_results == "NO"] <- "PRELIMINARY"
+
+no_both <- ps_reporting_key[ps_reporting_key$reporting_results == "NO", ]
+no_both$results_status <- "FINAL"
+ps_reporting_key <- ps_reporting_key %>% full_join(no_both)
+
+only_one <- ps_reporting_key %>% group_by(ps_code) %>% mutate(only_one = ifelse(length(ps_code) != 2, "YES", "NO")) %>% filter(only_one == "YES") %>%
+  dplyr::select(-only_one)
+only_final <- only_one[only_one$results_status == "FINAL", ]
+only_final$results_status <- "PRELIMINARY"
+only_final$reporting_results <- "NO"
+only_prelim <- only_one[only_one$results_status == "PRELIMINARY", ]
+only_prelim$results_status <- "FINAL"
+only_prelim$reporting_results <- "NO"
+
+ps_reporting_key <- ps_reporting_key %>% full_join(only_final) %>% full_join(only_prelim) %>% arrange(province_code, pc_code, ps_code, results_status)
+
+
+write.csv(ps_reporting_key, "./data/all_ps_reporting_status_2010.csv", row.names = F)
+
+ps_invalidated_report <- left_join(ps_reporting_key, prelim_ps_invalidated_votes) %>% rename(
+  pre_prelim_invalidated_votes = votes_invalidated,
+  net_prelim_final_change = net_change
+)
+
+write.csv(ps_invalidated_report, "./data/ps_votes_invalidated_net_change_2010.csv", row.names = F)
+
 
 # ----------------------------------------------------------------------------------
 # SUMMARY FILES -----------------------------------------------------------------
