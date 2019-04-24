@@ -451,7 +451,6 @@ write.csv(candidate_key, "./data/keyfiles/candidate_key_2010.csv", row.names = F
 
 # get party affiliations from IEC / DI candidate lists --------------------
 
-
 winners_only <- candidate_key %>% filter(prelim_winner == "Yes" | final_winner == "Yes")
 winners_only <- left_join(winners_only, province_key)
 winners_only$province_code_2018 <- as.character(str_pad(winners_only$province_code_2018, 2, pad = "0", side = "left"))
@@ -582,24 +581,54 @@ wj_2010_prelim_all_data <- wj_2010_prelim_all_data %>% rowwise() %>%
 
 wj_2010_prelim_all_data$ballot_position <- as.numeric(wj_2010_prelim_all_data$ballot_position)
 
-wj_2010_prelim_all_data <- wj_2010_prelim_all_data %>% dplyr::select(
+final_kuchi_metadata <- candidate_key_invalidated %>% filter(electorate == "Kuchi") %>% dplyr::select(-province_code)
+
+wj_2010_prelim_all_data_kuchi <- wj_2010_prelim_all_data %>% filter(electorate == "Kuchi") %>% 
+  dplyr::select(-c(electorate, ballot_position, candidate_name_eng, candidate_name_dari, incumbent, candidate_gender, prelim_winner, final_winner)) %>%
+  left_join(final_kuchi_metadata)
+
+wj_2010_prelim_all_data_export <- wj_2010_prelim_all_data %>% filter(electorate == "General") %>% left_join(candidate_key_invalidated) %>%
+  full_join(wj_2010_prelim_all_data_kuchi)
+
+wj_2010_prelim_all_data_export <- wj_2010_prelim_all_data_export %>% dplyr::select(
   results_date, results_status, electorate, 
   province_code, province_name_eng, province_name_dari, province_name_pashto,
   district_code, district_number, district_name_eng, district_name_dari, provincial_capital,
   pc_code, pc_number, pc_location, pc_location_dari,
   ps_code, ps_number, ps_type,
   candidate_code, ballot_position, candidate_name_eng, candidate_name_dari,
-  candidate_gender, incumbent, prelim_winner, final_winner,
+  candidate_gender, incumbent, disqualified, prelim_winner, final_winner,
   votes
 ) %>% arrange(province_code, district_code, pc_code, ps_code, ballot_position)
 
-# STILL NEED TO DECIPHER WHAT "INVALIDATED VOTES" MEANS - THINK THIS IS PS DATA, NOT CANDIDATE-SPECIFIC?
+# PS VOTES INVALIDATED PRIOR TO PRELIM RESULTS --------------------------------------
+prelim_ps_invalidated <- wj_2010_prelim %>% dplyr::select(pc_code, ps_code, votes_invalidated) %>% unique()
+
+prelim_candidates_invalidated <- wj_2010_prelim %>% dplyr::select(invalidated, voter_id) %>% unique() %>% filter(invalidated != "FALSE") %>% rename(
+  candidate_code = voter_id,
+  disqualified = invalidated
+)
+prelim_candidates_invalidated$candidate_code <- as.character(prelim_candidates_invalidated$candidate_code)
+
+candidate_key_invalidated <- left_join(candidate_key, prelim_candidates_invalidated)
+candidate_key_invalidated$disqualified[is.na(candidate_key_invalidated$disqualified)] <- "No"
+candidate_key_invalidated$disqualified[candidate_key_invalidated$disqualified == "TRUE"] <- "Yes"
+write.csv(candidate_key_invalidated, "./data/keyfiles/candidate_key_2010.csv")
+
+prelim_candidates_invalidated_votes <- left_join(prelim_candidates_invalidated, vote_change)
+prelim_ps_invalidated_votes <- left_join(prelim_ps_invalidated, ps_vote_change)
+
+
+# invalidated_votes is a total for the PS - not disaggregated by candidate
+
+# invalidated a metadata key for the candidate, disqualified after ballot printing
+
 
 # write csvs
 
-write.csv(wj_2010_prelim_all_data, "./data/preliminary_results/prelim_af_candidate_ps_data_2010.csv", row.names = F)
+write.csv(wj_2010_prelim_all_data_export, "./data/preliminary_results/prelim_af_candidate_ps_data_2010.csv", row.names = F)
 
-wj_2010_prelim_lite <- dplyr::select(wj_2010_prelim_all_data, ps_code, candidate_code, votes)
+wj_2010_prelim_lite <- dplyr::select(wj_2010_prelim_all_data_export, ps_code, candidate_code, votes)
   
 write.csv(wj_2010_prelim_lite, "./data/preliminary_results/prelim_af_candidate_ps_data_2010_lite.csv", row.names = F)
 
@@ -777,15 +806,22 @@ wj_2010_final_all_data_with_kuchi <- wj_2010_final_all_data_with_kuchi %>% rowwi
 
 missing_from_pc_key <- wj_2010_final_all_data_with_kuchi[(wj_2010_final_all_data_with_kuchi$pc_code %in% pc_key$pc_code == FALSE), ]
 
+wj_2010_final_kuchi_disq <- wj_2010_final_all_data_with_kuchi %>% filter(electorate == "Kuchi") %>% 
+  dplyr::select(-c(electorate, ballot_position, candidate_name_eng, candidate_name_dari, incumbent, candidate_gender, prelim_winner, final_winner)) %>%
+  left_join(final_kuchi_metadata)
 
-wj_2010_final_all_data_export <- wj_2010_final_all_data_with_kuchi %>% dplyr::select(
+wj_2010_final_all_data_export <- wj_2010_final_all_data_with_kuchi %>% filter(electorate == "General") %>% left_join(candidate_key_invalidated) %>%
+  full_join(wj_2010_final_kuchi_disq)
+
+
+wj_2010_final_all_data_export <- wj_2010_final_all_data_export %>% dplyr::select(
   results_date, results_status, electorate, 
   province_code, province_name_eng, province_name_dari, province_name_pashto,
   district_code, district_number, district_name_eng, district_name_dari, provincial_capital,
   pc_code, pc_number, pc_location, pc_location_dari,
   ps_code, ps_number, ps_type,
   candidate_code, ballot_position, candidate_name_eng, candidate_name_dari,
-  candidate_gender, incumbent, prelim_winner, final_winner,
+  candidate_gender, incumbent, disqualified, prelim_winner, final_winner,
   votes
 ) %>% arrange(electorate, province_code, district_code, pc_code, ps_code, ballot_position)
 
@@ -812,7 +848,21 @@ prelim_2010_data <- read.csv("./data/preliminary_results/prelim_af_candidate_ps_
 
 all_data_combined <- full_join(final_2010_data, prelim_2010_data)
 
+# have to first find candidate-vote entries in final but not preliminary to be able to compare them
 
+vote_change <- all_data_combined %>% group_by(candidate_code, province_code) %>% 
+  summarize(
+    final_votes = sum(votes[results_status == "FINAL"]),
+    prelim_votes = sum(votes[results_status == "PRELIMINARY"]),
+    net_change = final_votes - prelim_votes
+  )
+
+ps_vote_change <- all_data_combined %>% group_by(ps_code) %>% 
+  summarize(
+    final_votes = sum(votes[results_status == "FINAL"]),
+    prelim_votes = sum(votes[results_status == "PRELIMINARY"]),
+    net_change = final_votes - prelim_votes
+  )
 
 # ----------------------------------------------------------------------------------
 # POLLING CENTER PLAN --------------------------------------------------------------
@@ -990,6 +1040,9 @@ prelim_data_pcs <- prelim_2010_data %>% group_by(electorate, province_code, prov
 
 write.csv(prelim_data_pcs, "./data/preliminary_results/prelim_af_candidate_pc_data_2010.csv", row.names = F)
 
+prelim_data_pcs_lite <- prelim_2010_data %>% select(pc_code, candidate_code, votes) %>% group_by(pc_code, candidate_code) %>% summarize(votes = sum(votes))
+write.csv(prelim_data_pcs_lite, "./data/preliminary_results/prelim_af_candidate_pc_data_2010_lite.csv", row.names = F)
+
 
 final_data_pcs <- final_2010_data %>% group_by(electorate, province_code, province_name_eng, province_name_dari, province_name_pashto,
                                       district_code, district_number, pc_code, pc_number, pc_location,
@@ -998,31 +1051,44 @@ final_data_pcs <- final_2010_data %>% group_by(electorate, province_code, provin
   summarize(votes = sum(votes)
 ) %>% arrange(electorate, province_code, district_code, pc_code, ballot_position)
 
-write.csv(prelim_data_pcs, "./data/final_results/final_af_candidate_pc_data_2010.csv", row.names = F)
+write.csv(final_data_pcs, "./data/final_results/final_af_candidate_pc_data_2010.csv", row.names = F)
 
-
-all_data_pcs_lite <- all_data_pcs %>% select(pc_code, candidate_code, votes) %>% group_by(pc_code, candidate_code) %>% summarize(votes = sum(votes))
-write.csv(all_data_pcs_lite, "./data/preliminary_results/prelim_af_candidate_pc_data_lite.csv", row.names = F)
+final_data_pcs_lite <- final_2010_data %>% select(pc_code, candidate_code, votes) %>% group_by(pc_code, candidate_code) %>% summarize(votes = sum(votes))
+write.csv(final_data_pcs_lite, "./data/final_results/final_af_candidate_pc_data_2010_lite.csv", row.names = F)
 
 # District level
-all_data_districts <- all_data %>% group_by(electorate, province_code, province_name_eng, province_name_dari, province_name_pashto,
+prelim_data_districts <- prelim_2010_data %>% group_by(electorate, province_code, province_name_eng, province_name_dari, province_name_pashto,
                                       district_code, district_number,
-                                      candidate_code, candidate_id, ballot_position, candidate_name_eng, candidate_name_dari, candidate_name_pashto,
-                                      preliminary_winner, results_date, results_status) %>% 
+                                      candidate_code, ballot_position, candidate_name_eng, candidate_name_dari,
+                                      prelim_winner, results_date, results_status) %>% 
   summarize(votes = sum(votes)
-)
+) %>% arrange(electorate, province_code, district_code, ballot_position)
 
-all_data_districts <- all_data_districts %>% arrange(electorate, province_code, district_code, ballot_position)
-write.csv(all_data_districts, "./data/preliminary_results/prelim_af_candidate_district_data.csv", row.names = F)
+write.csv(prelim_data_districts, "./data/preliminary_results/prelim_af_candidate_district_data_2010.csv", row.names = F)
+
+final_data_districts <- final_2010_data %>% group_by(electorate, province_code, province_name_eng, province_name_dari, province_name_pashto,
+                                      district_code, district_number,
+                                      candidate_code, ballot_position, candidate_name_eng, candidate_name_dari,
+                                      final_winner, results_date, results_status) %>% 
+  summarize(votes = sum(votes)
+) %>% arrange(electorate, province_code, district_code, ballot_position)
+
+write.csv(final_data_districts, "./data/final_results/final_af_candidate_district_data_2010.csv", row.names = F)
 
 # Province level
-all_data_provinces <- all_data %>% group_by(electorate, province_code, province_name_eng, province_name_dari, province_name_pashto,
-                                      candidate_code, candidate_id, ballot_position, candidate_name_eng, candidate_name_dari, candidate_name_pashto,
-                                      preliminary_winner, results_date, results_status) %>% 
+prelim_data_provinces <- prelim_2010_data %>% group_by(electorate, province_code, province_name_eng, province_name_dari, province_name_pashto,
+                                      candidate_code, ballot_position, candidate_name_eng, candidate_name_dari,
+                                      prelim_winner, results_date, results_status) %>% 
   summarize(votes = sum(votes)
-)
+) %>% arrange(electorate, province_code, ballot_position)
 
-all_data_provinces <- all_data_provinces %>% arrange(electorate, province_code, ballot_position)
+write.csv(prelim_data_provinces, "./data/preliminary_results/prelim_af_candidate_province_data_2010.csv", row.names = F)
 
-write.csv(all_data_provinces, "./data/preliminary_results/prelim_af_candidate_province_data.csv", row.names = F)
 
+final_data_provinces <- final_2010_data %>% group_by(electorate, province_code, province_name_eng, province_name_dari, province_name_pashto,
+                                      candidate_code, ballot_position, candidate_name_eng, candidate_name_dari,
+                                      final_winner, results_date, results_status) %>% 
+  summarize(votes = sum(votes)
+) %>% arrange(electorate, province_code, ballot_position)
+
+write.csv(prelim_data_provinces, "./data/final_results/final_af_candidate_province_data_2010.csv", row.names = F)
