@@ -451,6 +451,18 @@ write.csv(candidate_key, "./data/keyfiles/candidate_key_2010.csv", row.names = F
 
 # get party affiliations from IEC / DI candidate lists --------------------
 
+file_list <- list.files("./data/past_elections/wj_2010/raw/candidate_lists/IEC lists/", pattern = ".pdf")
+
+  target <- paste0("./data/past_elections/wj_2010/raw/candidate_lists/IEC lists/", file_list[i])
+  province_import <- pdf_text(target)
+  pdf_text <- toString(province_import)
+  pdf_text <- read_lines(pdf_text)
+  
+  candidate_rows <- pdf_text[grepl("^.+(\\d{1,3})", trimws(pdf_text))]
+  candidate_rows_filtered
+  
+
+
 winners_only <- candidate_key %>% filter(prelim_winner == "Yes" | final_winner == "Yes")
 winners_only <- left_join(winners_only, province_key)
 winners_only$province_code_2018 <- as.character(str_pad(winners_only$province_code_2018, 2, pad = "0", side = "left"))
