@@ -6,9 +6,10 @@ For more details about this dataset, please see the [primary project readme file
 
 For questions, suggestions, or to contribute further, please leave an issue request here on Github or contact [Colin Cookman](https://colincookman.wordpress.com/about/) by email or Twitter.
 
-## [prelim_af_candidate_ps_data_2018.csv](https://drive.google.com/open?id=1Oqzv-O671w7jwEiWWlMVV7QMtQmRGVNS)
+## [prelim_af_candidate_ps_data_2018.csv](https://drive.google.com/open?id=1Oqzv-O671w7jwEiWWlMVV7QMtQmRGVNS) and [final_af_candidate_ps_data_2018.csv](https://drive.google.com/open?id=1b7Flah6nrRsJaL3jaibz0h6QWh5yPCoN)
 - **electorate:** Either general candidates (in which case the constituency is the province) or Kuchi or Sikh / Hindu candidates (in which case the constituency is nationwide).
-- **province_code:** Two-digit IEC numeric code for province. Kuchi and Sikh candidate results are listed under the provinces in which votes were cast.
+- **constituency_code:** Unique codes for each constituency, grouping provincial candidates and nationwide Kuchi and Sikh candidates.
+- **province_code:** Two-digit IEC numeric code for province, reflecting the location where votes were cast (Kuchi and Sikh candidate results are listed under the provinces in the which votes were cast, but are aggregated into a single nationwide constituency by constituency_code).
 - **province_name_eng:** Province name in English, as provided by IEC. (Due to the lack of standardized transliteration, this almost certainly will not consistently match other datasets.)
 - **province_name_dari:** Province name in Dari, as provided by IEC.
 - **province_name_pashto:** Province name in Pashto, as provided by IEC.
@@ -20,15 +21,18 @@ For questions, suggestions, or to contribute further, please leave an issue requ
 - **ps_code:** Unique code for each polling station, concatenating pc_code and ps_number.
 - **ps_number:** Polling stations are the booths within polling centers where ballots are cast; centers may have as few as one or as many as 21 stations each. Polling station numbers are sequential within but not across polling centers.
 - **candidate_code:** IEC numeric code for each contesting candidate, as reported on the IEC website. In most but not all cases, the initial one or two-digit prefix corresponds with the province in which the candidate ran. Candidate codes were included in some but not all IEC data releases; exact matches were generated using candidate names (which appear to be consistent within the website data) and ballot positions.
-- **candidate_id:** Remainder of the candidate_code, stripping the provincial prefix. ID numbers appear to be randomly assigned, without evident pattern or categorization.
 - **ballot_position:** Position the candidate appears on their respective provincial ballots (not results position, which is not consistent across all IEC pages).
 - **candidate_name_eng:** IEC transliteration of the candidate's name in English-language results data (appears to be consistent within the website data, but may not match other sources.)
 - **candidate_name_dari:** Dari version of the candidate's name (matched by candidate_code).
 - **candidate_name_pashto:** Pashto version of the candidate's name (matched by candidate_code).
+- **candidate_gender:** Male or female, based on a visual check of the candidate's photo in published IEC candidate lists.
+- **candidate_party_dari:** Dari-language version of the candidate's official party registration, if any, drawn from published IEC candidate lists. Standardized to correct some inconstituencies in spelling.
+- **candidate_party_transliterated:** Unofficial Romanized transliteration of the party's Dari-language name.
+- **candidate_party_transated:** Unofficial English transliteration of the party's full name.
 - **votes:** Votes received by the candidate in a given polling station (or in other aggregrated files, by polling center, district, or province).
-- **preliminary_winner:** Binary variable noting whether the candidate was designated a winner by the IEC in its announcement of the preliminary results. Note that due to women's quotas, female winners will not necessarily correspond to their rank position.
-- **results_date:**	Regardless of the date of publication, the IEC dated all results to November 23 2018, the beginning of its reporting process. In actual practice, the reporting process concluded on January 15 2019. On initial release, this dataset is based on observations from a scrape of results data conducted between February 20 - 25 2019.
-- **results_status:** For use in differentiating preliminary and final election results, once the latter is released. All data in the initial dataset release is uncertified preliminary data.
+- **winner**: Binary variable noting whether the candidate was designated a winner by the IEC in its announcement of the preliminary or final results. Note that due to women's quotas, female winners will not necessarily correspond to their rank position. (The candidate key also includes distinct preliminary_winner and final_winner variables.)
+- **results_date:**	Regardless of the date of publication, the IEC dated all preliminary results to November 23 2018, the beginning of its reporting process. (In actual practice, the preliminary results reporting process concluded on January 15 2019.) Final results reporting dates appear to accurately correspond with the date of release.
+- **results_status:** For use in differentiating preliminary and final election results.
 
 ## [pc_plan_vr_2018.csv](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/data/pc_plan/pc_plan_vr_2018.csv)
 - **province_name:** Province name in English, as provided by IEC. (Due to the lack of standardized transliteration, this almost certainly will not consistently match other datasets.)
