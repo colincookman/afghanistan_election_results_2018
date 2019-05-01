@@ -449,16 +449,24 @@ write.csv(candidate_key, "./data/keyfiles/candidate_key_2010.csv", row.names = F
 
 # get party affiliations from IEC / DI candidate lists --------------------
 
-file_list <- list.files("./data/past_elections/wj_2010/raw/candidate_lists/IEC lists/", pattern = ".pdf")
+file_list <- list.files("./data/past_elections/wj_2010/raw/candidate_lists/DI English Translation/", pattern = ".csv")
 
-  target <- paste0("./data/past_elections/wj_2010/raw/candidate_lists/IEC lists/", file_list[i])
-  province_import <- pdf_text(target)
-  pdf_text <- toString(province_import)
-  pdf_text <- read_lines(pdf_text)
+  target <- paste0("./data/past_elections/wj_2010/raw/candidate_lists/DI English Translation/", file_list[i])
+  province_import <- read.csv(target, stringsAsFactors = F)
+  province_trimmed <- data.frame(province_import[,5:6])
+  colnames(province_trimmed) <- c("candidate_party_eng", "ballot_position")
+  province_trimmed$candidate_party_eng[province_trimmed$candidate_party_eng == ""] <- NA
+  province_trimmed$ballot_position[province_trimmed$ballot_position == ""] <- NA
   
-  candidate_rows <- pdf_text[grepl("^.+(\\d{1,3})", trimws(pdf_text))]
-  candidate_rows_filtered
   
+  
+    
+#  candidate_rows <- pdf_text[grepl("^.+(\\d{1,3})", trimws(pdf_text))]
+  candidate_rows_filtered <- pdf_text[grepl("\\d", pdf_text)]
+  
+  candidate_rows_filtered <- pdf_text[grepl("(^\\d{1,3}\\s)", pdf_text)]
+  
+  grepl("(^\\d{1,3}\\s)", pdf_text)
 
 
 winners_only <- candidate_key %>% filter(prelim_winner == "Yes" | final_winner == "Yes")
