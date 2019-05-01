@@ -88,7 +88,7 @@ The IEC initially released voter disqualification data in a machine readable for
 
 These files are also **[mirrored here](https://drive.google.com/open?id=1XyAUCgTYD95pZ_Q19hPqfSBxy-rEecQA)** but at this stage have not been processed into a machine-readable format for further analysis. As of this writing the ECC has not published its own detailed disqualification reporting.
 
-For analysis of net changes between available preliminary and final results, see [FILE TBD](), although differences between the preliminary and final may also potentially be the result of data entry gaps and not necessarily disqualification decisions.
+For a summary of net changes between available preliminary and final results, see [FILE TBD](), although differences between the preliminary and final may also potentially be the result of data entry gaps and not necessarily disqualification decisions.
 
 ### Polling station results forms
 As part of its preliminary results reporting, the IEC also released scanned images of most polling station results forms, which were downloaded as part of the data scrape process and may potentially be used as a visual check on the machine-readable results. Those images are too large to host in Github, but are **[mirrored here](https://drive.google.com/open?id=1XxZJnQZaxjva_Ki7QSEa7W9X70qyYESr)**. For a full list of files, see [ps_scan_file_list.csv](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/scan_reports/ps_scan_file_list.csv).

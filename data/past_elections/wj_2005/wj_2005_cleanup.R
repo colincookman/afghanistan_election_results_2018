@@ -6,9 +6,6 @@ library(lubridate)
 library(stringr)
 library(ggrepel)
 library(gsheet)
-setwd("~/Google Drive/GitHub/afghanistan_election_results_2018/data/past_elections/wj_2005")
-ifelse(!dir.exists(file.path("./raw")), dir.create(file.path("./raw")), FALSE)
-
 
 # ----------------------------------------------------------------------------------
 # scrape the files
@@ -154,6 +151,17 @@ candidate_data <- candidate_data %>% select(
 candidate_data <- arrange(candidate_data, province_code, ballot_position)
 
 write.csv(candidate_data, "final_af_candidate_province_data_2005.csv", row.names = F)
+
+# correct to add a constituency code
+
+wj_2005 <- read.csv("./data/past_elections/wj_2005/final_af_candidate_province_data_2005.csv", stringsAsFactors = F)
+wj_2005$province_code <- as.character(str_pad(wj_2005$province_code, 2, pad = "0", side = "left"))
+
+wj_2005 <- wj_2005 %>% mutate(
+  constituency_code = ifelse(electorate == "General", paste0("G-", province_code), "K-01")
+) %>% dplyr::select(-province_code)
+
+write.csv(wj_2005, "./data/past_elections/wj_2005/final_af_candidate_province_data_2005.csv", row.names = F)
 
 # ----------------------------------------------------------------------------------
 # optional more calculations
