@@ -448,26 +448,43 @@ candidate_key$candidate_name_eng <- trimws(candidate_key$candidate_name_eng)
 write.csv(candidate_key, "./data/keyfiles/candidate_key_2010.csv", row.names = F)
 
 # get party affiliations from IEC / DI candidate lists --------------------
+# too much of pain to process the pdfs, transcribed manually instead but note that DI misclassifies some
 
-file_list <- list.files("./data/past_elections/wj_2010/raw/candidate_lists/DI English Translation/", pattern = ".csv")
 
-  target <- paste0("./data/past_elections/wj_2010/raw/candidate_lists/DI English Translation/", file_list[i])
-  province_import <- read.csv(target, stringsAsFactors = F)
-  province_trimmed <- data.frame(province_import[,5:6])
-  colnames(province_trimmed) <- c("candidate_party_eng", "ballot_position")
-  province_trimmed$candidate_party_eng[province_trimmed$candidate_party_eng == ""] <- NA
-  province_trimmed$ballot_position[province_trimmed$ballot_position == ""] <- NA
-  
-  
-  
-    
-#  candidate_rows <- pdf_text[grepl("^.+(\\d{1,3})", trimws(pdf_text))]
-  candidate_rows_filtered <- pdf_text[grepl("\\d", pdf_text)]
-  
-  candidate_rows_filtered <- pdf_text[grepl("(^\\d{1,3}\\s)", pdf_text)]
-  
-  grepl("(^\\d{1,3}\\s)", pdf_text)
+candidate_key <- read.csv("./data/past_elections/wj_2010/data/keyfiles/candidate_key_2010.csv", stringsAsFactors = F)
 
+party_affiliations <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1PxZhOX5_J1gGTFKKD7_mrZ2d4RWywhuFGqcbHFU1AgE/edit?usp=sharing")
+party_names <- data.frame(unique(party_affiliations$candidate_party_dari))
+
+party_affiliations
+
+candidate_party_transliterated <- data.frame(c(NA, "Hezb-e Muttahed-e Milli Afghanistan",
+                                    "Hizb-e-Musharikat Melli Afghanistan", "Hezb-e-Paiwand Milli Afghanistan", 
+                                    "Hezb-e-Wahdat Islami Afghanistan", "Hezb-e-Wahdat Islami Afghanistan", 
+                                    "Hizb-e-Musharikat Melli Afghanistan", "Nahzat-e Hambastagi-e-Milli-e Afghansiatan"))
+
+candidate_party_eng <- data.frame(c("Independent", "National United Party of Afghanistan",
+                         "Afghan National Participation Party", "National Solidarity Party of Afghanistan",
+                         "Islamic Unity Party of Afghanistan", "Islamic Unity Party of Afghanistan",
+                         "Afghan National Participation Party", "National Solidarity Movement of Afghanistan"))
+
+party_names <- cbind(party_names, candidate_party_transliterated)
+party_names <- cbind(party_names, candidate_party_eng)
+
+colnames(party_names) <- c("candidate_party_dari", "candidate_party_transliterated", "candidate_party_eng")
+
+party_affiliations$candidate_party_eng <- NULL
+party_joined <- left_join(party_affiliations, party_names)
+hezb_corrected <- "حزب وحدت اسلامي افغانستان"
+musharikat_corrected <- "حزب مشارکت ملی افغانستان"
+party_joined$candidate_party_dari[party_joined$candidate_party_dari == "حزب وحدت اسلامی افغانستان"] <- hezb_corrected
+party_joined$candidate_party_dari[party_joined$candidate_party_dari == "مشارکت ملی افغانستان"] <- musharikat_corrected
+party_joined$candidate_party_dari <- trimws(party_joined$candidate_party_dari)
+party_joined$candidate_party_eng <- as.character(party_joined$candidate_party_eng)
+party_joined$candidate_party_transliterated <- as.character(party_joined$candidate_party_transliterated)
+party_joined$candidate_party_transliterated[is.na(party_joined$candidate_party_transliterated)] <- "Mustaqil"
+
+write.csv(party_joined, "./data/past_elections/wj_2010/data/keyfiles/candidate_key_2010.csv", row.names = F)
 
 winners_only <- candidate_key %>% filter(prelim_winner == "Yes" | final_winner == "Yes")
 winners_only <- left_join(winners_only, province_key)
