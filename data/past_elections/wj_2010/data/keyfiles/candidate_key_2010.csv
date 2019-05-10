@@ -1,4 +1,4 @@
-"electorate","constituency_code","candidate_code","ballot_position","candidate_name_eng","candidate_name_dari","candidate_party_dari","incumbent","candidate_gender","prelim_winner","final_winner","disqualified","candidate_party_transliterated","candidate_party_eng","incumbents_matched_to_2005_candidate_code"
+"electorate","constituency_code","candidate_code","ballot_position","candidate_name_eng","candidate_name_dari","candidate_party_dari","past_winners","candidate_gender","prelim_winner","final_winner","disqualified","candidate_party_transliterated","candidate_party_eng","past_winners_matched_to_2005_codes"
 "General","G-01",5765387,1,"Eng. Muhammad Afzal Ahmadzai","انجنیر محمد افضل احمدزی","مستقل","No","Male","No","No","No","Mustaqil","Independent",NA
 "General","G-01",3664613,2,"Babrak Shirzad","ببرک شیرزاد","حزب متحد ملي افغانستان","No","Male","No","No","No","Hezb-e Muttahed-e Milli Afghanistan","National United Party of Afghanistan",NA
 "General","G-01",5765385,3,"Eng. Nimatullah","انجنیر نعمت اله","مستقل","No","Male","No","No","No","Mustaqil","Independent",NA
