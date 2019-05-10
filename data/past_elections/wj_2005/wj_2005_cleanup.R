@@ -163,6 +163,11 @@ wj_2005 <- wj_2005 %>% mutate(
 
 write.csv(wj_2005, "./data/past_elections/wj_2005/final_af_candidate_province_data_2005.csv", row.names = F)
 
+# write a province-constituency key
+
+province_key_2005 <- wj_2005 %>% dplyr::select(electorate, constituency_code, province_name_eng) %>% unique()
+write.csv(province_key_2005, "./data/past_elections/wj_2005/province_key_2005.csv", row.names = F)
+
 # ----------------------------------------------------------------------------------
 # optional more calculations
 
