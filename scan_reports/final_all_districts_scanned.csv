@@ -1,4 +1,39 @@
 "district","list_position","x","province_code"
+"PAGHMAN",2,"#district > option:nth-child(2)",1
+"CHAHAR ASYAB",3,"#district > option:nth-child(3)",1
+"BAGRAMI",4,"#district > option:nth-child(4)",1
+"DEHSABZ",5,"#district > option:nth-child(5)",1
+"SHAKAR DARA",6,"#district > option:nth-child(6)",1
+"MUSAHI",7,"#district > option:nth-child(7)",1
+"MIR BACHA KOT",8,"#district > option:nth-child(8)",1
+"KHAK-E-JABAR",9,"#district > option:nth-child(9)",1
+"KALAKAN",10,"#district > option:nth-child(10)",1
+"GULDARA",11,"#district > option:nth-child(11)",1
+"FARZA",12,"#district > option:nth-child(12)",1
+"ESTALEF",13,"#district > option:nth-child(13)",1
+"QARA BAGH",14,"#district > option:nth-child(14)",1
+"SURUBI",15,"#district > option:nth-child(15)",1
+"Nahia 01",16,"#district > option:nth-child(16)",1
+"Nahia 02",17,"#district > option:nth-child(17)",1
+"Nahia 03",18,"#district > option:nth-child(18)",1
+"Nahia 04",19,"#district > option:nth-child(19)",1
+"Nahia 05",20,"#district > option:nth-child(20)",1
+"Nahia 06",21,"#district > option:nth-child(21)",1
+"Nahia 07",22,"#district > option:nth-child(22)",1
+"Nahia 08",23,"#district > option:nth-child(23)",1
+"Nahia 09",24,"#district > option:nth-child(24)",1
+"Nahia 10",25,"#district > option:nth-child(25)",1
+"Nahia 11",26,"#district > option:nth-child(26)",1
+"Nahia 12",27,"#district > option:nth-child(27)",1
+"Nahia 13",28,"#district > option:nth-child(28)",1
+"Nahia 14",29,"#district > option:nth-child(29)",1
+"Nahia 15",30,"#district > option:nth-child(30)",1
+"Nahia 16",31,"#district > option:nth-child(31)",1
+"Nahia 17",32,"#district > option:nth-child(32)",1
+"Nahia 18",33,"#district > option:nth-child(33)",1
+"Nahia 19",34,"#district > option:nth-child(34)",1
+"Nahia 21",35,"#district > option:nth-child(35)",1
+"Nahia 22",36,"#district > option:nth-child(36)",1
 "PROVINCIAL CAPITAL OF KAPISA (MAHMUDI RAQI)",2,"#district > option:nth-child(2)",2
 "HISSA-E- DUWUMI KOHISTAN",3,"#district > option:nth-child(3)",2
 "KOH BAND",4,"#district > option:nth-child(4)",2

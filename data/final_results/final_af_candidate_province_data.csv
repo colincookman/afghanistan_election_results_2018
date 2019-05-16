@@ -1,4 +1,807 @@
 "electorate","constituency_code","province_code","province_name_eng","province_name_dari","province_name_pashto","candidate_code","ballot_position","candidate_gender","candidate_name_eng","candidate_name_dari","candidate_name_pashto","winner","results_date","results_status","votes"
+"General","G-01","01","Kabul","کابل","کابل","1-1152-35",1,"M","Habibullah Zazai","حبیب الله ځاځی","حبیب الله ځاځی","NO","2019-05-15","Results Status : Certified",1927
+"General","G-01","01","Kabul","کابل","کابل","1-1479-47",2,"M","Ghullam Hussain Naseri","غلام حسین ناصری","غلام حسین ناصری","YES","2019-05-15","Results Status : Certified",4248
+"General","G-01","01","Kabul","کابل","کابل","1-1352-1058",3,"F","Farzana Rezaye","فرزانه رضایی","فرزانه رضایی","NO","2019-05-15","Results Status : Certified",119
+"General","G-01","01","Kabul","کابل","کابل","1-1741-1070",4,"M","sayed Shah Mahmood Malekzadah","سید شاه محمود ملک زاده ","سید شاه محمود ملک زاده ","NO","2019-05-15","Results Status : Certified",92
+"General","G-01","01","Kabul","کابل","کابل","1-1652-63",5,"M","Alhaj Khan Lala Shirzai","الحاج خان لالا شیرزی ","الحاج خان لالا شیرزی ","NO","2019-05-15","Results Status : Certified",237
+"General","G-01","01","Kabul","کابل","کابل","1-1806-1167",6,"F","Shokria Jalalzai","شکریه جلالزی ","شکریه جلالزی ","NO","2019-05-15","Results Status : Certified",175
+"General","G-01","01","Kabul","کابل","کابل","1-1061-18",7,"M","Eng. Najibullah Salamzai","انجنیر نجیب الله سلام زی","انجنیر نجیب الله سلام زی","NO","2019-05-15","Results Status : Certified",655
+"General","G-01","01","Kabul","کابل","کابل","1-1221-11",8,"M","Mohammad Yousuf Rezaye","محمد  یوسف رضایی","محمد  یوسف رضایی","NO","2019-05-15","Results Status : Certified",458
+"General","G-01","01","Kabul","کابل","کابل","1-1663-170",9,"M","Shabir Ahmad Ibrahimi","شبیر احمد ابراهیمی","شبیر احمد ابراهیمی","NO","2019-05-15","Results Status : Certified",205
+"General","G-01","01","Kabul","کابل","کابل","1-1405-112",10,"M","Abdul Ghafar Faizi Zadran","عبدالغفار فیضی  ځدران ","عبدالغفار فیضی  ځدران ","NO","2019-05-15","Results Status : Certified",84
+"General","G-01","01","Kabul","کابل","کابل","1-1562-13",11,"F","Khalida Adib","خالده ادیب ","خالده ادیب ","NO","2019-05-15","Results Status : Certified",256
+"General","G-01","01","Kabul","کابل","کابل","1-1655-1052",12,"F","Sharifa Shirzad Allah Daad"," شریفه شیرزاد الله داد"," شریفه شیرزاد الله داد","NO","2019-05-15","Results Status : Certified",518
+"General","G-01","01","Kabul","کابل","کابل","1-2005-1176",13,"M","Ustad Jafari","استاد جعفری ","استاد جعفری ","NO","2019-05-15","Results Status : Certified",103
+"General","G-01","01","Kabul","کابل","کابل","1-1422-3066",14,"M","Jumma Khan Mohammadi","جمعه  خان محمدی","جمعه  خان محمدی","NO","2019-05-15","Results Status : Certified",239
+"General","G-01","01","Kabul","کابل","کابل","1-1210-102",15,"M","Alhaj Ghullam Sakhi Parsaaye","الحاج غلام سخی پارسائی","الحاج غلام سخی پارسائی","NO","2019-05-15","Results Status : Certified",697
+"General","G-01","01","Kabul","کابل","کابل","1-1477-12",16,"M","Haji Ghullam Maroof Sediqi","حاجی غلام معروف صدیقی","حاجی غلام معروف صدیقی","NO","2019-05-15","Results Status : Certified",477
+"General","G-01","01","Kabul","کابل","کابل","1-1315-24",17,"M","Sayed Saifullah Sadat","سید سیف الله سادات","سید سیف الله سادات","NO","2019-05-15","Results Status : Certified",61
+"General","G-01","01","Kabul","کابل","کابل","1-1402-42",18,"M","Mohammad Edris Sediq","محمد ادریس صدیق","محمد ادریس صدیق","NO","2019-05-15","Results Status : Certified",434
+"General","G-01","01","Kabul","کابل","کابل","1-1330-1",19,"F","Royena Jalali","روبینا جلالی","روبینا جلالی","YES","2019-05-15","Results Status : Certified",809
+"General","G-01","01","Kabul","کابل","کابل","1-1550-1074",20,"M","Sayed Mahmood Zia Dashti","سید محمود ضیا دشتی","سید محمود ضیا دشتی","NO","2019-05-15","Results Status : Certified",315
+"General","G-01","01","Kabul","کابل","کابل","1-1681-51",21,"M","Gharibullah Tabesh","غریب الله تابش","غریب الله تابش","NO","2019-05-15","Results Status : Certified",355
+"General","G-01","01","Kabul","کابل","کابل","1-1752-137",22,"M","Alhaj Mohammad Mosadeq Muqset","الحاج محمد مصدق مقسط","الحاج محمد مصدق مقسط","NO","2019-05-15","Results Status : Certified",173
+"General","G-01","01","Kabul","کابل","کابل","1-1364-1092",23,"M","Arian Khaibar","آرین خیبر ","آرین خیبر ","NO","2019-05-15","Results Status : Certified",273
+"General","G-01","01","Kabul","کابل","کابل","1-1825-107",24,"F","Armaghan Samkanai","ارمغان څمکنی","ارمغان څمکنی","NO","2019-05-15","Results Status : Certified",331
+"General","G-01","01","Kabul","کابل","کابل","1-1198-97",25,"M","Mawalawi Ihsanulhaq Hanafi","مولوی احسان الحق حنفی","مولوی احسان الحق حنفی","NO","2019-05-15","Results Status : Certified",625
+"General","G-01","01","Kabul","کابل","کابل","1-1674-1093",26,"M","Mohammad Shafiq Haqyar","محمد شفیق حقیار","محمد شفیق حقیار","NO","2019-05-15","Results Status : Certified",106
+"General","G-01","01","Kabul","کابل","کابل","1-1415-1169",27,"M","Mohammad Qayoum Khostwal","محمد قیوم خوستوال ","محمد قیوم خوستوال ","NO","2019-05-15","Results Status : Certified",214
+"General","G-01","01","Kabul","کابل","کابل","1-1058-169",28,"M","Assadullah Batori","اسد الله باتوری","اسد الله باتوری","NO","2019-05-15","Results Status : Certified",406
+"General","G-01","01","Kabul","کابل","کابل","1-1400-15",29,"F","Shayesta Saleh","شایسته صالح","شایسته صالح","NO","2019-05-15","Results Status : Certified",57
+"General","G-01","01","Kabul","کابل","کابل","1-1250-67",30,"M","Alhaj Habibullah Ahmadzai","الحاج حبیب الله احمدزی ","الحاج حبیب الله احمدزی ","NO","2019-05-15","Results Status : Certified",1280
+"General","G-01","01","Kabul","کابل","کابل","1-1046-55",31,"F","Razia Arefi","راضیه عارفی ","راضیه عارفی ","NO","2019-05-15","Results Status : Certified",277
+"General","G-01","01","Kabul","کابل","کابل","1-1654-131",32,"M","Sayed Mohammad Sayeedi","سید محمد سعیدی","سید محمد سعیدی","NO","2019-05-15","Results Status : Certified",582
+"General","G-01","01","Kabul","کابل","کابل","1-1605-38",33,"M","Khan Ali Radmand","خانعلی رادمند","خانعلی رادمند","NO","2019-05-15","Results Status : Certified",327
+"General","G-01","01","Kabul","کابل","کابل","1-1537-14",34,"M","Ahmad Jawid Jaihon","احمد جاوید جیحون","احمد جاوید جیحون","YES","2019-05-15","Results Status : Certified",4179
+"General","G-01","01","Kabul","کابل","کابل","1-1778-156",35,"M","Ahmad Hamed Warasta","احمد حامد وارسته","احمد حامد وارسته","NO","2019-05-15","Results Status : Certified",565
+"General","G-01","01","Kabul","کابل","کابل","1-1764-1156",36,"M","Karimullah Jawad","کریم الله جواد ","کریم الله جواد ","NO","2019-05-15","Results Status : Certified",491
+"General","G-01","01","Kabul","کابل","کابل","1-1148-170",37,"M","Mohammad Nayem Paiman","محمد نعیم پیمان ","محمد نعیم پیمان ","NO","2019-05-15","Results Status : Certified",447
+"General","G-01","01","Kabul","کابل","کابل","1-1482-148",38,"M","Eng. Mohammad Dawood Yousufzai","انجنیر محمد داود یوسفزی","انجنیر محمد داود یوسفزی","NO","2019-05-15","Results Status : Certified",60
+"General","G-01","01","Kabul","کابل","کابل","1-1716-150",39,"F","Rahela Jafari","راحله جعفری ","راحله جعفری ","NO","2019-05-15","Results Status : Certified",126
+"General","G-01","01","Kabul","کابل","کابل","1-1407-113",40,"F","Abida Homa Azizi","عابده هما عزیزی","عابده هما عزیزی","NO","2019-05-15","Results Status : Certified",85
+"General","G-01","01","Kabul","کابل","کابل","1-1645-1024",41,"M","Dr. Mohammadullah Shahidi","داکتر محمد الله شهیدی","داکتر محمد الله شهیدی","NO","2019-05-15","Results Status : Certified",374
+"General","G-01","01","Kabul","کابل","کابل","1-1454-123",42,"M","Ahmad Behzad","احمد بهزاد ","احمد بهزاد ","NO","2019-05-15","Results Status : Certified",1204
+"General","G-01","01","Kabul","کابل","کابل","1-1458-117",43,"M","Abdul Qadir Sadeqyar","عبد القدیر صادقیار","عبد القدیر صادقیار","NO","2019-05-15","Results Status : Certified",82
+"General","G-01","01","Kabul","کابل","کابل","1-1388-1192",44,"F","Mariam Maroof Arwin","مریم معروف آروین ","مریم معروف آروین ","NO","2019-05-15","Results Status : Certified",357
+"General","G-01","01","Kabul","کابل","کابل","1-1188-22",45,"M","Alhaj Amirgull Shahin","الحاج امیرگل شاهین ","الحاج امیرگل شاهین ","YES","2019-05-15","Results Status : Certified",4418
+"General","G-01","01","Kabul","کابل","کابل","1-1595-90",46,"M","Haji Homayoun Bahar","حاجی همایون بهار","حاجی همایون بهار","NO","2019-05-15","Results Status : Certified",1289
+"General","G-01","01","Kabul","کابل","کابل","1-1161-126",47,"M","Muzamel Shinwari","مزمل شینواری","مزمل شینواری","NO","2019-05-15","Results Status : Certified",439
+"General","G-01","01","Kabul","کابل","کابل","1-1538-13",48,"F","Frozan Dawoodzai","فروزان داوودزی","فروزان داوودزی","NO","2019-05-15","Results Status : Certified",125
+"General","G-01","01","Kabul","کابل","کابل","1-1073-8",49,"M","Alhaj Mohammad Qasim Jangalbagh","الحاج محمد قسیم جنگل باغ","الحاج محمد قسیم جنگل باغ","NO","2019-05-15","Results Status : Certified",1197
+"General","G-01","01","Kabul","کابل","کابل","1-1555-33",50,"M","Abdul Rahim Ayoubi","عبدالرحیم ایوبی","عبدالرحیم ایوبی","NO","2019-05-15","Results Status : Certified",944
+"General","G-01","01","Kabul","کابل","کابل","1-1234-1",51,"M","Sayed Bahram Sadat","سید بهرام سادات","سید بهرام سادات","NO","2019-05-15","Results Status : Certified",751
+"General","G-01","01","Kabul","کابل","کابل","1-1524-2026",52,"M","Mohammad Dawood Naji","محمد داود ناجی","محمد داود ناجی","NO","2019-05-15","Results Status : Certified",2152
+"General","G-01","01","Kabul","کابل","کابل","1-1438-254",53,"M","Gen. Abdul Wahed Taqat","جنرال عبدالواحد طاقت","جنرال عبدالواحد طاقت","NO","2019-05-15","Results Status : Certified",292
+"General","G-01","01","Kabul","کابل","کابل","1-1710-163",54,"M","Abdul Basir Khalili Yousufzai","عبدالبصیر خلیلی یوسفزی","عبدالبصیر خلیلی یوسفزی","NO","2019-05-15","Results Status : Certified",84
+"General","G-01","01","Kabul","کابل","کابل","1-1310-37",55,"M","Mohammad Lais Andar","محمدلیث اندړ","محمدلیث اندړ","NO","2019-05-15","Results Status : Certified",41
+"General","G-01","01","Kabul","کابل","کابل","1-1896-158",56,"M","Mohammad Shoaib Iqbal Zazai","محمد شعیب اقبال ځاځی","محمد شعیب اقبال ځاځی","NO","2019-05-15","Results Status : Certified",105
+"General","G-01","01","Kabul","کابل","کابل","1-1050-42",57,"M","Nasrullah Mesbah","نصرالله مصباح","نصرالله مصباح","NO","2019-05-15","Results Status : Certified",84
+"General","G-01","01","Kabul","کابل","کابل","1-1270-20",58,"M","Mohammad Anwar Allah Daad","محمد انور الله داد ","محمد انور الله داد ","NO","2019-05-15","Results Status : Certified",198
+"General","G-01","01","Kabul","کابل","کابل","1-1276-40",59,"M","Alhaj Qudratullah Sahak","الحاج قدرت الله سهاک","الحاج قدرت الله سهاک","NO","2019-05-15","Results Status : Certified",1482
+"General","G-01","01","Kabul","کابل","کابل","1-1648-1078",60,"M","Salman Ali Dostzadah","سلمان علی دوست زاده","سلمان علی دوست زاده","NO","2019-05-15","Results Status : Certified",383
+"General","G-01","01","Kabul","کابل","کابل","1-1567-23",61,"M","Mohammad Layeq Malekzadah","محمد لایق ملک زاده","محمد لایق ملک زاده","NO","2019-05-15","Results Status : Certified",434
+"General","G-01","01","Kabul","کابل","کابل","1-1225-123",62,"M","Ziaullhaq Shafiq","ضیأالحق شفیق","ضیأالحق شفیق","NO","2019-05-15","Results Status : Certified",1026
+"General","G-01","01","Kabul","کابل","کابل","1-1719-1162",63,"F","Enjila Bafaiz","انجیلا با فیض ","انجیلا با فیض ","NO","2019-05-15","Results Status : Certified",105
+"General","G-01","01","Kabul","کابل","کابل","1-1336-22",64,"M","Ghullam Habib Fawad","غلام حبیب فواد","غلام حبیب فواد","NO","2019-05-15","Results Status : Certified",511
+"General","G-01","01","Kabul","کابل","کابل","1-1789-142",65,"M","Dr. Moen Gull Samkanai","دوکتور معین گل څمکنی","دوکتور معین گل څمکنی","NO","2019-05-15","Results Status : Certified",237
+"General","G-01","01","Kabul","کابل","کابل","1-1838-192",66,"M","Mohammad Hassan Mamozai","محمد حسن مموزی","محمد حسن مموزی","NO","2019-05-15","Results Status : Certified",595
+"General","G-01","01","Kabul","کابل","کابل","1-1799-160",67,"M","Abdul Wahed Khan Nasratyar","عبدالواحد خان نصرتیار","عبدالواحد خان نصرتیار","NO","2019-05-15","Results Status : Certified",267
+"General","G-01","01","Kabul","کابل","کابل","1-1566-58",68,"M","Mohammad Yar Stanikzai","محمد یار ستانکزی ","محمد یار ستانکزی ","NO","2019-05-15","Results Status : Certified",162
+"General","G-01","01","Kabul","کابل","کابل","1-1480-52",69,"M","Alhaj Farid Khan Zurmati","الحاج فرید خان زرمتی","الحاج فرید خان زرمتی","NO","2019-05-15","Results Status : Certified",169
+"General","G-01","01","Kabul","کابل","کابل","1-1339-28",70,"M","Deplom Eng. Ghullam Ali","دیپلوم انجنیرغلام علی","دیپلوم انجنیرغلام علی","NO","2019-05-15","Results Status : Certified",226
+"General","G-01","01","Kabul","کابل","کابل","1-1300-41",71,"M","Sayed Burhan Sayed Jamal Taheri","سید برهان سید جمال طاهری","سید برهان سید جمال طاهری","NO","2019-05-15","Results Status : Certified",267
+"General","G-01","01","Kabul","کابل","کابل","1-1275-46",72,"M","Abdul Basir Nabizadah","عبدالبصیر نبی زاده ","عبدالبصیر نبی زاده ","NO","2019-05-15","Results Status : Certified",483
+"General","G-01","01","Kabul","کابل","کابل","1-1307-26",73,"M","Abdul Hamed Hamidi","عبدالحامد حمیدی","عبدالحامد حمیدی","NO","2019-05-15","Results Status : Certified",876
+"General","G-01","01","Kabul","کابل","کابل","1-1156-37",74,"M","Mohammad Salim Paigir","محمد سلیم پیگیر ","محمد سلیم پیگیر ","NO","2019-05-15","Results Status : Certified",118
+"General","G-01","01","Kabul","کابل","کابل","1-1064-7",75,"M","Mohammad Sajad Hashimi","محمد سجاد هاشمی ","محمد سجاد هاشمی ","NO","2019-05-15","Results Status : Certified",185
+"General","G-01","01","Kabul","کابل","کابل","1-1037-117",76,"M","Eng. Mohmood Haidari","انجنیر محمود حیدری ","انجنیر محمود حیدری ","NO","2019-05-15","Results Status : Certified",57
+"General","G-01","01","Kabul","کابل","کابل","1-1048-1159",77,"F","Nabila Sayedjanzada Hamid","نبیلا سیدجان زاده حمید ","نبیلا سیدجان زاده حمید ","NO","2019-05-15","Results Status : Certified",64
+"General","G-01","01","Kabul","کابل","کابل","1-1815-140",78,"M","Khesraw Khalid","خسرو خالد ","خسرو خالد ","NO","2019-05-15","Results Status : Certified",126
+"General","G-01","01","Kabul","کابل","کابل","1-1704-56",79,"M","Alhaj sayed Mohammad Mohammadi","الحاج سید محمد محمدی","الحاج سید محمد محمدی","YES","2019-05-15","Results Status : Certified",3694
+"General","G-01","01","Kabul","کابل","کابل","1-1189-2027",80,"F","Maari","ماری","ماری","NO","2019-05-15","Results Status : Certified",114
+"General","G-01","01","Kabul","کابل","کابل","1-1688-1168",81,"M","Gen. Mohammad Aalem Kuhmardi","جنرال محمد عالم کهمردی","جنرال محمد عالم کهمردی","NO","2019-05-15","Results Status : Certified",375
+"General","G-01","01","Kabul","کابل","کابل","1-1381-29",82,"M","Alhaj Tamiz Khan Mahmoodzai","الحاج تمیزخان محمودزی","الحاج تمیزخان محمودزی","NO","2019-05-15","Results Status : Certified",842
+"General","G-01","01","Kabul","کابل","کابل","1-1790-1042",83,"M","Haji Rohullah Mujahid","حاجی روح الله مجاهد","حاجی روح الله مجاهد","NO","2019-05-15","Results Status : Certified",328
+"General","G-01","01","Kabul","کابل","کابل","1-1066-102",84,"M","Tawfiq Wahdat","توفیق وحدت","توفیق وحدت","YES","2019-05-15","Results Status : Certified",2215
+"General","G-01","01","Kabul","کابل","کابل","35-1771-158",85,"M","Gen. Abdul Rashid Sheja","جنرال عبدالرشید شجاع","جنرال عبدالرشید شجاع","NO","2019-05-15","Results Status : Certified",220
+"General","G-01","01","Kabul","کابل","کابل","1-1183-52",86,"F","Saleha Sadat","صالحه سعادت","صالحه سعادت","NO","2019-05-15","Results Status : Certified",321
+"General","G-01","01","Kabul","کابل","کابل","1-1876-138",87,"M","Fazel Menallah Momtaz","فضل من الله ممتاز","فضل من الله ممتاز","NO","2019-05-15","Results Status : Certified",195
+"General","G-01","01","Kabul","کابل","کابل","1-1076-50",88,"M","haji Sekandar Fraji","حاجی سکندر فراجی","حاجی سکندر فراجی","NO","2019-05-15","Results Status : Certified",195
+"General","G-01","01","Kabul","کابل","کابل","1-1023-75",89,"M","Najibullah Naser","نجیب الله ناصر","نجیب الله ناصر","YES","2019-05-15","Results Status : Certified",3356
+"General","G-01","01","Kabul","کابل","کابل","1-1649-45",90,"M","Sayed Mohammad Hadi Hadi","سید محمد هادی هادی","سید محمد هادی هادی","NO","2019-05-15","Results Status : Certified",328
+"General","G-01","01","Kabul","کابل","کابل","1-1457-96",91,"M","Kheyali Jaan Sarwan","خیالی جان ساروان ","خیالی جان ساروان ","NO","2019-05-15","Results Status : Certified",290
+"General","G-01","01","Kabul","کابل","کابل","1-1239-59",92,"M","Rahmatullah Salehi","رحمت الله صالحی","رحمت الله صالحی","NO","2019-05-15","Results Status : Certified",686
+"General","G-01","01","Kabul","کابل","کابل","1-1526-1023",93,"M","Zewaruddin Zewar","زیورالدین زیور","زیورالدین زیور","NO","2019-05-15","Results Status : Certified",116
+"General","G-01","01","Kabul","کابل","کابل","1-1470-160",94,"F","Dr. Aatefa Tayeb","داکترعاطفه طیب ","داکترعاطفه طیب ","NO","2019-05-15","Results Status : Certified",568
+"General","G-01","01","Kabul","کابل","کابل","1-1496-176",95,"M","Mohammad Ashraf Pirzad","محمد اشرف پیرزاد ","محمد اشرف پیرزاد ","NO","2019-05-15","Results Status : Certified",62
+"General","G-01","01","Kabul","کابل","کابل","1-1445-26",96,"M","Haji Sardar Agha Naseri","حاجی سردار آغا ناصری","حاجی سردار آغا ناصری","NO","2019-05-15","Results Status : Certified",438
+"General","G-01","01","Kabul","کابل","کابل","1-1163-176",97,"M","Abdul Mansor Rasool","عبدالمنصور رسول","عبدالمنصور رسول","NO","2019-05-15","Results Status : Certified",342
+"General","G-01","01","Kabul","کابل","کابل","1-1017-58",98,"M","Alhaj Nazifullah Gull Afghan","الحاج نظیف الله گل افغان","الحاج نظیف الله گل افغان","NO","2019-05-15","Results Status : Certified",845
+"General","G-01","01","Kabul","کابل","کابل","1-1008-143",99,"F","Farida Sahar","فریده سحر","فریده سحر","NO","2019-05-15","Results Status : Certified",85
+"General","G-01","01","Kabul","کابل","کابل","1-1548-197",100,"M","Mirza Alizadah","میرزا علی زاده","میرزا علی زاده","NO","2019-05-15","Results Status : Certified",168
+"General","G-01","01","Kabul","کابل","کابل","1-1873-152",101,"M","Abdul Qader Hotkhel","عبدالقادر هوت خیل","عبدالقادر هوت خیل","NO","2019-05-15","Results Status : Certified",454
+"General","G-01","01","Kabul","کابل","کابل","1-1317-101",102,"F","Bibi Kubra Mustafawi","بی بی کبرا مصطفوی","بی بی کبرا مصطفوی","NO","2019-05-15","Results Status : Certified",570
+"General","G-01","01","Kabul","کابل","کابل","1-1426-218",103,"M","Lft-Gen. Sayed Aman","تورنجنرال سید امان ","تورنجنرال سید امان ","NO","2019-05-15","Results Status : Certified",202
+"General","G-01","01","Kabul","کابل","کابل","1-1855-1186",104,"M","Abdul Mujib Safi Babrak","عبدالمجیب صافی ببرک ","عبدالمجیب صافی ببرک ","NO","2019-05-15","Results Status : Certified",201
+"General","G-01","01","Kabul","کابل","کابل","1-1459-121",105,"M","Khwaja Mahbob Sediqi","خواجه محبوب صدیقی ","خواجه محبوب صدیقی ","NO","2019-05-15","Results Status : Certified",562
+"General","G-01","01","Kabul","کابل","کابل","1-1443-91",106,"M","Haji Mohammad Farhad Sediqi","حاجی محمد فرهاد صدیقی","حاجی محمد فرهاد صدیقی","NO","2019-05-15","Results Status : Certified",1692
+"General","G-01","01","Kabul","کابل","کابل","1-1205-3",107,"M","Ekramuddin Wali","اکرام الدین  ولی","اکرام الدین  ولی","NO","2019-05-15","Results Status : Certified",302
+"General","G-01","01","Kabul","کابل","کابل","1-1854-144",108,"M","Eidi Mohammad Shareqi","عیدی محمد شارقی","عیدی محمد شارقی","NO","2019-05-15","Results Status : Certified",115
+"General","G-01","01","Kabul","کابل","کابل","1-1732-171",109,"F","Habiba Qaderi","حبیبه قادری","حبیبه قادری","NO","2019-05-15","Results Status : Certified",136
+"General","G-01","01","Kabul","کابل","کابل","1-1201-31",110,"M","Sayed Qutbuddin Roydar","سید قطب الدین رویدار","سید قطب الدین رویدار","NO","2019-05-15","Results Status : Certified",1168
+"General","G-01","01","Kabul","کابل","کابل","1-1786-165",111,"F","Sediqa Popalzai","صدیقه پوپلزی","صدیقه پوپلزی","NO","2019-05-15","Results Status : Certified",33
+"General","G-01","01","Kabul","کابل","کابل","1-1512-131",112,"M","Dr. Wahidullah Ahmadzai","داکتر وحید الله احمدزی ","داکتر وحید الله احمدزی ","NO","2019-05-15","Results Status : Certified",97
+"General","G-01","01","Kabul","کابل","کابل","1-1611-46",113,"M","Alhaj Hasibullah Samim","الحاج حسیب الله صمیم","الحاج حسیب الله صمیم","NO","2019-05-15","Results Status : Certified",1857
+"General","G-01","01","Kabul","کابل","کابل","1-1602-45",114,"M","Alhaj Faizullah Hashemi","الحاج فیض الله هاشمی ","الحاج فیض الله هاشمی ","NO","2019-05-15","Results Status : Certified",1717
+"General","G-01","01","Kabul","کابل","کابل","1-1508-103",115,"M","Ahmad Shekeb Farahi","احمد شکیب فراهی","احمد شکیب فراهی","NO","2019-05-15","Results Status : Certified",328
+"General","G-01","01","Kabul","کابل","کابل","1-1756-3040",116,"M","Reza Khan Aref Mukhles","رضا خان عارف مخلص","رضا خان عارف مخلص","NO","2019-05-15","Results Status : Certified",320
+"General","G-01","01","Kabul","کابل","کابل","1-1149-80",117,"M","Salim Khan Kunduzi","سلیم خان کندوزی","سلیم خان کندوزی","NO","2019-05-15","Results Status : Certified",570
+"General","G-01","01","Kabul","کابل","کابل","1-1091-1104",118,"F","Fatema Akbari","فاطمه اکبری","فاطمه اکبری","NO","2019-05-15","Results Status : Certified",51
+"General","G-01","01","Kabul","کابل","کابل","1-1248-120",119,"M","Qurban Ali Uruzghani","قربان علی ارزگانی ","قربان علی ارزگانی ","NO","2019-05-15","Results Status : Certified",223
+"General","G-01","01","Kabul","کابل","کابل","1-1174-19",120,"M","Hamed Sultani","حامد سلطانی","حامد سلطانی","NO","2019-05-15","Results Status : Certified",2051
+"General","G-01","01","Kabul","کابل","کابل","1-1213-174",121,"F","Khatera Isshaqzai","خاطره اسحق زی","خاطره اسحق زی","NO","2019-05-15","Results Status : Certified",197
+"General","G-01","01","Kabul","کابل","کابل","1-1040-15",122,"M","Ramazan Ali Rasooli","رمضان علی رسولی","رمضان علی رسولی","NO","2019-05-15","Results Status : Certified",425
+"General","G-01","01","Kabul","کابل","کابل","1-1493-1080",123,"M","Mawalawi Nader Shah Baligh","مولوی نادرشاه  بلیغ","مولوی نادرشاه  بلیغ","NO","2019-05-15","Results Status : Certified",911
+"General","G-01","01","Kabul","کابل","کابل","1-1155-102",124,"M","Kalimullah Hamsukhan","کلیم الله هم سخن ","کلیم الله هم سخن ","NO","2019-05-15","Results Status : Certified",73
+"General","G-01","01","Kabul","کابل","کابل","1-2009-1107",125,"M","Phd. Mohammad Dawood Rawosh","پوهاند محمد داود راوش ","پوهاند محمد داود راوش ","NO","2019-05-15","Results Status : Certified",168
+"General","G-01","01","Kabul","کابل","کابل","1-1043-94",126,"M","Mohammad Nabi Baraki","محمد نبی بره کی ","محمد نبی بره کی ","NO","2019-05-15","Results Status : Certified",106
+"General","G-01","01","Kabul","کابل","کابل","1-1481-144",127,"M","Dr. Abdul Satar Stanikzai","داکتر عبدالستار ستانکزی","داکتر عبدالستار ستانکزی","NO","2019-05-15","Results Status : Certified",31
+"General","G-01","01","Kabul","کابل","کابل","1-1529-6",128,"F","Sohaila Sahar","سهیلا سحر","سهیلا سحر","NO","2019-05-15","Results Status : Certified",327
+"General","G-01","01","Kabul","کابل","کابل","1-1010-32",129,"M","Obaidullah Kalimzai Wardak"," عبیدالله کلیمزی وردک"," عبیدالله کلیمزی وردک","YES","2019-05-15","Results Status : Certified",2449
+"General","G-01","01","Kabul","کابل","کابل","1-1103-149",130,"M","Mohammad Ibrahim Fedaye","محمد ابراهیم فدای","محمد ابراهیم فدای","NO","2019-05-15","Results Status : Certified",41
+"General","G-01","01","Kabul","کابل","کابل","1-1631-1210",131,"F","Laila Ali","لیلا علی ","لیلا علی ","NO","2019-05-15","Results Status : Certified",29
+"General","G-01","01","Kabul","کابل","کابل","1-1424-173",132,"F","Shaima Rahimi","شیما رحیمی ","شیما رحیمی ","NO","2019-05-15","Results Status : Certified",27
+"General","G-01","01","Kabul","کابل","کابل","1-1287-68",133,"M","Mustafa Sultani","مصطفی سلطانی","مصطفی سلطانی","NO","2019-05-15","Results Status : Certified",437
+"General","G-01","01","Kabul","کابل","کابل","1-1216-47",134,"M","Ahmad Zaki Zahed","احمد ذکی زاهد ","احمد ذکی زاهد ","NO","2019-05-15","Results Status : Certified",1838
+"General","G-01","01","Kabul","کابل","کابل","1-1784-3072",135,"M","Sayed Assadullah Hashimi","سید اسدالله  هاشمی","سید اسدالله  هاشمی","NO","2019-05-15","Results Status : Certified",134
+"General","G-01","01","Kabul","کابل","کابل","1-1478-72",136,"M","Ajmal Balochzadah","اجمل بلوچ زاده ","اجمل بلوچ زاده ","NO","2019-05-15","Results Status : Certified",292
+"General","G-01","01","Kabul","کابل","کابل","1-1831-147",137,"M","Deen Mohammad Darwishi","دین محمد درویشی ","دین محمد درویشی ","NO","2019-05-15","Results Status : Certified",108
+"General","G-01","01","Kabul","کابل","کابل","1-1895-177",138,"M","sayed Ibrahim Hashemi","سید ابراهیم هاشیمی ","سید ابراهیم هاشیمی ","NO","2019-05-15","Results Status : Certified",30
+"General","G-01","01","Kabul","کابل","کابل","1-1111-151",139,"F","Ustad Robaba Parwani Darwish","استاد ربابه پروانی درویش","استاد ربابه پروانی درویش","NO","2019-05-15","Results Status : Certified",244
+"General","G-01","01","Kabul","کابل","کابل","1-1279-222",140,"F","Mariam Yousufi","مریم یوسفی","مریم یوسفی","NO","2019-05-15","Results Status : Certified",18
+"General","G-01","01","Kabul","کابل","کابل","1-1440-71",141,"M","Mohammad Nazir Ahmadzai","محمد نذیر احمدزی","محمد نذیر احمدزی","NO","2019-05-15","Results Status : Certified",1857
+"General","G-01","01","Kabul","کابل","کابل","1-1178-72",142,"F","Zahra Sepher","زهرا سپهر","زهرا سپهر","NO","2019-05-15","Results Status : Certified",265
+"General","G-01","01","Kabul","کابل","کابل","1-1117-1019",143,"F","Helai Ershad","هیلۍ  ارشاد","هیلۍ  ارشاد","NO","2019-05-15","Results Status : Certified",149
+"General","G-01","01","Kabul","کابل","کابل","1-1147-213",144,"M","Eng. Rohullah Zarif","انجنیر روح الله ظریف","انجنیر روح الله ظریف","NO","2019-05-15","Results Status : Certified",46
+"General","G-01","01","Kabul","کابل","کابل","1-1544-3",145,"F","Farida Sediqi","فریده صدیقی ","فریده صدیقی ","NO","2019-05-15","Results Status : Certified",71
+"General","G-01","01","Kabul","کابل","کابل","1-1031-1011",146,"M","Mawla Mohammad Paiman Akakhel","مولا محمد ‍‍‍پیمان اکاخیل","مولا محمد ‍‍‍پیمان اکاخیل","NO","2019-05-15","Results Status : Certified",1783
+"General","G-01","01","Kabul","کابل","کابل","1-1733-168",147,"M","Mohammad Nabi Ayani","محمد نبی عیانی","محمد نبی عیانی","NO","2019-05-15","Results Status : Certified",44
+"General","G-01","01","Kabul","کابل","کابل","1-1359-3057",148,"M","Mohammad Edris Stanikzai","محمد ادریس  ستانکزی ","محمد ادریس  ستانکزی ","NO","2019-05-15","Results Status : Certified",171
+"General","G-01","01","Kabul","کابل","کابل","1-1747-181",149,"M","Sayed Paiwand Ali Sajadi","سید پیوند علی سجادی","سید پیوند علی سجادی","NO","2019-05-15","Results Status : Certified",55
+"General","G-01","01","Kabul","کابل","کابل","1-1051-43",150,"M","Dr. Sayed Makhdom Rahin","دکتور سید مخدوم رهین","دکتور سید مخدوم رهین","NO","2019-05-15","Results Status : Certified",133
+"General","G-01","01","Kabul","کابل","کابل","1-1096-16",151,"M","Alhaj Shir Aqa Mohammadi","الحاج شیراقا محمدی","الحاج شیراقا محمدی","NO","2019-05-15","Results Status : Certified",159
+"General","G-01","01","Kabul","کابل","کابل","1-1442-4",152,"M","Alhaj Abdul Qayoum Khairkhwah","الحاج عبدالقیوم خیرخواه","الحاج عبدالقیوم خیرخواه","YES","2019-05-15","Results Status : Certified",6133
+"General","G-01","01","Kabul","کابل","کابل","1-1138-3053",153,"M","Ahmadullah Aksir","احمدالله  اکسیر","احمدالله  اکسیر","NO","2019-05-15","Results Status : Certified",59
+"General","G-01","01","Kabul","کابل","کابل","1-1024-53",154,"M","Mawlana Mohammad Qasem Wazirzada","مولانا محمد قاسم وزیرزاده","مولانا محمد قاسم وزیرزاده","NO","2019-05-15","Results Status : Certified",769
+"General","G-01","01","Kabul","کابل","کابل","1-1313-64",155,"M","Haji Mohammad Zaman Rajabi","حاجی محمد زمان رجبی","حاجی محمد زمان رجبی","NO","2019-05-15","Results Status : Certified",241
+"General","G-01","01","Kabul","کابل","کابل","1-1659-122",156,"F","Arezo Akbari","آرزو اکبری","آرزو اکبری","NO","2019-05-15","Results Status : Certified",46
+"General","G-01","01","Kabul","کابل","کابل","1-1503-1199",157,"M","Eng. Karimullah Waziri"," انجنیر کریم الله وزیری"," انجنیر کریم الله وزیری","NO","2019-05-15","Results Status : Certified",10
+"General","G-01","01","Kabul","کابل","کابل","1-1613-65",158,"M","Ahmadullah Barikzai","احمد الله بارکزی","احمد الله بارکزی","NO","2019-05-15","Results Status : Certified",173
+"General","G-01","01","Kabul","کابل","کابل","1-1822-141",159,"M","Mohammad Yousuf Nawabi","محمد یوسف نوابی","محمد یوسف نوابی","NO","2019-05-15","Results Status : Certified",91
+"General","G-01","01","Kabul","کابل","کابل","1-1560-1014",160,"M","Toryalai Shofaye","توریالی شوفه یی","توریالی شوفه یی","NO","2019-05-15","Results Status : Certified",274
+"General","G-01","01","Kabul","کابل","کابل","1-1535-45",161,"M","Mohammad Ibrahim Qasemi","محمد ابراهیم قاسمی","محمد ابراهیم قاسمی","NO","2019-05-15","Results Status : Certified",1759
+"General","G-01","01","Kabul","کابل","کابل","1-1793-167",162,"M","Dr. Ajmal Aazem","داکتر اجمل عازم ","داکتر اجمل عازم ","NO","2019-05-15","Results Status : Certified",171
+"General","G-01","01","Kabul","کابل","کابل","1-1644-87",163,"M","Mohammad Yaqoob Zalmai Naseri","محمد یعقوب زلمی ناصری","محمد یعقوب زلمی ناصری","NO","2019-05-15","Results Status : Certified",402
+"General","G-01","01","Kabul","کابل","کابل","1-1098-175",164,"M","Sayed Aziz Ahmad Wardak","سید عزیز احمد وردک","سید عزیز احمد وردک","NO","2019-05-15","Results Status : Certified",65
+"General","G-01","01","Kabul","کابل","کابل","1-1325-39",165,"M","Abdul Hafiz Mansoor","عبدالحفیظ منصور","عبدالحفیظ منصور","NO","2019-05-15","Results Status : Certified",1245
+"General","G-01","01","Kabul","کابل","کابل","1-1737-251",166,"M","Mawezuddin Osmani","موعیزالدین عثمانی","موعیزالدین عثمانی","NO","2019-05-15","Results Status : Certified",25
+"General","G-01","01","Kabul","کابل","کابل","1-1243-35",167,"M","Dr. Mohammad Qasem Elyasi","دکترمحمد قاسم الیاسی","دکترمحمد قاسم الیاسی","NO","2019-05-15","Results Status : Certified",764
+"General","G-01","01","Kabul","کابل","کابل","1-1003-13",168,"F","Freshta Farah","فرشته فرح","فرشته فرح","NO","2019-05-15","Results Status : Certified",90
+"General","G-01","01","Kabul","کابل","کابل","1-1321-71",169,"M","Aashna Gull Bandawal","اشنا گل بانډه وال","اشنا گل بانډه وال","NO","2019-05-15","Results Status : Certified",220
+"General","G-01","01","Kabul","کابل","کابل","1-1525-53",170,"M","Mohammad Latif Fayaz","محمد لطیف فیاض","محمد لطیف فیاض","NO","2019-05-15","Results Status : Certified",502
+"General","G-01","01","Kabul","کابل","کابل","1-1888-175",171,"M","Temorshah shahi","تیمورشاه شاهی","تیمورشاه شاهی","NO","2019-05-15","Results Status : Certified",518
+"General","G-01","01","Kabul","کابل","کابل","1-1211-78",172,"M","Abdul Sabor Gardizi","عبدالصبور گردیزی","عبدالصبور گردیزی","NO","2019-05-15","Results Status : Certified",132
+"General","G-01","01","Kabul","کابل","کابل","1-1399-63",173,"F","Habib Zaki Rohgar","حبیبه ذکی روهگر","حبیبه ذکی روهگر","NO","2019-05-15","Results Status : Certified",159
+"General","G-01","01","Kabul","کابل","کابل","1-1005-179",174,"M","Mohammad Azam Azami Dehsabzi","محمد اعظم اعظمی ده سبزی ","محمد اعظم اعظمی ده سبزی ","NO","2019-05-15","Results Status : Certified",137
+"General","G-01","01","Kabul","کابل","کابل","1-1328-79",175,"F","Fahima Babakarkhel","فهیمه بابکر خیل","فهیمه بابکر خیل","NO","2019-05-15","Results Status : Certified",45
+"General","G-01","01","Kabul","کابل","کابل","1-1033-16",176,"M","Mufti Sayed Masood Hashemi","مفتی سید مسعود هاشمی ","مفتی سید مسعود هاشمی ","NO","2019-05-15","Results Status : Certified",35
+"General","G-01","01","Kabul","کابل","کابل","1-2002-1033",177,"M","Leyaqat Ali Faramarz","لیاقت علی فرامرز","لیاقت علی فرامرز","NO","2019-05-15","Results Status : Certified",112
+"General","G-01","01","Kabul","کابل","کابل","1-1263-3047",178,"M","Najibullah Islamyar","نجیب الله اسلام یار","نجیب الله اسلام یار","NO","2019-05-15","Results Status : Certified",1162
+"General","G-01","01","Kabul","کابل","کابل","1-1824-193",179,"M","Mohammad Nayem Nazari","محمد نعیم نظری","محمد نعیم نظری","NO","2019-05-15","Results Status : Certified",498
+"General","G-01","01","Kabul","کابل","کابل","1-1534-62",180,"M","Haji Mohammad Nawab Totakhel","حاجی محمد نواب طوطا خیل","حاجی محمد نواب طوطا خیل","NO","2019-05-15","Results Status : Certified",192
+"General","G-01","01","Kabul","کابل","کابل","1-1792-203",181,"M","Sahebzada Mohammad Wali Mutaqi","صاحب زاده محمد ولی  متقی","صاحب زاده محمد ولی  متقی","NO","2019-05-15","Results Status : Certified",17
+"General","G-01","01","Kabul","کابل","کابل","1-1311-6",182,"M","Sayed Akbar Shah Hashemi","سید اکبرشاه هاشمی","سید اکبرشاه هاشمی","NO","2019-05-15","Results Status : Certified",779
+"General","G-01","01","Kabul","کابل","کابل","1-1558-80",183,"M","Saifuddin Shahab","سیف الدین شهاب","سیف الدین شهاب","NO","2019-05-15","Results Status : Certified",102
+"General","G-01","01","Kabul","کابل","کابل","1-1869-219",184,"F","Zarghona Wali","زرغونه ولی","زرغونه ولی","NO","2019-05-15","Results Status : Certified",35
+"General","G-01","01","Kabul","کابل","کابل","1-1530-63",185,"M","Dr. jafar mahdawi"," د کتر جعفر مهدوی "," د کتر جعفر مهدوی ","NO","2019-05-15","Results Status : Certified",1372
+"General","G-01","01","Kabul","کابل","کابل","1-1576-133",186,"M","Pashtonmal Ahmadzai","پشتونمل احمدزی ","پشتونمل احمدزی ","NO","2019-05-15","Results Status : Certified",50
+"General","G-01","01","Kabul","کابل","کابل","1-1514-3042",187,"M","Alhaj Mohammad Ibrahim Aasem","الحاج محمد ابراهیم عاصم","الحاج محمد ابراهیم عاصم","NO","2019-05-15","Results Status : Certified",1239
+"General","G-01","01","Kabul","کابل","کابل","1-1510-185",188,"M","Dr. Ahmad Tamim Rahman","داکتر احمد تمیم رحمان","داکتر احمد تمیم رحمان","NO","2019-05-15","Results Status : Certified",104
+"General","G-01","01","Kabul","کابل","کابل","1-1413-184",189,"M","Karimullah Akhondzadah","کریم الله اخندزاده","کریم الله اخندزاده","NO","2019-05-15","Results Status : Certified",162
+"General","G-01","01","Kabul","کابل","کابل","1-1720-136",190,"M","Abdul Baqi Amin","عبدالباقی امین ","عبدالباقی امین ","NO","2019-05-15","Results Status : Certified",929
+"General","G-01","01","Kabul","کابل","کابل","1-1191-1055",191,"F","Somaya Bayat Kazemi","سٌمیه بیات کاظمی","سٌمیه بیات کاظمی","NO","2019-05-15","Results Status : Certified",104
+"General","G-01","01","Kabul","کابل","کابل","1-1233-189",192,"M","Habibullah Esmati","حبیب الله عصمتی","حبیب الله عصمتی","NO","2019-05-15","Results Status : Certified",1580
+"General","G-01","01","Kabul","کابل","کابل","1-1690-120",193,"M","Rahimullah Hanifi","رحیم الله حنیفی","رحیم الله حنیفی","NO","2019-05-15","Results Status : Certified",243
+"General","G-01","01","Kabul","کابل","کابل","1-1894-143",194,"M","Haji Salim Logarwal","حاجی سلیم لوگروال","حاجی سلیم لوگروال","NO","2019-05-15","Results Status : Certified",57
+"General","G-01","01","Kabul","کابل","کابل","1-1206-66",195,"M","Dr. Abdul Rashid Janbaz","داکتر عبدالرشید جانباز","داکتر عبدالرشید جانباز","NO","2019-05-15","Results Status : Certified",308
+"General","G-01","01","Kabul","کابل","کابل","1-1845-3038",196,"F","Shakila Nawid","شکیلا نوید","شکیلا نوید","NO","2019-05-15","Results Status : Certified",24
+"General","G-01","01","Kabul","کابل","کابل","1-1574-167",197,"M","Eng. Ahmad Fahim Nasimyar","انجنیر احمد فهیم نسیمیار","انجنیر احمد فهیم نسیمیار","NO","2019-05-15","Results Status : Certified",39
+"General","G-01","01","Kabul","کابل","کابل","1-1722-145",198,"M","Dr. Sayed Abdul Wahab Rahmani","داکترسید عبدالوهاب رحمانی","داکترسید عبدالوهاب رحمانی","NO","2019-05-15","Results Status : Certified",27
+"General","G-01","01","Kabul","کابل","کابل","1-1223-100",199,"M","Haji Mohammad Dawood Kalakani","حاجی محمد داود کلکانی","حاجی محمد داود کلکانی","NO","2019-05-15","Results Status : Certified",2137
+"General","G-01","01","Kabul","کابل","کابل","1-1167-148",200,"M","Mohammad Tariq Eqtedari","محمد طارق اقتداری","محمد طارق اقتداری","NO","2019-05-15","Results Status : Certified",42
+"General","G-01","01","Kabul","کابل","کابل","1-1299-1040",201,"M","Abdul Samad stanikzai","عبدالصمد ستانکزی","عبدالصمد ستانکزی","NO","2019-05-15","Results Status : Certified",1976
+"General","G-01","01","Kabul","کابل","کابل","1-1770-199",202,"M","Farid Ahmad Nezami","فرید احمد نظامی","فرید احمد نظامی","NO","2019-05-15","Results Status : Certified",535
+"General","G-01","01","Kabul","کابل","کابل","1-1843-141",203,"F","Mahsa Qurbani","مهسا قربانی ","مهسا قربانی ","NO","2019-05-15","Results Status : Certified",31
+"General","G-01","01","Kabul","کابل","کابل","1-1378-159",204,"M","Khaleqdad Balaaghi","خالقداد بلاغی ","خالقداد بلاغی ","NO","2019-05-15","Results Status : Certified",7
+"General","G-01","01","Kabul","کابل","کابل","1-1693-3045",205,"F","Toorpekai Patman","تورپیکی پتمن","تورپیکی پتمن","NO","2019-05-15","Results Status : Certified",236
+"General","G-01","01","Kabul","کابل","کابل","1-1547-22",206,"M","Dr. Abdul Ali Mohammadi","دوکتور عبدالعلی محمدی","دوکتور عبدالعلی محمدی","NO","2019-05-15","Results Status : Certified",171
+"General","G-01","01","Kabul","کابل","کابل","1-1635-21",207,"M","Mohammad Mahdi Taqadusi","محمد مهدی تقدسی","محمد مهدی تقدسی","NO","2019-05-15","Results Status : Certified",942
+"General","G-01","01","Kabul","کابل","کابل","1-1284-32",208,"M","Sayed Baqer Mohseni Kazemi","سید باقر محسنی کاظمی","سید باقر محسنی کاظمی","NO","2019-05-15","Results Status : Certified",111
+"General","G-01","01","Kabul","کابل","کابل","1-1408-111",209,"M","Mohammad Shafiq Basharyar","محمد شفیق بشریار","محمد شفیق بشریار","NO","2019-05-15","Results Status : Certified",87
+"General","G-01","01","Kabul","کابل","کابل","1-1506-109",210,"M","Alhaj Mirza Mohammad Safi","الحاج میرزا محمد صافی","الحاج میرزا محمد صافی","NO","2019-05-15","Results Status : Certified",678
+"General","G-01","01","Kabul","کابل","کابل","1-1528-31",211,"M","Ghullam Reza Barati","غلام رضابراتی","غلام رضابراتی","NO","2019-05-15","Results Status : Certified",10
+"General","G-01","01","Kabul","کابل","کابل","1-1258-2032",212,"F","Gheljai Noorzai","غلجی  نورزی","غلجی  نورزی","NO","2019-05-15","Results Status : Certified",208
+"General","G-01","01","Kabul","کابل","کابل","1-1074-92",213,"M","Mumtaz Jahangir","ممتاز جهانگیر","ممتاز جهانگیر","NO","2019-05-15","Results Status : Certified",419
+"General","G-01","01","Kabul","کابل","کابل","1-1835-1197",214,"M","Farid Delawar","فرید دلاور ","فرید دلاور ","NO","2019-05-15","Results Status : Certified",12
+"General","G-01","01","Kabul","کابل","کابل","1-1139-138",215,"M","Mohammad Zaman Panahi","محمد زمان پناهی","محمد زمان پناهی","NO","2019-05-15","Results Status : Certified",37
+"General","G-01","01","Kabul","کابل","کابل","1-1207-66",216,"M","Alhaj Abdul Satar Behzad","الحاج عبد الستار بهزاد","الحاج عبد الستار بهزاد","NO","2019-05-15","Results Status : Certified",390
+"General","G-01","01","Kabul","کابل","کابل","1-1283-128",217,"M","Alhaj Mulla Mohammad Khan Ahmadi","الحاج ملامحمد خان احمدی","الحاج ملامحمد خان احمدی","YES","2019-05-15","Results Status : Certified",5770
+"General","G-01","01","Kabul","کابل","کابل","1-1763-153",218,"M","Mawlawi Abdul Rahman Rahmani","مولوی عبدالرحمن رحمانی","مولوی عبدالرحمن رحمانی","NO","2019-05-15","Results Status : Certified",331
+"General","G-01","01","Kabul","کابل","کابل","1-1429-225",219,"M","Aafyat Hashmatullah Omari","عافیت حشمت الله عمری","عافیت حشمت الله عمری","NO","2019-05-15","Results Status : Certified",629
+"General","G-01","01","Kabul","کابل","کابل","1-1432-81",220,"M","Anwar Khan Oryakhel","انور خان اوریاخیل ","انور خان اوریاخیل ","YES","2019-05-15","Results Status : Certified",3045
+"General","G-01","01","Kabul","کابل","کابل","1-1419-20",221,"M","Mohammad Hanif Sayar","محمد حنیف سیار","محمد حنیف سیار","NO","2019-05-15","Results Status : Certified",263
+"General","G-01","01","Kabul","کابل","کابل","1-102-1165-105",222,"M","Awal Khan Rustamkhel","اول خان رستم خیل","اول خان رستم خیل","NO","2019-05-15","Results Status : Certified",376
+"General","G-01","01","Kabul","کابل","کابل","1-1651-47",223,"M","Mohammad Faazel Sayedkheli","محمد فاضل سید خیلی","محمد فاضل سید خیلی","NO","2019-05-15","Results Status : Certified",583
+"General","G-01","01","Kabul","کابل","کابل","1-1182-2",224,"M","Muslim Shirzad","مسلم شیرزاد ","مسلم شیرزاد ","NO","2019-05-15","Results Status : Certified",530
+"General","G-01","01","Kabul","کابل","کابل","1-1500-1164",225,"M","Qadam Ali Khadem","قدم علی خادم ","قدم علی خادم ","NO","2019-05-15","Results Status : Certified",128
+"General","G-01","01","Kabul","کابل","کابل","1-1582-118",226,"M","Haji Shirshah Hassanzai","حاجی شیرشاه حسن زی ","حاجی شیرشاه حسن زی ","NO","2019-05-15","Results Status : Certified",370
+"General","G-01","01","Kabul","کابل","کابل","1-1242-34",227,"F","Kamela Aimaq","کامله ایماق","کامله ایماق","NO","2019-05-15","Results Status : Certified",94
+"General","G-01","01","Kabul","کابل","کابل","1-1505-191",228,"F","Safia Sediqi","صفیه صدیقی","صفیه صدیقی","NO","2019-05-15","Results Status : Certified",241
+"General","G-01","01","Kabul","کابل","کابل","1-1105-111",229,"M","Sayed Nasim Hashimi","سید نسیم هاشمی","سید نسیم هاشمی","NO","2019-05-15","Results Status : Certified",143
+"General","G-01","01","Kabul","کابل","کابل","1-1772-1157",230,"M","Abdullah Kohbandi","عبدالله کوهبندی ","عبدالله کوهبندی ","NO","2019-05-15","Results Status : Certified",60
+"General","G-01","01","Kabul","کابل","کابل","1-1214-133",231,"M","Gen. Baz Mohammad Jawhari","جنرال باز محمد جوهری ","جنرال باز محمد جوهری ","NO","2019-05-15","Results Status : Certified",725
+"General","G-01","01","Kabul","کابل","کابل","1-1382-30",232,"F","Roqia Alemi Balkhi","رقیه عالمی بلخی","رقیه عالمی بلخی","NO","2019-05-15","Results Status : Certified",262
+"General","G-01","01","Kabul","کابل","کابل","1-1123-129",233,"M","Sayed Ahmad Burhani","سید احمد برهانی","سید احمد برهانی","NO","2019-05-15","Results Status : Certified",15
+"General","G-01","01","Kabul","کابل","کابل","1-1546-7",234,"M","Ghullam Haidar Faqirzai","غلام حیدر فقیرزی ","غلام حیدر فقیرزی ","NO","2019-05-15","Results Status : Certified",523
+"General","G-01","01","Kabul","کابل","کابل","1-1063-67",235,"F","Dr. Zuhra Nawabi","داکتر زهره نوابی","داکتر زهره نوابی","NO","2019-05-15","Results Status : Certified",87
+"General","G-01","01","Kabul","کابل","کابل","1-1887-162",236,"F","Masooda Qazi Waziri","مسعوده قاضی وزیری","مسعوده قاضی وزیری","NO","2019-05-15","Results Status : Certified",16
+"General","G-01","01","Kabul","کابل","کابل","1-1817-131",237,"M","Sanaullah Mukhles","ثناء الله مخلص","ثناء الله مخلص","NO","2019-05-15","Results Status : Certified",80
+"General","G-01","01","Kabul","کابل","کابل","1-1136-52",238,"M","Eng. Wahidullah Sabawon","انجنیر وحید الله سباوون ","انجنیر وحید الله سباوون ","NO","2019-05-15","Results Status : Certified",361
+"General","G-01","01","Kabul","کابل","کابل","35-1893-157",239,"M","Eng. Lajmir Khair Andesh","انجنیر لاجمیر خیر اندیش","انجنیر لاجمیر خیر اندیش","NO","2019-05-15","Results Status : Certified",315
+"General","G-01","01","Kabul","کابل","کابل","1-1146-1087",240,"F","Samira Lame","سمیرا لامع","سمیرا لامع","NO","2019-05-15","Results Status : Certified",20
+"General","G-01","01","Kabul","کابل","کابل","1-1601-28",241,"F","Salima Nekbin","سلیمه نیکبین","سلیمه نیکبین","NO","2019-05-15","Results Status : Certified",598
+"General","G-01","01","Kabul","کابل","کابل","1-1200-21",242,"M","Shirzai salar","شیرزی سالار ","شیرزی سالار ","NO","2019-05-15","Results Status : Certified",366
+"General","G-01","01","Kabul","کابل","کابل","1-1553-206",243,"F","Sayeda Masooda Yari","سیده مسعوده یاری ","سیده مسعوده یاری ","NO","2019-05-15","Results Status : Certified",268
+"General","G-01","01","Kabul","کابل","کابل","1-1511-194",244,"M","Abdul Qudos Jawzjani","عبدالقدوس جوزجانی","عبدالقدوس جوزجانی","NO","2019-05-15","Results Status : Certified",149
+"General","G-01","01","Kabul","کابل","کابل","1-1584-44",245,"F","Shakila Ibrahim","شکیلا ابراهیم ","شکیلا ابراهیم ","NO","2019-05-15","Results Status : Certified",150
+"General","G-01","01","Kabul","کابل","کابل","1-1872-1061",246,"M","Ezharulhaq Hamim","اظهارالحق همیم","اظهارالحق همیم","NO","2019-05-15","Results Status : Certified",308
+"General","G-01","01","Kabul","کابل","کابل","1-1451-3060",247,"M","Sayed Abdullah Saber","سید عبدالله   صابر ","سید عبدالله   صابر ","NO","2019-05-15","Results Status : Certified",544
+"General","G-01","01","Kabul","کابل","کابل","1-1356-1091",248,"M","Malek Haji Azim shinwarzadah","ملک حاجی عظیم شینوزاده","ملک حاجی عظیم شینوزاده","NO","2019-05-15","Results Status : Certified",27
+"General","G-01","01","Kabul","کابل","کابل","1-1294-1196",249,"M","Abdul Matin Tawakulzai","عبدالمبین توکلزی ","عبدالمبین توکلزی ","NO","2019-05-15","Results Status : Certified",504
+"General","G-01","01","Kabul","کابل","کابل","1-1308-15",250,"M","Shafiqullah Salim poya","شفیق الله سلیم پویا","شفیق الله سلیم پویا","NO","2019-05-15","Results Status : Certified",462
+"General","G-01","01","Kabul","کابل","کابل","1-1332-96",251,"M","Ghullam Mohammad Kamawal","غلام محمد کامه وال","غلام محمد کامه وال","NO","2019-05-15","Results Status : Certified",234
+"General","G-01","01","Kabul","کابل","کابل","1-1572-26",252,"M","Gen. Mohammad Asef Jabarkhel"," جنرال محمد آصف جبارخیل"," جنرال محمد آصف جبارخیل","NO","2019-05-15","Results Status : Certified",196
+"General","G-01","01","Kabul","کابل","کابل","1-1685-223",253,"M","Sediq Mansoor Ansari","صدیق منصور انصاری","صدیق منصور انصاری","NO","2019-05-15","Results Status : Certified",36
+"General","G-01","01","Kabul","کابل","کابل","1-1840-1057",254,"M","Sayed Asghar Ashraq","سید اصغر اشراق","سید اصغر اشراق","NO","2019-05-15","Results Status : Certified",79
+"General","G-01","01","Kabul","کابل","کابل","1-1463-36",255,"M","Haji Abdul Qaher Kalakani","حاجی عبدالقاهر کلکانی","حاجی عبدالقاهر کلکانی","NO","2019-05-15","Results Status : Certified",382
+"General","G-01","01","Kabul","کابل","کابل","1-1599-36",256,"M","Sayed Mustafa Miri","سید مصطفی میری ","سید مصطفی میری ","NO","2019-05-15","Results Status : Certified",162
+"General","G-01","01","Kabul","کابل","کابل","1-1728-3056",257,"F","Khozha babakarkhel","خوږه  بابکر خیل ","خوږه  بابکر خیل ","NO","2019-05-15","Results Status : Certified",39
+"General","G-01","01","Kabul","کابل","کابل","1-1390-44",258,"M","Mohammad Mukhtar Sharifi","محمد مختار شریفی","محمد مختار شریفی","NO","2019-05-15","Results Status : Certified",211
+"General","G-01","01","Kabul","کابل","کابل","1-1341-27",259,"M","Mohammad Edris Rasooli","محمد ادریس رسولی","محمد ادریس رسولی","NO","2019-05-15","Results Status : Certified",298
+"General","G-01","01","Kabul","کابل","کابل","1-1373-3061",260,"F","Shahla Naseri Barikzai","شهلا  ناصری بارکزی","شهلا  ناصری بارکزی","NO","2019-05-15","Results Status : Certified",107
+"General","G-01","01","Kabul","کابل","کابل","1-1301-74",261,"M","Omran Omar Amarkhel","عمران عمر امرخیل","عمران عمر امرخیل","NO","2019-05-15","Results Status : Certified",231
+"General","G-01","01","Kabul","کابل","کابل","1-1423-99",262,"M","Mohammad Haidari","محمد حیدری ","محمد حیدری ","NO","2019-05-15","Results Status : Certified",273
+"General","G-01","01","Kabul","کابل","کابل","1-1385-26",263,"M","Mustafa Nikzad","مصطفی نیکزاد ","مصطفی نیکزاد ","NO","2019-05-15","Results Status : Certified",140
+"General","G-01","01","Kabul","کابل","کابل","1-1316-2",264,"M","Mohmood Hanif ","محمود حنیف","محمود حنیف","NO","2019-05-15","Results Status : Certified",19
+"General","G-01","01","Kabul","کابل","کابل","1-1466-1068",265,"M","Nematullah Ahmadi"," نعمت الله احمدی"," نعمت الله احمدی","NO","2019-05-15","Results Status : Certified",267
+"General","G-01","01","Kabul","کابل","کابل","1-1588-3",266,"F","Bibi haji Parwin Durani","بی بی حاجی پروین  درانی","بی بی حاجی پروین  درانی","YES","2019-05-15","Results Status : Certified",469
+"General","G-01","01","Kabul","کابل","کابل","1-1237-113",267,"M","Nesar Ahmad Bahawi","نثار احمد بهاوی","نثار احمد بهاوی","NO","2019-05-15","Results Status : Certified",631
+"General","G-01","01","Kabul","کابل","کابل","1-1143-221",268,"F","Freshta Amini"," فرشته امینی"," فرشته امینی","NO","2019-05-15","Results Status : Certified",330
+"General","G-01","01","Kabul","کابل","کابل","1-1068-104",269,"M","Noor Habib Gullbahari","نورحبیب گلبهاری ","نورحبیب گلبهاری ","NO","2019-05-15","Results Status : Certified",1556
+"General","G-01","01","Kabul","کابل","کابل","1-1610-5",270,"M","Ghullam Mohaiuddin Alokozai","غلام محی الدین  الکوزی","غلام محی الدین  الکوزی","NO","2019-05-15","Results Status : Certified",98
+"General","G-01","01","Kabul","کابل","کابل","1-1028-25",271,"M","Wasim Shirzai","وسیم شیرزی","وسیم شیرزی","NO","2019-05-15","Results Status : Certified",368
+"General","G-01","01","Kabul","کابل","کابل","1-1540-61",272,"M","Sardar Mohammad Sakhi","سردار محمد سخی","سردار محمد سخی","NO","2019-05-15","Results Status : Certified",1286
+"General","G-01","01","Kabul","کابل","کابل","1-1118-42",273,"M","Rajab Ali Andeshmand","رجب علی اندیشمند","رجب علی اندیشمند","NO","2019-05-15","Results Status : Certified",1152
+"General","G-01","01","Kabul","کابل","کابل","1-1194-127",274,"M","Saranpoh. Yar Mohammad Hussainkhel"," څارنپوه یارمحمد حسین خیل"," څارنپوه یارمحمد حسین خیل","NO","2019-05-15","Results Status : Certified",768
+"General","G-01","01","Kabul","کابل","کابل","1-1587-27",275,"M","Wahidullah Radmanesh","وحید الله رادمنش","وحید الله رادمنش","NO","2019-05-15","Results Status : Certified",1408
+"General","G-01","01","Kabul","کابل","کابل","1-1554-13",276,"M","Mohammad Dawood Babur","محمد داود  بابر","محمد داود  بابر","NO","2019-05-15","Results Status : Certified",84
+"General","G-01","01","Kabul","کابل","کابل","35-1187-2",277,"M","Qurban Mohammad","قربان محمد ","قربان محمد ","NO","2019-05-15","Results Status : Certified",267
+"General","G-01","01","Kabul","کابل","کابل","1-1515-1018",278,"M","Ahmad Tariq sheja","احمد طارق شجاع","احمد طارق شجاع","NO","2019-05-15","Results Status : Certified",38
+"General","G-01","01","Kabul","کابل","کابل","1-1425-48",279,"M","Gen. Khalil Rahman Aamel","جنرال خلیل  الرحمن عامل","جنرال خلیل  الرحمن عامل","NO","2019-05-15","Results Status : Certified",242
+"General","G-01","01","Kabul","کابل","کابل","1-1219-1216",280,"M","Ustad Mawlawi Shamsullah Haqani","استادمولوی شمس الله حقانی","استادمولوی شمس الله حقانی","NO","2019-05-15","Results Status : Certified",72
+"General","G-01","01","Kabul","کابل","کابل","1-1387-1081",281,"M","Mohammad sharif Omarzai","محمد شریف عمر زی","محمد شریف عمر زی","NO","2019-05-15","Results Status : Certified",131
+"General","G-01","01","Kabul","کابل","کابل","1-1015-1063",282,"M","Mohammad Urfani","محمد عرفانی ","محمد عرفانی ","NO","2019-05-15","Results Status : Certified",92
+"General","G-01","01","Kabul","کابل","کابل","1-1106-1016",283,"M","Hedayatullah Rehayee","هدایت الله رهایی","هدایت الله رهایی","NO","2019-05-15","Results Status : Certified",428
+"General","G-01","01","Kabul","کابل","کابل","1-1820-136",284,"M","Mohammad Abid Andarabi","محمد عابد اندرابی ","محمد عابد اندرابی ","NO","2019-05-15","Results Status : Certified",127
+"General","G-01","01","Kabul","کابل","کابل","1-1475-1103",285,"M","Dr. Sayed Jalil sayed","داکتر سید جلیل سید","داکتر سید جلیل سید","NO","2019-05-15","Results Status : Certified",36
+"General","G-01","01","Kabul","کابل","کابل","1-1607-23",286,"M","Sardar Mohammad Ahmadzadah","سردار محمد احمد زاده","سردار محمد احمد زاده","NO","2019-05-15","Results Status : Certified",767
+"General","G-01","01","Kabul","کابل","کابل","1-1596-16",287,"M","Ahmad Sayeedi","احمد سعیدی","احمد سعیدی","NO","2019-05-15","Results Status : Certified",1414
+"General","G-01","01","Kabul","کابل","کابل","1-1430-80",288,"M","Ezatullah Aatef","عزت الله عاطف ","عزت الله عاطف ","NO","2019-05-15","Results Status : Certified",2274
+"General","G-01","01","Kabul","کابل","کابل","1-1639-57",289,"F","Salma Akbari","سلما اکبری ","سلما اکبری ","NO","2019-05-15","Results Status : Certified",162
+"General","G-01","01","Kabul","کابل","کابل","1-1293-168",290,"M","Mawlawi Gada Mohammad Mufleh","مولوی گدامحمد مفلح ","مولوی گدامحمد مفلح ","NO","2019-05-15","Results Status : Certified",381
+"General","G-01","01","Kabul","کابل","کابل","1-1878-154",291,"M","Abdul Rauf Assadi","عبدالروف اسدی ","عبدالروف اسدی ","NO","2019-05-15","Results Status : Certified",205
+"General","G-01","01","Kabul","کابل","کابل","1-1531-72",292,"M","Alhaj Ghullam Nabi Gharanai","الحاج غلام نبی غرنی ","الحاج غلام نبی غرنی ","NO","2019-05-15","Results Status : Certified",423
+"General","G-01","01","Kabul","کابل","کابل","1-1102-3069",293,"M","Abdul Qader Haidari","عبدالقادر  حیدری","عبدالقادر  حیدری","NO","2019-05-15","Results Status : Certified",111
+"General","G-01","01","Kabul","کابل","کابل","1-1112-1067",294,"M","Mohammad Taher Ebadi","محمد طاهر عبادی","محمد طاهر عبادی","NO","2019-05-15","Results Status : Certified",72
+"General","G-01","01","Kabul","کابل","کابل","1-1695-167",295,"F","Hawa Alam Nooristani","حوا علم نورستانی","حوا علم نورستانی","NO","2019-05-15","Results Status : Certified",146
+"General","G-01","01","Kabul","کابل","کابل","1-1898-1086",296,"M","Shir Aqa Sayedkheli","شیر آقا سید خیلی ","شیر آقا سید خیلی ","NO","2019-05-15","Results Status : Certified",57
+"General","G-01","01","Kabul","کابل","کابل","1-1389-68",297,"M","Feda Mohammad Ulfat Saleh","فدا محمد الفت صالح","فدا محمد الفت صالح","YES","2019-05-15","Results Status : Certified",4671
+"General","G-01","01","Kabul","کابل","کابل","1-1691-112",298,"M","Haji Zarbat Kharoti","حاجی زربت خروټی","حاجی زربت خروټی","NO","2019-05-15","Results Status : Certified",1245
+"General","G-01","01","Kabul","کابل","کابل","1-1126-1073",299,"M","Mohammad Khalid Farahi","محمد خالد فراهی","محمد خالد فراهی","NO","2019-05-15","Results Status : Certified",36
+"General","G-01","01","Kabul","کابل","کابل","1-1199-17",300,"M","Phd. Lutfullah Safi","پوهاند لطف الله صافی ","پوهاند لطف الله صافی ","NO","2019-05-15","Results Status : Certified",95
+"General","G-01","01","Kabul","کابل","کابل","1-1713-253",301,"M","Murtaza Nikzad","مرتضی نیکزاد","مرتضی نیکزاد","NO","2019-05-15","Results Status : Certified",63
+"General","G-01","01","Kabul","کابل","کابل","1-1104-46",302,"M","Assadullah Waziri","اسد الله وزیری","اسد الله وزیری","NO","2019-05-15","Results Status : Certified",28
+"General","G-01","01","Kabul","کابل","کابل","1-1561-38",303,"M","Rashuddin Mohammadi","راش الدین محمدی","راش الدین محمدی","NO","2019-05-15","Results Status : Certified",495
+"General","G-01","01","Kabul","کابل","کابل","1-1464-69",304,"M","Saranpoh. Enayatullah Kamal","څارنپوه عنایت الله کمال","څارنپوه عنایت الله کمال","NO","2019-05-15","Results Status : Certified",282
+"General","G-01","01","Kabul","کابل","کابل","1-1044-166",305,"M","Mohammad Osman Taheri","محمد عثمان طاهری","محمد عثمان طاهری","NO","2019-05-15","Results Status : Certified",73
+"General","G-01","01","Kabul","کابل","کابل","1-1679-176",306,"M","Noor Mohammad Ramozi","نور محمد رموزی","نور محمد رموزی","NO","2019-05-15","Results Status : Certified",180
+"General","G-01","01","Kabul","کابل","کابل","1-1196-3",307,"M","Mohammad Edris Faqirzadah Formoli","محمد ادریس فقیرزاده فرملی","محمد ادریس فقیرزاده فرملی","NO","2019-05-15","Results Status : Certified",628
+"General","G-01","01","Kabul","کابل","کابل","1-1355-173",308,"M","Mohammad Nayem Haqmal","محمد نعیم حقمل","محمد نعیم حقمل","NO","2019-05-15","Results Status : Certified",46
+"General","G-01","01","Kabul","کابل","کابل","1-1734-128",309,"M","Ustad Abdul Ghafar Rashidi","استاد عبدالغفار رشیدی","استاد عبدالغفار رشیدی","NO","2019-05-15","Results Status : Certified",431
+"General","G-01","01","Kabul","کابل","کابل","1-1344-142",310,"M","Dr. Fazel Khaleq Sheja","داکتر فضل الخالق شجاع ","داکتر فضل الخالق شجاع ","NO","2019-05-15","Results Status : Certified",257
+"General","G-01","01","Kabul","کابل","کابل","1-1414-130",311,"M","Saheb Haq Meyakhel","صاحب حق میاخیل ","صاحب حق میاخیل ","NO","2019-05-15","Results Status : Certified",289
+"General","G-01","01","Kabul","کابل","کابل","1-1761-143",312,"M","Jamal Naser Mujahid","جمال ناصر مجاهد","جمال ناصر مجاهد","NO","2019-05-15","Results Status : Certified",67
+"General","G-01","01","Kabul","کابل","کابل","1-1527-169",313,"F","Maliha Joya","ملیحه جویا","ملیحه جویا","NO","2019-05-15","Results Status : Certified",29
+"General","G-01","01","Kabul","کابل","کابل","1-1011-2",314,"M","Abdul Rezaq Ismaili","عبدالرزاق اسماعیلی ","عبدالرزاق اسماعیلی ","NO","2019-05-15","Results Status : Certified",92
+"General","G-01","01","Kabul","کابل","کابل","1-1725-128",315,"M","Eng. Shams Rahman Shams","انجنیر شمس الرحمن شمس ","انجنیر شمس الرحمن شمس ","NO","2019-05-15","Results Status : Certified",158
+"General","G-01","01","Kabul","کابل","کابل","1-1056-3054",316,"M","Sayed Mohammad Rashid Naserzadah","سید محمد رشید  ناصر زاده","سید محمد رشید  ناصر زاده","NO","2019-05-15","Results Status : Certified",103
+"General","G-01","01","Kabul","کابل","کابل","1-1519-91",317,"M","Mahdi Zahedi","مهدی زاهدی","مهدی زاهدی","NO","2019-05-15","Results Status : Certified",502
+"General","G-01","01","Kabul","کابل","کابل","1-1062-93",318,"M","Sayed Ali Akbar Kazemi","سید علی اکبر کاظمی ","سید علی اکبر کاظمی ","NO","2019-05-15","Results Status : Certified",572
+"General","G-01","01","Kabul","کابل","کابل","1-1677-70",319,"M","Mohammadullah Babrak","محمد الله ببرک ","محمد الله ببرک ","NO","2019-05-15","Results Status : Certified",791
+"General","G-01","01","Kabul","کابل","کابل","1-1594-38",320,"M","Alhaj Mirwais Kamawal","الحاج میرویس کامه وال","الحاج میرویس کامه وال","NO","2019-05-15","Results Status : Certified",318
+"General","G-01","01","Kabul","کابل","کابل","1-1349-123",321,"M","Eng. Naqibullah Naseri","انجنیر نقیب الله ناصری","انجنیر نقیب الله ناصری","NO","2019-05-15","Results Status : Certified",1201
+"General","G-01","01","Kabul","کابل","کابل","1-1292-1106",322,"M","Shir Mohammad Ghafoori","شیر محمد  غفوری","شیر محمد  غفوری","NO","2019-05-15","Results Status : Certified",49
+"General","G-01","01","Kabul","کابل","کابل","1-1150-39",323,"M","Haji Ezatullah Neyazai","حاجی عزت الله نیازی","حاجی عزت الله نیازی","NO","2019-05-15","Results Status : Certified",1203
+"General","G-01","01","Kabul","کابل","کابل","1-1220-1048",324,"F","Fawzia Naseryar Gulldaraye","فوزیه ناصریار گلدریی","فوزیه ناصریار گلدریی","YES","2019-05-15","Results Status : Certified",801
+"General","G-01","01","Kabul","کابل","کابل","1-1007-16",325,"M","Ahmad Parwiz Hassan","احمد پرویز حسن","احمد پرویز حسن","NO","2019-05-15","Results Status : Certified",278
+"General","G-01","01","Kabul","کابل","کابل","1-1598-62",326,"M","Taj Mohammad Mujahid","تاج محمد مجاهد ","تاج محمد مجاهد ","NO","2019-05-15","Results Status : Certified",1957
+"General","G-01","01","Kabul","کابل","کابل","1-1759-156",327,"M","Arash Shahirpor","آرش شهیرپور","آرش شهیرپور","NO","2019-05-15","Results Status : Certified",289
+"General","G-01","01","Kabul","کابل","کابل","1-1241-49",328,"M","Mohammad Hamed Shirzad","محمد حامد شیرزاد","محمد حامد شیرزاد","NO","2019-05-15","Results Status : Certified",556
+"General","G-01","01","Kabul","کابل","کابل","1-1668-73",329,"M","Mohammad Sangar Amirzadah","محمد سنگر امیرزاده ","محمد سنگر امیرزاده ","NO","2019-05-15","Results Status : Certified",332
+"General","G-01","01","Kabul","کابل","کابل","1-1038-134",330,"M","Abdul Qader Beheshti","عبدالقاهر بهشتی","عبدالقاهر بهشتی","NO","2019-05-15","Results Status : Certified",476
+"General","G-01","01","Kabul","کابل","کابل","1-1412-86",331,"M","Mohammad Hakim Belali","محمد حکیم بلالی","محمد حکیم بلالی","NO","2019-05-15","Results Status : Certified",39
+"General","G-01","01","Kabul","کابل","کابل","1-1055-2159",332,"M","Mohammad Fahim Osmani","محمد فهیم عثمانی","محمد فهیم عثمانی","NO","2019-05-15","Results Status : Certified",39
+"General","G-01","01","Kabul","کابل","کابل","1-1612-5",333,"M","Alhaj Obaidullah Barikzai","الحاج عبیدالله بارکزی","الحاج عبیدالله بارکزی","NO","2019-05-15","Results Status : Certified",832
+"General","G-01","01","Kabul","کابل","کابل","1-1590-94",334,"M","Eng. Amanullah Afshar","انجینر امان الله افشار","انجینر امان الله افشار","NO","2019-05-15","Results Status : Certified",766
+"General","G-01","01","Kabul","کابل","کابل","1-1680-121",335,"M","Dr. Mohammad Baqer Sayeer","داکتر محمد باقر سعیر","داکتر محمد باقر سعیر","NO","2019-05-15","Results Status : Certified",470
+"General","G-01","01","Kabul","کابل","کابل","1-1578-56",336,"M","Mawlawi Attaullah Faizani","مولوی عطا الله  فیضانی","مولوی عطا الله  فیضانی","NO","2019-05-15","Results Status : Certified",290
+"General","G-01","01","Kabul","کابل","کابل","1-1450-1083",337,"F","Shah Gull Rezaye","شاه گل رضایی","شاه گل رضایی","NO","2019-05-15","Results Status : Certified",22
+"General","G-01","01","Kabul","کابل","کابل","1-1125-74",338,"M","Elyas Faizi Ghoryani","الیاس فیضی غوریانی","الیاس فیضی غوریانی","NO","2019-05-15","Results Status : Certified",461
+"General","G-01","01","Kabul","کابل","کابل","1-1204-78",339,"M","Baryalai Amin","بریالی امین","بریالی امین","NO","2019-05-15","Results Status : Certified",373
+"General","G-01","01","Kabul","کابل","کابل","1-1798-2158",340,"M","Hafizullah Barikzai","حفیظ الله بارکزی ","حفیظ الله بارکزی ","NO","2019-05-15","Results Status : Certified",20
+"General","G-01","01","Kabul","کابل","کابل","1-1289-75",341,"M","Ghorzang Seyal","غورځنګ سیال","غورځنګ سیال","NO","2019-05-15","Results Status : Certified",427
+"General","G-01","01","Kabul","کابل","کابل","1-1267-3064",342,"M","Amanullah Tarin","آمان الله ترین","آمان الله ترین","NO","2019-05-15","Results Status : Certified",130
+"General","G-01","01","Kabul","کابل","کابل","1-1858-1179",343,"M","Emal Burhan Wardak","ایمل برهان وردک ","ایمل برهان وردک ","NO","2019-05-15","Results Status : Certified",65
+"General","G-01","01","Kabul","کابل","کابل","1-1166-65",344,"M","Shir Rahman Mujahid","شیر الرحمن مجاهد","شیر الرحمن مجاهد","NO","2019-05-15","Results Status : Certified",630
+"General","G-01","01","Kabul","کابل","کابل","1-1184-84",345,"M","Wahid Rahman Amiri","وحید الرحمن امیری ","وحید الرحمن امیری ","NO","2019-05-15","Results Status : Certified",202
+"General","G-01","01","Kabul","کابل","کابل","1-1573-1089",346,"M","Dr. Aslam Khan Mirdadi","داکتر اسلم خان میر دادی","داکتر اسلم خان میر دادی","NO","2019-05-15","Results Status : Certified",121
+"General","G-01","01","Kabul","کابل","کابل","1-1035-6",347,"M","Malek Sayed Aqa Hussainkhel","ملک سیداقاحسین خیل","ملک سیداقاحسین خیل","NO","2019-05-15","Results Status : Certified",782
+"General","G-01","01","Kabul","کابل","کابل","1-1671-129",348,"M","Alhaj Zemarai Naseri","الحاج زمری ناصری","الحاج زمری ناصری","NO","2019-05-15","Results Status : Certified",256
+"General","G-01","01","Kabul","کابل","کابل","1-1785-130",349,"M","Dr. Ziauddin Kamal ","داکتر ضیأالدین کمال ","داکتر ضیأالدین کمال ","NO","2019-05-15","Results Status : Certified",210
+"General","G-01","01","Kabul","کابل","کابل","1-1376-1203",350,"F","Qudsia Alokozai","قدسیه الکوزی ","قدسیه الکوزی ","NO","2019-05-15","Results Status : Certified",42
+"General","G-01","01","Kabul","کابل","کابل","1-1646-1028",351,"M","Mohammad Salem Ahmadzai","محمد سالم احمدزی","محمد سالم احمدزی","NO","2019-05-15","Results Status : Certified",1340
+"General","G-01","01","Kabul","کابل","کابل","1-1082-84",353,"M","Abdal Amin Haqjo","عبدال امین حقجو","عبدال امین حقجو","NO","2019-05-15","Results Status : Certified",104
+"General","G-01","01","Kabul","کابل","کابل","1-1209-19",354,"M","Haji Hafizullah Jalili","حاجی حفیظ الله جلیلی","حاجی حفیظ الله جلیلی","YES","2019-05-15","Results Status : Certified",2098
+"General","G-01","01","Kabul","کابل","کابل","1-1449-128",355,"M","Mohammad Younus Wayar","محمد یونس ویاړ","محمد یونس ویاړ","NO","2019-05-15","Results Status : Certified",125
+"General","G-01","01","Kabul","کابل","کابل","1-1047-74",356,"M","Zainab Mowahid","زینب موحد","زینب موحد","NO","2019-05-15","Results Status : Certified",379
+"General","G-01","01","Kabul","کابل","کابل","1-1016-168",357,"M","Ghullam Farooq Mojadidi","غلام فاروق مجددی","غلام فاروق مجددی","NO","2019-05-15","Results Status : Certified",95
+"General","G-01","01","Kabul","کابل","کابل","1-1398-9",358,"M","Mohammad Baqer Mohaqeq","محمد باقر محقق","محمد باقر محقق","NO","2019-05-15","Results Status : Certified",876
+"General","G-01","01","Kabul","کابل","کابل","1-1844-1193",359,"M","Mirwais Ansar Mangal","میرویس انصار منگل","میرویس انصار منگل","NO","2019-05-15","Results Status : Certified",103
+"General","G-01","01","Kabul","کابل","کابل","1-1366-1212",360,"M","Sayed Abdullah Sadat","سید عبدالله سادات ","سید عبدالله سادات ","NO","2019-05-15","Results Status : Certified",24
+"General","G-01","01","Kabul","کابل","کابل","1-1810-79",361,"F","Mariam Sediqa Sadat","مریم صدیقه سادات","مریم صدیقه سادات","NO","2019-05-15","Results Status : Certified",389
+"General","G-01","01","Kabul","کابل","کابل","1-1637-35",362,"M","Abdul Qader Zazai Watandost","عبدالقادر ځاځی وطندوست","عبدالقادر ځاځی وطندوست","NO","2019-05-15","Results Status : Certified",1768
+"General","G-01","01","Kabul","کابل","کابل","1-1559-141",363,"M","Abdul Hadi Osmani","عبدالهادی عثمانی","عبدالهادی عثمانی","NO","2019-05-15","Results Status : Certified",225
+"General","G-01","01","Kabul","کابل","کابل","1-1238-1076",364,"M","Mohammad Malek Sabr","محمد ملک صبر","محمد ملک صبر","NO","2019-05-15","Results Status : Certified",43
+"General","G-01","01","Kabul","کابل","کابل","1-1700-93",365,"M","Haji Taza khan Zurmati","حاجی تازه خان زرمتی","حاجی تازه خان زرمتی","NO","2019-05-15","Results Status : Certified",252
+"General","G-01","01","Kabul","کابل","کابل","1-1729-1043",366,"M","Abdul Hadi Miran","عبدالهادی میران ","عبدالهادی میران ","NO","2019-05-15","Results Status : Certified",97
+"General","G-01","01","Kabul","کابل","کابل","1-1877-1097",367,"M","Eng. Abdul Satar Azizi","انجنیر عبدالستار عزیزی","انجنیر عبدالستار عزیزی","NO","2019-05-15","Results Status : Certified",70
+"General","G-01","01","Kabul","کابل","کابل","1-1019-41",368,"M","Ahmad Reza Noori","احمد رضآ نوری","احمد رضآ نوری","NO","2019-05-15","Results Status : Certified",99
+"General","G-01","01","Kabul","کابل","کابل","1-1699-12",369,"M","Naqibullah Faizi","نقیب الله فیضی","نقیب الله فیضی","NO","2019-05-15","Results Status : Certified",66
+"General","G-01","01","Kabul","کابل","کابل","1-1131-1024",370,"M","Najibullah Haidari","نجیب الله حیدری","نجیب الله حیدری","NO","2019-05-15","Results Status : Certified",86
+"General","G-01","01","Kabul","کابل","کابل","1-1195-10",371,"M","Ahmad Farid Mehrabi","احمد فرید محرابی","احمد فرید محرابی","NO","2019-05-15","Results Status : Certified",298
+"General","G-01","01","Kabul","کابل","کابل","1-1513-1034",372,"M","Mirza Mohammad Yarmand","میرزا محمد یارمند ","میرزا محمد یارمند ","NO","2019-05-15","Results Status : Certified",882
+"General","G-01","01","Kabul","کابل","کابل","1-1379-1098",373,"M","Abdul Razaq Hakimi","عبداالرزاق  حکیمی ","عبداالرزاق  حکیمی ","NO","2019-05-15","Results Status : Certified",63
+"General","G-01","01","Kabul","کابل","کابل","1-1499-3071",374,"M","Haji Hamesha Gull Chakari"," حاجی همیشه گل  چکری"," حاجی همیشه گل  چکری","NO","2019-05-15","Results Status : Certified",339
+"General","G-01","01","Kabul","کابل","کابل","1-1818-141",375,"F","Mariam Sama","مریم سما ","مریم سما ","YES","2019-05-15","Results Status : Certified",879
+"General","G-01","01","Kabul","کابل","کابل","1-1006-83",376,"M","Ghullam Ali Wahdat","غلام علی وحدت ","غلام علی وحدت ","NO","2019-05-15","Results Status : Certified",295
+"General","G-01","01","Kabul","کابل","کابل","1-1686-124",377,"F","Mursal Nabizada","مرسل نبی زاده","مرسل نبی زاده","YES","2019-05-15","Results Status : Certified",719
+"General","G-01","01","Kabul","کابل","کابل","1-1564-34",378,"M","Haji Zadran Azizi","حاجی ځدران عزیزی","حاجی ځدران عزیزی","NO","2019-05-15","Results Status : Certified",41
+"General","G-01","01","Kabul","کابل","کابل","1-1866-155",379,"M","Mohammad Belal Hakimi","محمد بلال حکیمی ","محمد بلال حکیمی ","NO","2019-05-15","Results Status : Certified",286
+"General","G-01","01","Kabul","کابل","کابل","1-1760-162",380,"M","Dr. Faridullah sefat","داکتر فرید الله صفت ","داکتر فرید الله صفت ","NO","2019-05-15","Results Status : Certified",147
+"General","G-01","01","Kabul","کابل","کابل","1-1597-1209",381,"M","Mohammad Yahya Wayar Ahmadzai","محمد یحی ویاړ احمدزی","محمد یحی ویاړ احمدزی","NO","2019-05-15","Results Status : Certified",215
+"General","G-01","01","Kabul","کابل","کابل","1-1467-1015",382,"M","Eid Mohammad Maleyar","عید محمد ملیار","عید محمد ملیار","NO","2019-05-15","Results Status : Certified",457
+"General","G-01","01","Kabul","کابل","کابل","1-1650-89",383,"M","Mohammad Nazir Hafizi","محمد نظیر حفیظی","محمد نظیر حفیظی","NO","2019-05-15","Results Status : Certified",82
+"General","G-01","01","Kabul","کابل","کابل","1-1186-37",384,"M","Haji Ajmal Rahmani","حاجی اجمل رحمانی","حاجی اجمل رحمانی","YES","2019-05-15","Results Status : Certified",7552
+"General","G-01","01","Kabul","کابل","کابل","1-1813-172",385,"M","Asal Mohammad Shakeri Badakhshani","عسل محمد شاکری بدخشانی","عسل محمد شاکری بدخشانی","NO","2019-05-15","Results Status : Certified",44
+"General","G-01","01","Kabul","کابل","کابل","1-1563-31",386,"M","Najibullah Momand Kamawal","نجیب الله مومند کاموال","نجیب الله مومند کاموال","NO","2019-05-15","Results Status : Certified",861
+"General","G-01","01","Kabul","کابل","کابل","1-1881-163",387,"M","Sayed Ahmad Shekeb Montazeri","سید احمد شکیب منتظری","سید احمد شکیب منتظری","NO","2019-05-15","Results Status : Certified",546
+"General","G-01","01","Kabul","کابل","کابل","1-1897-183",388,"M","Ghullam Fardin Shaaba","غلام فردین شابه ","غلام فردین شابه ","NO","2019-05-15","Results Status : Certified",28
+"General","G-01","01","Kabul","کابل","کابل","1-1435-57",389,"M","saifurahman Gharwal","سیف الرحمن غروال","سیف الرحمن غروال","NO","2019-05-15","Results Status : Certified",93
+"General","G-01","01","Kabul","کابل","کابل","1-1670-1054",390,"M","Sayed Kamal Zazai","سید کمال ځاځی","سید کمال ځاځی","NO","2019-05-15","Results Status : Certified",413
+"General","G-01","01","Kabul","کابل","کابل","1-1088-177",391,"M","Abdul Baqi Samandar","عبدالباقی سمندر","عبدالباقی سمندر","NO","2019-05-15","Results Status : Certified",161
+"General","G-01","01","Kabul","کابل","کابل","1-1129-79",392,"M","Mohammad Aref","محمد عارف ","محمد عارف ","NO","2019-05-15","Results Status : Certified",249
+"General","G-01","01","Kabul","کابل","کابل","1-1127-182",393,"M","Mirzaman Haqyar","میرزمان حقیار ","میرزمان حقیار ","NO","2019-05-15","Results Status : Certified",223
+"General","G-01","01","Kabul","کابل","کابل","1-1489-13",394,"M","Haij Muzamel Hotak","حاجی مزمل هوتک","حاجی مزمل هوتک","NO","2019-05-15","Results Status : Certified",460
+"General","G-01","01","Kabul","کابل","کابل","1-1281-67",395,"F","Homaira Chakari Yousufzai","حمیرا چکری یوسفزی","حمیرا چکری یوسفزی","NO","2019-05-15","Results Status : Certified",590
+"General","G-01","01","Kabul","کابل","کابل","1-1516-3044",396,"M","Qazi Mohammad Isshaq Farjad","قاضی محمد اسحاق فرجاد","قاضی محمد اسحاق فرجاد","NO","2019-05-15","Results Status : Certified",34
+"General","G-01","01","Kabul","کابل","کابل","1-1264-1041",397,"M","Anwar Khan Shamali","انور خان  شمالی","انور خان  شمالی","NO","2019-05-15","Results Status : Certified",107
+"General","G-01","01","Kabul","کابل","کابل","1-1586-88",398,"M","Noor Rahman Akhlaqi","نور الرحمن اخلاقی","نور الرحمن اخلاقی","NO","2019-05-15","Results Status : Certified",595
+"General","G-01","01","Kabul","کابل","کابل","1-1030-110",399,"M","Omid Watanyar","امید وطنیار","امید وطنیار","NO","2019-05-15","Results Status : Certified",240
+"General","G-01","01","Kabul","کابل","کابل","1-1212-140",400,"M","Hamidullah Stanikzai","حمید الله ستانکزی","حمید الله ستانکزی","NO","2019-05-15","Results Status : Certified",270
+"General","G-01","01","Kabul","کابل","کابل","1-1630-1022",401,"M","Nazar Mohammad Isshaqzai","نظر محمد اسحاقزی","نظر محمد اسحاقزی","NO","2019-05-15","Results Status : Certified",84
+"General","G-01","01","Kabul","کابل","کابل","1-1821-1064",402,"M","Tella Mohammad Atmanzai","طلا محمد اتمانزی","طلا محمد اتمانزی","NO","2019-05-15","Results Status : Certified",200
+"General","G-01","01","Kabul","کابل","کابل","1-1847-3055",403,"M","Khoshhal Yari Ahmadzai","خوشحال یاری احمدزی","خوشحال یاری احمدزی","NO","2019-05-15","Results Status : Certified",23
+"General","G-01","01","Kabul","کابل","کابل","1-1383-171",404,"F","Pashtana Arabzai","پښتنه عربزۍ","پښتنه عربزۍ","NO","2019-05-15","Results Status : Certified",80
+"General","G-01","01","Kabul","کابل","کابل","1-1202-58",405,"M","sayed Amanullah Amin","سید امان الله امین","سید امان الله امین","NO","2019-05-15","Results Status : Certified",676
+"General","G-01","01","Kabul","کابل","کابل","1-1036-68",406,"M","Nawid Ahmad Kohi","نوید احمد کوهی","نوید احمد کوهی","NO","2019-05-15","Results Status : Certified",41
+"General","G-01","01","Kabul","کابل","کابل","1-1678-1161",407,"M","Ghullam Rabani Noori","غلام ربانی نوری ","غلام ربانی نوری ","NO","2019-05-15","Results Status : Certified",29
+"General","G-01","01","Kabul","کابل","کابل","1-1751-146",408,"M","Mohammad Ibrahim Zarif","محمد ابراهیم ظریف ","محمد ابراهیم ظریف ","NO","2019-05-15","Results Status : Certified",581
+"General","G-01","01","Kabul","کابل","کابل","1-1041-127",409,"M","Abdul Khaleq Hussaini","عبدالخالق حسینی","عبدالخالق حسینی","NO","2019-05-15","Results Status : Certified",1403
+"General","G-01","01","Kabul","کابل","کابل","1-1624-214",410,"M","Dr. Abdul Ahad suhrabi","داکتر عبدالاحد سهرابی","داکتر عبدالاحد سهرابی","NO","2019-05-15","Results Status : Certified",87
+"General","G-01","01","Kabul","کابل","کابل","1-1492-23",411,"M","Mohammad Qasim Hakimi","محمد قسیم حکیمی ","محمد قسیم حکیمی ","NO","2019-05-15","Results Status : Certified",1661
+"General","G-01","01","Kabul","کابل","کابل","1-1884-148",412,"F","Dr. Friba Farhat Saifi","دوکتور فریبا فرحت  سیفی","دوکتور فریبا فرحت  سیفی","NO","2019-05-15","Results Status : Certified",300
+"General","G-01","01","Kabul","کابل","کابل","1-1257-12",413,"M","Haji Hamidullah Nawabi","حاجی حمید الله  نوابی ","حاجی حمید الله  نوابی ","NO","2019-05-15","Results Status : Certified",194
+"General","G-01","01","Kabul","کابل","کابل","1-1374-1190",414,"F","Arefa Urfan","عارفه عرفان ","عارفه عرفان ","NO","2019-05-15","Results Status : Certified",36
+"General","G-01","01","Kabul","کابل","کابل","1-1575-175",415,"M","Mohammad Rafiq shirzad","محمد رفیق شیرزاد","محمد رفیق شیرزاد","NO","2019-05-15","Results Status : Certified",118
+"General","G-01","01","Kabul","کابل","کابل","1-1441-1090",416,"M","Abdul Rahman Khwazak","عبدالرحمن خوازک","عبدالرحمن خوازک","NO","2019-05-15","Results Status : Certified",367
+"General","G-01","01","Kabul","کابل","کابل","1-1900-133",417,"M","Najibullah Mujahid","نجیب الله مجاهد","نجیب الله مجاهد","NO","2019-05-15","Results Status : Certified",256
+"General","G-01","01","Kabul","کابل","کابل","1-1057-1095",418,"M","Dawood Maleyar Mohaiuddin ","داود ملیار محی الدین ","داود ملیار محی الدین ","NO","2019-05-15","Results Status : Certified",6
+"General","G-01","01","Kabul","کابل","کابل","1-1583-50",419,"M","Mohammad Haidar Basir","محمد حیدر بصیر","محمد حیدر بصیر","NO","2019-05-15","Results Status : Certified",1806
+"General","G-01","01","Kabul","کابل","کابل","1-1192-180",420,"F","Dr. Maari Vida Safar","داکتر ماری ویدا صفر","داکتر ماری ویدا صفر","NO","2019-05-15","Results Status : Certified",168
+"General","G-01","01","Kabul","کابل","کابل","1-1018-70",421,"M","Zergull Etefaaq Sahak","زیر ګل اتفاق سهاک","زیر ګل اتفاق سهاک","NO","2019-05-15","Results Status : Certified",123
+"General","G-01","01","Kabul","کابل","کابل","1-1523-104",422,"M","Haji Abdullah Mulla Brother","حاجی  عبدالله ملا برادر","حاجی  عبدالله ملا برادر","NO","2019-05-15","Results Status : Certified",16
+"General","G-01","01","Kabul","کابل","کابل","1-1453-98",423,"M","Malem Aziz Royesh","معلم عزیز رویش ","معلم عزیز رویش ","NO","2019-05-15","Results Status : Certified",659
+"General","G-01","01","Kabul","کابل","کابل","1-1694-138",424,"M","Mohammad Reza Zaki","محمد رضا ذکی ","محمد رضا ذکی ","NO","2019-05-15","Results Status : Certified",398
+"General","G-01","01","Kabul","کابل","کابل","1-1727-135",425,"M","Faiz Mohammad Daqiq","فیض محمد دقیق","فیض محمد دقیق","NO","2019-05-15","Results Status : Certified",77
+"General","G-01","01","Kabul","کابل","کابل","1-1829-158",426,"M","Khairullah Attaye","خیرالله عطائی","خیرالله عطائی","NO","2019-05-15","Results Status : Certified",568
+"General","G-01","01","Kabul","کابل","کابل","1-1730-182",427,"F","Dr. Masooma Muradi","داکتر معصومه مرادی","داکتر معصومه مرادی","NO","2019-05-15","Results Status : Certified",175
+"General","G-01","01","Kabul","کابل","کابل","1-1581-97",428,"M","Alhaj Qari Sayed Omar Hotak","الحاج قاری سید عمر هوتک","الحاج قاری سید عمر هوتک","NO","2019-05-15","Results Status : Certified",1343
+"General","G-01","01","Kabul","کابل","کابل","1-1487-209",429,"M","Saranwal Rohullah Sakhizad","څارنوال روح الله سخی زاد","څارنوال روح الله سخی زاد","NO","2019-05-15","Results Status : Certified",287
+"General","G-01","01","Kabul","کابل","کابل","1-1265-55",430,"M","Alhaj Qazi Mir Afghan Safi","الحاج قاضی میرافغان صافی ","الحاج قاضی میرافغان صافی ","YES","2019-05-15","Results Status : Certified",3458
+"General","G-01","01","Kabul","کابل","کابل","1-1392-27",431,"M","Khan Mohammad Khuram","خان محمد خرم","خان محمد خرم","NO","2019-05-15","Results Status : Certified",196
+"General","G-01","01","Kabul","کابل","کابل","1-1185-51",432,"M","Haji Khan Mohammad Wardak","حاجی خان محمد وردگ","حاجی خان محمد وردگ","YES","2019-05-15","Results Status : Certified",3635
+"General","G-01","01","Kabul","کابل","کابل","1-1461-174",433,"M","Mohammad Fahim Hashemi","محمد فهیم هاشمی","محمد فهیم هاشمی","NO","2019-05-15","Results Status : Certified",1685
+"General","G-01","01","Kabul","کابل","کابل","1-1029-12",434,"M","Sayed Mujtaba Hashemi","سید مجتبی هاشمی","سید مجتبی هاشمی","NO","2019-05-15","Results Status : Certified",745
+"General","G-01","01","Kabul","کابل","کابل","1-1636-75",435,"M","Mansoor Ahmad Ahmadzai","منصور احمد احمدزی","منصور احمد احمدزی","NO","2019-05-15","Results Status : Certified",131
+"General","G-01","01","Kabul","کابل","کابل","1-1660-49",436,"M","Hedayatullah Taheri","هدایت الله طاهری ","هدایت الله طاهری ","NO","2019-05-15","Results Status : Certified",167
+"General","G-01","01","Kabul","کابل","کابل","1-1616-1",437,"M","Mohammad Younis Hotak","محمد یونیس هوتک ","محمد یونیس هوتک ","NO","2019-05-15","Results Status : Certified",1573
+"General","G-01","01","Kabul","کابل","کابل","1-1034-87",438,"M","Alhaj Khwaja Masoom Sediqi","الحاج خواجه معصوم صدیقی","الحاج خواجه معصوم صدیقی","NO","2019-05-15","Results Status : Certified",286
+"General","G-01","01","Kabul","کابل","کابل","1-1629-87",439,"F","Anisa Maqsoodi","انیسه مقصودی","انیسه مقصودی","NO","2019-05-15","Results Status : Certified",127
+"General","G-01","01","Kabul","کابل","کابل","1-1295-207",440,"F","Dr. Tobi Azami","داکتر طوبی اعظمی ","داکتر طوبی اعظمی ","NO","2019-05-15","Results Status : Certified",79
+"General","G-01","01","Kabul","کابل","کابل","1-1474-220",441,"M","Khwaja Mohammad Musa Fariwar","خواجه محمد موسی فریور","خواجه محمد موسی فریور","NO","2019-05-15","Results Status : Certified",180
+"General","G-01","01","Kabul","کابل","کابل","1-1013-119",442,"F","Eng. Zakia Wardak","انجنیر ذکیه وردک ","انجنیر ذکیه وردک ","NO","2019-05-15","Results Status : Certified",320
+"General","G-01","01","Kabul","کابل","کابل","1-1396-95",443,"M","Emal Mahmoodzada","ایمل محمود زاده ","ایمل محمود زاده ","NO","2019-05-15","Results Status : Certified",249
+"General","G-01","01","Kabul","کابل","کابل","1-1809-226",444,"M","Etebar Khan Zadran","اعتبار خان ځدران","اعتبار خان ځدران","NO","2019-05-15","Results Status : Certified",1258
+"General","G-01","01","Kabul","کابل","کابل","1-1666-40",445,"M","Mohammad Dawood Dawoodzai","محمد داود داودزی ","محمد داود داودزی ","NO","2019-05-15","Results Status : Certified",38
+"General","G-01","01","Kabul","کابل","کابل","1-1675-186",446,"M","Mohammad Nayem Mustafa Hussainkhel","محمد نعیم مصطفی حسین خیل","محمد نعیم مصطفی حسین خیل","NO","2019-05-15","Results Status : Certified",19
+"General","G-01","01","Kabul","کابل","کابل","1-1409-1030",447,"M","Sayed Jawid Andesh","سید جاوید اندیش","سید جاوید اندیش","NO","2019-05-15","Results Status : Certified",158
+"General","G-01","01","Kabul","کابل","کابل","1-1324-1020",448,"M","Abdul Qayoum Naderi","عبدالقیوم نادری","عبدالقیوم نادری","NO","2019-05-15","Results Status : Certified",162
+"General","G-01","01","Kabul","کابل","کابل","1-1684-62",449,"M","Zaker Hussain Ershad","ذاکرحسین ارشاد","ذاکرحسین ارشاد","NO","2019-05-15","Results Status : Certified",421
+"General","G-01","01","Kabul","کابل","کابل","1-1579-62",450,"M","ghullam Mohammad Panjshiri","غلام محمد پنجشیری","غلام محمد پنجشیری","NO","2019-05-15","Results Status : Certified",110
+"General","G-01","01","Kabul","کابل","کابل","1-1606-15",451,"M","Dr. Ahmad Jawid Aalemi","داکتر احمد جاوید عالمی ","داکتر احمد جاوید عالمی ","NO","2019-05-15","Results Status : Certified",881
+"General","G-01","01","Kabul","کابل","کابل","1-1827-177",452,"M","Alhaj Mirwais Katawazai","الحاج میرویس کتوازی","الحاج میرویس کتوازی","NO","2019-05-15","Results Status : Certified",247
+"General","G-01","01","Kabul","کابل","کابل","1-1078-11",453,"M","Mustafa Arian Tarakhel","مصطفی آرین تره خیل","مصطفی آرین تره خیل","NO","2019-05-15","Results Status : Certified",200
+"General","G-01","01","Kabul","کابل","کابل","1-1333-55",454,"M","Abdul Hadi Naseri","عبدالهادی ناصری","عبدالهادی ناصری","NO","2019-05-15","Results Status : Certified",168
+"General","G-01","01","Kabul","کابل","کابل","1-1882-1077",455,"F","Tafsir seyahposh","تفسیر سیاه پوش","تفسیر سیاه پوش","NO","2019-05-15","Results Status : Certified",56
+"General","G-01","01","Kabul","کابل","کابل","1-1197-1029",456,"M","Alhaj Ahmad Arsalan Safi","الحاج احمد ارسلان صافی","الحاج احمد ارسلان صافی","NO","2019-05-15","Results Status : Certified",557
+"General","G-01","01","Kabul","کابل","کابل","1-1742-3041",457,"M","Eng. Nasir Ahamd Saleh","انجینر نصیر احمد صالح","انجینر نصیر احمد صالح","NO","2019-05-15","Results Status : Certified",33
+"General","G-01","01","Kabul","کابل","کابل","1-1638-148",458,"M","Ziaullhaq Shams","ضیاءالحق  شمس","ضیاءالحق  شمس","NO","2019-05-15","Results Status : Certified",130
+"General","G-01","01","Kabul","کابل","کابل","1-1069-51",459,"M","Jalalduddin Mahmoodi","جلال الدین محمودی ","جلال الدین محمودی ","NO","2019-05-15","Results Status : Certified",1239
+"General","G-01","01","Kabul","کابل","کابل","1-1180-43",460,"F","Dr. Homa Zinat","داکترهما زینت","داکترهما زینت","NO","2019-05-15","Results Status : Certified",163
+"General","G-01","01","Kabul","کابل","کابل","1-1303-53",461,"M","Samimullah sultani","صمیم الله سلطانی ","صمیم الله سلطانی ","NO","2019-05-15","Results Status : Certified",117
+"General","G-01","01","Kabul","کابل","کابل","1-1273-91",462,"M","Mohammad Ajmal Hodman","محمد اجمل هوډ من ","محمد اجمل هوډ من ","NO","2019-05-15","Results Status : Certified",215
+"General","G-01","01","Kabul","کابل","کابل","1-1455-132",463,"M","Gen. Babrak Saber","جنرال ببرک صابر","جنرال ببرک صابر","NO","2019-05-15","Results Status : Certified",1275
+"General","G-01","01","Kabul","کابل","کابل","1-1886-173",464,"F","Yasamin Sarwari","یاسمین سروری","یاسمین سروری","NO","2019-05-15","Results Status : Certified",147
+"General","G-01","01","Kabul","کابل","کابل","1-1226-98",465,"M","Qazi Ghullam Sakhi Iqbal","قاضی غلام سخی اقبال","قاضی غلام سخی اقبال","NO","2019-05-15","Results Status : Certified",1375
+"General","G-01","01","Kabul","کابل","کابل","1-1839-1177",466,"M","Eng. Hamid Rahman","انجنیر حمیدالرحمن ","انجنیر حمیدالرحمن ","NO","2019-05-15","Results Status : Certified",84
+"General","G-01","01","Kabul","کابل","کابل","1-1119-14",467,"M","Abdul Reza Khalili","عبدالرضا خلیلی","عبدالرضا خلیلی","NO","2019-05-15","Results Status : Certified",1697
+"General","G-01","01","Kabul","کابل","کابل","1-1418-7",468,"M","Sayed Naser Mosawi","سید ناصر موسوی","سید ناصر موسوی","NO","2019-05-15","Results Status : Certified",186
+"General","G-01","01","Kabul","کابل","کابل","1-1164-56",469,"M","Mir Amanullah Guzar","میر امان الله گذر ","میر امان الله گذر ","YES","2019-05-15","Results Status : Certified",3932
+"General","G-01","01","Kabul","کابل","کابل","1-1215-103",470,"M","Abdul Bari Ramin Azimi","عبدالباری رامین عظیمی","عبدالباری رامین عظیمی","NO","2019-05-15","Results Status : Certified",192
+"General","G-01","01","Kabul","کابل","کابل","1-1157-1035",471,"M","Abdul Zohor Amiri","عبدالظهور امیری","عبدالظهور امیری","NO","2019-05-15","Results Status : Certified",501
+"General","G-01","01","Kabul","کابل","کابل","1-1208-114",472,"M","Deplom Eng. Noor Gull Mangal","دیپلوم انجنیر نورگل منگل","دیپلوم انجنیر نورگل منگل","NO","2019-05-15","Results Status : Certified",79
+"General","G-01","01","Kabul","کابل","کابل","1-1859-147",473,"M","Khwaja Khalilullah Sediqyar","خواجه خلیل الله صدیقیار","خواجه خلیل الله صدیقیار","NO","2019-05-15","Results Status : Certified",99
+"General","G-01","01","Kabul","کابل","کابل","1-1365-1108",474,"M","Abdul Khaibar Hotak","عبدالخبیر هوتک ","عبدالخبیر هوتک ","NO","2019-05-15","Results Status : Certified",89
+"General","G-01","01","Kabul","کابل","کابل","1-1444-12",475,"M","Haji Zergai Habibi","حاجی زړگی حبیبی","حاجی زړگی حبیبی","YES","2019-05-15","Results Status : Certified",2689
+"General","G-01","01","Kabul","کابل","کابل","1-1860-204",476,"M","Sayed Masood Ashna","سید مسعود آشنا ","سید مسعود آشنا ","NO","2019-05-15","Results Status : Certified",601
+"General","G-01","01","Kabul","کابل","کابل","1-1224-77",477,"M","Sofi Abdul Razeq Estalefi","صوفی عبدالرزاق استالفی","صوفی عبدالرزاق استالفی","YES","2019-05-15","Results Status : Certified",2951
+"General","G-01","01","Kabul","کابل","کابل","1-1266-33",478,"M","Habibullah Hassam","حبیب الله حسام","حبیب الله حسام","NO","2019-05-15","Results Status : Certified",548
+"General","G-01","01","Kabul","کابل","کابل","1-1269-2",479,"F","Farah Diba Shahzad","فرح دیبا شهرزاد","فرح دیبا شهرزاد","NO","2019-05-15","Results Status : Certified",105
+"General","G-01","01","Kabul","کابل","کابل","1-1203-73",480,"M","Alhaj Abdul Sami Arefi","الحاج عبدالسمیع عارفی","الحاج عبدالسمیع عارفی","NO","2019-05-15","Results Status : Certified",94
+"General","G-01","01","Kabul","کابل","کابل","1-1361-122",481,"M","Mohammad Haroon Motaref","محمد هارون معترف","محمد هارون معترف","NO","2019-05-15","Results Status : Certified",214
+"General","G-01","01","Kabul","کابل","کابل","1-1173-44",482,"M","Alhaj Shirshah Ahmadzai","الحاج شیر شاه احمدزی","الحاج شیر شاه احمدزی","NO","2019-05-15","Results Status : Certified",1721
+"General","G-01","01","Kabul","کابل","کابل","1-1235-71",483,"M","Dr. Mohebullah Moheb","دوکتور محب الله  محب","دوکتور محب الله  محب","NO","2019-05-15","Results Status : Certified",183
+"General","G-01","01","Kabul","کابل","کابل","1-1176-45",484,"M","Urfanullah Urfan","عرفان الله عرفان","عرفان الله عرفان","YES","2019-05-15","Results Status : Certified",2038
+"General","G-01","01","Kabul","کابل","کابل","1-1193-3067",485,"M","Malem Mohammad Ghazi sultanzoi","معلم محمد  غازی سلطان زوی","معلم محمد  غازی سلطان زوی","NO","2019-05-15","Results Status : Certified",681
+"General","G-01","01","Kabul","کابل","کابل","1-1227-5",486,"F","Simin Hassanzadah","سیمین حسن زاده","سیمین حسن زاده","NO","2019-05-15","Results Status : Certified",224
+"General","G-01","01","Kabul","کابل","کابل","1-1868-162",487,"M","Mohammad Qasem Fekri","محمد قاسم فکری","محمد قاسم فکری","NO","2019-05-15","Results Status : Certified",37
+"General","G-01","01","Kabul","کابل","کابل","1-1608-44",488,"M","Ramesh Noori","رامش نوری","رامش نوری","NO","2019-05-15","Results Status : Certified",108
+"General","G-01","01","Kabul","کابل","کابل","1-1240-22",489,"M","Alhaj Gull Zaman Rohani","الحاج گل زمان  روحانی","الحاج گل زمان  روحانی","NO","2019-05-15","Results Status : Certified",1339
+"General","G-01","01","Kabul","کابل","کابل","1-1812-2035",490,"M","Haji Qayoum Qambari","حاجی  قیوم  قمبر ی","حاجی  قیوم  قمبر ی","NO","2019-05-15","Results Status : Certified",664
+"General","G-01","01","Kabul","کابل","کابل","1-1774-142",491,"M","Temorshah Bashar","تیمورشاه بشار","تیمورشاه بشار","NO","2019-05-15","Results Status : Certified",8
+"General","G-01","01","Kabul","کابل","کابل","1-1658-90",492,"M","Qari Zabiullah Tarakhel","قاری ذبیح الله تره خیل","قاری ذبیح الله تره خیل","NO","2019-05-15","Results Status : Certified",173
+"General","G-01","01","Kabul","کابل","کابل","1-1391-134",493,"M","Alhaj Mohammadullah Ahmadi Safi","الحاج محمدالله احمدی صافی","الحاج محمدالله احمدی صافی","NO","2019-05-15","Results Status : Certified",291
+"General","G-01","01","Kabul","کابل","کابل","1-1001-89",494,"M","Haji Shafiqullah Ghorbandi","حاجی شفیع الله غوربندی ","حاجی شفیع الله غوربندی ","NO","2019-05-15","Results Status : Certified",130
+"General","G-01","01","Kabul","کابل","کابل","1-1543-58",495,"M","Haroon Shams Khan","هارون شمس خان","هارون شمس خان","NO","2019-05-15","Results Status : Certified",757
+"General","G-01","01","Kabul","کابل","کابل","1-1120-4",496,"M","Ahmad Zaki Faqirzadah","احمد ذکی فقیر زاده ","احمد ذکی فقیر زاده ","NO","2019-05-15","Results Status : Certified",245
+"General","G-01","01","Kabul","کابل","کابل","1-1627-1",497,"M","Hedayatullah Sulaimankhel","هدایت الله سلیمان خیل","هدایت الله سلیمان خیل","NO","2019-05-15","Results Status : Certified",346
+"General","G-01","01","Kabul","کابل","کابل","1-1290-46",498,"M","Babrak Haqyar","ببرک حقیار","ببرک حقیار","NO","2019-05-15","Results Status : Certified",9
+"General","G-01","01","Kabul","کابل","کابل","1-1706-90",499,"F","Frozan Khalilyar","فروزان خلیل یار ","فروزان خلیل یار ","NO","2019-05-15","Results Status : Certified",145
+"General","G-01","01","Kabul","کابل","کابل","1-1723-1204",500,"F","Hamasa Sadat","حماسه سادات ","حماسه سادات ","NO","2019-05-15","Results Status : Certified",90
+"General","G-01","01","Kabul","کابل","کابل","1-1075-61",501,"M","Alhaj Obaidullah Khoshiwal"," الحاج عبید الله خوشیوال"," الحاج عبید الله خوشیوال","NO","2019-05-15","Results Status : Certified",656
+"General","G-01","01","Kabul","کابل","کابل","1-1386-1050",502,"M","Mohammad Yaser Emar","محمد یاسر عمار","محمد یاسر عمار","NO","2019-05-15","Results Status : Certified",222
+"General","G-01","01","Kabul","کابل","کابل","1-1286-48",503,"M","Alhaj Dr. Mohammad Sediq","الحاج دوکتور محمد صدیق ","الحاج دوکتور محمد صدیق ","NO","2019-05-15","Results Status : Certified",293
+"General","G-01","01","Kabul","کابل","کابل","1-1362-1094",504,"M","Mohammad Dawood Shadan","محمد داود شادان","محمد داود شادان","NO","2019-05-15","Results Status : Certified",3
+"General","G-01","01","Kabul","کابل","کابل","1-1767-150",505,"M","Safiullah Sultani","صفی الله سلطانی","صفی الله سلطانی","NO","2019-05-15","Results Status : Certified",23
+"General","G-01","01","Kabul","کابل","کابل","1-1222-92",506,"M","Saheb Nazar Sangin","صاحب نظر سنگین ","صاحب نظر سنگین ","NO","2019-05-15","Results Status : Certified",317
+"General","G-01","01","Kabul","کابل","کابل","1-1603-74",507,"M","Sayed Rohullah Hussaini","سید روح الله حسینی ","سید روح الله حسینی ","NO","2019-05-15","Results Status : Certified",181
+"General","G-01","01","Kabul","کابل","کابل","1-1753-105",508,"M","Mohammad Akram Azimi","محمد اکرم عظیمی","محمد اکرم عظیمی","NO","2019-05-15","Results Status : Certified",439
+"General","G-01","01","Kabul","کابل","کابل","1-1522-152",509,"M","Mohammad Taher Fedaye","محمد طاهر فدائی","محمد طاهر فدائی","NO","2019-05-15","Results Status : Certified",502
+"General","G-01","01","Kabul","کابل","کابل","1-1669-49",510,"M","Jalat Khan Shinwari","جلات خان شینوزاده","جلات خان شینوزاده","NO","2019-05-15","Results Status : Certified",644
+"General","G-01","01","Kabul","کابل","کابل","1-1750-154",511,"M","Haji Noorullah Azizi Meyakhel","حاجی نورالله عزیزی میاخیل","حاجی نورالله عزیزی میاخیل","NO","2019-05-15","Results Status : Certified",219
+"General","G-01","01","Kabul","کابل","کابل","1-1101-178",512,"F","Dr. Bayani Salimi","داکتر بیانی سلیمی","داکتر بیانی سلیمی","NO","2019-05-15","Results Status : Certified",35
+"General","G-01","01","Kabul","کابل","کابل","1-1042-1172",513,"M","Mohammad Asef Ashna","محمد آصف آشنا ","محمد آصف آشنا ","NO","2019-05-15","Results Status : Certified",1014
+"General","G-01","01","Kabul","کابل","کابل","1-1768-205",514,"F","Tamana Zaryab Paryani","تمنا زریاب پریانی","تمنا زریاب پریانی","NO","2019-05-15","Results Status : Certified",55
+"General","G-01","01","Kabul","کابل","کابل","1-1093-76",515,"F","Kulsom","کلثوم","کلثوم","NO","2019-05-15","Results Status : Certified",74
+"General","G-01","01","Kabul","کابل","کابل","1-1282-28",516,"M","Haji Abdul Hussain Hussainzadah","حاجی عبدالحسین حسین زاده ","حاجی عبدالحسین حسین زاده ","NO","2019-05-15","Results Status : Certified",1608
+"General","G-01","01","Kabul","کابل","کابل","1-1709-190",517,"M","Gen. Lutfullah Mashal","جنرال لطف الله مشعل","جنرال لطف الله مشعل","NO","2019-05-15","Results Status : Certified",654
+"General","G-01","01","Kabul","کابل","کابل","1-1657-76",518,"M","Haji Hashem Mahdawi","حاجی هاشم مهدوی","حاجی هاشم مهدوی","NO","2019-05-15","Results Status : Certified",337
+"General","G-01","01","Kabul","کابل","کابل","1-1291-170",519,"M","Assadullah Zamir","اسدالله ضمیر ","اسدالله ضمیر ","NO","2019-05-15","Results Status : Certified",593
+"General","G-01","01","Kabul","کابل","کابل","1-1664-151",520,"M","Ramazan Jomazadah","رمضان جمعه زاده","رمضان جمعه زاده","NO","2019-05-15","Results Status : Certified",645
+"General","G-01","01","Kabul","کابل","کابل","1-1498-1175",521,"M","Eng. Mawlagull Ahmadzai","انجنیر مولا گل احمدزی ","انجنیر مولا گل احمدزی ","NO","2019-05-15","Results Status : Certified",24
+"General","G-01","01","Kabul","کابل","کابل","1-1532-10",522,"F","Zahra Yagana","زهرا یگانه","زهرا یگانه","NO","2019-05-15","Results Status : Certified",342
+"General","G-01","01","Kabul","کابل","کابل","1-1309-5",523,"F","Masooma Tawasoli","معصومه توسلی","معصومه توسلی","NO","2019-05-15","Results Status : Certified",315
+"General","G-01","01","Kabul","کابل","کابل","1-1779-132",524,"M","Mohammad Bashir Farooq","محمد بشیر فاروق","محمد بشیر فاروق","NO","2019-05-15","Results Status : Certified",229
+"General","G-01","01","Kabul","کابل","کابل","1-102-1823-126",525,"M","Mohammad Nasir Tarakhel","محمد نصیر تره خیل","محمد نصیر تره خیل","NO","2019-05-15","Results Status : Certified",675
+"General","G-01","01","Kabul","کابل","کابل","1-1448-107",526,"M","Abdullah Wejdan","عبدالله وجدان ","عبدالله وجدان ","NO","2019-05-15","Results Status : Certified",263
+"General","G-01","01","Kabul","کابل","کابل","1-1177-40",527,"M","Sayed Farhad Hashemi","سید فرهاد هاشمی","سید فرهاد هاشمی","NO","2019-05-15","Results Status : Certified",1248
+"General","G-01","01","Kabul","کابل","کابل","1-1162-88",528,"M","Khan Agha Rezayee","خان آغا رضائی","خان آغا رضائی","YES","2019-05-15","Results Status : Certified",6231
+"General","G-01","01","Kabul","کابل","کابل","1-1297-60",529,"M","Habib Rahman Sayaf","حبیب الرحمن سیاف","حبیب الرحمن سیاف","YES","2019-05-15","Results Status : Certified",2758
+"General","G-01","01","Kabul","کابل","کابل","1-1277-164",530,"M","Eng. Fazelhaq Hemati","انجنیر فضل الحق همتی","انجنیر فضل الحق همتی","NO","2019-05-15","Results Status : Certified",61
+"General","G-01","01","Kabul","کابل","کابل","1-1615-1099",531,"M","Mohammad Zalmai Afghanyar Popal"," محمد زلمی افغانیار پوپل"," محمد زلمی افغانیار پوپل","NO","2019-05-15","Results Status : Certified",17
+"General","G-01","01","Kabul","کابل","کابل","1-1331-29",532,"M","Mohammad Haroon Formoli","محمد هارون فرملی","محمد هارون فرملی","NO","2019-05-15","Results Status : Certified",77
+"General","G-01","01","Kabul","کابل","کابل","1-1735-1071",533,"M","Haji Khalil Ahmad Ahmadi","حاجی خلیل احمد  احمدی","حاجی خلیل احمد  احمدی","NO","2019-05-15","Results Status : Certified",9
+"General","G-01","01","Kabul","کابل","کابل","1-1697-157",534,"M","Enayatullah Babakarkhel","عنایت الله بابکر خیل","عنایت الله بابکر خیل","NO","2019-05-15","Results Status : Certified",1302
+"General","G-01","01","Kabul","کابل","کابل","1-1249-30",535,"M","Mohammad Nayem Wardak","محمد نعیم وردک","محمد نعیم وردک","YES","2019-05-15","Results Status : Certified",2312
+"General","G-01","01","Kabul","کابل","کابل","1-1517-118",536,"M","Enayatullah Kakar","عنایت الله کاکر","عنایت الله کاکر","NO","2019-05-15","Results Status : Certified",15
+"General","G-01","01","Kabul","کابل","کابل","1-1159-24",537,"M","Abdul Raqib Jawid Kohistani","عبدالرقیب جاوید کوهستانی","عبدالرقیب جاوید کوهستانی","NO","2019-05-15","Results Status : Certified",1490
+"General","G-01","01","Kabul","کابل","کابل","1-1744-146",538,"M","Abdul Gheyas Kamran","عبدالغیاث کامران","عبدالغیاث کامران","NO","2019-05-15","Results Status : Certified",20
+"General","G-01","01","Kabul","کابل","کابل","1-1830-161",539,"M","Mohammad Jawad Habibi","محمد جواد حبیبی","محمد جواد حبیبی","NO","2019-05-15","Results Status : Certified",22
+"General","G-01","01","Kabul","کابل","کابل","1-1851-1105",540,"M","Qari Urfanullah Marefat","قاری عرفان الله معرفت ","قاری عرفان الله معرفت ","NO","2019-05-15","Results Status : Certified",65
+"General","G-01","01","Kabul","کابل","کابل","1-1765-3039",541,"M","Mahmood Haidari","محمود حیدری","محمود حیدری","NO","2019-05-15","Results Status : Certified",30
+"General","G-01","01","Kabul","کابل","کابل","1-1363-1188",542,"M","Noor Ahmad Noori Shaki","نوراحمد نوری شاکی","نوراحمد نوری شاکی","NO","2019-05-15","Results Status : Certified",12
+"General","G-01","01","Kabul","کابل","کابل","1-1807-130",543,"F","Rabea Stanikzai","رابعه ستانکزی","رابعه ستانکزی","NO","2019-05-15","Results Status : Certified",63
+"General","G-01","01","Kabul","کابل","کابل","1-1084-30",544,"M","Del Aqa Kohdamani","دل آقا کوهدامنی","دل آقا کوهدامنی","NO","2019-05-15","Results Status : Certified",49
+"General","G-01","01","Kabul","کابل","کابل","1-1312-49",545,"M","Kheyal Mohammad Khpelwak","خیال محمد خپلواک","خیال محمد خپلواک","NO","2019-05-15","Results Status : Certified",205
+"General","G-01","01","Kabul","کابل","کابل","1-1094-8",546,"M","Haji Ihsan Sahebzadah","حاجی احسان صاحب زاده","حاجی احسان صاحب زاده","NO","2019-05-15","Results Status : Certified",835
+"General","G-01","01","Kabul","کابل","کابل","1-1483-35",547,"M","Abdul Saboor Rahmani","عبدالصبور رحمانی","عبدالصبور رحمانی","NO","2019-05-15","Results Status : Certified",820
+"General","G-01","01","Kabul","کابل","کابل","1-1329-99",548,"M","Alhaj Mohammad Alem Khalili","الحاج محمد عالم خلیلی","الحاج محمد عالم خلیلی","NO","2019-05-15","Results Status : Certified",1819
+"General","G-01","01","Kabul","کابل","کابل","1-1071-36",549,"M","Mohammad Asef Shah Jahan Ahmadzai"," محمد آصف شاه جهان احمدزی"," محمد آصف شاه جهان احمدزی","NO","2019-05-15","Results Status : Certified",839
+"General","G-01","01","Kabul","کابل","کابل","1-1158-23",550,"M","Dr. Samim Shamsi","دکتور صمیم شمسی","دکتور صمیم شمسی","NO","2019-05-15","Results Status : Certified",81
+"General","G-01","01","Kabul","کابل","کابل","1-1434-31",551,"F","Anisa Turk","انیسه ترک","انیسه ترک","NO","2019-05-15","Results Status : Certified",109
+"General","G-01","01","Kabul","کابل","کابل","1-1348-181",552,"M","Dr. Ghullam Dastgir Elyas","دوکتور غلام دستگیر الیاس","دوکتور غلام دستگیر الیاس","NO","2019-05-15","Results Status : Certified",179
+"General","G-01","01","Kabul","کابل","کابل","1-1743-115",553,"M","Sayed Mujtaba Anwari","سید مجتبی انوری","سید مجتبی انوری","NO","2019-05-15","Results Status : Certified",354
+"General","G-01","01","Kabul","کابل","کابل","1-1736-1062",554,"M","Sayed Hamza Hashimi Balkhi","سید همزه هاشمی بلخی","سید همزه هاشمی بلخی","NO","2019-05-15","Results Status : Certified",7
+"General","G-01","01","Kabul","کابل","کابل","1-1667-17",555,"M","Bashir Ahmad","بشیراحمد","بشیراحمد","NO","2019-05-15","Results Status : Certified",223
+"General","G-01","01","Kabul","کابل","کابل","1-1592-9",556,"F","Halima Hussaini","حلیمه  حسینی","حلیمه  حسینی","NO","2019-05-15","Results Status : Certified",359
+"General","G-01","01","Kabul","کابل","کابل","1-1465-84",557,"M","Mohammad Aref Haidari","محمد عارف حیدری ","محمد عارف حیدری ","NO","2019-05-15","Results Status : Certified",1401
+"General","G-01","01","Kabul","کابل","کابل","1-1507-10",558,"M","Eng. Mohammad Amin Karim","انجنیرمحمد امین کریم","انجنیرمحمد امین کریم","NO","2019-05-15","Results Status : Certified",23
+"General","G-01","01","Kabul","کابل","کابل","1-1259-105",559,"M","Mohammad Allamazadah","محمد علامه زاده ","محمد علامه زاده ","NO","2019-05-15","Results Status : Certified",180
+"General","G-01","01","Kabul","کابل","کابل","1-1145-206",560,"M","Mohammad Shoaib Durgi","محمد شعیب درگی","محمد شعیب درگی","NO","2019-05-15","Results Status : Certified",464
+"General","G-01","01","Kabul","کابل","کابل","1-1628-224",561,"M","Abdul Habib Farzam Nejrabi","عبدالحبیب فرزام نجرابی","عبدالحبیب فرزام نجرابی","NO","2019-05-15","Results Status : Certified",46
+"General","G-01","01","Kabul","کابل","کابل","1-1620-151",562,"M","Ghullam Sarwar Sakhizad","غلام سرور سخی زاد","غلام سرور سخی زاد","NO","2019-05-15","Results Status : Certified",9
+"General","G-01","01","Kabul","کابل","کابل","1-1393-12",563,"M","Alhaj Del Aqa Hemat","الحاج دل آقا همت","الحاج دل آقا همت","NO","2019-05-15","Results Status : Certified",565
+"General","G-01","01","Kabul","کابل","کابل","1-1568-9",564,"M","Alhaj Deen Padshah Totakhel","الحاج دین پادشاه توتاخیل","الحاج دین پادشاه توتاخیل","NO","2019-05-15","Results Status : Certified",671
+"General","G-01","01","Kabul","کابل","کابل","1-1232-73",565,"M","Milad Yousuf Ibrahim","میلاد یوسف ابراهیم","میلاد یوسف ابراهیم","NO","2019-05-15","Results Status : Certified",236
+"General","G-01","01","Kabul","کابل","کابل","1-1054-1079",566,"M","Murtaza Ashraq","مرتضی اشراق","مرتضی اشراق","NO","2019-05-15","Results Status : Certified",11
+"General","G-01","01","Kabul","کابل","کابل","1-1853-1060",567,"M","Alhaj Shirin Aqa Stanikzai","الحاج شیرین آقا ستانکزی","الحاج شیرین آقا ستانکزی","NO","2019-05-15","Results Status : Certified",41
+"General","G-01","01","Kabul","کابل","کابل","1-1826-188",568,"M","Sahel Khan","ساحل خان","ساحل خان","NO","2019-05-15","Results Status : Certified",205
+"General","G-01","01","Kabul","کابل","کابل","1-1346-1017",569,"M","Commander Mir Alam Haqpal","قومندان میر علم حقپال","قومندان میر علم حقپال","NO","2019-05-15","Results Status : Certified",200
+"General","G-01","01","Kabul","کابل","کابل","1-1100-1096",570,"F","Aalia Azimi","عالیه عظیمی","عالیه عظیمی","NO","2019-05-15","Results Status : Certified",57
+"General","G-01","01","Kabul","کابل","کابل","1-1715-132",571,"M","Ihsanullah Fani","احسا ن الله فانی ","احسا ن الله فانی ","NO","2019-05-15","Results Status : Certified",955
+"General","G-01","01","Kabul","کابل","کابل","1-1053-1053",572,"M","Abdul Khaleq Ramesh Salemi","عبدالخالق رامش سالمی","عبدالخالق رامش سالمی","NO","2019-05-15","Results Status : Certified",65
+"General","G-01","01","Kabul","کابل","کابل","1-1154-123",573,"M","Mohammad Ayoub Osmani","محمد ایوب عثمانی","محمد ایوب عثمانی","NO","2019-05-15","Results Status : Certified",22
+"General","G-01","01","Kabul","کابل","کابل","1-1079-1166",574,"M","Alhaj Mohammad Omer Marjan","الحاج محمد عمر مرجان ","الحاج محمد عمر مرجان ","NO","2019-05-15","Results Status : Certified",222
+"General","G-01","01","Kabul","کابل","کابل","1-1072-78",575,"F","Zuhra Noorzai","زهره نوروزی","زهره نوروزی","YES","2019-05-15","Results Status : Certified",776
+"General","G-01","01","Kabul","کابل","کابل","1-1501-165",576,"M","Ahmad Parwiz Faizi","احمد پرویز فیضی","احمد پرویز فیضی","NO","2019-05-15","Results Status : Certified",49
+"General","G-01","01","Kabul","کابل","کابل","1-1246-41",577,"M","Mohammad Masood Afghan Ghorbandi","محمد مسعود افغان غوربندی","محمد مسعود افغان غوربندی","NO","2019-05-15","Results Status : Certified",463
+"General","G-01","01","Kabul","کابل","کابل","1-1862-3074",578,"M","Burhanuddin Hafez","برهان الدین   حافظ","برهان الدین   حافظ","NO","2019-05-15","Results Status : Certified",223
+"General","G-01","01","Kabul","کابل","کابل","1-1766-135",579,"M","Hassan Jaan Dawlatzai","حسن جان  دولت زی","حسن جان  دولت زی","NO","2019-05-15","Results Status : Certified",239
+"General","G-01","01","Kabul","کابل","کابل","1-1754-131",580,"M","Mohammad Aref Wardag","محمد عارف وردگ ","محمد عارف وردگ ","NO","2019-05-15","Results Status : Certified",67
+"General","G-01","01","Kabul","کابل","کابل","1-1252-184",581,"M","Gullabuddin Rasekh","گلاب الدین راسخ","گلاب الدین راسخ","NO","2019-05-15","Results Status : Certified",208
+"General","G-01","01","Kabul","کابل","کابل","1-1462-29",582,"M","Haji Jalaluddin Salehi","حاجی جلال الدین صالحی","حاجی جلال الدین صالحی","NO","2019-05-15","Results Status : Certified",22
+"General","G-01","01","Kabul","کابل","کابل","1-1124-1208",583,"M","Nesar Ahmad Bahlol","نثار احمد بهلول ","نثار احمد بهلول ","NO","2019-05-15","Results Status : Certified",718
+"General","G-01","01","Kabul","کابل","کابل","1-1541-11",584,"M","Dr. Shamsulhaq Najibi","داکتر شمس الحق نجیبی","داکتر شمس الحق نجیبی","NO","2019-05-15","Results Status : Certified",361
+"General","G-01","01","Kabul","کابل","کابل","1-1384-57",585,"M","Ahmad Zia Azimi Shinozadah","احمد ضیا عظیمی شینوزاده","احمد ضیا عظیمی شینوزاده","NO","2019-05-15","Results Status : Certified",1861
+"General","G-01","01","Kabul","کابل","کابل","1-1682-97",586,"M","Mohammad Halim Formoli","محمد حلیم فرملی ","محمد حلیم فرملی ","NO","2019-05-15","Results Status : Certified",384
+"General","G-01","01","Kabul","کابل","کابل","1-1863-111",587,"M","Najibullah Azad","نجیب الله آزاد ","نجیب الله آزاد ","NO","2019-05-15","Results Status : Certified",178
+"General","G-01","01","Kabul","کابل","کابل","1-1718-135",588,"M","Ajmal Gullab","اجمل گلاب ","اجمل گلاب ","NO","2019-05-15","Results Status : Certified",2274
+"General","G-01","01","Kabul","کابل","کابل","1-1486-139",589,"M","Zabiullah Laho Zazai","ذبیح الله لاهو ځاځی","ذبیح الله لاهو ځاځی","NO","2019-05-15","Results Status : Certified",49
+"General","G-01","01","Kabul","کابل","کابل","1-1027-1",590,"M","Noor Ahmad Ghafoori","نوراحمد غفوری","نوراحمد غفوری","NO","2019-05-15","Results Status : Certified",213
+"General","G-01","01","Kabul","کابل","کابل","1-1476-1101",591,"M","Mohammad Mahdi Hussainyar","محمد  مهدی حسنیار","محمد  مهدی حسنیار","NO","2019-05-15","Results Status : Certified",11
+"General","G-01","01","Kabul","کابل","کابل","1-1302-97",592,"M","Dr. Nematullah Nemat","داکتر نعمت الله نعمت ","داکتر نعمت الله نعمت ","NO","2019-05-15","Results Status : Certified",331
+"General","G-01","01","Kabul","کابل","کابل","1-1788-1069",593,"M","Khalid Khan Ghaznawi","خالد خان غزنوی","خالد خان غزنوی","NO","2019-05-15","Results Status : Certified",116
+"General","G-01","01","Kabul","کابل","کابل","1-1676-166",594,"F","Bibi Noor Darwazi","بی بی نور دروازی ","بی بی نور دروازی ","NO","2019-05-15","Results Status : Certified",56
+"General","G-01","01","Kabul","کابل","کابل","1-1247-52",595,"M","Suhrab Atta","سهراب عطا ","سهراب عطا ","NO","2019-05-15","Results Status : Certified",612
+"General","G-01","01","Kabul","کابل","کابل","1-1802-3065",596,"M","Shahzad Gull Musleh Zazai","شهزاد گل  مصلح   ځاځی","شهزاد گل  مصلح   ځاځی","NO","2019-05-15","Results Status : Certified",65
+"General","G-01","01","Kabul","کابل","کابل","1-1280-1202",597,"F","Jamila Noorzai Raufi","جمیله نورزی روفی ","جمیله نورزی روفی ","NO","2019-05-15","Results Status : Certified",34
+"General","G-01","01","Kabul","کابل","کابل","1-1347-149",598,"F","Ustad Hassina Sahak","استاد حسینه سهاک ","استاد حسینه سهاک ","NO","2019-05-15","Results Status : Certified",36
+"General","G-01","01","Kabul","کابل","کابل","1-1433-28",599,"M","Abdul Karim Stanikzai Obaid","عبدالکریم ستانکزی “عبید”","عبدالکریم ستانکزی “عبید”","NO","2019-05-15","Results Status : Certified",327
+"General","G-01","01","Kabul","کابل","کابل","1-1614-1",600,"M","Alhaj Mohammad Amin Tarakhel","الحاج محمد امین تره خیل ","الحاج محمد امین تره خیل ","NO","2019-05-15","Results Status : Certified",222
+"General","G-01","01","Kabul","کابل","کابل","1-1471-1085",601,"F","Parwin Zafar Ahadi","پروین ظفر احدی","پروین ظفر احدی","NO","2019-05-15","Results Status : Certified",80
+"General","G-01","01","Kabul","کابل","کابل","1-1097-198",602,"M","Mohammad Zia Yari","محمد ضیا یاری","محمد ضیا یاری","NO","2019-05-15","Results Status : Certified",9
+"General","G-01","01","Kabul","کابل","کابل","1-1833-165",603,"M","Mohammad Essa Ahmadi","محمد عیسی احمد ی","محمد عیسی احمد ی","NO","2019-05-15","Results Status : Certified",6
+"General","G-01","01","Kabul","کابل","کابل","1-1345-105",604,"M","Dr. Mohammad Younus Karimi","داکتر محمد یونس کریمی ","داکتر محمد یونس کریمی ","NO","2019-05-15","Results Status : Certified",72
+"General","G-01","01","Kabul","کابل","کابل","1-1288-59",605,"M","Fawad Aman","فواد امان","فواد امان","NO","2019-05-15","Results Status : Certified",607
+"General","G-01","01","Kabul","کابل","کابل","35-1832-153",606,"M","Jubran","جبران ","جبران ","NO","2019-05-15","Results Status : Certified",134
+"General","G-01","01","Kabul","کابل","کابل","1-1285-19",607,"M","Fazel Rahman Sofizadah","فضل الرحمن صوفی زاده","فضل الرحمن صوفی زاده","NO","2019-05-15","Results Status : Certified",127
+"General","G-01","01","Kabul","کابل","کابل","1-1711-104",608,"F","Shinkai Karokhel","شینکی کروخیل","شینکی کروخیل","YES","2019-05-15","Results Status : Certified",858
+"General","G-01","01","Kabul","کابل","کابل","1-1338-40",609,"M","Assadullah Azizi","اسد الله عزیزی","اسد الله عزیزی","NO","2019-05-15","Results Status : Certified",989
+"General","G-01","01","Kabul","کابل","کابل","1-1849-171",610,"M","Abdul Qayoum Sahraye","عبدالقیوم صحرایی","عبدالقیوم صحرایی","NO","2019-05-15","Results Status : Certified",67
+"General","G-01","01","Kabul","کابل","کابل","1-1542-4",611,"M","Noorullah Dawoodzai","نورالله داوود زی","نورالله داوود زی","NO","2019-05-15","Results Status : Certified",1542
+"General","G-01","01","Kabul","کابل","کابل","1-1452-3058",612,"M","Sayed Hassan Hussaini","سید حسن حسینی ","سید حسن حسینی ","NO","2019-05-15","Results Status : Certified",25
+"General","G-01","01","Kabul","کابل","کابل","1-1618-1191",613,"M","Sayed Hamed Daqiq","سید حامد دقیق ","سید حامد دقیق ","NO","2019-05-15","Results Status : Certified",23
+"General","G-01","01","Kabul","کابل","کابل","1-1107-145",614,"F","Shekeba Kakar Sadat","شکیبا کاکرسادات ","شکیبا کاکرسادات ","NO","2019-05-15","Results Status : Certified",22
+"General","G-01","01","Kabul","کابل","کابل","1-1260-4",615,"M","Abdul Manan Shiwae Sharq","عبدالمنان شیوای شرق ","عبدالمنان شیوای شرق ","NO","2019-05-15","Results Status : Certified",467
+"General","G-01","01","Kabul","کابل","کابل","1-1775-155",616,"M","Dr. Jawad Surosh","داکتر جواد سروش ","داکتر جواد سروش ","NO","2019-05-15","Results Status : Certified",254
+"General","G-01","01","Kabul","کابل","کابل","35-1549-159",617,"M","Kako Jaan Neyazai","کاکو جان نیازی","کاکو جان نیازی","NO","2019-05-15","Results Status : Certified",23
+"General","G-01","01","Kabul","کابل","کابل","1-1436-11",618,"M","Mohammad Rahim Karimi","محمد رحیم کریمی","محمد رحیم کریمی","NO","2019-05-15","Results Status : Certified",693
+"General","G-01","01","Kabul","کابل","کابل","1-1899-1183",619,"M","Haji Samim Haidari","حاجی صمیم  حیدری ","حاجی صمیم  حیدری ","NO","2019-05-15","Results Status : Certified",690
+"General","G-01","01","Kabul","کابل","کابل","1-2008-1207",620,"M","Mohammad Younus Tughra","محمد یونس  طغرا ","محمد یونس  طغرا ","NO","2019-05-15","Results Status : Certified",370
+"General","G-01","01","Kabul","کابل","کابل","1-1335-19",621,"M","Dr. Mohammad Asef Hekmat","داکتر محمد آصف حکمت ","داکتر محمد آصف حکمت ","NO","2019-05-15","Results Status : Certified",377
+"General","G-01","01","Kabul","کابل","کابل","1-1085-3062",622,"M","Razuddin Fakhri","رازالدن فخری","رازالدن فخری","NO","2019-05-15","Results Status : Certified",73
+"General","G-01","01","Kabul","کابل","کابل","1-1701-6",623,"M","Najibullah Kabuli","نجیب الله کابلی","نجیب الله کابلی","NO","2019-05-15","Results Status : Certified",189
+"General","G-01","01","Kabul","کابل","کابل","1-1175-48",624,"M","Dr. Mohammad Shour Neyazai","داکتر محمد شعور نیازی ","داکتر محمد شعور نیازی ","NO","2019-05-15","Results Status : Certified",902
+"General","G-01","01","Kabul","کابل","کابل","1-1421-196",625,"F","Najiba Fetrat","نجیبه فطرت","نجیبه فطرت","NO","2019-05-15","Results Status : Certified",110
+"General","G-01","01","Kabul","کابل","کابل","1-1633-82",626,"M","Ustad Qasem Wahidi","استاد قاسم وحیدی","استاد قاسم وحیدی","NO","2019-05-15","Results Status : Certified",808
+"General","G-01","01","Kabul","کابل","کابل","1-1395-1072",627,"M","Dr. Ahmad Wahid Khalid","داکتر احمد وحید خالد ","داکتر احمد وحید خالد ","NO","2019-05-15","Results Status : Certified",18
+"General","G-01","01","Kabul","کابل","کابل","1-1132-116",628,"M","Alhaj Noor Rahman Oryakhel","الحاج نور رحمن اوریاخیل","الحاج نور رحمن اوریاخیل","NO","2019-05-15","Results Status : Certified",350
+"General","G-01","01","Kabul","کابل","کابل","1-1509-1016",629,"M","Abdul Wahid Hamzah","عبدالوحید  حمزه","عبدالوحید  حمزه","NO","2019-05-15","Results Status : Certified",472
+"General","G-01","01","Kabul","کابل","کابل","1-1052-88",630,"M","Abdul Baqi Saranwal Hotak","عبدالباقی څارنوال هوتک","عبدالباقی څارنوال هوتک","NO","2019-05-15","Results Status : Certified",205
+"General","G-01","01","Kabul","کابل","کابل","1-1228-11",631,"F","Gen. Nazifa Zaki","جنرال نظیفه ذکی","جنرال نظیفه ذکی","YES","2019-05-15","Results Status : Certified",950
+"General","G-01","01","Kabul","کابل","کابل","1-1485-63",632,"M","Abdul Mohammad Elham Nadi","عبدالمحمد الهام نادی","عبدالمحمد الهام نادی","NO","2019-05-15","Results Status : Certified",64
+"General","G-01","01","Kabul","کابل","کابل","1-1128-174",633,"M","Mohammad Naser Babakarkhel","محمد ناصر بابکر خیل","محمد ناصر بابکر خیل","NO","2019-05-15","Results Status : Certified",102
+"General","G-01","01","Kabul","کابل","کابل","1-2007-164",634,"M","Alhaj Sharifullah Kamawal","الحاج شریف الله کامه وال ","الحاج شریف الله کامه وال ","NO","2019-05-15","Results Status : Certified",81
+"General","G-01","01","Kabul","کابل","کابل","1-1354-109",635,"M","Mohammad Aalem Kohkan","محمد عالم کوهکن ","محمد عالم کوهکن ","NO","2019-05-15","Results Status : Certified",90
+"General","G-01","01","Kabul","کابل","کابل","1-1326-29",636,"M","Haji Ali Mirzaye","حاجی علی میرزائی ","حاجی علی میرزائی ","NO","2019-05-15","Results Status : Certified",653
+"General","G-01","01","Kabul","کابل","کابل","1-1699-1182",637,"M","Rashed Nezam","راشد نظام ","راشد نظام ","NO","2019-05-15","Results Status : Certified",47
+"General","G-01","01","Kabul","کابل","کابل","1-1484-202",638,"M","Ahmad Kumail Mir Shadibeg","احمد کمیل میر شادی بیگ","احمد کمیل میر شادی بیگ","NO","2019-05-15","Results Status : Certified",315
+"General","G-01","01","Kabul","کابل","کابل","1-1306-43",639,"M","Zabiullah Almas"," ذبیح الله الماس"," ذبیح الله الماس","NO","2019-05-15","Results Status : Certified",2331
+"General","G-01","01","Kabul","کابل","کابل","1-1255-3",640,"F","Zeba Safa","زیبا صفا","زیبا صفا","NO","2019-05-15","Results Status : Certified",90
+"General","G-01","01","Kabul","کابل","کابل","1-1460-217",641,"F","Mumtaz Yousufzai","ممتاز یوسفزی","ممتاز یوسفزی","NO","2019-05-15","Results Status : Certified",72
+"General","G-01","01","Kabul","کابل","کابل","1-1828-163",642,"M","Khalilullah Shinwari","خلیل الله شینواری","خلیل الله شینواری","NO","2019-05-15","Results Status : Certified",50
+"General","G-01","01","Kabul","کابل","کابل","1-1836-172",643,"M","Sayed Sardar Aqa Shamshiri","سید سردار آقا شمشیری","سید سردار آقا شمشیری","NO","2019-05-15","Results Status : Certified",23
+"General","G-01","01","Kabul","کابل","کابل","1-1469-107",644,"M","Mohammad Aref Moheb","محمد عارف محب ","محمد عارف محب ","NO","2019-05-15","Results Status : Certified",1034
+"General","G-01","01","Kabul","کابل","کابل","1-1536-84",645,"M","Eraj Nezami","ایرج نظامی","ایرج نظامی","NO","2019-05-15","Results Status : Certified",691
+"General","G-01","01","Kabul","کابل","کابل","1-1642-118",646,"M","Mohammad Halim Amini","محمد حلیم امینی ","محمد حلیم امینی ","NO","2019-05-15","Results Status : Certified",167
+"General","G-01","01","Kabul","کابل","کابل","1-1026-1019",647,"M","Alhaj Omar Gull Momand","الحاج عمر ګل مومند","الحاج عمر ګل مومند","NO","2019-05-15","Results Status : Certified",11
+"General","G-01","01","Kabul","کابل","کابل","1-1142-59",648,"M","Ahmad Timim Jurat","احمد تمیم جرأت","احمد تمیم جرأت","NO","2019-05-15","Results Status : Certified",855
+"General","G-01","01","Kabul","کابل","کابل","1-1692-1185",649,"M","Ghullam Mujtaba Qais","غلام مجتبی قیس ","غلام مجتبی قیس ","NO","2019-05-15","Results Status : Certified",10
+"General","G-01","01","Kabul","کابل","کابل","1-1380-50",650,"M","Aqil Shah Elyasi","عقیل شاه الیاسی","عقیل شاه الیاسی","NO","2019-05-15","Results Status : Certified",1056
+"General","G-01","01","Kabul","کابل","کابل","1-1314-33",651,"M","Mohammad Younus Nawandesh","محمدیونس نواندیش","محمدیونس نواندیش","NO","2019-05-15","Results Status : Certified",225
+"General","G-01","01","Kabul","کابل","کابل","1-1762-114",652,"M","Sayed Najibullah Faraz","سید نجیب الله فراز","سید نجیب الله فراز","NO","2019-05-15","Results Status : Certified",45
+"General","G-01","01","Kabul","کابل","کابل","1-1891-164",653,"M","Sayed Rahman Wahedyar","سید الرحمن واحدیار","سید الرحمن واحدیار","NO","2019-05-15","Results Status : Certified",219
+"General","G-01","01","Kabul","کابل","کابل","1-1372-3070",654,"M","Noor Habib Hasir","نورالحبیب  حصیر","نورالحبیب  حصیر","NO","2019-05-15","Results Status : Certified",145
+"General","G-01","01","Kabul","کابل","کابل","1-1871-179",655,"M","Qaisullah Samkanai","قیس الله څمکنی","قیس الله څمکنی","NO","2019-05-15","Results Status : Certified",229
+"General","G-01","01","Kabul","کابل","کابل","1-1665-7",656,"M","Attaullah Nasib","عطا الله نصیب","عطا الله نصیب","NO","2019-05-15","Results Status : Certified",1675
+"General","G-01","01","Kabul","کابل","کابل","1-1870-143",657,"M","Abdul Wase Rasool","عبدالواسع رسول","عبدالواسع رسول","NO","2019-05-15","Results Status : Certified",1012
+"General","G-01","01","Kabul","کابل","کابل","1-1298-54",658,"M","Alhaj Hamidullah Bakhshi","الحاج حمید الله بخشی ","الحاج حمید الله بخشی ","NO","2019-05-15","Results Status : Certified",78
+"General","G-01","01","Kabul","کابل","کابل","1-1337-150",659,"M","Jamaluddin Hekmatyar","جمال الدین حکمتیار","جمال الدین حکمتیار","NO","2019-05-15","Results Status : Certified",904
+"General","G-01","01","Kabul","کابل","کابل","35-1360-155",660,"M","Haji Azizullah Habibi","حاجی عزیز الله حبیبی","حاجی عزیز الله حبیبی","NO","2019-05-15","Results Status : Certified",118
+"General","G-01","01","Kabul","کابل","کابل","1-1244-82",661,"M","Haji Gull Rahman Rahmani Mangal","حاجی گلرحمن رحمانی منگل","حاجی گلرحمن رحمانی منگل","NO","2019-05-15","Results Status : Certified",113
+"General","G-01","01","Kabul","کابل","کابل","1-1230-17",662,"M","Sayed Abdul Naser Yaqoobi","سید عبدالناصر یعقوبی","سید عبدالناصر یعقوبی","NO","2019-05-15","Results Status : Certified",521
+"General","G-01","01","Kabul","کابل","کابل","1-1070-77",663,"M","Sultan Mansoor Osmani","سلطان منصور عثمانی","سلطان منصور عثمانی","NO","2019-05-15","Results Status : Certified",79
+"General","G-01","01","Kabul","کابل","کابل","1-1323-113",664,"M","Alhaj Mohammad Hashem Karimi","الحاج محمد هاشم  کریمی ","الحاج محمد هاشم  کریمی ","NO","2019-05-15","Results Status : Certified",141
+"General","G-01","01","Kabul","کابل","کابل","1-1179-9",665,"M","Sultan Mahmood Daqiq","سلطان محمود دقیق","سلطان محمود دقیق","NO","2019-05-15","Results Status : Certified",328
+"General","G-01","01","Kabul","کابل","کابل","1-1278-114",666,"M","Sayed Alem Rasa","سید عالم رسا","سید عالم رسا","NO","2019-05-15","Results Status : Certified",78
+"General","G-01","01","Kabul","کابل","کابل","1-1022-25",667,"M","Alhaj Zemarak Padkhwabi","الحاج زمرک پادخوابی","الحاج زمرک پادخوابی","NO","2019-05-15","Results Status : Certified",1682
+"General","G-01","01","Kabul","کابل","کابل","1-1020-8",668,"M","Mohammad Asghar Wakili Popalzai","محمد اصغر وکیلی پوپلزائی","محمد اصغر وکیلی پوپلزائی","NO","2019-05-15","Results Status : Certified",240
+"General","G-01","01","Kabul","کابل","کابل","1-1151-60",669,"F","Dr. Masooda Jalal","داکتر مسعوده جلال","داکتر مسعوده جلال","NO","2019-05-15","Results Status : Certified",192
+"General","G-01","01","Kabul","کابل","کابل","1-1416-139",670,"M","Assadullah Karimi","اسد الله کریمی","اسد الله کریمی","NO","2019-05-15","Results Status : Certified",94
+"General","G-01","01","Kabul","کابل","کابل","1-1108-215",671,"M","Abdul Wahab Kabuli","عبدالوهاب کابلی","عبدالوهاب کابلی","NO","2019-05-15","Results Status : Certified",69
+"General","G-01","01","Kabul","کابل","کابل","1-1342-1037",672,"M","Nazer Hussain Hussainpor","ناظرحسین حسین پور","ناظرحسین حسین پور","NO","2019-05-15","Results Status : Certified",744
+"General","G-01","01","Kabul","کابل","کابل","1-1404-1012",673,"M","Sherabuddin Sayar","شیر اب الدین  سیار","شیر اب الدین  سیار","NO","2019-05-15","Results Status : Certified",87
+"General","G-01","01","Kabul","کابل","کابل","1-1714-1045",674,"M","Abu-Zar Ghafari","ابوذر غفاری","ابوذر غفاری","NO","2019-05-15","Results Status : Certified",57
+"General","G-01","01","Kabul","کابل","کابل","1-1032-1049",675,"M","Eng. Azimullah Esmati","انجنیر عظیم الله عصمتی","انجنیر عظیم الله عصمتی","NO","2019-05-15","Results Status : Certified",166
+"General","G-01","01","Kabul","کابل","کابل","1-1791-1178",676,"M","Alhaj Khaibar Zeyarmal","الحاج خیبر زیارمل ","الحاج خیبر زیارمل ","NO","2019-05-15","Results Status : Certified",211
+"General","G-01","01","Kabul","کابل","کابل","1-1171-71",677,"M","Alhaj Jalaluddin Fakhri","الحاج جلال الدین فخری ","الحاج جلال الدین فخری ","NO","2019-05-15","Results Status : Certified",86
+"General","G-01","01","Kabul","کابل","کابل","1-1834-118",678,"M","Kabul Khan Tadbir Zurmati","کابل خان تدبیر زرمتی","کابل خان تدبیر زرمتی","NO","2019-05-15","Results Status : Certified",16
+"General","G-01","01","Kabul","کابل","کابل","1-1168-2029",679,"M","Amir Mohammad Lakanwal","امیر محمد لکنوال","امیر محمد لکنوال","NO","2019-05-15","Results Status : Certified",344
+"General","G-01","01","Kabul","کابل","کابل","1-1794-255",680,"M","Mawlawi Mohammad Mustafa Barikzai","مولوی محمد مصطفی بارکزی","مولوی محمد مصطفی بارکزی","NO","2019-05-15","Results Status : Certified",28
+"General","G-01","01","Kabul","کابل","کابل","1-1804-1173",681,"M","Wazir Khan ","وزیر خان ","وزیر خان ","NO","2019-05-15","Results Status : Certified",381
+"General","G-01","01","Kabul","کابل","کابل","1-1256-120",682,"M","Sayed Karim Mansoor","سید کریم منصور ","سید کریم منصور ","NO","2019-05-15","Results Status : Certified",82
+"General","G-01","01","Kabul","کابل","کابل","1-1837-125",683,"M","Zolfaqar Omid","ذوالفقار امید ","ذوالفقار امید ","NO","2019-05-15","Results Status : Certified",1233
+"General","G-01","01","Kabul","کابل","کابل","1-1673-161",684,"M","Ustad Darab Ali Aliyar","استاد داراب علی علی یار","استاد داراب علی علی یار","NO","2019-05-15","Results Status : Certified",49
+"General","G-01","01","Kabul","کابل","کابل","1-2003-137",685,"M","Eng. Mohammad Afzal Ahmadzai","انجنیر محمد افضل احمدزی ","انجنیر محمد افضل احمدزی ","NO","2019-05-15","Results Status : Certified",273
+"General","G-01","01","Kabul","کابل","کابل","1-1272-20",686,"M","Lutfullah Quraishi","لطف الله قریشی","لطف الله قریشی","NO","2019-05-15","Results Status : Certified",1599
+"General","G-01","01","Kabul","کابل","کابل","1-1271-9",687,"M","Alhaj Gen. Sardar Mohammad Abulfazel","الحاج جنرال سردار محمد ابوالفضل ","الحاج جنرال سردار محمد ابوالفضل ","NO","2019-05-15","Results Status : Certified",306
+"General","G-01","01","Kabul","کابل","کابل","1-1726-121",688,"M","Mohammad Aref Nooristani","محمد عارف نورستانی","محمد عارف نورستانی","NO","2019-05-15","Results Status : Certified",135
+"General","G-01","01","Kabul","کابل","کابل","1-1172-65",689,"M","Mohammad Kabir Kamal","محمد کبیر کمال","محمد کبیر کمال","NO","2019-05-15","Results Status : Certified",730
+"General","G-01","01","Kabul","کابل","کابل","1-1867-256",690,"M","Ahmad Reshad Mubarez","احمد راشد مبارز","احمد راشد مبارز","NO","2019-05-15","Results Status : Certified",32
+"General","G-01","01","Kabul","کابل","کابل","1-1490-20",691,"M","Jamshid Iqbal","جمشید اقبال","جمشید اقبال","NO","2019-05-15","Results Status : Certified",147
+"General","G-01","01","Kabul","کابل","کابل","1-1009-82",692,"M","Mohammad Nasim Safi","محمد نسیم صافی","محمد نسیم صافی","NO","2019-05-15","Results Status : Certified",442
+"General","G-01","01","Kabul","کابل","کابل","1-1712-147",693,"M","Sayed Nesar Hashemi","سید نثار هاشیمی","سید نثار هاشیمی","NO","2019-05-15","Results Status : Certified",47
+"General","G-01","01","Kabul","کابل","کابل","1-1647-96",694,"M","Zaher Khan Ahmadzai","ظاهر خان احمدزی","ظاهر خان احمدزی","NO","2019-05-15","Results Status : Certified",575
+"General","G-01","01","Kabul","کابل","کابل","1-1377-119",695,"M","Saranwal Abdul Jalil Mudafe","ثارنوال عبدالجلیل مدافع","ثارنوال عبدالجلیل مدافع","NO","2019-05-15","Results Status : Certified",324
+"General","G-01","01","Kabul","کابل","کابل","1-1721-1171",696,"M","Samiullah Mahdi","سمیع الله مهدی ","سمیع الله مهدی ","NO","2019-05-15","Results Status : Certified",527
+"General","G-01","01","Kabul","کابل","کابل","1-1757-1160",697,"M","Obaidullah Qalamyar","عبیدالله قلم یار ","عبیدالله قلم یار ","NO","2019-05-15","Results Status : Certified",20
+"General","G-01","01","Kabul","کابل","کابل","1-1334-24",698,"M","Masood Shah","مسعود شاه","مسعود شاه","NO","2019-05-15","Results Status : Certified",106
+"General","G-01","01","Kabul","کابل","کابل","1-1343-117",699,"M","Enyatullah Didar","عنایت الله دیدار","عنایت الله دیدار","NO","2019-05-15","Results Status : Certified",377
+"General","G-01","01","Kabul","کابل","کابل","1-1504-179",700,"M","Sayed Naser Shah Askarzadah","سید ناصر شاه عسکرزاده ","سید ناصر شاه عسکرزاده ","NO","2019-05-15","Results Status : Certified",46
+"General","G-01","01","Kabul","کابل","کابل","1-1495-211",701,"F","Afghani Oryakhel","افغانی اوریا  خیل","افغانی اوریا  خیل","NO","2019-05-15","Results Status : Certified",58
+"General","G-01","01","Kabul","کابل","کابل","1-1134-1214",702,"M","Aqa Sayeed Malek Sayed Jaan","آقاسعید ملک سید جان","آقاسعید ملک سید جان","NO","2019-05-15","Results Status : Certified",215
+"General","G-01","01","Kabul","کابل","کابل","1-1640-1102",703,"M","Qari Ahmad Reshad Khan Mamozai","قاری احمد رشاد خان مموزی","قاری احمد رشاد خان مموزی","NO","2019-05-15","Results Status : Certified",161
+"General","G-01","01","Kabul","کابل","کابل","1-1004-14",704,"M","Haji Mohammad Mulla Hamidi","حاجی محمد ملا حمیدی","حاجی محمد ملا حمیدی","NO","2019-05-15","Results Status : Certified",917
+"General","G-01","01","Kabul","کابل","کابل","1-1304-60",705,"M","Abdul Latif Nazari","عبدالطیف نظری","عبدالطیف نظری","NO","2019-05-15","Results Status : Certified",289
+"General","G-01","01","Kabul","کابل","کابل","1-1021-2024",706,"M","Abdul Hadi Arghandiwal","عبدالهادی ارغندیوال","عبدالهادی ارغندیوال","NO","2019-05-15","Results Status : Certified",993
+"General","G-01","01","Kabul","کابل","کابل","1-1012-3037",707,"M","Ahmad Shah Sangdel","احمد شاه سنگدل ","احمد شاه سنگدل ","NO","2019-05-15","Results Status : Certified",362
+"General","G-01","01","Kabul","کابل","کابل","1-1109-112",708,"F","Ogai Amil","اوگی امیل","اوگی امیل","NO","2019-05-15","Results Status : Certified",28
+"General","G-01","01","Kabul","کابل","کابل","1-1369-122",709,"F","Nooria Munsef","نوریه منصف ","نوریه منصف ","NO","2019-05-15","Results Status : Certified",33
+"General","G-01","01","Kabul","کابل","کابل","1-1375-1180",710,"M","Mohammad Azim ","محمد عظیم ","محمد عظیم ","NO","2019-05-15","Results Status : Certified",7
+"General","G-01","01","Kabul","کابل","کابل","1-1002-14",711,"M","Sayed Mahdi Anwari","سید مهدی انوری ","سید مهدی انوری ","NO","2019-05-15","Results Status : Certified",92
+"General","G-01","01","Kabul","کابل","کابل","1-1350-81",712,"M","Hazrat Yousuf Zemarai Ahmadzai","حضرت یوسف زمری احمدزی","حضرت یوسف زمری احمدزی","NO","2019-05-15","Results Status : Certified",114
+"General","G-01","01","Kabul","کابل","کابل","1-1446-91",713,"M","Abdul Hadi Khalid","عبدالهادی خالد ","عبدالهادی خالد ","NO","2019-05-15","Results Status : Certified",1570
+"General","G-01","01","Kabul","کابل","کابل","1-2004-116",714,"M","Mohammad Humayoun Noori","محمد همایون نوری ","محمد همایون نوری ","NO","2019-05-15","Results Status : Certified",43
+"General","G-01","01","Kabul","کابل","کابل","1-1634-8",715,"F","Pariza Rahmani","پریزا رحمانی","پریزا رحمانی","NO","2019-05-15","Results Status : Certified",87
+"General","G-01","01","Kabul","کابل","کابل","35-1883-152",716,"F","Vida Saghari","ویدا ساغری","ویدا ساغری","NO","2019-05-15","Results Status : Certified",37
+"General","G-01","01","Kabul","کابل","کابل","1-1857-201",717,"M","Essa Mohammad Esmat Qane","عیسی محمد عصمت قانع","عیسی محمد عصمت قانع","NO","2019-05-15","Results Status : Certified",55
+"General","G-01","01","Kabul","کابل","کابل","1-1632-2",718,"M","Mohammad Farooq Baraki","محمد فاروق بره کی ","محمد فاروق بره کی ","NO","2019-05-15","Results Status : Certified",518
+"General","G-01","01","Kabul","کابل","کابل","1-1403-18",719,"M","Eng. Mutasel Khan Komaki","انجنیر متصل خان کومکی","انجنیر متصل خان کومکی","NO","2019-05-15","Results Status : Certified",611
+"General","G-01","01","Kabul","کابل","کابل","1-1170-95",720,"M","Brg-Gen. Arkan Harb Ghullam Farooq Nayemi","برید جنرال ارکان حرب غلام فاروق نعیمی","برید جنرال ارکان حرب غلام فاروق نعیمی","NO","2019-05-15","Results Status : Certified",112
+"General","G-01","01","Kabul","کابل","کابل","1-1702-10",721,"M","Mohammad Jamil Karzai","محمد جمیل کرزی ","محمد جمیل کرزی ","NO","2019-05-15","Results Status : Certified",564
+"General","G-01","01","Kabul","کابل","کابل","1-1864-127",722,"M","Mirwais Stanikzai","میرویس ستانکزی","میرویس ستانکزی","NO","2019-05-15","Results Status : Certified",877
+"General","G-01","01","Kabul","کابل","کابل","1-1262-1163",723,"M","Mohammad Tamim Nooristani","محمد تمیم نورستانی ","محمد تمیم نورستانی ","NO","2019-05-15","Results Status : Certified",144
+"General","G-01","01","Kabul","کابل","کابل","1-1059-149",724,"M","Ghullam Qader Sakhizadah","غلام قادر سخی زاده ","غلام قادر سخی زاده ","NO","2019-05-15","Results Status : Certified",150
+"General","G-01","01","Kabul","کابل","کابل","1-1861-257",725,"M","Shafiq Mubarak Ahmadzai","شفیق مبارک احمدزی","شفیق مبارک احمدزی","NO","2019-05-15","Results Status : Certified",29
+"General","G-01","01","Kabul","کابل","کابل","1-1045-21",726,"M","Alhaj Zabiullah Nasiri","الحاج ذبیح الله نصیری","الحاج ذبیح الله نصیری","NO","2019-05-15","Results Status : Certified",260
+"General","G-01","01","Kabul","کابل","کابل","1-1181-106",727,"M","Alhaj Mohammad Dawood Paktyawal","الحاج محمد داود پکتیاوال","الحاج محمد داود پکتیاوال","NO","2019-05-15","Results Status : Certified",86
+"General","G-01","01","Kabul","کابل","کابل","1-1656-129",728,"M","Mohammad Ajmal Zurmati","محمد اجمل زرمتی ","محمد اجمل زرمتی ","NO","2019-05-15","Results Status : Certified",28
+"General","G-01","01","Kabul","کابل","کابل","1-1351-1158",729,"F","Parwana Zamani","پروانه زمانی ","پروانه زمانی ","NO","2019-05-15","Results Status : Certified",296
+"General","G-01","01","Kabul","کابل","کابل","1-1083-51",730,"F","Drs. Frozan Fana","دکتورس فروزان فنا","دکتورس فروزان فنا","NO","2019-05-15","Results Status : Certified",27
+"General","G-01","01","Kabul","کابل","کابل","35-1769-156",731,"F","Ustad Laila Barikzai","استاد لیلا بارکزی ","استاد لیلا بارکزی ","NO","2019-05-15","Results Status : Certified",58
+"General","G-01","01","Kabul","کابل","کابل","1-1268-48",732,"M","sayed Naqibullah Hashemi","سید نقیب الله هاشمی","سید نقیب الله هاشمی","NO","2019-05-15","Results Status : Certified",1249
+"General","G-01","01","Kabul","کابل","کابل","1-1253-98",733,"M","Dr. Fraidon Noorzad","داکتر فریدون نورزاد","داکتر فریدون نورزاد","NO","2019-05-15","Results Status : Certified",1464
+"General","G-01","01","Kabul","کابل","کابل","1-2006-161",734,"M","Abdul Maqsood Hassanzadah","عبدالمقصود حسن زاده ","عبدالمقصود حسن زاده ","NO","2019-05-15","Results Status : Certified",41
+"General","G-01","01","Kabul","کابل","کابل","1-1545-50",735,"M","Abdul Matin Shirzoi","عبدالمتین شیرزوی","عبدالمتین شیرزوی","NO","2019-05-15","Results Status : Certified",1490
+"General","G-01","01","Kabul","کابل","کابل","1-1322-27",736,"M","Dr. Abdul Ghafoor Taban","داکتر عبدالغفور تابان","داکتر عبدالغفور تابان","NO","2019-05-15","Results Status : Certified",327
+"General","G-01","01","Kabul","کابل","کابل","1-1570-32",737,"M","Ustad Abdul Gheyas Gheyasi","ااستاد عبدالغیاث غیاثی","ااستاد عبدالغیاث غیاثی","NO","2019-05-15","Results Status : Certified",250
+"General","G-01","01","Kabul","کابل","کابل","1-1885-1051",738,"M","Mohammad Kabir Zamir","محمد کبیر ضمیر","محمد کبیر ضمیر","NO","2019-05-15","Results Status : Certified",54
+"General","G-01","01","Kabul","کابل","کابل","1-1856-216",739,"M","Alhaj Shahd Wali Zemawal","الحاج شهد ولی زمه وال","الحاج شهد ولی زمه وال","NO","2019-05-15","Results Status : Certified",988
+"General","G-01","01","Kabul","کابل","کابل","1-1110-121",740,"F","Dr. Karima Kohistani","داکتر کریمه کوهستانی","داکتر کریمه کوهستانی","NO","2019-05-15","Results Status : Certified",40
+"General","G-01","01","Kabul","کابل","کابل","1-1816-144",741,"M","Alhaj Ghullam Dastgir Chakari","الحاج غلام دستگیر چکری","الحاج غلام دستگیر چکری","NO","2019-05-15","Results Status : Certified",301
+"General","G-01","01","Kabul","کابل","کابل","1-1739-1044",742,"M","Jamshid Sofizadah","جمشید صوفی زاده ","جمشید صوفی زاده ","NO","2019-05-15","Results Status : Certified",131
+"General","G-01","01","Kabul","کابل","کابل","1-1773-159",743,"M","Abdul Hai Maalek","عبدالحی مالک","عبدالحی مالک","NO","2019-05-15","Results Status : Certified",170
+"General","G-01","01","Kabul","کابل","کابل","1-1318-53",744,"M","Mohammad Zaki Noori","محمد ذکی نوری","محمد ذکی نوری","NO","2019-05-15","Results Status : Certified",650
+"General","G-01","01","Kabul","کابل","کابل","1-1731-110",745,"M","Abdul Kabir","عبدالکبیر","عبدالکبیر","NO","2019-05-15","Results Status : Certified",14
+"General","G-01","01","Kabul","کابل","کابل","1-1218-1206",746,"F","Dr. Mir Latifa Begnezhad","داکتر میر لطیفه بیگ نژاد","داکتر میر لطیفه بیگ نژاد","NO","2019-05-15","Results Status : Certified",21
+"General","G-01","01","Kabul","کابل","کابل","1-1609-15",747,"M","Nasir Ahmad Ensaf","نصیر احمد انصاف","نصیر احمد انصاف","NO","2019-05-15","Results Status : Certified",160
+"General","G-01","01","Kabul","کابل","کابل","1-1420-6",748,"M","Sayed Maroof Hashemi Jahed","سید معروف ها شمی جاهد","سید معروف ها شمی جاهد","NO","2019-05-15","Results Status : Certified",201
+"General","G-01","01","Kabul","کابل","کابل","1-1521-25",749,"M","Alhaj Allah Gull Mujahid","الحاج الله گل مجاهد","الحاج الله گل مجاهد","YES","2019-05-15","Results Status : Certified",3559
+"General","G-01","01","Kabul","کابل","کابل","1-1848-195",750,"M","Bashir Ahmad Bezhan","بشیر احمد بیژن ","بشیر احمد بیژن ","NO","2019-05-15","Results Status : Certified",117
+"General","G-01","01","Kabul","کابل","کابل","1-1410-39",751,"M","Ghazi Khan Dr. Naqib","غازی خان داکتر نقیب ","غازی خان داکتر نقیب ","NO","2019-05-15","Results Status : Certified",274
+"General","G-01","01","Kabul","کابل","کابل","1-1340-8",752,"M","Aminullah Patyani","امین الله پتیانی ","امین الله پتیانی ","NO","2019-05-15","Results Status : Certified",84
+"General","G-01","01","Kabul","کابل","کابل","1-1593-7",753,"M","Alhaj Bedar Zazai","الحاج بیدار ځاځی","الحاج بیدار ځاځی","NO","2019-05-15","Results Status : Certified",1120
+"General","G-01","01","Kabul","کابل","کابل","1-1683-9",754,"M","Zahir Sultani","ظاهر سلطانی","ظاهر سلطانی","NO","2019-05-15","Results Status : Certified",872
+"General","G-01","01","Kabul","کابل","کابل","1-1800-1165",755,"M","Mohammad Ibrahim Az-har","محمد ابراهیم ازهر","محمد ابراهیم ازهر","NO","2019-05-15","Results Status : Certified",148
+"General","G-01","01","Kabul","کابل","کابل","1-1060-1170",756,"M","Sayed Jawid Altaf","سید جاوید الطاف ","سید جاوید الطاف ","NO","2019-05-15","Results Status : Certified",3
+"General","G-01","01","Kabul","کابل","کابل","1-1456-54",757,"M","Madaar Ali Karimi","مدار علی کریمی","مدار علی کریمی","NO","2019-05-15","Results Status : Certified",248
+"General","G-01","01","Kabul","کابل","کابل","1-1394-1031",758,"M","Alhaj Lutfullah Haqbin","الحاج  لطف  الله  حقبین","الحاج  لطف  الله  حقبین","NO","2019-05-15","Results Status : Certified",442
+"General","G-01","01","Kabul","کابل","کابل","1-1852-180",759,"F","Fawzia Hariri","فوزیه حریری","فوزیه حریری","NO","2019-05-15","Results Status : Certified",32
+"General","G-01","01","Kabul","کابل","کابل","1-1577-5",760,"F","Wakil Fatema Nazari","وکیل فاطمه نظری ","وکیل فاطمه نظری ","YES","2019-05-15","Results Status : Certified",1529
+"General","G-01","01","Kabul","کابل","کابل","1-1518-43",761,"M","Mohammad Dawood Waziri","محمد داود وزیری","محمد داود وزیری","NO","2019-05-15","Results Status : Certified",43
+"General","G-01","01","Kabul","کابل","کابل","1-1801-187",762,"M","Mohammad Elyas Shams","محمد الیاس شمس","محمد الیاس شمس","NO","2019-05-15","Results Status : Certified",20
+"General","G-01","01","Kabul","کابل","کابل","1-1551-1181",763,"M","Alhaj Dost Mohammad Omari","الحاج دوست محمد عمری ","الحاج دوست محمد عمری ","NO","2019-05-15","Results Status : Certified",485
+"General","G-01","01","Kabul","کابل","کابل","1-1533-1184",764,"M","Wali Ahmadzai","ولی احمدزی ","ولی احمدزی ","NO","2019-05-15","Results Status : Certified",875
+"General","G-01","01","Kabul","کابل","کابل","1-1095-3",765,"M","Ahmad Shekeb Hadad","احمد شکیب حداد","احمد شکیب حداد","NO","2019-05-15","Results Status : Certified",629
+"General","G-01","01","Kabul","کابل","کابل","1-1169-30",766,"F","Dr. Benafsha Bahar Nabizada","داکتربنفشه بهار نبی زاده ","داکتربنفشه بهار نبی زاده ","NO","2019-05-15","Results Status : Certified",204
+"General","G-01","01","Kabul","کابل","کابل","1-1571-42",767,"M","Habibullah Nemati","حبیب الله نعمتی","حبیب الله نعمتی","NO","2019-05-15","Results Status : Certified",267
+"General","G-01","01","Kabul","کابل","کابل","1-1600-108",768,"F","Sabri Andar","صبری اندړ","صبری اندړ","NO","2019-05-15","Results Status : Certified",550
+"General","G-01","01","Kabul","کابل","کابل","1-1397-24",769,"M","Dr. Sayed Ibrahim Kaamel","دوکتور سید ابراهیم کامل","دوکتور سید ابراهیم کامل","NO","2019-05-15","Results Status : Certified",1050
+"General","G-01","01","Kabul","کابل","کابل","1-1643-83",770,"M","Temorshah Ayoubzai","تیمور شاه ایوبزی","تیمور شاه ایوبزی","NO","2019-05-15","Results Status : Certified",170
+"General","G-01","01","Kabul","کابل","کابل","1-1814-146",771,"M","Abdul Wakil Rashidi","عبدالوکیل رشیدی ","عبدالوکیل رشیدی ","NO","2019-05-15","Results Status : Certified",91
+"General","G-01","01","Kabul","کابل","کابل","1-1133-136",772,"M","Eng. Abass Nawyan","انجنیر عباس نویان","انجنیر عباس نویان","NO","2019-05-15","Results Status : Certified",1839
+"General","G-01","01","Kabul","کابل","کابل","1-1130-73",773,"M","Zabiullah Sharifi","ذبیع الله شریفی","ذبیع الله شریفی","NO","2019-05-15","Results Status : Certified",43
+"General","G-01","01","Kabul","کابل","کابل","1-1236-18",774,"M","Alhaj Nazar Mohammad Assad","الحاج نظر محمد اسد","الحاج نظر محمد اسد","NO","2019-05-15","Results Status : Certified",663
+"General","G-01","01","Kabul","کابل","کابل","1-1261-34",775,"M","Eng. Mohammad Ibrahim Aslami","انجینر محمد ابراهیم اسلمی","انجینر محمد ابراهیم اسلمی","NO","2019-05-15","Results Status : Certified",1441
+"General","G-01","01","Kabul","کابل","کابل","1-1160-102",776,"M","Rahmat Gull Mawlazoi Hotak","رحمت گل مولازوی هوتک ","رحمت گل مولازوی هوتک ","NO","2019-05-15","Results Status : Certified",1099
+"General","G-01","01","Kabul","کابل","کابل","1-1401-56",777,"M","Abdul Ghafar Baator","عبدالغفار باتور","عبدالغفار باتور","NO","2019-05-15","Results Status : Certified",274
+"General","G-01","01","Kabul","کابل","کابل","1-1473-108",778,"M","Pashtonyar Askarzadah","پشتونیار عسکرزاده","پشتونیار عسکرزاده","NO","2019-05-15","Results Status : Certified",709
+"General","G-01","01","Kabul","کابل","کابل","1-1491-1213",779,"M","Dr. Sarfaraz Safi","دوکتور سرفراز صافی ","دوکتور سرفراز صافی ","NO","2019-05-15","Results Status : Certified",25
+"General","G-01","01","Kabul","کابل","کابل","1-1509-2157",780,"M","Baryalai Bayat","بریالی بیات ","بریالی بیات ","NO","2019-05-15","Results Status : Certified",542
+"General","G-01","01","Kabul","کابل","کابل","1-1122-1084",781,"F","Taranum Sayedi","ترنم سیدی","ترنم سیدی","NO","2019-05-15","Results Status : Certified",37
+"General","G-01","01","Kabul","کابل","کابل","1-1689-94",782,"M","Mohammad Dawood Asaas","محمد داود اساس ","محمد داود اساس ","NO","2019-05-15","Results Status : Certified",215
+"General","G-01","01","Kabul","کابل","کابل","1-1254-21",783,"M","Dr. Abdul Basir Ranjbar","دکتور عبدالبصیر رنجبر","دکتور عبدالبصیر رنجبر","NO","2019-05-15","Results Status : Certified",112
+"General","G-01","01","Kabul","کابل","کابل","1-1371-3059",784,"M","Dr. Ali Asghar Paiman"," دوکتور علی اصغر پیمان"," دوکتور علی اصغر پیمان","NO","2019-05-15","Results Status : Certified",76
+"General","G-01","01","Kabul","کابل","کابل","1-1190-115",785,"M","Abdul Ghafoor Rezwani","عبدالغفور رضوانی","عبدالغفور رضوانی","NO","2019-05-15","Results Status : Certified",309
+"General","G-01","01","Kabul","کابل","کابل","1-1653-14",786,"M","Sardar Aqa Behzad","سردار آقا بهزاد ","سردار آقا بهزاد ","NO","2019-05-15","Results Status : Certified",394
+"General","G-01","01","Kabul","کابل","کابل","1-1875-153",787,"M","Zaman Jaan Karimi","زمان جان کریمی","زمان جان کریمی","NO","2019-05-15","Results Status : Certified",42
+"General","G-01","01","Kabul","کابل","کابل","1-1305-89",788,"M","Dr. Ramazan Bashardost","داکتر رمضان بشردوست","داکتر رمضان بشردوست","YES","2019-05-15","Results Status : Certified",4238
+"General","G-01","01","Kabul","کابل","کابل","1-1251-67",789,"M","Ziaullhaq Safi","ضیاء الحق صافی ","ضیاء الحق صافی ","NO","2019-05-15","Results Status : Certified",909
+"General","G-01","01","Kabul","کابل","کابل","1-1121-47",790,"M","Sayed Edris Mir","سید ادریس میر","سید ادریس میر","NO","2019-05-15","Results Status : Certified",1408
+"General","G-01","01","Kabul","کابل","کابل","35-1696-154",791,"F","Dr. Anisa pashaye","داکترانیسه پشه یی","داکترانیسه پشه یی","NO","2019-05-15","Results Status : Certified",285
+"General","G-01","01","Kabul","کابل","کابل","1-1065-75",792,"M","Baryalai Ghafoori","بریالی غفوری ","بریالی غفوری ","NO","2019-05-15","Results Status : Certified",921
+"General","G-01","01","Kabul","کابل","کابل","1-1327-64",793,"M","Eng. Zabiullah Zeyarmal","انجینر ذبیح الله زیارمل","انجینر ذبیح الله زیارمل","NO","2019-05-15","Results Status : Certified",1208
+"General","G-01","01","Kabul","کابل","کابل","1-1819-136",794,"M","Mohammad Qasem Ferdawsi","محمد قاسم فردوسی ","محمد قاسم فردوسی ","NO","2019-05-15","Results Status : Certified",192
+"General","G-01","01","Kabul","کابل","کابل","1-1556-70",795,"F","Adela Bahram Nezami","عادله بهرام نظامی ","عادله بهرام نظامی ","NO","2019-05-15","Results Status : Certified",118
+"General","G-01","01","Kabul","کابل","کابل","1-1497-139",796,"M","Sayed Rohullah Sadat Naseri","سید روح الله سادات ناصری","سید روح الله سادات ناصری","NO","2019-05-15","Results Status : Certified",128
+"General","G-01","01","Kabul","کابل","کابل","1-1411-124",797,"M","Mirwais Rahimzoi","میرویس رحیم زوی","میرویس رحیم زوی","NO","2019-05-15","Results Status : Certified",421
+"General","G-01","01","Kabul","کابل","کابل","1-1353-150",798,"M","Ghullam Yahya Yousufi","غلام یحیی یوسفی","غلام یحیی یوسفی","NO","2019-05-15","Results Status : Certified",542
+"General","G-01","01","Kabul","کابل","کابل","1-1880-3073",799,"F","Fatma Hussaini","فاطمه  حسینی","فاطمه  حسینی","NO","2019-05-15","Results Status : Certified",29
+"General","G-01","01","Kabul","کابل","کابل","1-1067-124",800,"M","Ferozuddin Amiri","فیروز الدین امیری","فیروز الدین امیری","NO","2019-05-15","Results Status : Certified",820
+"General","G-01","01","Kabul","کابل","کابل","1-1320-153",801,"M","Hamed Haqdost","حامد حق دوست ","حامد حق دوست ","NO","2019-05-15","Results Status : Certified",282
+"General","G-01","01","Kabul","کابل","کابل","1-1406-13",802,"M","Sayed Nasratullah Qubadi","سید نصرت الله قبادی","سید نصرت الله قبادی","NO","2019-05-15","Results Status : Certified",199
+"General","G-01","01","Kabul","کابل","کابل","1-1698-138",803,"M","Alhaj Dawood Khan Zazai","الحاج داود خان ځاځی","الحاج داود خان ځاځی","NO","2019-05-15","Results Status : Certified",362
+"General","G-01","01","Kabul","کابل","کابل","1-1539-169",804,"M","Baktash Seyawash","بکتاش سیاووش","بکتاش سیاووش","NO","2019-05-15","Results Status : Certified",1468
 "General","G-02","02","Kapisa","کاپيسا","کاپيسا","2-1186-115",1,"M","Mohammad Faazel Safi","محمدفاضل صافی","محمدفاضل صافی","NO","2019-01-24","Results Status : Certified",702
 "General","G-02","02","Kapisa","کاپيسا","کاپيسا","2-1397-22",2,"M","Abdul Zaher Hakimzadah","عبدالظاهر حکیم زاده","عبدالظاهر حکیم زاده","NO","2019-01-24","Results Status : Certified",2325
 "General","G-02","02","Kapisa","کاپيسا","کاپيسا","2-1225-4",3,"M","Mohammad Rafi Safi","محمد رفیع صافی ","محمد رفیع صافی ","NO","2019-01-24","Results Status : Certified",613
@@ -272,7 +1075,7 @@
 "General","G-06","06","Nangarhar","ننگرهار","ننگرهار","6-1129-206",135,"M","Pohanmal Dr. Masood Safi","پوهنمل دوکتور مسعود صافی ","پوهنمل دوکتور مسعود صافی ","NO","2019-04-11","Results Status : Certified",575
 "General","G-06","06","Nangarhar","ننگرهار","ننگرهار","6-1197-238",136,"M","Enayatullah Silab","عنایت الله سیلاب ","عنایت الله سیلاب ","NO","2019-04-11","Results Status : Certified",115
 "General","G-06","06","Nangarhar","ننگرهار","ننگرهار","6-1161-10",137,"M","Mohebullah","محب الله ","محب الله ","NO","2019-04-11","Results Status : Certified",1149
-"General","G-07","07","Laghman","لغمان","لغمان","7-1305-2",1,"M","Alhaj Zifnon safi","الحاج زیفنون صافی","الحاج زیفنون صافی","YES","2019-01-20","Results Status : Certified",1787
+"General","G-07","07","Laghman","لغمان","لغمان","7-1305-2",1,"F","Alhaj Zifnon safi","الحاج زیفنون صافی","الحاج زیفنون صافی","YES","2019-01-20","Results Status : Certified",1787
 "General","G-07","07","Laghman","لغمان","لغمان","7-1250-24",2,"M","Merajuddin Majidzoi","معراج الدین مجید زوی","معراج الدین مجید زوی","NO","2019-01-20","Results Status : Certified",1458
 "General","G-07","07","Laghman","لغمان","لغمان","7-1337-25",3,"F","Breshna Safi","برشنا صافی","برشنا صافی","NO","2019-01-20","Results Status : Certified",653
 "General","G-07","07","Laghman","لغمان","لغمان","7-1505-10",4,"M","Shamsullah Abdulrahimzai","شمس الله عبدالرحیم زی","شمس الله عبدالرحیم زی","NO","2019-01-20","Results Status : Certified",2656
@@ -1301,7 +2104,7 @@
 "General","G-28","28","Jawzjan","جوزجان","جوزجان","28-1330-2",25,"M","Khan Murad Hamidi","خانمراد  حمیدی","خانمراد  حمیدی","NO","2019-01-20","Results Status : Certified",1771
 "General","G-28","28","Jawzjan","جوزجان","جوزجان","28-1298-15",26,"M","Ustad Najibullah Arghandiwal","استاد نجیب الله ارغندیوال","استاد نجیب الله ارغندیوال","NO","2019-01-20","Results Status : Certified",570
 "General","G-28","28","Jawzjan","جوزجان","جوزجان","28-1577-10",27,"M","Ahmad Farid Sheberghani","احمد فرید شبرغانی ","احمد فرید شبرغانی ","NO","2019-01-20","Results Status : Certified",205
-"General","G-28","28","Jawzjan","جوزجان","جوزجان","28-1505-17",28,"M","Halima Sadaf Karimi","حلیمه صدف کریمی ","حلیمه صدف کریمی ","YES","2019-01-20","Results Status : Certified",1154
+"General","G-28","28","Jawzjan","جوزجان","جوزجان","28-1505-17",28,"F","Halima Sadaf Karimi","حلیمه صدف کریمی ","حلیمه صدف کریمی ","YES","2019-01-20","Results Status : Certified",1154
 "General","G-28","28","Jawzjan","جوزجان","جوزجان","28-1306-12",29,"M","Abdul Hakim Ahmadi","عبدالحکیم احمدی ","عبدالحکیم احمدی ","NO","2019-01-20","Results Status : Certified",271
 "General","G-28","28","Jawzjan","جوزجان","جوزجان","28-1361-7",30,"M","Eng Abdul Ghafar Dehqan","انجنیر عبدالغفار دهقان","انجنیر عبدالغفار دهقان","NO","2019-01-20","Results Status : Certified",1232
 "General","G-29","29","Faryab","فارياب","فارياب","29-1066-6",1,"M","Dr Ihsanullah Wahedi","داکتر احسان الله واحدی","داکتر احسان الله واحدی","NO","2019-01-31","Results Status : Certified",965
