@@ -24,7 +24,7 @@ For some keyfiles, see:
 For a brief explanation of some of the main variables used, please also see [this codebook](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/codebook.md). If you have questions about a variable definition or source, please feel free to [contact the author](https://github.com/colincookman/afghanistan_election_results_2018#contact-and-acknowledgements).
 
 ## Summary of results data
-The file **[all_pc_ps_candidate_vote_counts.csv]()** provides a summary count by province of polling centers, polling stations, candidates, and votes reported in the preliminary and final results. Although there is *substantial* inter- and intra-provincial variation within the dataset, some national-level summary statistics from the available results data:
+The file **[all_pc_ps_candidate_vote_counts.csv](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/validity_checks/all_pc_ps_candidate_vote_counts.csv")** provides a summary count by province of polling centers, polling stations, candidates, and votes reported in the preliminary and final results. Although there is *substantial* inter- and intra-provincial variation within the dataset, some national-level summary statistics from the available results data:
 
 - **Total number of candidates reporting results:** 2543
 - **Percentage of incumbent Wolesi Jirga members seeking re-election:** ##
