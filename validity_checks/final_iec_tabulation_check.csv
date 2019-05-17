@@ -1,806 +1,806 @@
-"province_code","candidate_code","candidate_name_eng","iec_vote_total","calculated_vote_total","results_status"
-"01","1-1186-37","Haji Ajmal Rahmani",11158,7576,"Results Status : Certified"
-"01","1-1442-4","Alhaj Abdul Qayoum Khairkhwah",8748,6144,"Results Status : Certified"
-"01","1-1162-88","Khan Agha Rezayee",7850,6265,"Results Status : Certified"
-"01","1-1283-128","Alhaj Mulla Mohammad Khan Ahmadi",6727,5770,"Results Status : Certified"
-"01","1-1389-68","Feda Mohammad Ulfat Saleh",6690,4683,"Results Status : Certified"
-"01","1-1537-14","Ahmad Jawid Jaihon",6213,4191,"Results Status : Certified"
-"01","1-1164-56","Mir Amanullah Guzar",6095,3941,"Results Status : Certified"
-"01","1-1188-22","Alhaj Amirgull Shahin",6061,4423,"Results Status : Certified"
-"01","1-1479-47","Ghullam Hussain Naseri",6024,4322,"Results Status : Certified"
-"01","1-1305-89","Dr. Ramazan Bashardost",5983,4306,"Results Status : Certified"
-"01","1-1704-56","Alhaj sayed Mohammad Mohammadi",5339,3714,"Results Status : Certified"
-"01","1-1521-25","Alhaj Allah Gull Mujahid",5198,3561,"Results Status : Certified"
-"01","1-1185-51","Haji Khan Mohammad Wardak",5128,3653,"Results Status : Certified"
-"01","1-1265-55","Alhaj Qazi Mir Afghan Safi",4628,3461,"Results Status : Certified"
-"01","1-1023-75","Najibullah Naser",4401,3357,"Results Status : Certified"
-"01","1-1297-60","Habib Rahman Sayaf",4014,2760,"Results Status : Certified"
-"01","1-1432-81","Anwar Khan Oryakhel",3885,3046,"Results Status : Certified"
-"01","1-1224-77","Sofi Abdul Razeq Estalefi",3749,2960,"Results Status : Certified"
-"01","1-1066-102","Tawfiq Wahdat",3716,2227,"Results Status : Certified"
-"01","1-1444-12","Haji Zergai Habibi",3594,2709,"Results Status : Certified"
-"01","1-1249-30","Mohammad Nayem Wardak",3520,2315,"Results Status : Certified"
-"01","1-1209-19","Haji Hafizullah Jalili",3449,2113,"Results Status : Certified"
-"01","1-1176-45","Urfanullah Urfan",3429,2044,"Results Status : Certified"
-"01","1-1010-32","Obaidullah Kalimzai Wardak",3418,2457,"Results Status : Certified"
-"01","1-1718-135","Ajmal Gullab",3413,2284,"Results Status : Certified"
-"01","1-1430-80","Ezatullah Aatef",3302,2276,"Results Status : Certified"
-"01","1-1306-43","Zabiullah Almas",3238,2333,"Results Status : Certified"
-"01","1-1223-100","Haji Mohammad Dawood Kalakani",2999,2137,"Results Status : Certified"
-"01","1-1598-62","Taj Mohammad Mujahid",2978,1957,"Results Status : Certified"
-"01","1-1524-2026","Mohammad Dawood Naji",2922,2169,"Results Status : Certified"
-"01","1-1299-1040","Abdul Samad stanikzai",2891,1978,"Results Status : Certified"
-"01","1-1119-14","Abdul Reza Khalili",2882,1721,"Results Status : Certified"
-"01","1-1329-99","Alhaj Mohammad Alem Khalili",2879,1840,"Results Status : Certified"
-"01","1-1443-91","Haji Mohammad Farhad Sediqi",2873,1705,"Results Status : Certified"
-"01","1-1133-136","Eng. Abass Nawyan",2854,1891,"Results Status : Certified"
-"01","1-1173-44","Alhaj Shirshah Ahmadzai",2820,1724,"Results Status : Certified"
-"01","1-1174-19","Hamed Sultani",2813,2059,"Results Status : Certified"
-"01","1-1384-57","Ahmad Zia Azimi Shinozadah",2800,1877,"Results Status : Certified"
-"01","1-1665-7","Attaullah Nasib",2792,1680,"Results Status : Certified"
-"01","1-1216-47","Ahmad Zaki Zahed",2750,1849,"Results Status : Certified"
-"01","1-1583-50","Mohammad Haidar Basir",2738,1815,"Results Status : Certified"
-"01","1-1577-5","Wakil Fatema Nazari",2736,1569,"Results Status : Certified"
-"01","1-1611-46","Alhaj Hasibullah Samim",2679,1862,"Results Status : Certified"
-"01","1-1282-28","Haji Abdul Hussain Hussainzadah",2512,1624,"Results Status : Certified"
-"01","1-1152-35","Habibullah Zazai",2508,1929,"Results Status : Certified"
-"01","1-1535-45","Mohammad Ibrahim Qasemi",2469,1769,"Results Status : Certified"
-"01","1-1440-71","Mohammad Nazir Ahmadzai",2467,1864,"Results Status : Certified"
-"01","1-1272-20","Lutfullah Quraishi",2432,1607,"Results Status : Certified"
-"01","1-1637-35","Abdul Qader Zazai Watandost",2422,1773,"Results Status : Certified"
-"01","1-1539-169","Baktash Seyawash",2404,1479,"Results Status : Certified"
-"01","1-1492-23","Mohammad Qasim Hakimi",2371,1663,"Results Status : Certified"
-"01","1-1022-25","Alhaj Zemarak Padkhwabi",2348,1685,"Results Status : Certified"
-"01","1-1327-64","Eng. Zabiullah Zeyarmal",2329,1213,"Results Status : Certified"
-"01","1-1465-84","Mohammad Aref Haidari",2323,1404,"Results Status : Certified"
-"01","1-1121-47","Sayed Edris Mir",2318,1410,"Results Status : Certified"
-"01","1-1041-127","Abdul Khaleq Hussaini",2305,1412,"Results Status : Certified"
-"01","1-1253-98","Dr. Fraidon Noorzad",2271,1494,"Results Status : Certified"
-"01","1-1031-1011","Mawla Mohammad Paiman Akakhel",2192,1783,"Results Status : Certified"
-"01","1-1461-174","Mohammad Fahim Hashemi",2175,1685,"Results Status : Certified"
-"01","1-1602-45","Alhaj Faizullah Hashemi",2174,1720,"Results Status : Certified"
-"01","1-1446-91","Abdul Hadi Khalid",2111,1600,"Results Status : Certified"
-"01","1-1530-63","Dr. jafar mahdawi",2097,1393,"Results Status : Certified"
-"01","1-1233-189","Habibullah Esmati",2069,1590,"Results Status : Certified"
-"01","1-1261-34","Eng. Mohammad Ibrahim Aslami",2059,1445,"Results Status : Certified"
-"01","1-1616-1","Mohammad Younis Hotak",2050,1574,"Results Status : Certified"
-"01","1-1545-50","Abdul Matin Shirzoi",2024,1493,"Results Status : Certified"
-"01","1-1068-104","Noor Habib Gullbahari",2000,1560,"Results Status : Certified"
-"01","1-1540-61","Sardar Mohammad Sakhi",1997,1288,"Results Status : Certified"
-"01","1-1226-98","Qazi Ghullam Sakhi Iqbal",1993,1381,"Results Status : Certified"
-"01","1-1250-67","Alhaj Habibullah Ahmadzai",1987,1284,"Results Status : Certified"
-"01","1-1276-40","Alhaj Qudratullah Sahak",1976,1482,"Results Status : Certified"
-"01","1-1542-4","Noorullah Dawoodzai",1940,1543,"Results Status : Certified"
-"01","1-1587-27","Wahidullah Radmanesh",1938,1426,"Results Status : Certified"
-"01","1-1581-97","Alhaj Qari Sayed Omar Hotak",1914,1344,"Results Status : Certified"
-"01","1-1595-90","Haji Homayoun Bahar",1876,1292,"Results Status : Certified"
-"01","1-1263-3047","Najibullah Islamyar",1860,1163,"Results Status : Certified"
-"01","1-1646-1028","Mohammad Salem Ahmadzai",1843,1341,"Results Status : Certified"
-"01","1-1159-24","Abdul Raqib Jawid Kohistani",1825,1490,"Results Status : Certified"
-"01","1-1514-3042","Alhaj Mohammad Ibrahim Aasem",1815,1255,"Results Status : Certified"
-"01","1-1837-125","Zolfaqar Omid",1804,1238,"Results Status : Certified"
-"01","1-1596-16","Ahmad Sayeedi",1783,1429,"Results Status : Certified"
-"01","1-1118-42","Rajab Ali Andeshmand",1771,1153,"Results Status : Certified"
-"01","1-1691-112","Haji Zarbat Kharoti",1768,1248,"Results Status : Certified"
-"01","1-1177-40","Sayed Farhad Hashemi",1759,1258,"Results Status : Certified"
-"01","1-1240-22","Alhaj Gull Zaman Rohani",1739,1339,"Results Status : Certified"
-"01","1-1469-107","Mohammad Aref Moheb",1724,1063,"Results Status : Certified"
-"01","1-1349-123","Eng. Naqibullah Naseri",1714,1204,"Results Status : Certified"
-"01","1-1073-8","Alhaj Mohammad Qasim Jangalbagh",1696,1202,"Results Status : Certified"
-"01","1-1325-39","Abdul Hafiz Mansoor",1694,1262,"Results Status : Certified"
-"01","1-1380-50","Aqil Shah Elyasi",1668,1069,"Results Status : Certified"
-"01","1-1455-132","Gen. Babrak Saber",1666,1276,"Results Status : Certified"
-"01","1-1809-226","Etebar Khan Zadran",1663,1261,"Results Status : Certified"
-"01","1-1454-123","Ahmad Behzad",1609,1212,"Results Status : Certified"
-"01","1-1069-51","Jalalduddin Mahmoodi",1606,1253,"Results Status : Certified"
-"01","1-1150-39","Haji Ezatullah Neyazai",1598,1205,"Results Status : Certified"
-"01","1-1697-157","Enayatullah Babakarkhel",1597,1302,"Results Status : Certified"
-"01","1-1225-123","Ziaullhaq Shafiq",1594,1026,"Results Status : Certified"
-"01","1-1593-7","Alhaj Bedar Zazai",1564,1124,"Results Status : Certified"
-"01","1-1338-40","Assadullah Azizi",1553,1015,"Results Status : Certified"
-"01","1-1268-48","sayed Naqibullah Hashemi",1547,1250,"Results Status : Certified"
-"01","1-1397-24","Dr. Sayed Ibrahim Kaamel",1542,1080,"Results Status : Certified"
-"01","1-1870-143","Abdul Wase Rasool",1530,1018,"Results Status : Certified"
-"01","1-1398-9","Mohammad Baqer Mohaqeq",1529,881,"Results Status : Certified"
-"01","1-1042-1172","Mohammad Asef Ashna",1491,1027,"Results Status : Certified"
-"01","1-1533-1184","Wali Ahmadzai",1476,876,"Results Status : Certified"
-"01","1-1635-21","Mohammad Mahdi Taqadusi",1456,949,"Results Status : Certified"
-"01","1-1228-11","Gen. Nazifa Zaki",1441,953,"Results Status : Certified"
-"01","1-1606-15","Dr. Ahmad Jawid Aalemi",1439,888,"Results Status : Certified"
-"01","1-1683-9","Zahir Sultani",1432,876,"Results Status : Certified"
-"01","1-1555-33","Abdul Rahim Ayoubi",1424,947,"Results Status : Certified"
-"01","1-1318-53","Mohammad Zaki Noori",1421,663,"Results Status : Certified"
-"01","1-1201-31","Sayed Qutbuddin Roydar",1417,1168,"Results Status : Certified"
-"01","1-1711-104","Shinkai Karokhel",1406,859,"Results Status : Certified"
-"01","1-1686-124","Mursal Nabizada",1396,720,"Results Status : Certified"
-"01","1-1160-102","Rahmat Gull Mawlazoi Hotak",1386,1099,"Results Status : Certified"
-"01","1-1856-216","Alhaj Shahd Wali Zemawal",1385,988,"Results Status : Certified"
-"01","1-1243-35","Dr. Mohammad Qasem Elyasi",1339,792,"Results Status : Certified"
-"01","1-1342-1037","Nazer Hussain Hussainpor",1331,744,"Results Status : Certified"
-"01","1-1381-29","Alhaj Tamiz Khan Mahmoodzai",1320,842,"Results Status : Certified"
-"01","1-1307-26","Abdul Hamed Hamidi",1300,907,"Results Status : Certified"
-"01","1-1021-2024","Abdul Hadi Arghandiwal",1293,995,"Results Status : Certified"
-"01","1-1067-124","Ferozuddin Amiri",1290,820,"Results Status : Certified"
-"01","1-1220-1048","Fawzia Naseryar Gulldaraye",1287,801,"Results Status : Certified"
-"01","1-1563-31","Najibullah Momand Kamawal",1266,869,"Results Status : Certified"
-"01","1-1720-136","Abdul Baqi Amin",1264,933,"Results Status : Certified"
-"01","1-1330-1","Royena Jalali",1259,815,"Results Status : Certified"
-"01","1-1175-48","Dr. Mohammad Shour Neyazai",1255,903,"Results Status : Certified"
-"01","1-1818-141","Mariam Sama",1255,885,"Results Status : Certified"
-"01","1-1071-36","Mohammad Asef Shah Jahan Ahmadzai",1231,843,"Results Status : Certified"
-"01","1-1072-78","Zuhra Noorzai",1223,783,"Results Status : Certified"
-"01","1-1142-59","Ahmad Timim Jurat",1209,861,"Results Status : Certified"
-"01","1-1251-67","Ziaullhaq Safi",1206,912,"Results Status : Certified"
-"01","1-1065-75","Baryalai Ghafoori",1198,926,"Results Status : Certified"
-"01","1-1094-8","Haji Ihsan Sahebzadah",1186,835,"Results Status : Certified"
-"01","1-1004-14","Haji Mohammad Mulla Hamidi",1185,924,"Results Status : Certified"
-"01","1-1493-1080","Mawalawi Nader Shah Baligh",1176,914,"Results Status : Certified"
-"01","1-1588-3","Bibi haji Parwin Durani",1149,469,"Results Status : Certified"
-"01","1-1669-49","Jalat Khan Shinwari",1142,647,"Results Status : Certified"
-"01","1-1864-127","Mirwais Stanikzai",1126,878,"Results Status : Certified"
-"01","1-1337-150","Jamaluddin Hekmatyar",1122,904,"Results Status : Certified"
-"01","1-1017-58","Alhaj Nazifullah Gull Afghan",1115,849,"Results Status : Certified"
-"01","1-1234-1","Sayed Bahram Sadat",1115,763,"Results Status : Certified"
-"01","1-1543-58","Haroon Shams Khan",1111,758,"Results Status : Certified"
-"01","1-1899-1183","Haji Samim Haidari",1102,694,"Results Status : Certified"
-"01","1-1202-58","sayed Amanullah Amin",1092,680,"Results Status : Certified"
-"01","1-1607-23","Sardar Mohammad Ahmadzadah",1092,791,"Results Status : Certified"
-"01","1-1193-3067","Malem Mohammad Ghazi sultanzoi",1084,681,"Results Status : Certified"
-"01","1-1633-82","Ustad Qasem Wahidi",1069,808,"Results Status : Certified"
-"01","1-1664-151","Ramazan Jomazadah",1068,645,"Results Status : Certified"
-"01","1-1612-5","Alhaj Obaidullah Barikzai",1068,847,"Results Status : Certified"
-"01","1-1483-35","Abdul Saboor Rahmani",1062,821,"Results Status : Certified"
-"01","1-1601-28","Salima Nekbin",1058,606,"Results Status : Certified"
-"01","1-1214-133","Gen. Baz Mohammad Jawhari",1053,733,"Results Status : Certified"
-"01","1-1317-101","Bibi Kubra Mustafawi",1052,588,"Results Status : Certified"
-"01","1-1288-59","Fawad Aman",1044,610,"Results Status : Certified"
-"01","1-1194-127","Saranpoh. Yar Mohammad Hussainkhel",1040,768,"Results Status : Certified"
-"01","1-1239-59","Rahmatullah Salehi",1033,692,"Results Status : Certified"
-"01","1-1715-132","Ihsanullah Fani",1031,957,"Results Status : Certified"
-"01","1-1237-113","Nesar Ahmad Bahawi",1026,635,"Results Status : Certified"
-"01","1-1513-1034","Mirza Mohammad Yarmand",1018,888,"Results Status : Certified"
-"01","1-1311-6","Sayed Akbar Shah Hashemi",1002,781,"Results Status : Certified"
-"01","1-1210-102","Alhaj Ghullam Sakhi Parsaaye",1002,723,"Results Status : Certified"
-"01","1-1035-6","Malek Sayed Aqa Hussainkhel",995,782,"Results Status : Certified"
-"01","1-1459-121","Khwaja Mahbob Sediqi",993,563,"Results Status : Certified"
-"01","1-1536-84","Eraj Nezami",991,699,"Results Status : Certified"
-"01","1-1029-12","Sayed Mujtaba Hashemi",981,745,"Results Status : Certified"
-"01","1-1812-2035","Haji Qayoum Qambari",977,666,"Results Status : Certified"
-"01","1-1677-70","Mohammadullah Babrak",977,791,"Results Status : Certified"
-"01","1-1655-1052","Sharifa Shirzad Allah Daad",968,530,"Results Status : Certified"
-"01","1-1061-18","Eng. Najibullah Salamzai",961,657,"Results Status : Certified"
-"01","1-1024-53","Mawlana Mohammad Qasem Wazirzada",958,779,"Results Status : Certified"
-"01","1-1453-98","Malem Aziz Royesh",957,659,"Results Status : Certified"
-"01","1-1778-156","Ahmad Hamed Warasta",936,568,"Results Status : Certified"
-"01","1-1353-150","Ghullam Yahya Yousufi",914,542,"Results Status : Certified"
-"01","1-1436-11","Mohammad Rahim Karimi",906,693,"Results Status : Certified"
-"01","1-1506-109","Alhaj Mirza Mohammad Safi",905,680,"Results Status : Certified"
-"01","1-1247-52","Suhrab Atta",904,612,"Results Status : Certified"
-"01","1-1326-29","Haji Ali Mirzaye",903,659,"Results Status : Certified"
-"01","1-1172-65","Mohammad Kabir Kamal",902,730,"Results Status : Certified"
-"01","1-1075-61","Alhaj Obaidullah Khoshiwal",900,658,"Results Status : Certified"
-"01","1-1600-108","Sabri Andar",899,551,"Results Status : Certified"
-"01","1-1281-67","Homaira Chakari Yousufzai",899,591,"Results Status : Certified"
-"01","1-1838-192","Mohammad Hassan Mamozai",873,600,"Results Status : Certified"
-"01","1-1124-1208","Nesar Ahmad Bahlol",872,719,"Results Status : Certified"
-"01","1-1062-93","Sayed Ali Akbar Kazemi",869,597,"Results Status : Certified"
-"01","1-1473-108","Pashtonyar Askarzadah",861,709,"Results Status : Certified"
-"01","1-1860-204","Sayed Masood Ashna",860,608,"Results Status : Certified"
-"01","1-1095-3","Ahmad Shekeb Hadad",851,633,"Results Status : Certified"
-"01","1-1568-9","Alhaj Deen Padshah Totakhel",849,672,"Results Status : Certified"
-"01","1-1336-22","Ghullam Habib Fawad",847,513,"Results Status : Certified"
-"01","1-1751-146","Mohammad Ibrahim Zarif",844,582,"Results Status : Certified"
-"01","1-1519-91","Mahdi Zahedi",844,502,"Results Status : Certified"
-"01","1-1230-17","Sayed Abdul Naser Yaqoobi",840,531,"Results Status : Certified"
-"01","1-1291-170","Assadullah Zamir",840,594,"Results Status : Certified"
-"01","1-1590-94","Eng. Amanullah Afshar",839,774,"Results Status : Certified"
-"01","1-1157-1035","Abdul Zohor Amiri",832,501,"Results Status : Certified"
-"01","1-1236-18","Alhaj Nazar Mohammad Assad",827,663,"Results Status : Certified"
-"01","1-1403-18","Eng. Mutasel Khan Komaki",820,611,"Results Status : Certified"
-"01","1-1654-131","Sayed Mohammad Sayeedi",819,597,"Results Status : Certified"
-"01","1-1241-49","Mohammad Hamed Shirzad",815,556,"Results Status : Certified"
-"01","1-1196-3","Mohammad Edris Faqirzadah Formoli",812,628,"Results Status : Certified"
-"01","1-1709-190","Gen. Lutfullah Mashal",811,654,"Results Status : Certified"
-"01","1-1149-80","Salim Khan Kunduzi",804,571,"Results Status : Certified"
-"01","1-1546-7","Ghullam Haidar Faqirzai",799,524,"Results Status : Certified"
-"01","1-1881-163","Sayed Ahmad Shekeb Montazeri",798,571,"Results Status : Certified"
-"01","1-1525-53","Mohammad Latif Fayaz",783,505,"Results Status : Certified"
-"01","1-1166-65","Shir Rahman Mujahid",781,631,"Results Status : Certified"
-"01","1-1829-158","Khairullah Attaye",780,575,"Results Status : Certified"
-"01","1-1509-2157","Baryalai Bayat",777,544,"Results Status : Certified"
-"01","1-1702-10","Mohammad Jamil Karzai",776,564,"Results Status : Certified"
-"01","1-1770-199","Farid Ahmad Nezami",776,535,"Results Status : Certified"
-"01","1-1393-12","Alhaj Del Aqa Hemat",774,570,"Results Status : Certified"
-"01","1-1182-2","Muslim Shirzad",770,531,"Results Status : Certified"
-"01","1-1824-193","Mohammad Nayem Nazari",767,500,"Results Status : Certified"
-"01","1-1632-2","Mohammad Farooq Baraki",766,519,"Results Status : Certified"
-"01","1-1470-160","Dr. Aatefa Tayeb",766,570,"Results Status : Certified"
-"01","1-1721-1171","Samiullah Mahdi",760,528,"Results Status : Certified"
-"01","1-1429-225","Aafyat Hashmatullah Omari",757,629,"Results Status : Certified"
-"01","1-1058-169","Assadullah Batori",755,444,"Results Status : Certified"
-"01","1-1586-88","Noor Rahman Akhlaqi",750,596,"Results Status : Certified"
-"01","1-1198-97","Mawalawi Ihsanulhaq Hanafi",750,627,"Results Status : Certified"
-"01","1-1888-175","Temorshah shahi",745,520,"Results Status : Certified"
-"01","1-102-1823-126","Mohammad Nasir Tarakhel",743,675,"Results Status : Certified"
-"01","1-1743-115","Sayed Mujtaba Anwari",742,395,"Results Status : Certified"
-"01","1-1522-152","Mohammad Taher Fedaye",739,502,"Results Status : Certified"
-"01","1-1148-170","Mohammad Nayem Paiman",733,448,"Results Status : Certified"
-"01","1-1680-121","Dr. Mohammad Baqer Sayeer",731,477,"Results Status : Certified"
-"01","1-1197-1029","Alhaj Ahmad Arsalan Safi",728,557,"Results Status : Certified"
-"01","1-1647-96","Zaher Khan Ahmadzai",726,576,"Results Status : Certified"
-"01","1-1294-1196","Abdul Matin Tawakulzai",719,504,"Results Status : Certified"
-"01","1-1764-1156","Karimullah Jawad",719,492,"Results Status : Certified"
-"01","1-1221-11","Mohammad Yousuf Rezaye",717,460,"Results Status : Certified"
-"01","1-1592-9","Halima Hussaini",714,363,"Results Status : Certified"
-"01","1-1038-134","Abdul Qader Beheshti",712,477,"Results Status : Certified"
-"01","1-1651-47","Mohammad Faazel Sayedkheli",712,584,"Results Status : Certified"
-"01","1-1551-1181","Alhaj Dost Mohammad Omari",708,485,"Results Status : Certified"
-"01","1-1561-38","Rashuddin Mohammadi",705,496,"Results Status : Certified"
-"01","1-1648-1078","Salman Ali Dostzadah",700,389,"Results Status : Certified"
-"01","1-1266-33","Habibullah Hassam",696,555,"Results Status : Certified"
-"01","1-1694-138","Mohammad Reza Zaki",695,462,"Results Status : Certified"
-"01","1-1451-3060","Sayed Abdullah Saber",695,544,"Results Status : Certified"
-"01","1-1402-42","Mohammad Edris Sediq",690,438,"Results Status : Certified"
-"01","1-1477-12","Haji Ghullam Maroof Sediqi",687,477,"Results Status : Certified"
-"01","1-1040-15","Ramazan Ali Rasooli",682,428,"Results Status : Certified"
-"01","1-1275-46","Abdul Basir Nabizadah",659,483,"Results Status : Certified"
-"01","1-1753-105","Mohammad Akram Azimi",651,442,"Results Status : Certified"
-"01","1-1260-4","Abdul Manan Shiwae Sharq",639,469,"Results Status : Certified"
-"01","1-1287-68","Mustafa Sultani",633,445,"Results Status : Certified"
-"01","1-1125-74","Elyas Faizi Ghoryani",629,461,"Results Status : Certified"
-"01","1-1322-27","Dr. Abdul Ghafoor Taban",627,329,"Results Status : Certified"
-"01","1-1145-206","Mohammad Shoaib Durgi",626,465,"Results Status : Certified"
-"01","1-1308-15","Shafiqullah Salim poya",626,462,"Results Status : Certified"
-"01","1-1394-1031","Alhaj Lutfullah Haqbin",621,442,"Results Status : Certified"
-"01","1-1047-74","Zainab Mowahid",618,383,"Results Status : Certified"
-"01","1-1106-1016","Hedayatullah Rehayee",615,428,"Results Status : Certified"
-"01","1-1873-152","Abdul Qader Hotkhel",615,454,"Results Status : Certified"
-"01","1-1531-72","Alhaj Ghullam Nabi Gharanai",609,423,"Results Status : Certified"
-"01","1-1684-62","Zaker Hussain Ershad",608,423,"Results Status : Certified"
-"01","1-1509-1016","Abdul Wahid Hamzah",607,475,"Results Status : Certified"
-"01","1-1467-1015","Eid Mohammad Maleyar",604,457,"Results Status : Certified"
-"01","1-1246-41","Mohammad Masood Afghan Ghorbandi",596,464,"Results Status : Certified"
-"01","1-1649-45","Sayed Mohammad Hadi Hadi",594,338,"Results Status : Certified"
-"01","1-1132-116","Alhaj Noor Rahman Oryakhel",592,350,"Results Status : Certified"
-"01","1-1532-10","Zahra Yagana",584,342,"Results Status : Certified"
-"01","1-1810-79","Mariam Sediqa Sadat",579,400,"Results Status : Certified"
-"01","1-1445-26","Haji Sardar Agha Naseri",578,439,"Results Status : Certified"
-"01","1-1508-103","Ahmad Shekeb Farahi",577,328,"Results Status : Certified"
-"01","1-1009-82","Mohammad Nasim Safi",575,442,"Results Status : Certified"
-"01","1-1074-92","Mumtaz Jahangir",574,419,"Results Status : Certified"
-"01","1-2008-1207","Mohammad Younus Tughra",565,373,"Results Status : Certified"
-"01","1-1028-25","Wasim Shirzai",565,368,"Results Status : Certified"
-"01","1-1441-1090","Abdul Rahman Khwazak",564,367,"Results Status : Certified"
-"01","1-1463-36","Haji Abdul Qaher Kalakani",564,382,"Results Status : Certified"
-"01","1-1343-117","Enyatullah Didar",560,377,"Results Status : Certified"
-"01","1-1168-2029","Amir Mohammad Lakanwal",560,345,"Results Status : Certified"
-"01","1-1161-126","Muzamel Shinwari",560,440,"Results Status : Certified"
-"01","1-1688-1168","Gen. Mohammad Aalem Kuhmardi",559,379,"Results Status : Certified"
-"01","1-1293-168","Mawlawi Gada Mohammad Mufleh",557,393,"Results Status : Certified"
-"01","1-1670-1054","Sayed Kamal Zazai",555,413,"Results Status : Certified"
-"01","1-1179-9","Sultan Mahmood Daqiq",552,329,"Results Status : Certified"
-"01","1-1204-78","Baryalai Amin",551,437,"Results Status : Certified"
-"01","1-1012-3037","Ahmad Shah Sangdel",547,362,"Results Status : Certified"
-"01","1-1734-128","Ustad Abdul Ghafar Rashidi",545,432,"Results Status : Certified"
-"01","1-1335-19","Dr. Mohammad Asef Hekmat",543,378,"Results Status : Certified"
-"01","1-1289-75","Ghorzang Seyal",539,429,"Results Status : Certified"
-"01","1-1571-42","Habibullah Nemati",533,273,"Results Status : Certified"
-"01","1-1489-13","Haij Muzamel Hotak",531,460,"Results Status : Certified"
-"01","1-1309-5","Masooma Tawasoli",530,317,"Results Status : Certified"
-"01","1-1200-21","Shirzai salar",530,397,"Results Status : Certified"
-"01","1-1681-51","Gharibullah Tabesh",529,356,"Results Status : Certified"
-"01","1-1136-52","Eng. Wahidullah Sabawon",524,362,"Results Status : Certified"
-"01","1-1411-124","Mirwais Rahimzoi",521,421,"Results Status : Certified"
-"01","1-1682-97","Mohammad Halim Formoli",519,384,"Results Status : Certified"
-"01","1-1653-14","Sardar Aqa Behzad",517,394,"Results Status : Certified"
-"01","1-1567-23","Mohammad Layeq Malekzadah",514,434,"Results Status : Certified"
-"01","1-1013-119","Eng. Zakia Wardak",511,322,"Results Status : Certified"
-"01","1-1183-52","Saleha Sadat",511,323,"Results Status : Certified"
-"01","1-1271-9","Alhaj Gen. Sardar Mohammad Abulfazel",509,329,"Results Status : Certified"
-"01","1-1304-60","Abdul Latif Nazari",508,289,"Results Status : Certified"
-"01","1-1163-176","Abdul Mansor Rasool",506,343,"Results Status : Certified"
-"01","1-1178-72","Zahra Sepher",505,266,"Results Status : Certified"
-"01","1-1433-28","Abdul Karim Stanikzai Obaid",503,331,"Results Status : Certified"
-"01","1-1816-144","Alhaj Ghullam Dastgir Chakari",500,301,"Results Status : Certified"
-"01","1-1645-1024","Dr. Mohammadullah Shahidi",500,377,"Results Status : Certified"
-"01","1-1499-3071","Haji Hamesha Gull Chakari",498,341,"Results Status : Certified"
-"01","1-1698-138","Alhaj Dawood Khan Zazai",497,362,"Results Status : Certified"
-"01","1-1541-11","Dr. Shamsulhaq Najibi",496,361,"Results Status : Certified"
-"01","1-1804-1173","Wazir Khan ",493,381,"Results Status : Certified"
-"01","1-1143-221","Freshta Amini",492,341,"Results Status : Certified"
-"01","1-1111-151","Ustad Robaba Parwani Darwish",491,245,"Results Status : Certified"
-"01","1-1644-87","Mohammad Yaqoob Zalmai Naseri",489,402,"Results Status : Certified"
-"01","1-1487-209","Saranwal Rohullah Sakhizad",488,287,"Results Status : Certified"
-"01","1-1302-97","Dr. Nematullah Nemat",486,331,"Results Status : Certified"
-"01","1-1529-6","Sohaila Sahar",482,327,"Results Status : Certified"
-"01","1-1341-27","Mohammad Edris Rasooli",478,310,"Results Status : Certified"
-"01","1-1884-148","Dr. Friba Farhat Saifi",477,300,"Results Status : Certified"
-"01","1-102-1165-105","Awal Khan Rustamkhel",474,376,"Results Status : Certified"
-"01","1-1222-92","Saheb Nazar Sangin",473,317,"Results Status : Certified"
-"01","1-1484-202","Ahmad Kumail Mir Shadibeg",471,317,"Results Status : Certified"
-"01","1-1190-115","Abdul Ghafoor Rezwani",469,312,"Results Status : Certified"
-"01","1-1657-76","Haji Hashem Mahdawi",467,338,"Results Status : Certified"
-"01","1-1457-96","Kheyali Jaan Sarwan",467,291,"Results Status : Certified"
-"01","1-1668-73","Mohammad Sangar Amirzadah",463,332,"Results Status : Certified"
-"01","1-1582-118","Haji Shirshah Hassanzai",462,370,"Results Status : Certified"
-"01","1-1693-3045","Toorpekai Patman",460,236,"Results Status : Certified"
-"01","1-1388-1192","Mariam Maroof Arwin",458,359,"Results Status : Certified"
-"01","1-1377-119","Saranwal Abdul Jalil Mudafe",457,326,"Results Status : Certified"
-"01","1-1605-38","Khan Ali Radmand",453,330,"Results Status : Certified"
-"01","1-1550-1074","Sayed Mahmood Zia Dashti",453,316,"Results Status : Certified"
-"01","1-1351-1158","Parwana Zamani",451,300,"Results Status : Certified"
-"01","1-1006-83","Ghullam Ali Wahdat",450,296,"Results Status : Certified"
-"01","1-1046-55","Razia Arefi",449,278,"Results Status : Certified"
-"01","1-1045-21","Alhaj Zabiullah Nasiri",448,261,"Results Status : Certified"
-"01","1-1627-1","Hedayatullah Sulaimankhel",445,350,"Results Status : Certified"
-"01","1-1825-107","Armaghan Samkanai",445,334,"Results Status : Certified"
-"01","1-1478-72","Ajmal Balochzadah",442,300,"Results Status : Certified"
-"01","35-1696-154","Dr. Anisa pashaye",441,286,"Results Status : Certified"
-"01","1-1422-3066","Jumma Khan Mohammadi",441,239,"Results Status : Certified"
-"01","1-1756-3040","Reza Khan Aref Mukhles",438,320,"Results Status : Certified"
-"01","1-2003-137","Eng. Mohammad Afzal Ahmadzai",437,273,"Results Status : Certified"
-"01","1-1871-179","Qaisullah Samkanai",435,231,"Results Status : Certified"
-"01","1-1207-66","Alhaj Abdul Satar Behzad",433,391,"Results Status : Certified"
-"01","1-1286-48","Alhaj Dr. Mohammad Sediq",431,293,"Results Status : Certified"
-"01","1-1759-156","Arash Shahirpor",431,289,"Results Status : Certified"
-"01","35-1893-157","Eng. Lajmir Khair Andesh",428,315,"Results Status : Certified"
-"01","1-1206-66","Dr. Abdul Rashid Janbaz",423,308,"Results Status : Certified"
-"01","1-1020-8","Mohammad Asghar Wakili Popalzai",420,241,"Results Status : Certified"
-"01","1-1790-1042","Haji Rohullah Mujahid",420,328,"Results Status : Certified"
-"01","1-1320-153","Hamed Haqdost",419,283,"Results Status : Certified"
-"01","1-1396-95","Emal Mahmoodzada",417,249,"Results Status : Certified"
-"01","1-1866-155","Mohammad Belal Hakimi",411,286,"Results Status : Certified"
-"01","1-1391-134","Alhaj Mohammadullah Ahmadi Safi",408,292,"Results Status : Certified"
-"01","1-1419-20","Mohammad Hanif Sayar",408,268,"Results Status : Certified"
-"01","1-1195-10","Ahmad Farid Mehrabi",407,299,"Results Status : Certified"
-"01","1-1763-153","Mawlawi Abdul Rahman Rahmani",407,342,"Results Status : Certified"
-"01","1-1007-16","Ahmad Parwiz Hassan",405,278,"Results Status : Certified"
-"01","1-1382-30","Roqia Alemi Balkhi",404,265,"Results Status : Certified"
-"01","1-1562-13","Khalida Adib",402,257,"Results Status : Certified"
-"01","1-1594-38","Alhaj Mirwais Kamawal",401,319,"Results Status : Certified"
-"01","1-1553-206","Sayeda Masooda Yari",398,271,"Results Status : Certified"
-"01","1-1448-107","Abdullah Wejdan",392,266,"Results Status : Certified"
-"01","1-1872-1061","Ezharulhaq Hamim",392,308,"Results Status : Certified"
-"01","1-1120-4","Ahmad Zaki Faqirzadah",390,245,"Results Status : Certified"
-"01","1-1414-130","Saheb Haq Meyakhel",390,289,"Results Status : Certified"
-"01","1-1775-155","Dr. Jawad Surosh",389,255,"Results Status : Certified"
-"01","1-1779-132","Mohammad Bashir Farooq",388,231,"Results Status : Certified"
-"01","1-1671-129","Alhaj Zemarai Naseri",384,256,"Results Status : Certified"
-"01","1-1401-56","Abdul Ghafar Baator",383,277,"Results Status : Certified"
-"01","1-1423-99","Mohammad Haidari",382,273,"Results Status : Certified"
-"01","1-1438-254","Gen. Abdul Wahed Taqat",381,292,"Results Status : Certified"
-"01","1-1034-87","Alhaj Khwaja Masoom Sediqi",373,287,"Results Status : Certified"
-"01","1-1900-133","Najibullah Mujahid",373,256,"Results Status : Certified"
-"01","1-1466-1068","Nematullah Ahmadi",373,269,"Results Status : Certified"
-"01","1-1464-69","Saranpoh. Enayatullah Kamal",372,288,"Results Status : Certified"
-"01","1-1212-140","Hamidullah Stanikzai",371,270,"Results Status : Certified"
-"01","1-1030-110","Omid Watanyar",369,241,"Results Status : Certified"
-"01","1-1300-41","Sayed Burhan Sayed Jamal Taheri",369,268,"Results Status : Certified"
-"01","1-1560-1014","Toryalai Shofaye",368,279,"Results Status : Certified"
-"01","1-1344-142","Dr. Fazel Khaleq Sheja",367,257,"Results Status : Certified"
-"01","1-1364-1092","Arian Khaibar",364,274,"Results Status : Certified"
-"01","1-1570-32","Ustad Abdul Gheyas Gheyasi",363,250,"Results Status : Certified"
-"01","1-1891-164","Sayed Rahman Wahedyar",362,219,"Results Status : Certified"
-"01","1-1578-56","Mawlawi Attaullah Faizani",362,292,"Results Status : Certified"
-"01","1-1410-39","Ghazi Khan Dr. Naqib",361,274,"Results Status : Certified"
-"01","1-1117-1019","Helai Ershad",361,149,"Results Status : Certified"
-"01","1-1205-3","Ekramuddin Wali",360,302,"Results Status : Certified"
-"01","1-1248-120","Qurban Ali Uruzghani",352,224,"Results Status : Certified"
-"01","1-1456-54","Madaar Ali Karimi",351,249,"Results Status : Certified"
-"01","35-1187-2","Qurban Mohammad",347,267,"Results Status : Certified"
-"01","1-1505-191","Safia Sediqi",345,241,"Results Status : Certified"
-"01","1-1227-5","Simin Hassanzadah",343,225,"Results Status : Certified"
-"01","1-1313-64","Haji Mohammad Zaman Rajabi",343,243,"Results Status : Certified"
-"01","1-1789-142","Dr. Moen Gull Samkanai",342,238,"Results Status : Certified"
-"01","1-1689-94","Mohammad Dawood Asaas",341,215,"Results Status : Certified"
-"01","1-1258-2032","Gheljai Noorzai",337,208,"Results Status : Certified"
-"01","1-1270-20","Mohammad Anwar Allah Daad",330,200,"Results Status : Certified"
-"01","1-1425-48","Gen. Khalil Rahman Aamel",329,244,"Results Status : Certified"
-"01","1-1232-73","Milad Yousuf Ibrahim",327,236,"Results Status : Certified"
-"01","1-1667-17","Bashir Ahmad",327,227,"Results Status : Certified"
-"01","1-1652-63","Alhaj Khan Lala Shirzai",326,239,"Results Status : Certified"
-"01","1-1426-218","Lft-Gen. Sayed Aman",325,203,"Results Status : Certified"
-"01","1-1301-74","Omran Omar Amarkhel",320,232,"Results Status : Certified"
-"01","1-1386-1050","Mohammad Yaser Emar",317,222,"Results Status : Certified"
-"01","1-1406-13","Sayed Nasratullah Qubadi",315,200,"Results Status : Certified"
-"01","1-1559-141","Abdul Hadi Osmani",315,227,"Results Status : Certified"
-"01","1-1332-96","Ghullam Mohammad Kamawal",314,234,"Results Status : Certified"
-"01","1-1690-120","Rahimullah Hanifi",313,247,"Results Status : Certified"
-"01","1-1169-30","Dr. Benafsha Bahar Nabizada",311,206,"Results Status : Certified"
-"01","1-1862-3074","Burhanuddin Hafez",311,226,"Results Status : Certified"
-"01","1-1534-62","Haji Mohammad Nawab Totakhel",311,194,"Results Status : Certified"
-"01","1-1827-177","Alhaj Mirwais Katawazai",308,252,"Results Status : Certified"
-"01","1-1614-1","Alhaj Mohammad Amin Tarakhel",307,223,"Results Status : Certified"
-"01","1-1390-44","Mohammad Mukhtar Sharifi",307,212,"Results Status : Certified"
-"01","1-1321-71","Aashna Gull Bandawal",307,220,"Results Status : Certified"
-"01","1-1766-135","Hassan Jaan Dawlatzai",306,240,"Results Status : Certified"
-"01","1-1799-160","Abdul Wahed Khan Nasratyar",306,267,"Results Status : Certified"
-"01","1-1663-170","Shabir Ahmad Ibrahimi",306,205,"Results Status : Certified"
-"01","1-1314-33","Mohammad Younus Nawandesh",305,226,"Results Status : Certified"
-"01","1-1339-28","Deplom Eng. Ghullam Ali",301,227,"Results Status : Certified"
-"01","1-1750-154","Haji Noorullah Azizi Meyakhel",300,219,"Results Status : Certified"
-"01","1-1127-182","Mirzaman Haqyar",300,224,"Results Status : Certified"
-"01","1-1730-182","Dr. Masooma Muradi",299,176,"Results Status : Certified"
-"01","1-1361-122","Mohammad Haroon Motaref",297,214,"Results Status : Certified"
-"01","1-1418-7","Sayed Naser Mosawi",293,189,"Results Status : Certified"
-"01","1-1821-1064","Tella Mohammad Atmanzai",293,200,"Results Status : Certified"
-"01","1-1257-12","Haji Hamidullah Nawabi",292,194,"Results Status : Certified"
-"01","1-1273-91","Mohammad Ajmal Hodman",290,217,"Results Status : Certified"
-"01","1-1105-111","Sayed Nasim Hashimi",290,143,"Results Status : Certified"
-"01","1-1819-136","Mohammad Qasem Ferdawsi",289,192,"Results Status : Certified"
-"01","1-1027-1","Noor Ahmad Ghafoori",288,213,"Results Status : Certified"
-"01","1-1129-79","Mohammad Aref",288,249,"Results Status : Certified"
-"01","1-1548-197","Mirza Alizadah",288,169,"Results Status : Certified"
-"01","1-1312-49","Kheyal Mohammad Khpelwak",287,207,"Results Status : Certified"
-"01","1-1420-6","Sayed Maroof Hashemi Jahed",283,203,"Results Status : Certified"
-"01","1-1791-1178","Alhaj Khaibar Zeyarmal",283,211,"Results Status : Certified"
-"01","1-1793-167","Dr. Ajmal Aazem",281,171,"Results Status : Certified"
-"01","1-1415-1169","Mohammad Qayoum Khostwal",280,215,"Results Status : Certified"
-"01","1-1235-71","Dr. Mohebullah Moheb",279,184,"Results Status : Certified"
-"01","1-1700-93","Haji Taza khan Zurmati",279,252,"Results Status : Certified"
-"01","1-1490-20","Jamshid Iqbal",278,148,"Results Status : Certified"
-"01","1-1639-57","Salma Akbari",278,162,"Results Status : Certified"
-"01","1-1878-154","Abdul Rauf Assadi",277,205,"Results Status : Certified"
-"01","1-1064-7","Mohammad Sajad Hashimi",277,186,"Results Status : Certified"
-"01","1-1184-84","Wahid Rahman Amiri",276,202,"Results Status : Certified"
-"01","35-1771-158","Gen. Abdul Rashid Sheja",276,222,"Results Status : Certified"
-"01","1-1701-6","Najibullah Kabuli",273,189,"Results Status : Certified"
-"01","1-1547-22","Dr. Abdul Ali Mohammadi",272,174,"Results Status : Certified"
-"01","1-1597-1209","Mohammad Yahya Wayar Ahmadzai",271,215,"Results Status : Certified"
-"01","1-1785-130","Dr. Ziauddin Kamal ",271,210,"Results Status : Certified"
-"01","1-1052-88","Abdul Baqi Saranwal Hotak",270,205,"Results Status : Certified"
-"01","1-1259-105","Mohammad Allamazadah",270,180,"Results Status : Certified"
-"01","1-1613-65","Ahmadullah Barikzai",269,178,"Results Status : Certified"
-"01","1-1826-188","Sahel Khan",266,206,"Results Status : Certified"
-"01","1-1333-55","Abdul Hadi Naseri",266,169,"Results Status : Certified"
-"01","1-1806-1167","Shokria Jalalzai",266,176,"Results Status : Certified"
-"01","1-1215-103","Abdul Bari Ramin Azimi",264,192,"Results Status : Certified"
-"01","1-1609-15","Nasir Ahmad Ensaf",263,160,"Results Status : Certified"
-"01","1-1640-1102","Qari Ahmad Reshad Khan Mamozai",261,161,"Results Status : Certified"
-"01","1-1348-181","Dr. Ghullam Dastgir Elyas",260,179,"Results Status : Certified"
-"01","1-1079-1166","Alhaj Mohammad Omer Marjan",259,222,"Results Status : Certified"
-"01","1-1584-44","Shakila Ibrahim",258,153,"Results Status : Certified"
-"01","1-1346-1017","Commander Mir Alam Haqpal",256,200,"Results Status : Certified"
-"01","1-1078-11","Mustafa Arian Tarakhel",255,200,"Results Status : Certified"
-"01","1-1392-27","Khan Mohammad Khuram",255,196,"Results Status : Certified"
-"01","1-1151-60","Dr. Masooda Jalal",250,193,"Results Status : Certified"
-"01","1-1244-82","Haji Gull Rahman Rahmani Mangal",250,113,"Results Status : Certified"
-"01","1-1076-50","haji Sekandar Fraji",249,200,"Results Status : Certified"
-"01","1-1603-74","Sayed Rohullah Hussaini",248,181,"Results Status : Certified"
-"01","1-1324-1020","Abdul Qayoum Naderi",246,162,"Results Status : Certified"
-"01","1-1679-176","Noor Mohammad Ramozi",246,180,"Results Status : Certified"
-"01","1-1213-174","Khatera Isshaqzai",246,198,"Results Status : Certified"
-"01","1-1886-173","Yasamin Sarwari",245,147,"Results Status : Certified"
-"01","1-1876-138","Fazel Menallah Momtaz",245,197,"Results Status : Certified"
-"01","1-1096-16","Alhaj Shir Aqa Mohammadi",243,160,"Results Status : Certified"
-"01","1-1855-1186","Abdul Mujib Safi Babrak",243,202,"Results Status : Certified"
-"01","1-1773-159","Abdul Hai Maalek",242,170,"Results Status : Certified"
-"01","1-1599-36","Sayed Mustafa Miri",242,163,"Results Status : Certified"
-"01","1-1032-1049","Eng. Azimullah Esmati",241,166,"Results Status : Certified"
-"01","1-1566-58","Mohammad Yar Stanikzai",241,163,"Results Status : Certified"
-"01","1-1800-1165","Mohammad Ibrahim Az-har",240,148,"Results Status : Certified"
-"01","1-1323-113","Alhaj Mohammad Hashem Karimi",240,142,"Results Status : Certified"
-"01","1-1474-220","Khwaja Mohammad Musa Fariwar",240,182,"Results Status : Certified"
-"01","1-1252-184","Gullabuddin Rasekh",239,210,"Results Status : Certified"
-"01","1-1572-26","Gen. Mohammad Asef Jabarkhel",239,196,"Results Status : Certified"
-"01","1-1643-83","Temorshah Ayoubzai",238,172,"Results Status : Certified"
-"01","1-1180-43","Dr. Homa Zinat",237,164,"Results Status : Certified"
-"01","1-1134-1214","Aqa Sayeed Malek Sayed Jaan",236,215,"Results Status : Certified"
-"01","1-1863-111","Najibullah Azad",235,178,"Results Status : Certified"
-"01","1-1088-177","Abdul Baqi Samandar",235,161,"Results Status : Certified"
-"01","1-1059-149","Ghullam Qader Sakhizadah",233,150,"Results Status : Certified"
-"01","1-1192-180","Dr. Maari Vida Safar",233,168,"Results Status : Certified"
-"01","1-2009-1107","Phd. Mohammad Dawood Rawosh",233,169,"Results Status : Certified"
-"01","1-1660-49","Hedayatullah Taheri",232,168,"Results Status : Certified"
-"01","1-1480-52","Alhaj Farid Khan Zurmati",231,170,"Results Status : Certified"
-"01","1-1629-87","Anisa Maqsoodi",230,127,"Results Status : Certified"
-"01","1-1642-118","Mohammad Halim Amini",228,167,"Results Status : Certified"
-"01","1-1385-26","Mustafa Nikzad",227,148,"Results Status : Certified"
-"01","1-1359-3057","Mohammad Edris Stanikzai",224,171,"Results Status : Certified"
-"01","1-1158-23","Dr. Samim Shamsi",223,81,"Results Status : Certified"
-"01","1-1706-90","Frozan Khalilyar",222,146,"Results Status : Certified"
-"01","1-1752-137","Alhaj Mohammad Mosadeq Muqset",222,173,"Results Status : Certified"
-"01","1-1399-63","Habib Zaki Rohgar",221,161,"Results Status : Certified"
-"01","1-1409-1030","Sayed Jawid Andesh",220,158,"Results Status : Certified"
-"01","1-1554-13","Mohammad Dawood Babur",219,84,"Results Status : Certified"
-"01","1-1573-1089","Dr. Aslam Khan Mirdadi",214,122,"Results Status : Certified"
-"01","1-1497-139","Sayed Rohullah Sadat Naseri",213,128,"Results Status : Certified"
-"01","1-1760-162","Dr. Faridullah sefat",210,148,"Results Status : Certified"
-"01","1-1413-184","Karimullah Akhondzadah",210,162,"Results Status : Certified"
-"01","1-1511-194","Abdul Qudos Jawzjani",201,150,"Results Status : Certified"
-"01","1-1716-150","Rahela Jafari",201,128,"Results Status : Certified"
-"01","1-1695-167","Hawa Alam Nooristani",200,146,"Results Status : Certified"
-"01","1-1285-19","Fazel Rahman Sofizadah",198,131,"Results Status : Certified"
-"01","1-1729-1043","Abdul Hadi Miran",198,102,"Results Status : Certified"
-"01","1-1784-3072","Sayed Assadullah Hashimi",198,134,"Results Status : Certified"
-"01","1-1284-32","Sayed Baqer Mohseni Kazemi",197,114,"Results Status : Certified"
-"01","1-1352-1058","Farzana Rezaye",197,121,"Results Status : Certified"
-"01","1-1815-140","Khesraw Khalid",196,128,"Results Status : Certified"
-"01","1-1434-31","Anisa Turk",193,109,"Results Status : Certified"
-"01","1-1725-128","Eng. Shams Rahman Shams",192,158,"Results Status : Certified"
-"01","1-1262-1163","Mohammad Tamim Nooristani",191,144,"Results Status : Certified"
-"01","1-1331-29","Mohammad Haroon Formoli",189,77,"Results Status : Certified"
-"01","1-1658-90","Qari Zabiullah Tarakhel",189,173,"Results Status : Certified"
-"01","1-1575-175","Mohammad Rafiq shirzad",189,118,"Results Status : Certified"
-"01","1-1051-43","Dr. Sayed Makhdom Rahin",189,135,"Results Status : Certified"
-"01","1-1556-70","Adela Bahram Nezami",188,118,"Results Status : Certified"
-"01","1-1500-1164","Qadam Ali Khadem",187,132,"Results Status : Certified"
-"01","1-1421-196","Najiba Fetrat",185,112,"Results Status : Certified"
-"01","1-1211-78","Abdul Sabor Gardizi",185,132,"Results Status : Certified"
-"01","1-1710-163","Abdul Basir Khalili Yousufzai",185,84,"Results Status : Certified"
-"01","1-1739-1044","Jamshid Sofizadah",183,132,"Results Status : Certified"
-"01","1-1719-1162","Enjila Bafaiz",182,105,"Results Status : Certified"
-"01","1-1387-1081","Mohammad sharif Omarzai",180,131,"Results Status : Certified"
-"01","1-1538-13","Frozan Dawoodzai",180,126,"Results Status : Certified"
-"01","1-1350-81","Hazrat Yousuf Zemarai Ahmadzai",179,116,"Results Status : Certified"
-"01","1-1820-136","Mohammad Abid Andarabi",177,129,"Results Status : Certified"
-"01","1-1018-70","Zergull Etefaaq Sahak",176,123,"Results Status : Certified"
-"01","35-1832-153","Jubran",175,135,"Results Status : Certified"
-"01","1-1732-171","Habiba Qaderi",175,136,"Results Status : Certified"
-"01","1-1788-1069","Khalid Khan Ghaznawi",174,116,"Results Status : Certified"
-"01","1-1372-3070","Noor Habib Hasir",172,145,"Results Status : Certified"
-"01","1-1859-147","Khwaja Khalilullah Sediqyar",171,100,"Results Status : Certified"
-"01","1-1191-1055","Somaya Bayat Kazemi",170,105,"Results Status : Certified"
-"01","1-1638-148","Ziaullhaq Shams",169,130,"Results Status : Certified"
-"01","1-1636-75","Mansoor Ahmad Ahmadzai",169,131,"Results Status : Certified"
-"01","1-1526-1023","Zewaruddin Zewar",168,117,"Results Status : Certified"
-"01","1-1189-2027","Maari",166,115,"Results Status : Certified"
-"01","1-2002-1033","Leyaqat Ali Faramarz",165,112,"Results Status : Certified"
-"01","1-1156-37","Mohammad Salim Paigir",165,120,"Results Status : Certified"
-"01","1-1254-21","Dr. Abdul Basir Ranjbar",164,112,"Results Status : Certified"
-"01","1-1170-95","Brg-Gen. Arkan Harb Ghullam Farooq Nayemi",164,112,"Results Status : Certified"
-"01","1-1267-3064","Amanullah Tarin",164,130,"Results Status : Certified"
-"01","1-1831-147","Deen Mohammad Darwishi",163,113,"Results Status : Certified"
-"01","1-1303-53","Samimullah sultani",162,117,"Results Status : Certified"
-"01","35-1360-155","Haji Azizullah Habibi",160,118,"Results Status : Certified"
-"01","1-1295-207","Dr. Tobi Azami",159,80,"Results Status : Certified"
-"01","1-1726-121","Mohammad Aref Nooristani",158,135,"Results Status : Certified"
-"01","1-1376-1203","Qudsia Alokozai",158,42,"Results Status : Certified"
-"01","1-1844-1193","Mirwais Ansar Mangal",157,103,"Results Status : Certified"
-"01","1-1005-179","Mohammad Azam Azami Dehsabzi",157,137,"Results Status : Certified"
-"01","1-1854-144","Eidi Mohammad Shareqi",157,123,"Results Status : Certified"
-"01","1-1001-89","Haji Shafiqullah Ghorbandi",155,130,"Results Status : Certified"
-"01","1-1741-1070","sayed Shah Mahmood Malekzadah",155,93,"Results Status : Certified"
-"01","1-1056-3054","Sayed Mohammad Rashid Naserzadah",154,105,"Results Status : Certified"
-"01","1-1674-1093","Mohammad Shafiq Haqyar",154,106,"Results Status : Certified"
-"01","1-1334-24","Masood Shah",153,106,"Results Status : Certified"
-"01","1-1579-62","ghullam Mohammad Panjshiri",153,122,"Results Status : Certified"
-"01","1-1772-1157","Abdullah Kohbandi",153,61,"Results Status : Certified"
-"01","1-1449-128","Mohammad Younus Wayar",152,125,"Results Status : Certified"
-"01","1-2005-1176","Ustad Jafari",152,104,"Results Status : Certified"
-"01","1-1203-73","Alhaj Abdul Sami Arefi",151,94,"Results Status : Certified"
-"01","1-1814-146","Abdul Wakil Rashidi",150,91,"Results Status : Certified"
-"01","1-1723-1204","Hamasa Sadat",150,90,"Results Status : Certified"
-"01","1-1512-131","Dr. Wahidullah Ahmadzai",150,97,"Results Status : Certified"
-"01","1-1608-44","Ramesh Noori",149,108,"Results Status : Certified"
-"01","1-1102-3069","Abdul Qader Haidari",149,111,"Results Status : Certified"
-"01","1-1050-42","Nasrullah Mesbah",149,84,"Results Status : Certified"
-"01","1-1003-13","Freshta Farah",148,90,"Results Status : Certified"
-"01","1-1848-195","Bashir Ahmad Bezhan",147,119,"Results Status : Certified"
-"01","1-1255-3","Zeba Safa",146,90,"Results Status : Certified"
-"01","1-1128-174","Mohammad Naser Babakarkhel",146,102,"Results Status : Certified"
-"01","1-1082-84","Abdal Amin Haqjo",146,104,"Results Status : Certified"
-"01","1-1877-1097","Eng. Abdul Satar Azizi",145,70,"Results Status : Certified"
-"01","1-1822-141","Mohammad Yousuf Nawabi",145,92,"Results Status : Certified"
-"01","1-1043-94","Mohammad Nabi Baraki",145,106,"Results Status : Certified"
-"01","1-1471-1085","Parwin Zafar Ahadi",143,80,"Results Status : Certified"
-"01","1-1365-1108","Abdul Khaibar Hotak",143,89,"Results Status : Certified"
-"01","1-1373-3061","Shahla Naseri Barikzai",142,108,"Results Status : Certified"
-"01","1-1416-139","Assadullah Karimi",141,95,"Results Status : Certified"
-"01","1-1404-1012","Sherabuddin Sayar",139,105,"Results Status : Certified"
-"01","1-1896-158","Mohammad Shoaib Iqbal Zazai",139,105,"Results Status : Certified"
-"01","1-1002-14","Sayed Mahdi Anwari",138,94,"Results Status : Certified"
-"01","1-1242-34","Kamela Aimaq",138,94,"Results Status : Certified"
-"01","1-1383-171","Pashtana Arabzai",137,80,"Results Status : Certified"
-"01","1-1011-2","Abdul Rezaq Ismaili",137,92,"Results Status : Certified"
-"01","1-1558-80","Saifuddin Shahab",137,102,"Results Status : Certified"
-"01","1-1345-105","Dr. Mohammad Younus Karimi",135,72,"Results Status : Certified"
-"01","1-1264-1041","Anwar Khan Shamali",135,107,"Results Status : Certified"
-"01","1-1131-1024","Najibullah Haidari",134,95,"Results Status : Certified"
-"01","1-1458-117","Abdul Qadir Sadeqyar",134,83,"Results Status : Certified"
-"01","1-1093-76","Kulsom",133,74,"Results Status : Certified"
-"01","1-1019-41","Ahmad Reza Noori",133,103,"Results Status : Certified"
-"01","1-1015-1063","Mohammad Urfani",133,93,"Results Status : Certified"
-"01","1-1408-111","Mohammad Shafiq Basharyar",133,87,"Results Status : Certified"
-"01","1-1840-1057","Sayed Asghar Ashraq",132,79,"Results Status : Certified"
-"01","1-1435-57","saifurahman Gharwal",131,94,"Results Status : Certified"
-"01","1-1407-113","Abida Homa Azizi",130,86,"Results Status : Certified"
-"01","1-1624-214","Dr. Abdul Ahad suhrabi",128,89,"Results Status : Certified"
-"01","1-1016-168","Ghullam Farooq Mojadidi",128,96,"Results Status : Certified"
-"01","1-1610-5","Ghullam Mohaiuddin Alokozai",128,98,"Results Status : Certified"
-"01","1-1181-106","Alhaj Mohammad Dawood Paktyawal",127,86,"Results Status : Certified"
-"01","1-2007-164","Alhaj Sharifullah Kamawal",126,81,"Results Status : Certified"
-"01","1-1199-17","Phd. Lutfullah Safi",126,95,"Results Status : Certified"
-"01","1-1269-2","Farah Diba Shahzad",125,105,"Results Status : Certified"
-"01","1-1510-185","Dr. Ahmad Tamim Rahman",124,105,"Results Status : Certified"
-"01","1-1405-112","Abdul Ghafar Faizi Zadran",124,84,"Results Status : Certified"
-"01","1-1354-109","Mohammad Aalem Kohkan",122,90,"Results Status : Certified"
-"01","1-1802-3065","Shahzad Gull Musleh Zazai",122,65,"Results Status : Certified"
-"01","1-1747-181","Sayed Paiwand Ali Sajadi",122,75,"Results Status : Certified"
-"01","1-1482-148","Eng. Mohammad Dawood Yousufzai",121,62,"Results Status : Certified"
-"01","1-1171-71","Alhaj Jalaluddin Fakhri",120,86,"Results Status : Certified"
-"01","1-1340-8","Aminullah Patyani",119,84,"Results Status : Certified"
-"01","1-1298-54","Alhaj Hamidullah Bakhshi",117,78,"Results Status : Certified"
-"01","1-1839-1177","Eng. Hamid Rahman",117,85,"Results Status : Certified"
-"01","1-1817-131","Sanaullah Mukhles",117,80,"Results Status : Certified"
-"01","1-1008-143","Farida Sahar",117,85,"Results Status : Certified"
-"01","1-1634-8","Pariza Rahmani",116,87,"Results Status : Certified"
-"01","1-1460-217","Mumtaz Yousufzai",116,74,"Results Status : Certified"
-"01","1-1630-1022","Nazar Mohammad Isshaqzai",116,84,"Results Status : Certified"
-"01","1-1256-120","Sayed Karim Mansoor",113,82,"Results Status : Certified"
-"01","1-1544-3","Farida Sediqi",113,71,"Results Status : Certified"
-"01","1-1828-163","Khalilullah Shinwari",111,50,"Results Status : Certified"
-"01","1-1070-77","Sultan Mansoor Osmani",110,79,"Results Status : Certified"
-"01","1-1112-1067","Mohammad Taher Ebadi",110,82,"Results Status : Certified"
-"01","1-1108-215","Abdul Wahab Kabuli",108,69,"Results Status : Certified"
-"01","1-1727-135","Faiz Mohammad Daqiq",106,77,"Results Status : Certified"
-"01","1-1063-67","Dr. Zuhra Nawabi",105,87,"Results Status : Certified"
-"01","1-1053-1053","Abdul Khaleq Ramesh Salemi",104,65,"Results Status : Certified"
-"01","1-1138-3053","Ahmadullah Aksir",104,60,"Results Status : Certified"
-"01","1-1085-3062","Razuddin Fakhri",103,73,"Results Status : Certified"
-"01","1-1650-89","Mohammad Nazir Hafizi",103,82,"Results Status : Certified"
-"01","1-1485-63","Abdul Mohammad Elham Nadi",102,64,"Results Status : Certified"
-"01","1-1754-131","Mohammad Aref Wardag",102,67,"Results Status : Certified"
-"01","1-1699-12","Naqibullah Faizi",102,67,"Results Status : Certified"
-"01","1-1315-24","Sayed Saifullah Sadat",102,61,"Results Status : Certified"
-"01","1-1044-166","Mohammad Osman Taheri",101,73,"Results Status : Certified"
-"01","1-1208-114","Deplom Eng. Noor Gull Mangal",100,80,"Results Status : Certified"
-"01","1-1091-1104","Fatema Akbari",99,51,"Results Status : Certified"
-"01","1-1858-1179","Emal Burhan Wardak",98,65,"Results Status : Certified"
-"01","1-1155-102","Kalimullah Hamsukhan",98,74,"Results Status : Certified"
-"01","1-1277-164","Eng. Fazelhaq Hemati",97,61,"Results Status : Certified"
-"01","1-1371-3059","Dr. Ali Asghar Paiman",96,76,"Results Status : Certified"
-"01","1-1486-139","Zabiullah Laho Zazai",95,50,"Results Status : Certified"
-"01","1-1673-161","Ustad Darab Ali Aliyar",94,50,"Results Status : Certified"
-"01","1-1278-114","Sayed Alem Rasa",94,78,"Results Status : Certified"
-"01","1-1676-166","Bibi Noor Darwazi",94,56,"Results Status : Certified"
-"01","1-1219-1216","Ustad Mawlawi Shamsullah Haqani",94,73,"Results Status : Certified"
-"01","1-1713-253","Murtaza Nikzad",93,63,"Results Status : Certified"
-"01","35-1769-156","Ustad Laila Barikzai",92,58,"Results Status : Certified"
-"01","1-1882-1077","Tafsir seyahposh",92,56,"Results Status : Certified"
-"01","1-1761-143","Jamal Naser Mujahid",92,68,"Results Status : Certified"
-"01","1-1098-175","Sayed Aziz Ahmad Wardak",92,65,"Results Status : Certified"
-"01","1-1851-1105","Qari Urfanullah Marefat",88,65,"Results Status : Certified"
-"01","1-1495-211","Afghani Oryakhel",87,58,"Results Status : Certified"
-"01","1-1379-1098","Abdul Razaq Hakimi",86,64,"Results Status : Certified"
-"01","1-1400-15","Shayesta Saleh",84,57,"Results Status : Certified"
-"01","1-1100-1096","Aalia Azimi",83,57,"Results Status : Certified"
-"01","1-1036-68","Nawid Ahmad Kohi",83,41,"Results Status : Certified"
-"01","1-1849-171","Abdul Qayoum Sahraye",82,67,"Results Status : Certified"
-"01","35-1883-152","Vida Saghari",79,38,"Results Status : Certified"
-"01","1-1807-130","Rabea Stanikzai",79,63,"Results Status : Certified"
-"01","1-1037-117","Eng. Mohmood Haidari",79,57,"Results Status : Certified"
-"01","1-1885-1051","Mohammad Kabir Zamir",78,54,"Results Status : Certified"
-"01","1-1898-1086","Shir Aqa Sayedkheli",78,57,"Results Status : Certified"
-"01","1-1894-143","Haji Salim Logarwal",78,59,"Results Status : Certified"
-"01","1-1048-1159","Nabila Sayedjanzada Hamid",78,65,"Results Status : Certified"
-"01","1-1714-1045","Abu-Zar Ghafari",77,59,"Results Status : Certified"
-"01","1-1496-176","Mohammad Ashraf Pirzad",77,63,"Results Status : Certified"
-"01","1-1147-213","Eng. Rohullah Zarif",72,46,"Results Status : Certified"
-"01","1-1857-201","Essa Mohammad Esmat Qane",71,56,"Results Status : Certified"
-"01","1-1712-147","Sayed Nesar Hashemi",71,47,"Results Status : Certified"
-"01","1-1762-114","Sayed Najibullah Faraz",71,45,"Results Status : Certified"
-"01","1-1103-149","Mohammad Ibrahim Fedaye",71,41,"Results Status : Certified"
-"01","1-1084-30","Del Aqa Kohdamani",70,51,"Results Status : Certified"
-"01","1-1768-205","Tamana Zaryab Paryani",70,56,"Results Status : Certified"
-"01","1-1501-165","Ahmad Parwiz Faizi",69,50,"Results Status : Certified"
-"01","1-1733-168","Mohammad Nabi Ayani",69,44,"Results Status : Certified"
-"01","1-1576-133","Pashtonmal Ahmadzai",68,50,"Results Status : Certified"
-"01","1-1101-178","Dr. Bayani Salimi",67,35,"Results Status : Certified"
-"01","1-1238-1076","Mohammad Malek Sabr",67,45,"Results Status : Certified"
-"01","1-1728-3056","Khozha babakarkhel",67,39,"Results Status : Certified"
-"01","1-1292-1106","Shir Mohammad Ghafoori",66,50,"Results Status : Certified"
-"01","1-1659-122","Arezo Akbari",66,46,"Results Status : Certified"
-"01","1-1628-224","Abdul Habib Farzam Nejrabi",63,46,"Results Status : Certified"
-"01","1-1813-172","Asal Mohammad Shakeri Badakhshani",63,44,"Results Status : Certified"
-"01","1-1109-112","Ogai Amil",62,28,"Results Status : Certified"
-"01","1-1666-40","Mohammad Dawood Dawoodzai",62,38,"Results Status : Certified"
-"01","1-1130-73","Zabiullah Sharifi",60,43,"Results Status : Certified"
-"01","1-2004-116","Mohammad Humayoun Noori",60,43,"Results Status : Certified"
-"01","1-1853-1060","Alhaj Shirin Aqa Stanikzai",60,42,"Results Status : Certified"
-"01","1-1412-86","Mohammad Hakim Belali",60,39,"Results Status : Certified"
-"01","1-1475-1103","Dr. Sayed Jalil sayed",60,37,"Results Status : Certified"
-"01","1-1355-173","Mohammad Nayem Haqmal",59,47,"Results Status : Certified"
-"01","1-1518-43","Mohammad Dawood Waziri",58,43,"Results Status : Certified"
-"01","1-1699-1182","Rashed Nezam",58,47,"Results Status : Certified"
-"01","1-1347-149","Ustad Hassina Sahak",58,36,"Results Status : Certified"
-"01","1-1055-2159","Mohammad Fahim Osmani",58,39,"Results Status : Certified"
-"01","1-1574-167","Eng. Ahmad Fahim Nasimyar",58,39,"Results Status : Certified"
-"01","1-1310-37","Mohammad Lais Andar",58,41,"Results Status : Certified"
-"01","1-1875-153","Zaman Jaan Karimi",57,43,"Results Status : Certified"
-"01","1-1167-148","Mohammad Tariq Eqtedari",57,42,"Results Status : Certified"
-"01","1-1033-16","Mufti Sayed Masood Hashemi",57,36,"Results Status : Certified"
-"01","1-1328-79","Fahima Babakarkhel",57,45,"Results Status : Certified"
-"01","1-1122-1084","Taranum Sayedi",56,37,"Results Status : Certified"
-"01","1-1504-179","Sayed Naser Shah Askarzadah",56,46,"Results Status : Certified"
-"01","1-1139-138","Mohammad Zaman Panahi",56,40,"Results Status : Certified"
-"01","1-1869-219","Zarghona Wali",56,35,"Results Status : Certified"
-"01","1-1880-3073","Fatma Hussaini",55,29,"Results Status : Certified"
-"01","1-2006-161","Abdul Maqsood Hassanzadah",54,41,"Results Status : Certified"
-"01","1-1356-1091","Malek Haji Azim shinwarzadah",54,27,"Results Status : Certified"
-"01","1-1685-223","Sediq Mansoor Ansari",53,36,"Results Status : Certified"
-"01","1-1374-1190","Arefa Urfan",52,36,"Results Status : Certified"
-"01","1-1564-34","Haji Zadran Azizi",52,41,"Results Status : Certified"
-"01","1-1481-144","Dr. Abdul Satar Stanikzai",52,31,"Results Status : Certified"
-"01","1-1868-162","Mohammad Qasem Fekri",51,37,"Results Status : Certified"
-"01","1-1515-1018","Ahmad Tariq sheja",51,38,"Results Status : Certified"
-"01","1-1786-165","Sediqa Popalzai",49,33,"Results Status : Certified"
-"01","1-1852-180","Fawzia Hariri",48,32,"Results Status : Certified"
-"01","1-1765-3039","Mahmood Haidari",48,30,"Results Status : Certified"
-"01","1-1516-3044","Qazi Mohammad Isshaq Farjad",48,34,"Results Status : Certified"
-"01","1-1126-1073","Mohammad Khalid Farahi",48,36,"Results Status : Certified"
-"01","1-1110-121","Dr. Karima Kohistani",47,40,"Results Status : Certified"
-"01","1-1450-1083","Shah Gull Rezaye",46,22,"Results Status : Certified"
-"01","1-1527-169","Maliha Joya",46,29,"Results Status : Certified"
-"01","1-1424-173","Shaima Rahimi",45,28,"Results Status : Certified"
-"01","1-1280-1202","Jamila Noorzai Raufi",44,34,"Results Status : Certified"
-"01","1-1678-1161","Ghullam Rabani Noori",44,29,"Results Status : Certified"
-"01","1-1279-222","Mariam Yousufi",44,18,"Results Status : Certified"
-"01","1-1895-177","sayed Ibrahim Hashemi",44,32,"Results Status : Certified"
-"01","1-1369-122","Nooria Munsef",43,33,"Results Status : Certified"
-"01","1-1867-256","Ahmad Reshad Mubarez",43,32,"Results Status : Certified"
-"01","1-1843-141","Mahsa Qurbani",43,31,"Results Status : Certified"
-"01","1-1722-145","Dr. Sayed Abdul Wahab Rahmani",42,27,"Results Status : Certified"
-"01","1-1845-3038","Shakila Nawid",42,24,"Results Status : Certified"
-"01","1-1631-1210","Laila Ali",42,31,"Results Status : Certified"
-"01","1-1742-3041","Eng. Nasir Ahamd Saleh",41,33,"Results Status : Certified"
-"01","1-1656-129","Mohammad Ajmal Zurmati",40,28,"Results Status : Certified"
-"01","1-1794-255","Mawlawi Mohammad Mustafa Barikzai",40,28,"Results Status : Certified"
-"01","1-1462-29","Haji Jalaluddin Salehi",40,22,"Results Status : Certified"
-"01","1-1744-146","Abdul Gheyas Kamran",40,20,"Results Status : Certified"
-"01","1-1737-251","Mawezuddin Osmani",40,26,"Results Status : Certified"
-"01","1-1861-257","Shafiq Mubarak Ahmadzai",38,29,"Results Status : Certified"
-"01","35-1549-159","Kako Jaan Neyazai",38,23,"Results Status : Certified"
-"01","1-1218-1206","Dr. Mir Latifa Begnezhad",37,22,"Results Status : Certified"
-"01","1-1452-3058","Sayed Hassan Hussaini",37,26,"Results Status : Certified"
-"01","1-1757-1160","Obaidullah Qalamyar",36,20,"Results Status : Certified"
-"01","1-1104-46","Assadullah Waziri",36,28,"Results Status : Certified"
-"01","1-1366-1212","Sayed Abdullah Sadat",34,24,"Results Status : Certified"
-"01","1-1083-51","Drs. Frozan Fana",33,27,"Results Status : Certified"
-"01","1-1507-10","Eng. Mohammad Amin Karim",33,23,"Results Status : Certified"
-"01","1-1798-2158","Hafizullah Barikzai",33,20,"Results Status : Certified"
-"01","1-1491-1213","Dr. Sarfaraz Safi",32,25,"Results Status : Certified"
-"01","1-1154-123","Mohammad Ayoub Osmani",32,22,"Results Status : Certified"
-"01","1-1830-161","Mohammad Jawad Habibi",32,22,"Results Status : Certified"
-"01","1-1847-3055","Khoshhal Yari Ahmadzai",32,23,"Results Status : Certified"
-"01","1-1897-183","Ghullam Fardin Shaaba",32,30,"Results Status : Certified"
-"01","1-1146-1087","Samira Lame",32,20,"Results Status : Certified"
-"01","1-1498-1175","Eng. Mawlagull Ahmadzai",31,24,"Results Status : Certified"
-"01","1-1767-150","Safiullah Sultani",31,23,"Results Status : Certified"
-"01","1-1395-1072","Dr. Ahmad Wahid Khalid",29,18,"Results Status : Certified"
-"01","1-1675-186","Mohammad Nayem Mustafa Hussainkhel",29,19,"Results Status : Certified"
-"01","1-1107-145","Shekeba Kakar Sadat",28,22,"Results Status : Certified"
-"01","1-1801-187","Mohammad Elyas Shams",27,21,"Results Status : Certified"
-"01","1-1836-172","Sayed Sardar Aqa Shamshiri",27,23,"Results Status : Certified"
-"01","1-1618-1191","Sayed Hamed Daqiq",27,23,"Results Status : Certified"
-"01","1-1731-110","Abdul Kabir",25,14,"Results Status : Certified"
-"01","1-1517-118","Enayatullah Kakar",25,15,"Results Status : Certified"
-"01","1-1792-203","Sahebzada Mohammad Wali Mutaqi",25,17,"Results Status : Certified"
-"01","1-1476-1101","Mohammad Mahdi Hussainyar",24,11,"Results Status : Certified"
-"01","1-1503-1199","Eng. Karimullah Waziri",24,10,"Results Status : Certified"
-"01","1-1363-1188","Noor Ahmad Noori Shaki",23,12,"Results Status : Certified"
-"01","1-1316-2","Mohmood Hanif ",23,19,"Results Status : Certified"
-"01","1-1834-118","Kabul Khan Tadbir Zurmati",22,16,"Results Status : Certified"
-"01","1-1615-1099","Mohammad Zalmai Afghanyar Popal",21,17,"Results Status : Certified"
-"01","1-1887-162","Masooda Qazi Waziri",21,17,"Results Status : Certified"
-"01","1-1523-104","Haji Abdullah Mulla Brother",20,17,"Results Status : Certified"
-"01","1-1123-129","Sayed Ahmad Burhani",20,15,"Results Status : Certified"
-"01","1-1026-1019","Alhaj Omar Gull Momand",16,11,"Results Status : Certified"
-"01","1-1835-1197","Farid Delawar",15,12,"Results Status : Certified"
-"01","1-1528-31","Ghullam Reza Barati",15,10,"Results Status : Certified"
-"01","1-1620-151","Ghullam Sarwar Sakhizad",14,9,"Results Status : Certified"
-"01","1-1692-1185","Ghullam Mujtaba Qais",13,10,"Results Status : Certified"
-"01","1-1054-1079","Murtaza Ashraq",13,11,"Results Status : Certified"
-"01","1-1097-198","Mohammad Zia Yari",12,9,"Results Status : Certified"
-"01","1-1290-46","Babrak Haqyar",12,9,"Results Status : Certified"
-"01","1-1774-142","Temorshah Bashar",12,8,"Results Status : Certified"
-"01","1-1375-1180","Mohammad Azim ",11,7,"Results Status : Certified"
-"01","1-1378-159","Khaleqdad Balaaghi",11,7,"Results Status : Certified"
-"01","1-1736-1062","Sayed Hamza Hashimi Balkhi",10,7,"Results Status : Certified"
-"01","1-1362-1094","Mohammad Dawood Shadan",7,3,"Results Status : Certified"
-"01","1-1057-1095","Dawood Maleyar Mohaiuddin ",7,6,"Results Status : Certified"
-"01","1-1060-1170","Sayed Jawid Altaf",4,3,"Results Status : Certified"
-"33","33-1389-33","Abdul Naser Farahi",604,606,"Results Status : Certified"
-"33","33-1533-34","Abdul Qayoum Qeyam",328,330,"Results Status : Certified"
-"33","33-1021-12","Gen Abdul Karim Farahi",255,256,"Results Status : Certified"
-"33","33-1193-38","Bahauddin Shinwari",209,210,"Results Status : Certified"
+"results_status","province_code","candidate_code","candidate_name_eng","iec_vote_total","calculated_vote_total","difference"
+"Results Status : Certified","01","1-1186-37","Haji Ajmal Rahmani",11158,7576,-3582
+"Results Status : Certified","01","1-1442-4","Alhaj Abdul Qayoum Khairkhwah",8748,6144,-2604
+"Results Status : Certified","01","1-1162-88","Khan Agha Rezayee",7850,6265,-1585
+"Results Status : Certified","01","1-1283-128","Alhaj Mulla Mohammad Khan Ahmadi",6727,5770,-957
+"Results Status : Certified","01","1-1389-68","Feda Mohammad Ulfat Saleh",6690,4683,-2007
+"Results Status : Certified","01","1-1537-14","Ahmad Jawid Jaihon",6213,4191,-2022
+"Results Status : Certified","01","1-1164-56","Mir Amanullah Guzar",6095,3941,-2154
+"Results Status : Certified","01","1-1188-22","Alhaj Amirgull Shahin",6061,4423,-1638
+"Results Status : Certified","01","1-1479-47","Ghullam Hussain Naseri",6024,4322,-1702
+"Results Status : Certified","01","1-1305-89","Dr. Ramazan Bashardost",5983,4306,-1677
+"Results Status : Certified","01","1-1704-56","Alhaj sayed Mohammad Mohammadi",5339,3714,-1625
+"Results Status : Certified","01","1-1521-25","Alhaj Allah Gull Mujahid",5198,3561,-1637
+"Results Status : Certified","01","1-1185-51","Haji Khan Mohammad Wardak",5128,3653,-1475
+"Results Status : Certified","01","1-1265-55","Alhaj Qazi Mir Afghan Safi",4628,3461,-1167
+"Results Status : Certified","01","1-1023-75","Najibullah Naser",4401,3357,-1044
+"Results Status : Certified","01","1-1297-60","Habib Rahman Sayaf",4014,2760,-1254
+"Results Status : Certified","01","1-1432-81","Anwar Khan Oryakhel",3885,3046,-839
+"Results Status : Certified","01","1-1224-77","Sofi Abdul Razeq Estalefi",3749,2960,-789
+"Results Status : Certified","01","1-1066-102","Tawfiq Wahdat",3716,2227,-1489
+"Results Status : Certified","01","1-1444-12","Haji Zergai Habibi",3594,2709,-885
+"Results Status : Certified","01","1-1249-30","Mohammad Nayem Wardak",3520,2315,-1205
+"Results Status : Certified","01","1-1209-19","Haji Hafizullah Jalili",3449,2113,-1336
+"Results Status : Certified","01","1-1176-45","Urfanullah Urfan",3429,2044,-1385
+"Results Status : Certified","01","1-1010-32","Obaidullah Kalimzai Wardak",3418,2457,-961
+"Results Status : Certified","01","1-1718-135","Ajmal Gullab",3413,2284,-1129
+"Results Status : Certified","01","1-1430-80","Ezatullah Aatef",3302,2276,-1026
+"Results Status : Certified","01","1-1306-43","Zabiullah Almas",3238,2333,-905
+"Results Status : Certified","01","1-1223-100","Haji Mohammad Dawood Kalakani",2999,2137,-862
+"Results Status : Certified","01","1-1598-62","Taj Mohammad Mujahid",2978,1957,-1021
+"Results Status : Certified","01","1-1524-2026","Mohammad Dawood Naji",2922,2169,-753
+"Results Status : Certified","01","1-1299-1040","Abdul Samad stanikzai",2891,1978,-913
+"Results Status : Certified","01","1-1119-14","Abdul Reza Khalili",2882,1721,-1161
+"Results Status : Certified","01","1-1329-99","Alhaj Mohammad Alem Khalili",2879,1840,-1039
+"Results Status : Certified","01","1-1443-91","Haji Mohammad Farhad Sediqi",2873,1705,-1168
+"Results Status : Certified","01","1-1133-136","Eng. Abass Nawyan",2854,1891,-963
+"Results Status : Certified","01","1-1173-44","Alhaj Shirshah Ahmadzai",2820,1724,-1096
+"Results Status : Certified","01","1-1174-19","Hamed Sultani",2813,2059,-754
+"Results Status : Certified","01","1-1384-57","Ahmad Zia Azimi Shinozadah",2800,1877,-923
+"Results Status : Certified","01","1-1665-7","Attaullah Nasib",2792,1680,-1112
+"Results Status : Certified","01","1-1216-47","Ahmad Zaki Zahed",2750,1849,-901
+"Results Status : Certified","01","1-1583-50","Mohammad Haidar Basir",2738,1815,-923
+"Results Status : Certified","01","1-1577-5","Wakil Fatema Nazari",2736,1569,-1167
+"Results Status : Certified","01","1-1611-46","Alhaj Hasibullah Samim",2679,1862,-817
+"Results Status : Certified","01","1-1282-28","Haji Abdul Hussain Hussainzadah",2512,1624,-888
+"Results Status : Certified","01","1-1152-35","Habibullah Zazai",2508,1929,-579
+"Results Status : Certified","01","1-1535-45","Mohammad Ibrahim Qasemi",2469,1769,-700
+"Results Status : Certified","01","1-1440-71","Mohammad Nazir Ahmadzai",2467,1864,-603
+"Results Status : Certified","01","1-1272-20","Lutfullah Quraishi",2432,1607,-825
+"Results Status : Certified","01","1-1637-35","Abdul Qader Zazai Watandost",2422,1773,-649
+"Results Status : Certified","01","1-1539-169","Baktash Seyawash",2404,1479,-925
+"Results Status : Certified","01","1-1492-23","Mohammad Qasim Hakimi",2371,1663,-708
+"Results Status : Certified","01","1-1022-25","Alhaj Zemarak Padkhwabi",2348,1685,-663
+"Results Status : Certified","01","1-1327-64","Eng. Zabiullah Zeyarmal",2329,1213,-1116
+"Results Status : Certified","01","1-1465-84","Mohammad Aref Haidari",2323,1404,-919
+"Results Status : Certified","01","1-1121-47","Sayed Edris Mir",2318,1410,-908
+"Results Status : Certified","01","1-1041-127","Abdul Khaleq Hussaini",2305,1412,-893
+"Results Status : Certified","01","1-1253-98","Dr. Fraidon Noorzad",2271,1494,-777
+"Results Status : Certified","01","1-1031-1011","Mawla Mohammad Paiman Akakhel",2192,1783,-409
+"Results Status : Certified","01","1-1461-174","Mohammad Fahim Hashemi",2175,1685,-490
+"Results Status : Certified","01","1-1602-45","Alhaj Faizullah Hashemi",2174,1720,-454
+"Results Status : Certified","01","1-1446-91","Abdul Hadi Khalid",2111,1600,-511
+"Results Status : Certified","01","1-1530-63","Dr. jafar mahdawi",2097,1393,-704
+"Results Status : Certified","01","1-1233-189","Habibullah Esmati",2069,1590,-479
+"Results Status : Certified","01","1-1261-34","Eng. Mohammad Ibrahim Aslami",2059,1445,-614
+"Results Status : Certified","01","1-1616-1","Mohammad Younis Hotak",2050,1574,-476
+"Results Status : Certified","01","1-1545-50","Abdul Matin Shirzoi",2024,1493,-531
+"Results Status : Certified","01","1-1068-104","Noor Habib Gullbahari",2000,1560,-440
+"Results Status : Certified","01","1-1540-61","Sardar Mohammad Sakhi",1997,1288,-709
+"Results Status : Certified","01","1-1226-98","Qazi Ghullam Sakhi Iqbal",1993,1381,-612
+"Results Status : Certified","01","1-1250-67","Alhaj Habibullah Ahmadzai",1987,1284,-703
+"Results Status : Certified","01","1-1276-40","Alhaj Qudratullah Sahak",1976,1482,-494
+"Results Status : Certified","01","1-1542-4","Noorullah Dawoodzai",1940,1543,-397
+"Results Status : Certified","01","1-1587-27","Wahidullah Radmanesh",1938,1426,-512
+"Results Status : Certified","01","1-1581-97","Alhaj Qari Sayed Omar Hotak",1914,1344,-570
+"Results Status : Certified","01","1-1595-90","Haji Homayoun Bahar",1876,1292,-584
+"Results Status : Certified","01","1-1263-3047","Najibullah Islamyar",1860,1163,-697
+"Results Status : Certified","01","1-1646-1028","Mohammad Salem Ahmadzai",1843,1341,-502
+"Results Status : Certified","01","1-1159-24","Abdul Raqib Jawid Kohistani",1825,1490,-335
+"Results Status : Certified","01","1-1514-3042","Alhaj Mohammad Ibrahim Aasem",1815,1255,-560
+"Results Status : Certified","01","1-1837-125","Zolfaqar Omid",1804,1238,-566
+"Results Status : Certified","01","1-1596-16","Ahmad Sayeedi",1783,1429,-354
+"Results Status : Certified","01","1-1118-42","Rajab Ali Andeshmand",1771,1153,-618
+"Results Status : Certified","01","1-1691-112","Haji Zarbat Kharoti",1768,1248,-520
+"Results Status : Certified","01","1-1177-40","Sayed Farhad Hashemi",1759,1258,-501
+"Results Status : Certified","01","1-1240-22","Alhaj Gull Zaman Rohani",1739,1339,-400
+"Results Status : Certified","01","1-1469-107","Mohammad Aref Moheb",1724,1063,-661
+"Results Status : Certified","01","1-1349-123","Eng. Naqibullah Naseri",1714,1204,-510
+"Results Status : Certified","01","1-1073-8","Alhaj Mohammad Qasim Jangalbagh",1696,1202,-494
+"Results Status : Certified","01","1-1325-39","Abdul Hafiz Mansoor",1694,1262,-432
+"Results Status : Certified","01","1-1380-50","Aqil Shah Elyasi",1668,1069,-599
+"Results Status : Certified","01","1-1455-132","Gen. Babrak Saber",1666,1276,-390
+"Results Status : Certified","01","1-1809-226","Etebar Khan Zadran",1663,1261,-402
+"Results Status : Certified","01","1-1454-123","Ahmad Behzad",1609,1212,-397
+"Results Status : Certified","01","1-1069-51","Jalalduddin Mahmoodi",1606,1253,-353
+"Results Status : Certified","01","1-1150-39","Haji Ezatullah Neyazai",1598,1205,-393
+"Results Status : Certified","01","1-1697-157","Enayatullah Babakarkhel",1597,1302,-295
+"Results Status : Certified","01","1-1225-123","Ziaullhaq Shafiq",1594,1026,-568
+"Results Status : Certified","01","1-1593-7","Alhaj Bedar Zazai",1564,1124,-440
+"Results Status : Certified","01","1-1338-40","Assadullah Azizi",1553,1015,-538
+"Results Status : Certified","01","1-1268-48","sayed Naqibullah Hashemi",1547,1250,-297
+"Results Status : Certified","01","1-1397-24","Dr. Sayed Ibrahim Kaamel",1542,1080,-462
+"Results Status : Certified","01","1-1870-143","Abdul Wase Rasool",1530,1018,-512
+"Results Status : Certified","01","1-1398-9","Mohammad Baqer Mohaqeq",1529,881,-648
+"Results Status : Certified","01","1-1042-1172","Mohammad Asef Ashna",1491,1027,-464
+"Results Status : Certified","01","1-1533-1184","Wali Ahmadzai",1476,876,-600
+"Results Status : Certified","01","1-1635-21","Mohammad Mahdi Taqadusi",1456,949,-507
+"Results Status : Certified","01","1-1228-11","Gen. Nazifa Zaki",1441,953,-488
+"Results Status : Certified","01","1-1606-15","Dr. Ahmad Jawid Aalemi",1439,888,-551
+"Results Status : Certified","01","1-1683-9","Zahir Sultani",1432,876,-556
+"Results Status : Certified","01","1-1555-33","Abdul Rahim Ayoubi",1424,947,-477
+"Results Status : Certified","01","1-1318-53","Mohammad Zaki Noori",1421,663,-758
+"Results Status : Certified","01","1-1201-31","Sayed Qutbuddin Roydar",1417,1168,-249
+"Results Status : Certified","01","1-1711-104","Shinkai Karokhel",1406,859,-547
+"Results Status : Certified","01","1-1686-124","Mursal Nabizada",1396,720,-676
+"Results Status : Certified","01","1-1160-102","Rahmat Gull Mawlazoi Hotak",1386,1099,-287
+"Results Status : Certified","01","1-1856-216","Alhaj Shahd Wali Zemawal",1385,988,-397
+"Results Status : Certified","01","1-1243-35","Dr. Mohammad Qasem Elyasi",1339,792,-547
+"Results Status : Certified","01","1-1342-1037","Nazer Hussain Hussainpor",1331,744,-587
+"Results Status : Certified","01","1-1381-29","Alhaj Tamiz Khan Mahmoodzai",1320,842,-478
+"Results Status : Certified","01","1-1307-26","Abdul Hamed Hamidi",1300,907,-393
+"Results Status : Certified","01","1-1021-2024","Abdul Hadi Arghandiwal",1293,995,-298
+"Results Status : Certified","01","1-1067-124","Ferozuddin Amiri",1290,820,-470
+"Results Status : Certified","01","1-1220-1048","Fawzia Naseryar Gulldaraye",1287,801,-486
+"Results Status : Certified","01","1-1563-31","Najibullah Momand Kamawal",1266,869,-397
+"Results Status : Certified","01","1-1720-136","Abdul Baqi Amin",1264,933,-331
+"Results Status : Certified","01","1-1330-1","Royena Jalali",1259,815,-444
+"Results Status : Certified","01","1-1175-48","Dr. Mohammad Shour Neyazai",1255,903,-352
+"Results Status : Certified","01","1-1818-141","Mariam Sama",1255,885,-370
+"Results Status : Certified","01","1-1071-36","Mohammad Asef Shah Jahan Ahmadzai",1231,843,-388
+"Results Status : Certified","01","1-1072-78","Zuhra Noorzai",1223,783,-440
+"Results Status : Certified","01","1-1142-59","Ahmad Timim Jurat",1209,861,-348
+"Results Status : Certified","01","1-1251-67","Ziaullhaq Safi",1206,912,-294
+"Results Status : Certified","01","1-1065-75","Baryalai Ghafoori",1198,926,-272
+"Results Status : Certified","01","1-1094-8","Haji Ihsan Sahebzadah",1186,835,-351
+"Results Status : Certified","01","1-1004-14","Haji Mohammad Mulla Hamidi",1185,924,-261
+"Results Status : Certified","01","1-1493-1080","Mawalawi Nader Shah Baligh",1176,914,-262
+"Results Status : Certified","01","1-1588-3","Bibi haji Parwin Durani",1149,469,-680
+"Results Status : Certified","01","1-1669-49","Jalat Khan Shinwari",1142,647,-495
+"Results Status : Certified","01","1-1864-127","Mirwais Stanikzai",1126,878,-248
+"Results Status : Certified","01","1-1337-150","Jamaluddin Hekmatyar",1122,904,-218
+"Results Status : Certified","01","1-1017-58","Alhaj Nazifullah Gull Afghan",1115,849,-266
+"Results Status : Certified","01","1-1234-1","Sayed Bahram Sadat",1115,763,-352
+"Results Status : Certified","01","1-1543-58","Haroon Shams Khan",1111,758,-353
+"Results Status : Certified","01","1-1899-1183","Haji Samim Haidari",1102,694,-408
+"Results Status : Certified","01","1-1202-58","sayed Amanullah Amin",1092,680,-412
+"Results Status : Certified","01","1-1607-23","Sardar Mohammad Ahmadzadah",1092,791,-301
+"Results Status : Certified","01","1-1193-3067","Malem Mohammad Ghazi sultanzoi",1084,681,-403
+"Results Status : Certified","01","1-1633-82","Ustad Qasem Wahidi",1069,808,-261
+"Results Status : Certified","01","1-1664-151","Ramazan Jomazadah",1068,645,-423
+"Results Status : Certified","01","1-1612-5","Alhaj Obaidullah Barikzai",1068,847,-221
+"Results Status : Certified","01","1-1483-35","Abdul Saboor Rahmani",1062,821,-241
+"Results Status : Certified","01","1-1601-28","Salima Nekbin",1058,606,-452
+"Results Status : Certified","01","1-1214-133","Gen. Baz Mohammad Jawhari",1053,733,-320
+"Results Status : Certified","01","1-1317-101","Bibi Kubra Mustafawi",1052,588,-464
+"Results Status : Certified","01","1-1288-59","Fawad Aman",1044,610,-434
+"Results Status : Certified","01","1-1194-127","Saranpoh. Yar Mohammad Hussainkhel",1040,768,-272
+"Results Status : Certified","01","1-1239-59","Rahmatullah Salehi",1033,692,-341
+"Results Status : Certified","01","1-1715-132","Ihsanullah Fani",1031,957,-74
+"Results Status : Certified","01","1-1237-113","Nesar Ahmad Bahawi",1026,635,-391
+"Results Status : Certified","01","1-1513-1034","Mirza Mohammad Yarmand",1018,888,-130
+"Results Status : Certified","01","1-1311-6","Sayed Akbar Shah Hashemi",1002,781,-221
+"Results Status : Certified","01","1-1210-102","Alhaj Ghullam Sakhi Parsaaye",1002,723,-279
+"Results Status : Certified","01","1-1035-6","Malek Sayed Aqa Hussainkhel",995,782,-213
+"Results Status : Certified","01","1-1459-121","Khwaja Mahbob Sediqi",993,563,-430
+"Results Status : Certified","01","1-1536-84","Eraj Nezami",991,699,-292
+"Results Status : Certified","01","1-1029-12","Sayed Mujtaba Hashemi",981,745,-236
+"Results Status : Certified","01","1-1812-2035","Haji Qayoum Qambari",977,666,-311
+"Results Status : Certified","01","1-1677-70","Mohammadullah Babrak",977,791,-186
+"Results Status : Certified","01","1-1655-1052","Sharifa Shirzad Allah Daad",968,530,-438
+"Results Status : Certified","01","1-1061-18","Eng. Najibullah Salamzai",961,657,-304
+"Results Status : Certified","01","1-1024-53","Mawlana Mohammad Qasem Wazirzada",958,779,-179
+"Results Status : Certified","01","1-1453-98","Malem Aziz Royesh",957,659,-298
+"Results Status : Certified","01","1-1778-156","Ahmad Hamed Warasta",936,568,-368
+"Results Status : Certified","01","1-1353-150","Ghullam Yahya Yousufi",914,542,-372
+"Results Status : Certified","01","1-1436-11","Mohammad Rahim Karimi",906,693,-213
+"Results Status : Certified","01","1-1506-109","Alhaj Mirza Mohammad Safi",905,680,-225
+"Results Status : Certified","01","1-1247-52","Suhrab Atta",904,612,-292
+"Results Status : Certified","01","1-1326-29","Haji Ali Mirzaye",903,659,-244
+"Results Status : Certified","01","1-1172-65","Mohammad Kabir Kamal",902,730,-172
+"Results Status : Certified","01","1-1075-61","Alhaj Obaidullah Khoshiwal",900,658,-242
+"Results Status : Certified","01","1-1600-108","Sabri Andar",899,551,-348
+"Results Status : Certified","01","1-1281-67","Homaira Chakari Yousufzai",899,591,-308
+"Results Status : Certified","01","1-1838-192","Mohammad Hassan Mamozai",873,600,-273
+"Results Status : Certified","01","1-1124-1208","Nesar Ahmad Bahlol",872,719,-153
+"Results Status : Certified","01","1-1062-93","Sayed Ali Akbar Kazemi",869,597,-272
+"Results Status : Certified","01","1-1473-108","Pashtonyar Askarzadah",861,709,-152
+"Results Status : Certified","01","1-1860-204","Sayed Masood Ashna",860,608,-252
+"Results Status : Certified","01","1-1095-3","Ahmad Shekeb Hadad",851,633,-218
+"Results Status : Certified","01","1-1568-9","Alhaj Deen Padshah Totakhel",849,672,-177
+"Results Status : Certified","01","1-1336-22","Ghullam Habib Fawad",847,513,-334
+"Results Status : Certified","01","1-1751-146","Mohammad Ibrahim Zarif",844,582,-262
+"Results Status : Certified","01","1-1519-91","Mahdi Zahedi",844,502,-342
+"Results Status : Certified","01","1-1230-17","Sayed Abdul Naser Yaqoobi",840,531,-309
+"Results Status : Certified","01","1-1291-170","Assadullah Zamir",840,594,-246
+"Results Status : Certified","01","1-1590-94","Eng. Amanullah Afshar",839,774,-65
+"Results Status : Certified","01","1-1157-1035","Abdul Zohor Amiri",832,501,-331
+"Results Status : Certified","01","1-1236-18","Alhaj Nazar Mohammad Assad",827,663,-164
+"Results Status : Certified","01","1-1403-18","Eng. Mutasel Khan Komaki",820,611,-209
+"Results Status : Certified","01","1-1654-131","Sayed Mohammad Sayeedi",819,597,-222
+"Results Status : Certified","01","1-1241-49","Mohammad Hamed Shirzad",815,556,-259
+"Results Status : Certified","01","1-1196-3","Mohammad Edris Faqirzadah Formoli",812,628,-184
+"Results Status : Certified","01","1-1709-190","Gen. Lutfullah Mashal",811,654,-157
+"Results Status : Certified","01","1-1149-80","Salim Khan Kunduzi",804,571,-233
+"Results Status : Certified","01","1-1546-7","Ghullam Haidar Faqirzai",799,524,-275
+"Results Status : Certified","01","1-1881-163","Sayed Ahmad Shekeb Montazeri",798,571,-227
+"Results Status : Certified","01","1-1525-53","Mohammad Latif Fayaz",783,505,-278
+"Results Status : Certified","01","1-1166-65","Shir Rahman Mujahid",781,631,-150
+"Results Status : Certified","01","1-1829-158","Khairullah Attaye",780,575,-205
+"Results Status : Certified","01","1-1509-2157","Baryalai Bayat",777,544,-233
+"Results Status : Certified","01","1-1702-10","Mohammad Jamil Karzai",776,564,-212
+"Results Status : Certified","01","1-1770-199","Farid Ahmad Nezami",776,535,-241
+"Results Status : Certified","01","1-1393-12","Alhaj Del Aqa Hemat",774,570,-204
+"Results Status : Certified","01","1-1182-2","Muslim Shirzad",770,531,-239
+"Results Status : Certified","01","1-1824-193","Mohammad Nayem Nazari",767,500,-267
+"Results Status : Certified","01","1-1632-2","Mohammad Farooq Baraki",766,519,-247
+"Results Status : Certified","01","1-1470-160","Dr. Aatefa Tayeb",766,570,-196
+"Results Status : Certified","01","1-1721-1171","Samiullah Mahdi",760,528,-232
+"Results Status : Certified","01","1-1429-225","Aafyat Hashmatullah Omari",757,629,-128
+"Results Status : Certified","01","1-1058-169","Assadullah Batori",755,444,-311
+"Results Status : Certified","01","1-1586-88","Noor Rahman Akhlaqi",750,596,-154
+"Results Status : Certified","01","1-1198-97","Mawalawi Ihsanulhaq Hanafi",750,627,-123
+"Results Status : Certified","01","1-1888-175","Temorshah shahi",745,520,-225
+"Results Status : Certified","01","1-102-1823-126","Mohammad Nasir Tarakhel",743,675,-68
+"Results Status : Certified","01","1-1743-115","Sayed Mujtaba Anwari",742,395,-347
+"Results Status : Certified","01","1-1522-152","Mohammad Taher Fedaye",739,502,-237
+"Results Status : Certified","01","1-1148-170","Mohammad Nayem Paiman",733,448,-285
+"Results Status : Certified","01","1-1680-121","Dr. Mohammad Baqer Sayeer",731,477,-254
+"Results Status : Certified","01","1-1197-1029","Alhaj Ahmad Arsalan Safi",728,557,-171
+"Results Status : Certified","01","1-1647-96","Zaher Khan Ahmadzai",726,576,-150
+"Results Status : Certified","01","1-1294-1196","Abdul Matin Tawakulzai",719,504,-215
+"Results Status : Certified","01","1-1764-1156","Karimullah Jawad",719,492,-227
+"Results Status : Certified","01","1-1221-11","Mohammad Yousuf Rezaye",717,460,-257
+"Results Status : Certified","01","1-1592-9","Halima Hussaini",714,363,-351
+"Results Status : Certified","01","1-1038-134","Abdul Qader Beheshti",712,477,-235
+"Results Status : Certified","01","1-1651-47","Mohammad Faazel Sayedkheli",712,584,-128
+"Results Status : Certified","01","1-1551-1181","Alhaj Dost Mohammad Omari",708,485,-223
+"Results Status : Certified","01","1-1561-38","Rashuddin Mohammadi",705,496,-209
+"Results Status : Certified","01","1-1648-1078","Salman Ali Dostzadah",700,389,-311
+"Results Status : Certified","01","1-1266-33","Habibullah Hassam",696,555,-141
+"Results Status : Certified","01","1-1694-138","Mohammad Reza Zaki",695,462,-233
+"Results Status : Certified","01","1-1451-3060","Sayed Abdullah Saber",695,544,-151
+"Results Status : Certified","01","1-1402-42","Mohammad Edris Sediq",690,438,-252
+"Results Status : Certified","01","1-1477-12","Haji Ghullam Maroof Sediqi",687,477,-210
+"Results Status : Certified","01","1-1040-15","Ramazan Ali Rasooli",682,428,-254
+"Results Status : Certified","01","1-1275-46","Abdul Basir Nabizadah",659,483,-176
+"Results Status : Certified","01","1-1753-105","Mohammad Akram Azimi",651,442,-209
+"Results Status : Certified","01","1-1260-4","Abdul Manan Shiwae Sharq",639,469,-170
+"Results Status : Certified","01","1-1287-68","Mustafa Sultani",633,445,-188
+"Results Status : Certified","01","1-1125-74","Elyas Faizi Ghoryani",629,461,-168
+"Results Status : Certified","01","1-1322-27","Dr. Abdul Ghafoor Taban",627,329,-298
+"Results Status : Certified","01","1-1145-206","Mohammad Shoaib Durgi",626,465,-161
+"Results Status : Certified","01","1-1308-15","Shafiqullah Salim poya",626,462,-164
+"Results Status : Certified","01","1-1394-1031","Alhaj Lutfullah Haqbin",621,442,-179
+"Results Status : Certified","01","1-1047-74","Zainab Mowahid",618,383,-235
+"Results Status : Certified","01","1-1106-1016","Hedayatullah Rehayee",615,428,-187
+"Results Status : Certified","01","1-1873-152","Abdul Qader Hotkhel",615,454,-161
+"Results Status : Certified","01","1-1531-72","Alhaj Ghullam Nabi Gharanai",609,423,-186
+"Results Status : Certified","01","1-1684-62","Zaker Hussain Ershad",608,423,-185
+"Results Status : Certified","01","1-1509-1016","Abdul Wahid Hamzah",607,475,-132
+"Results Status : Certified","01","1-1467-1015","Eid Mohammad Maleyar",604,457,-147
+"Results Status : Certified","01","1-1246-41","Mohammad Masood Afghan Ghorbandi",596,464,-132
+"Results Status : Certified","01","1-1649-45","Sayed Mohammad Hadi Hadi",594,338,-256
+"Results Status : Certified","01","1-1132-116","Alhaj Noor Rahman Oryakhel",592,350,-242
+"Results Status : Certified","01","1-1532-10","Zahra Yagana",584,342,-242
+"Results Status : Certified","01","1-1810-79","Mariam Sediqa Sadat",579,400,-179
+"Results Status : Certified","01","1-1445-26","Haji Sardar Agha Naseri",578,439,-139
+"Results Status : Certified","01","1-1508-103","Ahmad Shekeb Farahi",577,328,-249
+"Results Status : Certified","01","1-1009-82","Mohammad Nasim Safi",575,442,-133
+"Results Status : Certified","01","1-1074-92","Mumtaz Jahangir",574,419,-155
+"Results Status : Certified","01","1-2008-1207","Mohammad Younus Tughra",565,373,-192
+"Results Status : Certified","01","1-1028-25","Wasim Shirzai",565,368,-197
+"Results Status : Certified","01","1-1441-1090","Abdul Rahman Khwazak",564,367,-197
+"Results Status : Certified","01","1-1463-36","Haji Abdul Qaher Kalakani",564,382,-182
+"Results Status : Certified","01","1-1343-117","Enyatullah Didar",560,377,-183
+"Results Status : Certified","01","1-1168-2029","Amir Mohammad Lakanwal",560,345,-215
+"Results Status : Certified","01","1-1161-126","Muzamel Shinwari",560,440,-120
+"Results Status : Certified","01","1-1688-1168","Gen. Mohammad Aalem Kuhmardi",559,379,-180
+"Results Status : Certified","01","1-1293-168","Mawlawi Gada Mohammad Mufleh",557,393,-164
+"Results Status : Certified","01","1-1670-1054","Sayed Kamal Zazai",555,413,-142
+"Results Status : Certified","01","1-1179-9","Sultan Mahmood Daqiq",552,329,-223
+"Results Status : Certified","01","1-1204-78","Baryalai Amin",551,437,-114
+"Results Status : Certified","01","1-1012-3037","Ahmad Shah Sangdel",547,362,-185
+"Results Status : Certified","01","1-1734-128","Ustad Abdul Ghafar Rashidi",545,432,-113
+"Results Status : Certified","01","1-1335-19","Dr. Mohammad Asef Hekmat",543,378,-165
+"Results Status : Certified","01","1-1289-75","Ghorzang Seyal",539,429,-110
+"Results Status : Certified","01","1-1571-42","Habibullah Nemati",533,273,-260
+"Results Status : Certified","01","1-1489-13","Haij Muzamel Hotak",531,460,-71
+"Results Status : Certified","01","1-1309-5","Masooma Tawasoli",530,317,-213
+"Results Status : Certified","01","1-1200-21","Shirzai salar",530,397,-133
+"Results Status : Certified","01","1-1681-51","Gharibullah Tabesh",529,356,-173
+"Results Status : Certified","01","1-1136-52","Eng. Wahidullah Sabawon",524,362,-162
+"Results Status : Certified","01","1-1411-124","Mirwais Rahimzoi",521,421,-100
+"Results Status : Certified","01","1-1682-97","Mohammad Halim Formoli",519,384,-135
+"Results Status : Certified","01","1-1653-14","Sardar Aqa Behzad",517,394,-123
+"Results Status : Certified","01","1-1567-23","Mohammad Layeq Malekzadah",514,434,-80
+"Results Status : Certified","01","1-1013-119","Eng. Zakia Wardak",511,322,-189
+"Results Status : Certified","01","1-1183-52","Saleha Sadat",511,323,-188
+"Results Status : Certified","01","1-1271-9","Alhaj Gen. Sardar Mohammad Abulfazel",509,329,-180
+"Results Status : Certified","01","1-1304-60","Abdul Latif Nazari",508,289,-219
+"Results Status : Certified","01","1-1163-176","Abdul Mansor Rasool",506,343,-163
+"Results Status : Certified","01","1-1178-72","Zahra Sepher",505,266,-239
+"Results Status : Certified","01","1-1433-28","Abdul Karim Stanikzai Obaid",503,331,-172
+"Results Status : Certified","01","1-1816-144","Alhaj Ghullam Dastgir Chakari",500,301,-199
+"Results Status : Certified","01","1-1645-1024","Dr. Mohammadullah Shahidi",500,377,-123
+"Results Status : Certified","01","1-1499-3071","Haji Hamesha Gull Chakari",498,341,-157
+"Results Status : Certified","01","1-1698-138","Alhaj Dawood Khan Zazai",497,362,-135
+"Results Status : Certified","01","1-1541-11","Dr. Shamsulhaq Najibi",496,361,-135
+"Results Status : Certified","01","1-1804-1173","Wazir Khan ",493,381,-112
+"Results Status : Certified","01","1-1143-221","Freshta Amini",492,341,-151
+"Results Status : Certified","01","1-1111-151","Ustad Robaba Parwani Darwish",491,245,-246
+"Results Status : Certified","01","1-1644-87","Mohammad Yaqoob Zalmai Naseri",489,402,-87
+"Results Status : Certified","01","1-1487-209","Saranwal Rohullah Sakhizad",488,287,-201
+"Results Status : Certified","01","1-1302-97","Dr. Nematullah Nemat",486,331,-155
+"Results Status : Certified","01","1-1529-6","Sohaila Sahar",482,327,-155
+"Results Status : Certified","01","1-1341-27","Mohammad Edris Rasooli",478,310,-168
+"Results Status : Certified","01","1-1884-148","Dr. Friba Farhat Saifi",477,300,-177
+"Results Status : Certified","01","1-102-1165-105","Awal Khan Rustamkhel",474,376,-98
+"Results Status : Certified","01","1-1222-92","Saheb Nazar Sangin",473,317,-156
+"Results Status : Certified","01","1-1484-202","Ahmad Kumail Mir Shadibeg",471,317,-154
+"Results Status : Certified","01","1-1190-115","Abdul Ghafoor Rezwani",469,312,-157
+"Results Status : Certified","01","1-1657-76","Haji Hashem Mahdawi",467,338,-129
+"Results Status : Certified","01","1-1457-96","Kheyali Jaan Sarwan",467,291,-176
+"Results Status : Certified","01","1-1668-73","Mohammad Sangar Amirzadah",463,332,-131
+"Results Status : Certified","01","1-1582-118","Haji Shirshah Hassanzai",462,370,-92
+"Results Status : Certified","01","1-1693-3045","Toorpekai Patman",460,236,-224
+"Results Status : Certified","01","1-1388-1192","Mariam Maroof Arwin",458,359,-99
+"Results Status : Certified","01","1-1377-119","Saranwal Abdul Jalil Mudafe",457,326,-131
+"Results Status : Certified","01","1-1605-38","Khan Ali Radmand",453,330,-123
+"Results Status : Certified","01","1-1550-1074","Sayed Mahmood Zia Dashti",453,316,-137
+"Results Status : Certified","01","1-1351-1158","Parwana Zamani",451,300,-151
+"Results Status : Certified","01","1-1006-83","Ghullam Ali Wahdat",450,296,-154
+"Results Status : Certified","01","1-1046-55","Razia Arefi",449,278,-171
+"Results Status : Certified","01","1-1045-21","Alhaj Zabiullah Nasiri",448,261,-187
+"Results Status : Certified","01","1-1627-1","Hedayatullah Sulaimankhel",445,350,-95
+"Results Status : Certified","01","1-1825-107","Armaghan Samkanai",445,334,-111
+"Results Status : Certified","01","1-1478-72","Ajmal Balochzadah",442,300,-142
+"Results Status : Certified","01","35-1696-154","Dr. Anisa pashaye",441,286,-155
+"Results Status : Certified","01","1-1422-3066","Jumma Khan Mohammadi",441,239,-202
+"Results Status : Certified","01","1-1756-3040","Reza Khan Aref Mukhles",438,320,-118
+"Results Status : Certified","01","1-2003-137","Eng. Mohammad Afzal Ahmadzai",437,273,-164
+"Results Status : Certified","01","1-1871-179","Qaisullah Samkanai",435,231,-204
+"Results Status : Certified","01","1-1207-66","Alhaj Abdul Satar Behzad",433,391,-42
+"Results Status : Certified","01","1-1286-48","Alhaj Dr. Mohammad Sediq",431,293,-138
+"Results Status : Certified","01","1-1759-156","Arash Shahirpor",431,289,-142
+"Results Status : Certified","01","35-1893-157","Eng. Lajmir Khair Andesh",428,315,-113
+"Results Status : Certified","01","1-1206-66","Dr. Abdul Rashid Janbaz",423,308,-115
+"Results Status : Certified","01","1-1020-8","Mohammad Asghar Wakili Popalzai",420,241,-179
+"Results Status : Certified","01","1-1790-1042","Haji Rohullah Mujahid",420,328,-92
+"Results Status : Certified","01","1-1320-153","Hamed Haqdost",419,283,-136
+"Results Status : Certified","01","1-1396-95","Emal Mahmoodzada",417,249,-168
+"Results Status : Certified","01","1-1866-155","Mohammad Belal Hakimi",411,286,-125
+"Results Status : Certified","01","1-1391-134","Alhaj Mohammadullah Ahmadi Safi",408,292,-116
+"Results Status : Certified","01","1-1419-20","Mohammad Hanif Sayar",408,268,-140
+"Results Status : Certified","01","1-1195-10","Ahmad Farid Mehrabi",407,299,-108
+"Results Status : Certified","01","1-1763-153","Mawlawi Abdul Rahman Rahmani",407,342,-65
+"Results Status : Certified","01","1-1007-16","Ahmad Parwiz Hassan",405,278,-127
+"Results Status : Certified","01","1-1382-30","Roqia Alemi Balkhi",404,265,-139
+"Results Status : Certified","01","1-1562-13","Khalida Adib",402,257,-145
+"Results Status : Certified","01","1-1594-38","Alhaj Mirwais Kamawal",401,319,-82
+"Results Status : Certified","01","1-1553-206","Sayeda Masooda Yari",398,271,-127
+"Results Status : Certified","01","1-1448-107","Abdullah Wejdan",392,266,-126
+"Results Status : Certified","01","1-1872-1061","Ezharulhaq Hamim",392,308,-84
+"Results Status : Certified","01","1-1120-4","Ahmad Zaki Faqirzadah",390,245,-145
+"Results Status : Certified","01","1-1414-130","Saheb Haq Meyakhel",390,289,-101
+"Results Status : Certified","01","1-1775-155","Dr. Jawad Surosh",389,255,-134
+"Results Status : Certified","01","1-1779-132","Mohammad Bashir Farooq",388,231,-157
+"Results Status : Certified","01","1-1671-129","Alhaj Zemarai Naseri",384,256,-128
+"Results Status : Certified","01","1-1401-56","Abdul Ghafar Baator",383,277,-106
+"Results Status : Certified","01","1-1423-99","Mohammad Haidari",382,273,-109
+"Results Status : Certified","01","1-1438-254","Gen. Abdul Wahed Taqat",381,292,-89
+"Results Status : Certified","01","1-1034-87","Alhaj Khwaja Masoom Sediqi",373,287,-86
+"Results Status : Certified","01","1-1900-133","Najibullah Mujahid",373,256,-117
+"Results Status : Certified","01","1-1466-1068","Nematullah Ahmadi",373,269,-104
+"Results Status : Certified","01","1-1464-69","Saranpoh. Enayatullah Kamal",372,288,-84
+"Results Status : Certified","01","1-1212-140","Hamidullah Stanikzai",371,270,-101
+"Results Status : Certified","01","1-1030-110","Omid Watanyar",369,241,-128
+"Results Status : Certified","01","1-1300-41","Sayed Burhan Sayed Jamal Taheri",369,268,-101
+"Results Status : Certified","01","1-1560-1014","Toryalai Shofaye",368,279,-89
+"Results Status : Certified","01","1-1344-142","Dr. Fazel Khaleq Sheja",367,257,-110
+"Results Status : Certified","01","1-1364-1092","Arian Khaibar",364,274,-90
+"Results Status : Certified","01","1-1570-32","Ustad Abdul Gheyas Gheyasi",363,250,-113
+"Results Status : Certified","01","1-1891-164","Sayed Rahman Wahedyar",362,219,-143
+"Results Status : Certified","01","1-1578-56","Mawlawi Attaullah Faizani",362,292,-70
+"Results Status : Certified","01","1-1410-39","Ghazi Khan Dr. Naqib",361,274,-87
+"Results Status : Certified","01","1-1117-1019","Helai Ershad",361,149,-212
+"Results Status : Certified","01","1-1205-3","Ekramuddin Wali",360,302,-58
+"Results Status : Certified","01","1-1248-120","Qurban Ali Uruzghani",352,224,-128
+"Results Status : Certified","01","1-1456-54","Madaar Ali Karimi",351,249,-102
+"Results Status : Certified","01","35-1187-2","Qurban Mohammad",347,267,-80
+"Results Status : Certified","01","1-1505-191","Safia Sediqi",345,241,-104
+"Results Status : Certified","01","1-1227-5","Simin Hassanzadah",343,225,-118
+"Results Status : Certified","01","1-1313-64","Haji Mohammad Zaman Rajabi",343,243,-100
+"Results Status : Certified","01","1-1789-142","Dr. Moen Gull Samkanai",342,238,-104
+"Results Status : Certified","01","1-1689-94","Mohammad Dawood Asaas",341,215,-126
+"Results Status : Certified","01","1-1258-2032","Gheljai Noorzai",337,208,-129
+"Results Status : Certified","01","1-1270-20","Mohammad Anwar Allah Daad",330,200,-130
+"Results Status : Certified","01","1-1425-48","Gen. Khalil Rahman Aamel",329,244,-85
+"Results Status : Certified","01","1-1232-73","Milad Yousuf Ibrahim",327,236,-91
+"Results Status : Certified","01","1-1667-17","Bashir Ahmad",327,227,-100
+"Results Status : Certified","01","1-1652-63","Alhaj Khan Lala Shirzai",326,239,-87
+"Results Status : Certified","01","1-1426-218","Lft-Gen. Sayed Aman",325,203,-122
+"Results Status : Certified","01","1-1301-74","Omran Omar Amarkhel",320,232,-88
+"Results Status : Certified","01","1-1386-1050","Mohammad Yaser Emar",317,222,-95
+"Results Status : Certified","01","1-1406-13","Sayed Nasratullah Qubadi",315,200,-115
+"Results Status : Certified","01","1-1559-141","Abdul Hadi Osmani",315,227,-88
+"Results Status : Certified","01","1-1332-96","Ghullam Mohammad Kamawal",314,234,-80
+"Results Status : Certified","01","1-1690-120","Rahimullah Hanifi",313,247,-66
+"Results Status : Certified","01","1-1169-30","Dr. Benafsha Bahar Nabizada",311,206,-105
+"Results Status : Certified","01","1-1862-3074","Burhanuddin Hafez",311,226,-85
+"Results Status : Certified","01","1-1534-62","Haji Mohammad Nawab Totakhel",311,194,-117
+"Results Status : Certified","01","1-1827-177","Alhaj Mirwais Katawazai",308,252,-56
+"Results Status : Certified","01","1-1614-1","Alhaj Mohammad Amin Tarakhel",307,223,-84
+"Results Status : Certified","01","1-1390-44","Mohammad Mukhtar Sharifi",307,212,-95
+"Results Status : Certified","01","1-1321-71","Aashna Gull Bandawal",307,220,-87
+"Results Status : Certified","01","1-1766-135","Hassan Jaan Dawlatzai",306,240,-66
+"Results Status : Certified","01","1-1799-160","Abdul Wahed Khan Nasratyar",306,267,-39
+"Results Status : Certified","01","1-1663-170","Shabir Ahmad Ibrahimi",306,205,-101
+"Results Status : Certified","01","1-1314-33","Mohammad Younus Nawandesh",305,226,-79
+"Results Status : Certified","01","1-1339-28","Deplom Eng. Ghullam Ali",301,227,-74
+"Results Status : Certified","01","1-1750-154","Haji Noorullah Azizi Meyakhel",300,219,-81
+"Results Status : Certified","01","1-1127-182","Mirzaman Haqyar",300,224,-76
+"Results Status : Certified","01","1-1730-182","Dr. Masooma Muradi",299,176,-123
+"Results Status : Certified","01","1-1361-122","Mohammad Haroon Motaref",297,214,-83
+"Results Status : Certified","01","1-1418-7","Sayed Naser Mosawi",293,189,-104
+"Results Status : Certified","01","1-1821-1064","Tella Mohammad Atmanzai",293,200,-93
+"Results Status : Certified","01","1-1257-12","Haji Hamidullah Nawabi",292,194,-98
+"Results Status : Certified","01","1-1273-91","Mohammad Ajmal Hodman",290,217,-73
+"Results Status : Certified","01","1-1105-111","Sayed Nasim Hashimi",290,143,-147
+"Results Status : Certified","01","1-1819-136","Mohammad Qasem Ferdawsi",289,192,-97
+"Results Status : Certified","01","1-1027-1","Noor Ahmad Ghafoori",288,213,-75
+"Results Status : Certified","01","1-1129-79","Mohammad Aref",288,249,-39
+"Results Status : Certified","01","1-1548-197","Mirza Alizadah",288,169,-119
+"Results Status : Certified","01","1-1312-49","Kheyal Mohammad Khpelwak",287,207,-80
+"Results Status : Certified","01","1-1420-6","Sayed Maroof Hashemi Jahed",283,203,-80
+"Results Status : Certified","01","1-1791-1178","Alhaj Khaibar Zeyarmal",283,211,-72
+"Results Status : Certified","01","1-1793-167","Dr. Ajmal Aazem",281,171,-110
+"Results Status : Certified","01","1-1415-1169","Mohammad Qayoum Khostwal",280,215,-65
+"Results Status : Certified","01","1-1235-71","Dr. Mohebullah Moheb",279,184,-95
+"Results Status : Certified","01","1-1700-93","Haji Taza khan Zurmati",279,252,-27
+"Results Status : Certified","01","1-1490-20","Jamshid Iqbal",278,148,-130
+"Results Status : Certified","01","1-1639-57","Salma Akbari",278,162,-116
+"Results Status : Certified","01","1-1878-154","Abdul Rauf Assadi",277,205,-72
+"Results Status : Certified","01","1-1064-7","Mohammad Sajad Hashimi",277,186,-91
+"Results Status : Certified","01","1-1184-84","Wahid Rahman Amiri",276,202,-74
+"Results Status : Certified","01","35-1771-158","Gen. Abdul Rashid Sheja",276,222,-54
+"Results Status : Certified","01","1-1701-6","Najibullah Kabuli",273,189,-84
+"Results Status : Certified","01","1-1547-22","Dr. Abdul Ali Mohammadi",272,174,-98
+"Results Status : Certified","01","1-1597-1209","Mohammad Yahya Wayar Ahmadzai",271,215,-56
+"Results Status : Certified","01","1-1785-130","Dr. Ziauddin Kamal ",271,210,-61
+"Results Status : Certified","01","1-1052-88","Abdul Baqi Saranwal Hotak",270,205,-65
+"Results Status : Certified","01","1-1259-105","Mohammad Allamazadah",270,180,-90
+"Results Status : Certified","01","1-1613-65","Ahmadullah Barikzai",269,178,-91
+"Results Status : Certified","01","1-1826-188","Sahel Khan",266,206,-60
+"Results Status : Certified","01","1-1333-55","Abdul Hadi Naseri",266,169,-97
+"Results Status : Certified","01","1-1806-1167","Shokria Jalalzai",266,176,-90
+"Results Status : Certified","01","1-1215-103","Abdul Bari Ramin Azimi",264,192,-72
+"Results Status : Certified","01","1-1609-15","Nasir Ahmad Ensaf",263,160,-103
+"Results Status : Certified","01","1-1640-1102","Qari Ahmad Reshad Khan Mamozai",261,161,-100
+"Results Status : Certified","01","1-1348-181","Dr. Ghullam Dastgir Elyas",260,179,-81
+"Results Status : Certified","01","1-1079-1166","Alhaj Mohammad Omer Marjan",259,222,-37
+"Results Status : Certified","01","1-1584-44","Shakila Ibrahim",258,153,-105
+"Results Status : Certified","01","1-1346-1017","Commander Mir Alam Haqpal",256,200,-56
+"Results Status : Certified","01","1-1078-11","Mustafa Arian Tarakhel",255,200,-55
+"Results Status : Certified","01","1-1392-27","Khan Mohammad Khuram",255,196,-59
+"Results Status : Certified","01","1-1151-60","Dr. Masooda Jalal",250,193,-57
+"Results Status : Certified","01","1-1244-82","Haji Gull Rahman Rahmani Mangal",250,113,-137
+"Results Status : Certified","01","1-1076-50","haji Sekandar Fraji",249,200,-49
+"Results Status : Certified","01","1-1603-74","Sayed Rohullah Hussaini",248,181,-67
+"Results Status : Certified","01","1-1324-1020","Abdul Qayoum Naderi",246,162,-84
+"Results Status : Certified","01","1-1679-176","Noor Mohammad Ramozi",246,180,-66
+"Results Status : Certified","01","1-1213-174","Khatera Isshaqzai",246,198,-48
+"Results Status : Certified","01","1-1886-173","Yasamin Sarwari",245,147,-98
+"Results Status : Certified","01","1-1876-138","Fazel Menallah Momtaz",245,197,-48
+"Results Status : Certified","01","1-1096-16","Alhaj Shir Aqa Mohammadi",243,160,-83
+"Results Status : Certified","01","1-1855-1186","Abdul Mujib Safi Babrak",243,202,-41
+"Results Status : Certified","01","1-1773-159","Abdul Hai Maalek",242,170,-72
+"Results Status : Certified","01","1-1599-36","Sayed Mustafa Miri",242,163,-79
+"Results Status : Certified","01","1-1032-1049","Eng. Azimullah Esmati",241,166,-75
+"Results Status : Certified","01","1-1566-58","Mohammad Yar Stanikzai",241,163,-78
+"Results Status : Certified","01","1-1800-1165","Mohammad Ibrahim Az-har",240,148,-92
+"Results Status : Certified","01","1-1323-113","Alhaj Mohammad Hashem Karimi",240,142,-98
+"Results Status : Certified","01","1-1474-220","Khwaja Mohammad Musa Fariwar",240,182,-58
+"Results Status : Certified","01","1-1252-184","Gullabuddin Rasekh",239,210,-29
+"Results Status : Certified","01","1-1572-26","Gen. Mohammad Asef Jabarkhel",239,196,-43
+"Results Status : Certified","01","1-1643-83","Temorshah Ayoubzai",238,172,-66
+"Results Status : Certified","01","1-1180-43","Dr. Homa Zinat",237,164,-73
+"Results Status : Certified","01","1-1134-1214","Aqa Sayeed Malek Sayed Jaan",236,215,-21
+"Results Status : Certified","01","1-1863-111","Najibullah Azad",235,178,-57
+"Results Status : Certified","01","1-1088-177","Abdul Baqi Samandar",235,161,-74
+"Results Status : Certified","01","1-1059-149","Ghullam Qader Sakhizadah",233,150,-83
+"Results Status : Certified","01","1-1192-180","Dr. Maari Vida Safar",233,168,-65
+"Results Status : Certified","01","1-2009-1107","Phd. Mohammad Dawood Rawosh",233,169,-64
+"Results Status : Certified","01","1-1660-49","Hedayatullah Taheri",232,168,-64
+"Results Status : Certified","01","1-1480-52","Alhaj Farid Khan Zurmati",231,170,-61
+"Results Status : Certified","01","1-1629-87","Anisa Maqsoodi",230,127,-103
+"Results Status : Certified","01","1-1642-118","Mohammad Halim Amini",228,167,-61
+"Results Status : Certified","01","1-1385-26","Mustafa Nikzad",227,148,-79
+"Results Status : Certified","01","1-1359-3057","Mohammad Edris Stanikzai",224,171,-53
+"Results Status : Certified","01","1-1158-23","Dr. Samim Shamsi",223,81,-142
+"Results Status : Certified","01","1-1706-90","Frozan Khalilyar",222,146,-76
+"Results Status : Certified","01","1-1752-137","Alhaj Mohammad Mosadeq Muqset",222,173,-49
+"Results Status : Certified","01","1-1399-63","Habib Zaki Rohgar",221,161,-60
+"Results Status : Certified","01","1-1409-1030","Sayed Jawid Andesh",220,158,-62
+"Results Status : Certified","01","1-1554-13","Mohammad Dawood Babur",219,84,-135
+"Results Status : Certified","01","1-1573-1089","Dr. Aslam Khan Mirdadi",214,122,-92
+"Results Status : Certified","01","1-1497-139","Sayed Rohullah Sadat Naseri",213,128,-85
+"Results Status : Certified","01","1-1760-162","Dr. Faridullah sefat",210,148,-62
+"Results Status : Certified","01","1-1413-184","Karimullah Akhondzadah",210,162,-48
+"Results Status : Certified","01","1-1511-194","Abdul Qudos Jawzjani",201,150,-51
+"Results Status : Certified","01","1-1716-150","Rahela Jafari",201,128,-73
+"Results Status : Certified","01","1-1695-167","Hawa Alam Nooristani",200,146,-54
+"Results Status : Certified","01","1-1285-19","Fazel Rahman Sofizadah",198,131,-67
+"Results Status : Certified","01","1-1729-1043","Abdul Hadi Miran",198,102,-96
+"Results Status : Certified","01","1-1784-3072","Sayed Assadullah Hashimi",198,134,-64
+"Results Status : Certified","01","1-1284-32","Sayed Baqer Mohseni Kazemi",197,114,-83
+"Results Status : Certified","01","1-1352-1058","Farzana Rezaye",197,121,-76
+"Results Status : Certified","01","1-1815-140","Khesraw Khalid",196,128,-68
+"Results Status : Certified","01","1-1434-31","Anisa Turk",193,109,-84
+"Results Status : Certified","01","1-1725-128","Eng. Shams Rahman Shams",192,158,-34
+"Results Status : Certified","01","1-1262-1163","Mohammad Tamim Nooristani",191,144,-47
+"Results Status : Certified","01","1-1331-29","Mohammad Haroon Formoli",189,77,-112
+"Results Status : Certified","01","1-1658-90","Qari Zabiullah Tarakhel",189,173,-16
+"Results Status : Certified","01","1-1575-175","Mohammad Rafiq shirzad",189,118,-71
+"Results Status : Certified","01","1-1051-43","Dr. Sayed Makhdom Rahin",189,135,-54
+"Results Status : Certified","01","1-1556-70","Adela Bahram Nezami",188,118,-70
+"Results Status : Certified","01","1-1500-1164","Qadam Ali Khadem",187,132,-55
+"Results Status : Certified","01","1-1421-196","Najiba Fetrat",185,112,-73
+"Results Status : Certified","01","1-1211-78","Abdul Sabor Gardizi",185,132,-53
+"Results Status : Certified","01","1-1710-163","Abdul Basir Khalili Yousufzai",185,84,-101
+"Results Status : Certified","01","1-1739-1044","Jamshid Sofizadah",183,132,-51
+"Results Status : Certified","01","1-1719-1162","Enjila Bafaiz",182,105,-77
+"Results Status : Certified","01","1-1387-1081","Mohammad sharif Omarzai",180,131,-49
+"Results Status : Certified","01","1-1538-13","Frozan Dawoodzai",180,126,-54
+"Results Status : Certified","01","1-1350-81","Hazrat Yousuf Zemarai Ahmadzai",179,116,-63
+"Results Status : Certified","01","1-1820-136","Mohammad Abid Andarabi",177,129,-48
+"Results Status : Certified","01","1-1018-70","Zergull Etefaaq Sahak",176,123,-53
+"Results Status : Certified","01","35-1832-153","Jubran",175,135,-40
+"Results Status : Certified","01","1-1732-171","Habiba Qaderi",175,136,-39
+"Results Status : Certified","01","1-1788-1069","Khalid Khan Ghaznawi",174,116,-58
+"Results Status : Certified","01","1-1372-3070","Noor Habib Hasir",172,145,-27
+"Results Status : Certified","01","1-1859-147","Khwaja Khalilullah Sediqyar",171,100,-71
+"Results Status : Certified","01","1-1191-1055","Somaya Bayat Kazemi",170,105,-65
+"Results Status : Certified","01","1-1638-148","Ziaullhaq Shams",169,130,-39
+"Results Status : Certified","01","1-1636-75","Mansoor Ahmad Ahmadzai",169,131,-38
+"Results Status : Certified","01","1-1526-1023","Zewaruddin Zewar",168,117,-51
+"Results Status : Certified","01","1-1189-2027","Maari",166,115,-51
+"Results Status : Certified","01","1-2002-1033","Leyaqat Ali Faramarz",165,112,-53
+"Results Status : Certified","01","1-1156-37","Mohammad Salim Paigir",165,120,-45
+"Results Status : Certified","01","1-1254-21","Dr. Abdul Basir Ranjbar",164,112,-52
+"Results Status : Certified","01","1-1170-95","Brg-Gen. Arkan Harb Ghullam Farooq Nayemi",164,112,-52
+"Results Status : Certified","01","1-1267-3064","Amanullah Tarin",164,130,-34
+"Results Status : Certified","01","1-1831-147","Deen Mohammad Darwishi",163,113,-50
+"Results Status : Certified","01","1-1303-53","Samimullah sultani",162,117,-45
+"Results Status : Certified","01","35-1360-155","Haji Azizullah Habibi",160,118,-42
+"Results Status : Certified","01","1-1295-207","Dr. Tobi Azami",159,80,-79
+"Results Status : Certified","01","1-1726-121","Mohammad Aref Nooristani",158,135,-23
+"Results Status : Certified","01","1-1376-1203","Qudsia Alokozai",158,42,-116
+"Results Status : Certified","01","1-1844-1193","Mirwais Ansar Mangal",157,103,-54
+"Results Status : Certified","01","1-1005-179","Mohammad Azam Azami Dehsabzi",157,137,-20
+"Results Status : Certified","01","1-1854-144","Eidi Mohammad Shareqi",157,123,-34
+"Results Status : Certified","01","1-1001-89","Haji Shafiqullah Ghorbandi",155,130,-25
+"Results Status : Certified","01","1-1741-1070","sayed Shah Mahmood Malekzadah",155,93,-62
+"Results Status : Certified","01","1-1056-3054","Sayed Mohammad Rashid Naserzadah",154,105,-49
+"Results Status : Certified","01","1-1674-1093","Mohammad Shafiq Haqyar",154,106,-48
+"Results Status : Certified","01","1-1334-24","Masood Shah",153,106,-47
+"Results Status : Certified","01","1-1579-62","ghullam Mohammad Panjshiri",153,122,-31
+"Results Status : Certified","01","1-1772-1157","Abdullah Kohbandi",153,61,-92
+"Results Status : Certified","01","1-1449-128","Mohammad Younus Wayar",152,125,-27
+"Results Status : Certified","01","1-2005-1176","Ustad Jafari",152,104,-48
+"Results Status : Certified","01","1-1203-73","Alhaj Abdul Sami Arefi",151,94,-57
+"Results Status : Certified","01","1-1814-146","Abdul Wakil Rashidi",150,91,-59
+"Results Status : Certified","01","1-1723-1204","Hamasa Sadat",150,90,-60
+"Results Status : Certified","01","1-1512-131","Dr. Wahidullah Ahmadzai",150,97,-53
+"Results Status : Certified","01","1-1608-44","Ramesh Noori",149,108,-41
+"Results Status : Certified","01","1-1102-3069","Abdul Qader Haidari",149,111,-38
+"Results Status : Certified","01","1-1050-42","Nasrullah Mesbah",149,84,-65
+"Results Status : Certified","01","1-1003-13","Freshta Farah",148,90,-58
+"Results Status : Certified","01","1-1848-195","Bashir Ahmad Bezhan",147,119,-28
+"Results Status : Certified","01","1-1255-3","Zeba Safa",146,90,-56
+"Results Status : Certified","01","1-1128-174","Mohammad Naser Babakarkhel",146,102,-44
+"Results Status : Certified","01","1-1082-84","Abdal Amin Haqjo",146,104,-42
+"Results Status : Certified","01","1-1877-1097","Eng. Abdul Satar Azizi",145,70,-75
+"Results Status : Certified","01","1-1822-141","Mohammad Yousuf Nawabi",145,92,-53
+"Results Status : Certified","01","1-1043-94","Mohammad Nabi Baraki",145,106,-39
+"Results Status : Certified","01","1-1471-1085","Parwin Zafar Ahadi",143,80,-63
+"Results Status : Certified","01","1-1365-1108","Abdul Khaibar Hotak",143,89,-54
+"Results Status : Certified","01","1-1373-3061","Shahla Naseri Barikzai",142,108,-34
+"Results Status : Certified","01","1-1416-139","Assadullah Karimi",141,95,-46
+"Results Status : Certified","01","1-1404-1012","Sherabuddin Sayar",139,105,-34
+"Results Status : Certified","01","1-1896-158","Mohammad Shoaib Iqbal Zazai",139,105,-34
+"Results Status : Certified","01","1-1002-14","Sayed Mahdi Anwari",138,94,-44
+"Results Status : Certified","01","1-1242-34","Kamela Aimaq",138,94,-44
+"Results Status : Certified","01","1-1383-171","Pashtana Arabzai",137,80,-57
+"Results Status : Certified","01","1-1011-2","Abdul Rezaq Ismaili",137,92,-45
+"Results Status : Certified","01","1-1558-80","Saifuddin Shahab",137,102,-35
+"Results Status : Certified","01","1-1345-105","Dr. Mohammad Younus Karimi",135,72,-63
+"Results Status : Certified","01","1-1264-1041","Anwar Khan Shamali",135,107,-28
+"Results Status : Certified","01","1-1131-1024","Najibullah Haidari",134,95,-39
+"Results Status : Certified","01","1-1458-117","Abdul Qadir Sadeqyar",134,83,-51
+"Results Status : Certified","01","1-1093-76","Kulsom",133,74,-59
+"Results Status : Certified","01","1-1019-41","Ahmad Reza Noori",133,103,-30
+"Results Status : Certified","01","1-1015-1063","Mohammad Urfani",133,93,-40
+"Results Status : Certified","01","1-1408-111","Mohammad Shafiq Basharyar",133,87,-46
+"Results Status : Certified","01","1-1840-1057","Sayed Asghar Ashraq",132,79,-53
+"Results Status : Certified","01","1-1435-57","saifurahman Gharwal",131,94,-37
+"Results Status : Certified","01","1-1407-113","Abida Homa Azizi",130,86,-44
+"Results Status : Certified","01","1-1624-214","Dr. Abdul Ahad suhrabi",128,89,-39
+"Results Status : Certified","01","1-1016-168","Ghullam Farooq Mojadidi",128,96,-32
+"Results Status : Certified","01","1-1610-5","Ghullam Mohaiuddin Alokozai",128,98,-30
+"Results Status : Certified","01","1-1181-106","Alhaj Mohammad Dawood Paktyawal",127,86,-41
+"Results Status : Certified","01","1-2007-164","Alhaj Sharifullah Kamawal",126,81,-45
+"Results Status : Certified","01","1-1199-17","Phd. Lutfullah Safi",126,95,-31
+"Results Status : Certified","01","1-1269-2","Farah Diba Shahzad",125,105,-20
+"Results Status : Certified","01","1-1510-185","Dr. Ahmad Tamim Rahman",124,105,-19
+"Results Status : Certified","01","1-1405-112","Abdul Ghafar Faizi Zadran",124,84,-40
+"Results Status : Certified","01","1-1354-109","Mohammad Aalem Kohkan",122,90,-32
+"Results Status : Certified","01","1-1802-3065","Shahzad Gull Musleh Zazai",122,65,-57
+"Results Status : Certified","01","1-1747-181","Sayed Paiwand Ali Sajadi",122,75,-47
+"Results Status : Certified","01","1-1482-148","Eng. Mohammad Dawood Yousufzai",121,62,-59
+"Results Status : Certified","01","1-1171-71","Alhaj Jalaluddin Fakhri",120,86,-34
+"Results Status : Certified","01","1-1340-8","Aminullah Patyani",119,84,-35
+"Results Status : Certified","01","1-1298-54","Alhaj Hamidullah Bakhshi",117,78,-39
+"Results Status : Certified","01","1-1839-1177","Eng. Hamid Rahman",117,85,-32
+"Results Status : Certified","01","1-1817-131","Sanaullah Mukhles",117,80,-37
+"Results Status : Certified","01","1-1008-143","Farida Sahar",117,85,-32
+"Results Status : Certified","01","1-1634-8","Pariza Rahmani",116,87,-29
+"Results Status : Certified","01","1-1460-217","Mumtaz Yousufzai",116,74,-42
+"Results Status : Certified","01","1-1630-1022","Nazar Mohammad Isshaqzai",116,84,-32
+"Results Status : Certified","01","1-1256-120","Sayed Karim Mansoor",113,82,-31
+"Results Status : Certified","01","1-1544-3","Farida Sediqi",113,71,-42
+"Results Status : Certified","01","1-1828-163","Khalilullah Shinwari",111,50,-61
+"Results Status : Certified","01","1-1070-77","Sultan Mansoor Osmani",110,79,-31
+"Results Status : Certified","01","1-1112-1067","Mohammad Taher Ebadi",110,82,-28
+"Results Status : Certified","01","1-1108-215","Abdul Wahab Kabuli",108,69,-39
+"Results Status : Certified","01","1-1727-135","Faiz Mohammad Daqiq",106,77,-29
+"Results Status : Certified","01","1-1063-67","Dr. Zuhra Nawabi",105,87,-18
+"Results Status : Certified","01","1-1053-1053","Abdul Khaleq Ramesh Salemi",104,65,-39
+"Results Status : Certified","01","1-1138-3053","Ahmadullah Aksir",104,60,-44
+"Results Status : Certified","01","1-1085-3062","Razuddin Fakhri",103,73,-30
+"Results Status : Certified","01","1-1650-89","Mohammad Nazir Hafizi",103,82,-21
+"Results Status : Certified","01","1-1485-63","Abdul Mohammad Elham Nadi",102,64,-38
+"Results Status : Certified","01","1-1754-131","Mohammad Aref Wardag",102,67,-35
+"Results Status : Certified","01","1-1699-12","Naqibullah Faizi",102,67,-35
+"Results Status : Certified","01","1-1315-24","Sayed Saifullah Sadat",102,61,-41
+"Results Status : Certified","01","1-1044-166","Mohammad Osman Taheri",101,73,-28
+"Results Status : Certified","01","1-1208-114","Deplom Eng. Noor Gull Mangal",100,80,-20
+"Results Status : Certified","01","1-1091-1104","Fatema Akbari",99,51,-48
+"Results Status : Certified","01","1-1858-1179","Emal Burhan Wardak",98,65,-33
+"Results Status : Certified","01","1-1155-102","Kalimullah Hamsukhan",98,74,-24
+"Results Status : Certified","01","1-1277-164","Eng. Fazelhaq Hemati",97,61,-36
+"Results Status : Certified","01","1-1371-3059","Dr. Ali Asghar Paiman",96,76,-20
+"Results Status : Certified","01","1-1486-139","Zabiullah Laho Zazai",95,50,-45
+"Results Status : Certified","01","1-1673-161","Ustad Darab Ali Aliyar",94,50,-44
+"Results Status : Certified","01","1-1278-114","Sayed Alem Rasa",94,78,-16
+"Results Status : Certified","01","1-1676-166","Bibi Noor Darwazi",94,56,-38
+"Results Status : Certified","01","1-1219-1216","Ustad Mawlawi Shamsullah Haqani",94,73,-21
+"Results Status : Certified","01","1-1713-253","Murtaza Nikzad",93,63,-30
+"Results Status : Certified","01","35-1769-156","Ustad Laila Barikzai",92,58,-34
+"Results Status : Certified","01","1-1882-1077","Tafsir seyahposh",92,56,-36
+"Results Status : Certified","01","1-1761-143","Jamal Naser Mujahid",92,68,-24
+"Results Status : Certified","01","1-1098-175","Sayed Aziz Ahmad Wardak",92,65,-27
+"Results Status : Certified","01","1-1851-1105","Qari Urfanullah Marefat",88,65,-23
+"Results Status : Certified","01","1-1495-211","Afghani Oryakhel",87,58,-29
+"Results Status : Certified","01","1-1379-1098","Abdul Razaq Hakimi",86,64,-22
+"Results Status : Certified","01","1-1400-15","Shayesta Saleh",84,57,-27
+"Results Status : Certified","01","1-1100-1096","Aalia Azimi",83,57,-26
+"Results Status : Certified","01","1-1036-68","Nawid Ahmad Kohi",83,41,-42
+"Results Status : Certified","01","1-1849-171","Abdul Qayoum Sahraye",82,67,-15
+"Results Status : Certified","01","35-1883-152","Vida Saghari",79,38,-41
+"Results Status : Certified","01","1-1807-130","Rabea Stanikzai",79,63,-16
+"Results Status : Certified","01","1-1037-117","Eng. Mohmood Haidari",79,57,-22
+"Results Status : Certified","01","1-1885-1051","Mohammad Kabir Zamir",78,54,-24
+"Results Status : Certified","01","1-1898-1086","Shir Aqa Sayedkheli",78,57,-21
+"Results Status : Certified","01","1-1894-143","Haji Salim Logarwal",78,59,-19
+"Results Status : Certified","01","1-1048-1159","Nabila Sayedjanzada Hamid",78,65,-13
+"Results Status : Certified","01","1-1714-1045","Abu-Zar Ghafari",77,59,-18
+"Results Status : Certified","01","1-1496-176","Mohammad Ashraf Pirzad",77,63,-14
+"Results Status : Certified","01","1-1147-213","Eng. Rohullah Zarif",72,46,-26
+"Results Status : Certified","01","1-1857-201","Essa Mohammad Esmat Qane",71,56,-15
+"Results Status : Certified","01","1-1712-147","Sayed Nesar Hashemi",71,47,-24
+"Results Status : Certified","01","1-1762-114","Sayed Najibullah Faraz",71,45,-26
+"Results Status : Certified","01","1-1103-149","Mohammad Ibrahim Fedaye",71,41,-30
+"Results Status : Certified","01","1-1084-30","Del Aqa Kohdamani",70,51,-19
+"Results Status : Certified","01","1-1768-205","Tamana Zaryab Paryani",70,56,-14
+"Results Status : Certified","01","1-1501-165","Ahmad Parwiz Faizi",69,50,-19
+"Results Status : Certified","01","1-1733-168","Mohammad Nabi Ayani",69,44,-25
+"Results Status : Certified","01","1-1576-133","Pashtonmal Ahmadzai",68,50,-18
+"Results Status : Certified","01","1-1101-178","Dr. Bayani Salimi",67,35,-32
+"Results Status : Certified","01","1-1238-1076","Mohammad Malek Sabr",67,45,-22
+"Results Status : Certified","01","1-1728-3056","Khozha babakarkhel",67,39,-28
+"Results Status : Certified","01","1-1292-1106","Shir Mohammad Ghafoori",66,50,-16
+"Results Status : Certified","01","1-1659-122","Arezo Akbari",66,46,-20
+"Results Status : Certified","01","1-1628-224","Abdul Habib Farzam Nejrabi",63,46,-17
+"Results Status : Certified","01","1-1813-172","Asal Mohammad Shakeri Badakhshani",63,44,-19
+"Results Status : Certified","01","1-1109-112","Ogai Amil",62,28,-34
+"Results Status : Certified","01","1-1666-40","Mohammad Dawood Dawoodzai",62,38,-24
+"Results Status : Certified","01","1-1130-73","Zabiullah Sharifi",60,43,-17
+"Results Status : Certified","01","1-2004-116","Mohammad Humayoun Noori",60,43,-17
+"Results Status : Certified","01","1-1853-1060","Alhaj Shirin Aqa Stanikzai",60,42,-18
+"Results Status : Certified","01","1-1412-86","Mohammad Hakim Belali",60,39,-21
+"Results Status : Certified","01","1-1475-1103","Dr. Sayed Jalil sayed",60,37,-23
+"Results Status : Certified","01","1-1355-173","Mohammad Nayem Haqmal",59,47,-12
+"Results Status : Certified","01","1-1518-43","Mohammad Dawood Waziri",58,43,-15
+"Results Status : Certified","01","1-1699-1182","Rashed Nezam",58,47,-11
+"Results Status : Certified","01","1-1347-149","Ustad Hassina Sahak",58,36,-22
+"Results Status : Certified","01","1-1055-2159","Mohammad Fahim Osmani",58,39,-19
+"Results Status : Certified","01","1-1574-167","Eng. Ahmad Fahim Nasimyar",58,39,-19
+"Results Status : Certified","01","1-1310-37","Mohammad Lais Andar",58,41,-17
+"Results Status : Certified","01","1-1875-153","Zaman Jaan Karimi",57,43,-14
+"Results Status : Certified","01","1-1167-148","Mohammad Tariq Eqtedari",57,42,-15
+"Results Status : Certified","01","1-1033-16","Mufti Sayed Masood Hashemi",57,36,-21
+"Results Status : Certified","01","1-1328-79","Fahima Babakarkhel",57,45,-12
+"Results Status : Certified","01","1-1122-1084","Taranum Sayedi",56,37,-19
+"Results Status : Certified","01","1-1504-179","Sayed Naser Shah Askarzadah",56,46,-10
+"Results Status : Certified","01","1-1139-138","Mohammad Zaman Panahi",56,40,-16
+"Results Status : Certified","01","1-1869-219","Zarghona Wali",56,35,-21
+"Results Status : Certified","01","1-1880-3073","Fatma Hussaini",55,29,-26
+"Results Status : Certified","01","1-2006-161","Abdul Maqsood Hassanzadah",54,41,-13
+"Results Status : Certified","01","1-1356-1091","Malek Haji Azim shinwarzadah",54,27,-27
+"Results Status : Certified","01","1-1685-223","Sediq Mansoor Ansari",53,36,-17
+"Results Status : Certified","01","1-1374-1190","Arefa Urfan",52,36,-16
+"Results Status : Certified","01","1-1564-34","Haji Zadran Azizi",52,41,-11
+"Results Status : Certified","01","1-1481-144","Dr. Abdul Satar Stanikzai",52,31,-21
+"Results Status : Certified","01","1-1868-162","Mohammad Qasem Fekri",51,37,-14
+"Results Status : Certified","01","1-1515-1018","Ahmad Tariq sheja",51,38,-13
+"Results Status : Certified","01","1-1786-165","Sediqa Popalzai",49,33,-16
+"Results Status : Certified","01","1-1852-180","Fawzia Hariri",48,32,-16
+"Results Status : Certified","01","1-1765-3039","Mahmood Haidari",48,30,-18
+"Results Status : Certified","01","1-1516-3044","Qazi Mohammad Isshaq Farjad",48,34,-14
+"Results Status : Certified","01","1-1126-1073","Mohammad Khalid Farahi",48,36,-12
+"Results Status : Certified","01","1-1110-121","Dr. Karima Kohistani",47,40,-7
+"Results Status : Certified","01","1-1450-1083","Shah Gull Rezaye",46,22,-24
+"Results Status : Certified","01","1-1527-169","Maliha Joya",46,29,-17
+"Results Status : Certified","01","1-1424-173","Shaima Rahimi",45,28,-17
+"Results Status : Certified","01","1-1280-1202","Jamila Noorzai Raufi",44,34,-10
+"Results Status : Certified","01","1-1678-1161","Ghullam Rabani Noori",44,29,-15
+"Results Status : Certified","01","1-1279-222","Mariam Yousufi",44,18,-26
+"Results Status : Certified","01","1-1895-177","sayed Ibrahim Hashemi",44,32,-12
+"Results Status : Certified","01","1-1369-122","Nooria Munsef",43,33,-10
+"Results Status : Certified","01","1-1867-256","Ahmad Reshad Mubarez",43,32,-11
+"Results Status : Certified","01","1-1843-141","Mahsa Qurbani",43,31,-12
+"Results Status : Certified","01","1-1722-145","Dr. Sayed Abdul Wahab Rahmani",42,27,-15
+"Results Status : Certified","01","1-1845-3038","Shakila Nawid",42,24,-18
+"Results Status : Certified","01","1-1631-1210","Laila Ali",42,31,-11
+"Results Status : Certified","01","1-1742-3041","Eng. Nasir Ahamd Saleh",41,33,-8
+"Results Status : Certified","01","1-1656-129","Mohammad Ajmal Zurmati",40,28,-12
+"Results Status : Certified","01","1-1794-255","Mawlawi Mohammad Mustafa Barikzai",40,28,-12
+"Results Status : Certified","01","1-1462-29","Haji Jalaluddin Salehi",40,22,-18
+"Results Status : Certified","01","1-1744-146","Abdul Gheyas Kamran",40,20,-20
+"Results Status : Certified","01","1-1737-251","Mawezuddin Osmani",40,26,-14
+"Results Status : Certified","01","1-1861-257","Shafiq Mubarak Ahmadzai",38,29,-9
+"Results Status : Certified","01","35-1549-159","Kako Jaan Neyazai",38,23,-15
+"Results Status : Certified","01","1-1218-1206","Dr. Mir Latifa Begnezhad",37,22,-15
+"Results Status : Certified","01","1-1452-3058","Sayed Hassan Hussaini",37,26,-11
+"Results Status : Certified","01","1-1757-1160","Obaidullah Qalamyar",36,20,-16
+"Results Status : Certified","01","1-1104-46","Assadullah Waziri",36,28,-8
+"Results Status : Certified","01","1-1366-1212","Sayed Abdullah Sadat",34,24,-10
+"Results Status : Certified","01","1-1083-51","Drs. Frozan Fana",33,27,-6
+"Results Status : Certified","01","1-1507-10","Eng. Mohammad Amin Karim",33,23,-10
+"Results Status : Certified","01","1-1798-2158","Hafizullah Barikzai",33,20,-13
+"Results Status : Certified","01","1-1491-1213","Dr. Sarfaraz Safi",32,25,-7
+"Results Status : Certified","01","1-1154-123","Mohammad Ayoub Osmani",32,22,-10
+"Results Status : Certified","01","1-1830-161","Mohammad Jawad Habibi",32,22,-10
+"Results Status : Certified","01","1-1847-3055","Khoshhal Yari Ahmadzai",32,23,-9
+"Results Status : Certified","01","1-1897-183","Ghullam Fardin Shaaba",32,30,-2
+"Results Status : Certified","01","1-1146-1087","Samira Lame",32,20,-12
+"Results Status : Certified","01","1-1498-1175","Eng. Mawlagull Ahmadzai",31,24,-7
+"Results Status : Certified","01","1-1767-150","Safiullah Sultani",31,23,-8
+"Results Status : Certified","01","1-1395-1072","Dr. Ahmad Wahid Khalid",29,18,-11
+"Results Status : Certified","01","1-1675-186","Mohammad Nayem Mustafa Hussainkhel",29,19,-10
+"Results Status : Certified","01","1-1107-145","Shekeba Kakar Sadat",28,22,-6
+"Results Status : Certified","01","1-1801-187","Mohammad Elyas Shams",27,21,-6
+"Results Status : Certified","01","1-1836-172","Sayed Sardar Aqa Shamshiri",27,23,-4
+"Results Status : Certified","01","1-1618-1191","Sayed Hamed Daqiq",27,23,-4
+"Results Status : Certified","01","1-1731-110","Abdul Kabir",25,14,-11
+"Results Status : Certified","01","1-1517-118","Enayatullah Kakar",25,15,-10
+"Results Status : Certified","01","1-1792-203","Sahebzada Mohammad Wali Mutaqi",25,17,-8
+"Results Status : Certified","01","1-1476-1101","Mohammad Mahdi Hussainyar",24,11,-13
+"Results Status : Certified","01","1-1503-1199","Eng. Karimullah Waziri",24,10,-14
+"Results Status : Certified","01","1-1363-1188","Noor Ahmad Noori Shaki",23,12,-11
+"Results Status : Certified","01","1-1316-2","Mohmood Hanif ",23,19,-4
+"Results Status : Certified","01","1-1834-118","Kabul Khan Tadbir Zurmati",22,16,-6
+"Results Status : Certified","01","1-1615-1099","Mohammad Zalmai Afghanyar Popal",21,17,-4
+"Results Status : Certified","01","1-1887-162","Masooda Qazi Waziri",21,17,-4
+"Results Status : Certified","01","1-1523-104","Haji Abdullah Mulla Brother",20,17,-3
+"Results Status : Certified","01","1-1123-129","Sayed Ahmad Burhani",20,15,-5
+"Results Status : Certified","01","1-1026-1019","Alhaj Omar Gull Momand",16,11,-5
+"Results Status : Certified","01","1-1835-1197","Farid Delawar",15,12,-3
+"Results Status : Certified","01","1-1528-31","Ghullam Reza Barati",15,10,-5
+"Results Status : Certified","01","1-1620-151","Ghullam Sarwar Sakhizad",14,9,-5
+"Results Status : Certified","01","1-1692-1185","Ghullam Mujtaba Qais",13,10,-3
+"Results Status : Certified","01","1-1054-1079","Murtaza Ashraq",13,11,-2
+"Results Status : Certified","01","1-1097-198","Mohammad Zia Yari",12,9,-3
+"Results Status : Certified","01","1-1290-46","Babrak Haqyar",12,9,-3
+"Results Status : Certified","01","1-1774-142","Temorshah Bashar",12,8,-4
+"Results Status : Certified","01","1-1375-1180","Mohammad Azim ",11,7,-4
+"Results Status : Certified","01","1-1378-159","Khaleqdad Balaaghi",11,7,-4
+"Results Status : Certified","01","1-1736-1062","Sayed Hamza Hashimi Balkhi",10,7,-3
+"Results Status : Certified","01","1-1362-1094","Mohammad Dawood Shadan",7,3,-4
+"Results Status : Certified","01","1-1057-1095","Dawood Maleyar Mohaiuddin ",7,6,-1
+"Results Status : Certified","01","1-1060-1170","Sayed Jawid Altaf",4,3,-1
+"Results Status : Certified","33","33-1389-33","Abdul Naser Farahi",604,606,2
+"Results Status : Certified","33","33-1533-34","Abdul Qayoum Qeyam",328,330,2
+"Results Status : Certified","33","33-1021-12","Gen Abdul Karim Farahi",255,256,1
+"Results Status : Certified","33","33-1193-38","Bahauddin Shinwari",209,210,1
