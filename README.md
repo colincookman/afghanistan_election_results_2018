@@ -8,6 +8,14 @@ These output files, which also include additional metadata for candidates and po
 
 This data is being released in open source for the purposes of contributing to public understanding of the elections and to allow for the analysis of available IEC reporting. **Please read all accompanying documentation and link, cite, and credit as appropriate.**
 
+## Table of contents
+- **[Summary of files](https://github.com/colincookman/afghanistan_election_results_2018#summary-of-files)**
+- **[Summary of results data](https://github.com/colincookman/afghanistan_election_results_2018#summary-of-results-data)**
+- **[Background to the election](https://github.com/colincookman/afghanistan_election_results_2018#background-to-the-election)**
+- **[Primary sources for this dataset](https://github.com/colincookman/afghanistan_election_results_2018#primary-sources-for-this-dataset)**
+- **[Caveats, gaps, and errors](https://github.com/colincookman/afghanistan_election_results_2018#caveats-gaps-and-errors)**
+- **[Contact and acknowledgements](https://github.com/colincookman/afghanistan_election_results_2018#contact-and-acknowledgements)**
+
 ## Summary of files
 Each row in the primary dataset represents a candidate's vote total for each polling station. This data has also been re-aggregated into **polling center** ([prelim](https://drive.google.com/open?id=1pIYYZSmnj8Gkx4d_bEI-SR_BJZt5r24U) / [final](https://drive.google.com/open?id=1uTap2pqf4H3slDU4xzpqiMXFLBfkIbIO))- (both remote hosted due to size, or see lightweight versions - [prelim](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/data/preliminary_results/prelim_af_candidate_pc_data_lite.csv) / [final](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/data/final_results/final_af_candidate_pc_data_lite.csv)), **district** ([prelim](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/data/preliminary_results/prelim_af_candidate_district_data.csv) / [final](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/data/final_results/final_af_candidate_district_data.csv))-, and **provincial** ([prelim](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/data/preliminary_results/prelim_af_candidate_province_data.csv) / [final](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/data/final_results/final_af_candidate_province_data.csv))-level summaries. 
 
