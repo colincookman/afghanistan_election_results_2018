@@ -1,0 +1,545 @@
+"province_code","province_name_eng","district_code","district_name_eng","district_or_subdivision_name","provincial_capital","pc_code","pc_name_eng","pc_location","prelim_ps_count","final_ps_count","prelim_results_reporting","final_results_reporting","pc_change_initial_final_plan","assessment_status","vr_prelim","vr_total_removed","vr_removed_spoiled_IDs","vr_removed_no_tazkera","vr_removed_no_DOB","vr_removed_closed_PC","vr_removed_lost_book","vr_removed_duplicates","vr_removed_underage","vr_general_total","vr_general_male","vr_general_fem","vr_final_kuchi","vr_final_sikh","vr_final_all_male","vr_final_all_fem","vr_final_all_total"
+"01","KABUL","0101","KABUL CITY","NAHIA 02","YES","0101019","Ansari High School","Joi Sheer",NA,NA,"NO","NO","no change","Relocated",3752,238,16,0,26,0,0,71,125,3512,2424,1088,1,1,2425,1089,3514
+"01","KABUL","0101","KABUL CITY","NAHIA 02","YES","0101024","Nayeb Salar Mosque","Qoul e Aab Chakan",4,0,"YES","NO","no change","Old",3480,144,17,0,11,0,0,27,89,3332,2504,828,4,0,2507,829,3336
+"01","KABUL","0101","KABUL CITY","NAHIA 02","YES","0101027","Sa'ad bin Abi Waqas Mosque","Sharq e Kart e Parwan",NA,NA,"NO","NO","no change","New",1110,68,11,0,4,0,0,32,21,1042,673,369,0,0,673,369,1042
+"01","KABUL","0101","KABUL CITY","NAHIA 02","YES","0101030","Omer Farooq Mosque","Kart e Parwan",0,6,"NO","YES","no change","Old",2825,145,23,0,18,0,0,48,56,2679,2022,657,1,0,2023,657,2680
+"01","KABUL","0101","KABUL CITY","NAHIA 04","YES","0101055","Khwaja Abdullah Ansari Mosque","Shahr e Naw Petrol pump",3,0,"YES","NO","no change","Old",954,41,10,0,6,0,0,22,3,910,797,113,3,0,800,113,913
+"01","KABUL","0101","KABUL CITY","NAHIA 04","YES","0101063","Mohammad Sediq Farhang School","Shahrak Police",6,0,"YES","NO","no change","Old",3336,101,14,0,28,0,0,31,28,3192,2193,999,43,0,2225,1010,3235
+"01","KABUL","0101","KABUL CITY","NAHIA 05","YES","0101068","Itefaq Mosque","Qalla e Toofan",3,0,"YES","NO","no change","Old",2226,168,35,0,19,0,0,94,20,1984,1596,388,74,0,1653,405,2058
+"01","KABUL","0101","KABUL CITY","NAHIA 05","YES","0101072","Mir Ghulam Mohammad Ghubar High School","Speen Kalai",4,0,"YES","NO","no change","Old",2364,165,44,0,10,0,0,96,15,2187,1811,376,12,0,1820,379,2199
+"01","KABUL","0101","KABUL CITY","NAHIA 05","YES","0101087","Hazrat Mohammad (pbuh) Mosque","Rigration",4,0,"YES","NO","no change","Relocated",3486,179,64,0,13,0,0,68,34,3163,2151,1012,144,0,2269,1038,3307
+"01","KABUL","0101","KABUL CITY","NAHIA 06","YES","0101093","Tuberculosis Institute","Darulaman",0,4,"NO","YES","no change","Old",1508,66,23,0,6,0,0,11,26,1441,737,704,1,0,737,705,1442
+"01","KABUL","0101","KABUL CITY","NAHIA 06","YES","0101098","Markaz Nahia e Shashum (Nahia 6 Center)","Markaz Nahia e Shashum (Nahia 6 Center)",NA,NA,"NO","NO","no change","Old",678,18,4,0,0,0,0,8,6,618,492,126,42,0,517,143,660
+"01","KABUL","0101","KABUL CITY","NAHIA 06","YES","0101107","Khatemul Anbya Madrassah","Qalla e Nazer",NA,NA,"NO","NO","no change","Relocated",1980,75,15,0,12,0,0,28,20,1905,1151,754,0,0,1151,754,1905
+"01","KABUL","0101","KABUL CITY","NAHIA 06","YES","0101108","Gul Khana Secondary School","Deh Qabil village",0,2,"NO","YES","no change","Old",3504,245,67,0,25,0,0,22,131,3259,1783,1476,0,0,1783,1476,3259
+"01","KABUL","0101","KABUL CITY","NAHIA 06","YES","0101111","Qayem Aale Mohammad Mosque","Nawabad Qalla e Jabar Khan",0,2,"NO","YES","no change","Old",3396,185,62,0,19,0,0,28,76,3211,1676,1535,0,0,1676,1535,3211
+"01","KABUL","0101","KABUL CITY","NAHIA 06","YES","0101116","Safiullah Afzali High School","Qalla e Muslim, Sar Aasyab",3,0,"YES","NO","no change","New",1448,78,29,0,7,0,0,7,35,1320,926,394,50,0,952,418,1370
+"01","KABUL","0101","KABUL CITY","NAHIA 07","YES","0101117","Lais Bin e Qais Mosque","Reeshkhor Sufla",2,0,"YES","NO","no change","Old",444,27,17,0,1,0,0,1,8,417,290,127,0,0,290,127,417
+"01","KABUL","0101","KABUL CITY","NAHIA 07","YES","0101140","Mehrabuddin High School","Chehelsutoon Road, Deh Dana",10,0,"YES","NO","no change","Old",5622,95,15,0,19,0,0,46,15,5512,3851,1661,15,0,3858,1669,5527
+"01","KABUL","0101","KABUL CITY","NAHIA 08","YES","0101147","Omer Farooq Mosque","Tapah e dosti khil Kart e Naw",0,2,"NO","YES","no change","Old",1601,119,6,0,9,0,0,85,19,1443,1049,394,39,0,1076,406,1482
+"01","KABUL","0101","KABUL CITY","NAHIA 08","YES","0101158","Abubakar Sedique Mosque","Jadidabad village",1,0,"YES","NO","no change","Old",2565,260,10,0,218,0,0,12,20,2294,1570,724,10,1,1577,728,2305
+"01","KABUL","0101","KABUL CITY","NAHIA 10","YES","0101203","Hazrat Yousuf Mosque","Chahar Qalla",3,0,"YES","NO","no change","Old",2311,83,21,0,9,0,0,13,40,2217,1421,796,11,0,1431,797,2228
+"01","KABUL","0101","KABUL CITY","NAHIA 10","YES","0101209","Yadgar Mosque","Chahar Qalla",3,0,"YES","NO","no change","Old",3084,80,25,0,9,0,0,29,17,2998,1910,1088,6,0,1915,1089,3004
+"01","KABUL","0101","KABUL CITY","NAHIA 10","YES","0101212","Mohammadia Mosque","Chahar Qalla",1,0,"YES","NO","no change","Old",2100,41,13,0,8,0,0,6,14,2059,1080,979,0,0,1080,979,2059
+"01","KABUL","0101","KABUL CITY","NAHIA 11","YES","0101227","Khairkhana Cinema","Golayee Cinema",5,0,"YES","NO","no change","Old",2568,120,34,0,12,0,0,58,16,2446,1910,536,1,1,1912,536,2448
+"01","KABUL","0101","KABUL CITY","NAHIA 11","YES","0101235","Ashab e Kahaf Mosque","Nawabad Purojha Jadid",2,0,"YES","NO","no change","New",2618,157,23,0,32,0,0,53,49,2461,1699,762,0,0,1699,762,2461
+"01","KABUL","0101","KABUL CITY","NAHIA 11","YES","0101246","Anas Bin e Malik Mosque","Deh Keepak",3,0,"YES","NO","no change","Relocated",1836,84,10,0,13,0,0,50,11,1735,1351,384,17,0,1368,384,1752
+"01","KABUL","0101","KABUL CITY","NAHIA 12","YES","0101253","Ghulam Sediq High School","Block 10, Arzan Qeemat",13,0,"YES","NO","no change","Old",8046,387,19,0,33,0,0,64,271,7502,5849,1653,157,0,5969,1690,7659
+"01","KABUL","0101","KABUL CITY","NAHIA 12","YES","0101254","Ustad Ibrahim Khwakhogai Secondary School","Ahmad Shah Baba Mena",6,0,"YES","NO","no change","Old",4489,183,26,1,41,0,0,51,64,4255,3006,1249,51,0,3049,1257,4306
+"01","KABUL","0101","KABUL CITY","NAHIA 13","YES","0101288","Imam Mohammad Taqi Mosque","Bagh e Khan",2,0,"YES","NO","no change","Old",839,53,7,0,3,0,0,13,30,786,786,0,0,0,786,0,786
+"01","KABUL","0101","KABUL CITY","NAHIA 13","YES","0101297","Qambar Bin e Hashim Mosque","Kor Karez",2,0,"YES","NO","no change","Old",1557,64,13,0,16,0,0,11,24,1491,923,568,2,0,924,569,1493
+"01","KABUL","0101","KABUL CITY","NAHIA 15","YES","0101313","Hazrat Nouh Mosque","Sar e Pul Khwaja Bughra",3,0,"YES","NO","no change","Old",2316,138,74,0,16,0,0,32,16,2170,1700,470,8,0,1708,470,2178
+"01","KABUL","0101","KABUL CITY","NAHIA 15","YES","0101321","Khwaja Bughra Secondary School No.2","Junction Barq (Electricity Junction) Khairkhana",NA,NA,"NO","NO","no change","Old",1734,45,20,0,3,0,0,9,13,1688,1053,635,0,1,1053,636,1689
+"01","KABUL","0101","KABUL CITY","NAHIA 15","YES","0101323","Khwaja Mohiuddin Chushti Mosque","Khwaja Bughra",2,0,"YES","NO","no change","Old",1014,47,14,1,4,0,0,14,14,967,580,387,0,0,580,387,967
+"01","KABUL","0101","KABUL CITY","NAHIA 17","YES","0101351","Markaz Nahia 17 (Nahia 17 Center)","Sar e Kotal Khairkhanah",0,2,"NO","YES","no change","Old",9000,431,187,0,62,0,0,107,75,8552,6118,2434,17,0,6135,2434,8569
+"01","KABUL","0101","KABUL CITY","NAHIA 17","YES","0101354","AbuBakar Sedique Jame Mosque","Shahrak Adru Gul",0,2,"NO","YES","no change","New",2374,108,24,0,13,0,0,39,32,2243,1755,488,23,0,1767,499,2266
+"01","KABUL","0101","KABUL CITY","NAHIA 10","YES","0101554","Shahrak Arya School","Shahrak Arya First Section",0,2,"NO","YES","added",NA,2148,114,16,3,56,0,0,22,17,2033,1450,583,1,0,1451,583,2034
+"01","KABUL","0102","PAGHMAN","PAGHMAN","NO","0102299","Ibrahim Khil High School","Toolat",1,0,"YES","NO","no change","Relocated",1662,118,11,0,15,0,0,13,79,1512,946,566,32,0,978,566,1544
+"01","KABUL","0102","PAGHMAN","PAGHMAN","NO","0102386","Cheheltan High School","Cheheltan",NA,NA,"NO","NO","no change","Old",3000,142,15,0,16,0,0,19,92,2826,1712,1114,31,1,1719,1139,2858
+"01","KABUL","0103","CHAHARASYAB","CHAHARASYAB","NO","0103411","Lalandar clinic","Lalandar Shutur Pareedah",1,0,"YES","NO","no change","Relocated",3516,182,15,0,33,0,0,92,42,3233,2140,1093,101,0,2153,1181,3334
+"01","KABUL","0104","BAGRAMI","BAGRAMI","NO","0104412","Butkhak Boys High School","Butkhak",0,10,"NO","YES","no change","Old",6000,435,22,1,109,0,0,11,292,5490,3277,2213,75,0,3324,2241,5565
+"01","KABUL","0104","BAGRAMI","BAGRAMI","NO","0104417","Sheena Girls High School","Sheenah village",NA,NA,"NO","NO","no change","Old",1788,132,36,0,9,0,0,18,69,1649,853,796,7,0,859,797,1656
+"01","KABUL","0104","BAGRAMI","BAGRAMI","NO","0104419","Qalla e Ahmad Khan Girls High School","Qalla e Ahmad Khan",0,4,"NO","YES","no change","Old",1266,62,18,0,9,0,0,4,31,1197,721,476,7,0,722,482,1204
+"01","KABUL","0105","DEHSABZ","DEHSABZ","NO","0105431","Deh Sabz Khas Secondary School","Ali Khil",6,0,"YES","NO","no change","Old",4200,106,10,0,41,0,0,7,48,3774,2017,1757,320,0,2325,1769,4094
+"01","KABUL","0105","DEHSABZ","DEHSABZ","NO","0105433","Deh Sabz Khas Girls High School","Deh Sabz Khas",3,0,"YES","NO","no change","Old",3594,85,39,0,11,0,0,3,32,3476,2361,1115,33,0,2366,1143,3509
+"01","KABUL","0105","DEHSABZ","DEHSABZ","NO","0105436","Shiekho Secondary School","Bandi Khana",8,0,"YES","NO","no change","Old",4738,96,30,0,18,0,0,15,33,4511,3451,1060,131,0,3514,1128,4642
+"01","KABUL","0105","DEHSABZ","DEHSABZ","NO","0105443","Pul e Sangi Health Clinic","Pul e Sangi",3,0,"YES","NO","no change","New",1698,46,20,0,9,0,0,5,12,1636,1124,512,16,0,1133,519,1652
+"01","KABUL","0107","MOSAHI","MOSAHI","NO","0107459","Shenkai Dashtak Village Jame Mosque","Shinkai Dashtak village",NA,NA,"NO","NO","no change","Old",5399,130,19,0,61,0,0,17,33,5202,2274,2928,67,0,2331,2938,5269
+"01","KABUL","0109","KHAKEJABAR","KHAKEJABAR","NO","0109483","Wali Khan Secondary School","Zindan",NA,NA,"NO","NO","no change","Old",2280,71,16,0,15,0,0,19,21,2192,1150,1042,17,0,1164,1045,2209
+"01","KABUL","0109","KHAKEJABAR","KHAKEJABAR","NO","0109485","Mullah Omer Primary School","Mullah Omer",NA,NA,"NO","NO","no change","New",3600,118,17,0,22,0,0,54,25,3171,1577,1594,311,0,1753,1729,3482
+"01","KABUL","0109","KHAKEJABAR","KHAKEJABAR","NO","0109486","Chinar Primary School","Shinwar",NA,NA,"NO","NO","no change","Old",2400,69,5,0,22,0,0,4,38,2183,1109,1074,148,0,1176,1155,2331
+"01","KABUL","0114","QARABAGH","QARABAGH","NO","0114518","Sabz Sang High School","Sabz Sang",0,2,"NO","YES","no change","Old",2610,76,28,0,12,0,0,9,27,2524,1911,613,10,0,1919,615,2534
+"01","KABUL","0114","QARABAGH","QARABAGH","NO","0114521","Langar Jame Mosque","Langar",0,2,"NO","YES","no change","Relocated",3000,190,1,0,17,0,0,27,145,2808,1748,1060,2,0,1750,1060,2810
+"01","KABUL","0115","SUROBI","SUROBI","NO","0115538","Sher Khan Kas Mosque","Sher Khan Kas",NA,NA,"NO","NO","no change","Old",1494,56,22,0,13,0,0,10,11,1420,841,579,18,0,859,579,1438
+"01","KABUL","0115","SUROBI","SUROBI","NO","0115539","Goga Monda School","Goga Munda",NA,NA,"NO","NO","no change","Old",1440,71,44,0,4,0,0,6,17,1323,833,490,46,0,877,492,1369
+"01","KABUL","0115","SUROBI","SUROBI","NO","0115545","Sperkundai School","Sperkundai",NA,NA,"NO","NO","no change","Old",3594,71,10,0,26,0,0,4,31,3483,1721,1762,40,0,1761,1762,3523
+"01","KABUL","0115","SUROBI","SUROBI","NO","0115546","Rodbar School","Rodbar",NA,NA,"NO","NO","no change","Old",1800,29,0,0,17,0,0,1,11,1655,1063,592,116,0,1179,592,1771
+"01","KABUL","0115","SUROBI","SUROBI","NO","0115547","Qalla e Kalan School","Qalla e Kalan",NA,NA,"NO","NO","no change","Old",2400,99,6,1,17,0,0,3,72,2193,1083,1110,108,0,1152,1149,2301
+"01","KABUL","0115","SUROBI","SUROBI","NO","0115548","Baam Darrai Mosque","Bam Darrai",NA,NA,"NO","NO","no change","Not Assessed",3000,171,3,0,47,0,0,2,119,2675,1611,1064,154,0,1761,1068,2829
+"01","KABUL","0115","SUROBI","SUROBI","NO","0115549","Gaz Ulya School","Wozbeen, Gaz Ulya",NA,NA,"NO","NO","no change","Old",2400,300,4,0,23,0,0,1,272,1932,863,1069,168,0,1021,1079,2100
+"01","KABUL","0115","SUROBI","SUROBI","NO","0115550","Yakhdand School","Yakhdand",NA,NA,"NO","NO","no change","New",4200,145,53,0,72,0,0,3,17,3974,2232,1742,81,0,2303,1752,4055
+"01","KABUL","0115","SUROBI","SUROBI","NO","0115551","Husain Khil High School","Hussain Khil",NA,NA,"NO","NO","no change","New",7200,135,7,0,67,0,0,14,47,6529,4606,1923,536,0,4703,2362,7065
+"01","KABUL","0115","SUROBI","SUROBI","NO","0115553","Naghloo Secondary School","Naghloo",5,0,"YES","NO","no change","Old",2755,158,19,0,26,0,0,15,98,2592,1692,900,5,0,1697,900,2597
+"02","KAPISA","0203","KOHBAND","KOHBAND","NO","0203027","Nahr e Khwaja, Sar e Joi Jame Mosque","Nawabad ",NA,NA,"NO","NO","no change","Old",3476,204,6,0,14,0,0,122,62,3184,2182,1002,88,0,2252,1020,3272
+"02","KAPISA","0205","NEJRAB","NEJRAB","NO","0205057","Saha e Azad (Open ground)","Ghacholan",4,0,"YES","NO","no change","Old",1977,153,15,0,13,0,0,104,21,1818,1231,587,6,0,1233,591,1824
+"02","KAPISA","0207","ALASAY","ALASAY","NO","0207087","Sultan Khil Mosque","Sultan Khil",NA,NA,"NO","NO","no change","Not Assessed",1201,102,25,0,13,0,0,26,38,1088,1088,0,11,0,1099,0,1099
+"02","KAPISA","0207","ALASAY","ALASAY","NO","0207089","Hassan Shaheed Primary School","Rasang",NA,NA,"NO","NO","no change","Not Assessed",1200,67,8,0,4,0,0,29,26,1111,1111,0,22,0,1133,0,1133
+"03","PARWAN","0303","SHINWARI","SHINWARI","NO","0303070","Daraz Gerd School","Daraz Gerd",1,0,"YES","NO","no change","Relocated",300,18,6,0,4,0,0,4,4,282,270,12,0,0,270,12,282
+"04","MAYDANWARDAK","0401","MAYDANSHAHR","MAYDANSHAHR","YES","0401006","Ibrahim Khil Clinic","Ibrahim Khil  ",NA,NA,"NO","NO","no change","Not Assessed",2310,130,7,0,16,0,0,28,79,2175,1985,190,5,0,1990,190,2180
+"04","MAYDANWARDAK","0401","MAYDANSHAHR","MAYDANSHAHR","YES","0401007","Ibrahim Khil High School","ibrahim Khil   ",NA,NA,"NO","NO","no change","Old",888,34,4,0,9,0,0,10,11,854,854,0,0,0,854,0,854
+"04","MAYDANWARDAK","0401","MAYDANSHAHR","MAYDANSHAHR","YES","0401009","Pul E Surkh School","Shahbuddin village",NA,NA,"NO","NO","no change","Old",600,16,3,0,5,0,0,2,6,584,584,0,0,0,584,0,584
+"04","MAYDANWARDAK","0402","NIRKH","NIRKH","NO","0402014","Been Badam High School","Been Badam village",NA,NA,"NO","NO","no change","Relocated",1800,74,5,0,5,0,0,56,8,1722,1722,0,4,0,1726,0,1726
+"04","MAYDANWARDAK","0402","NIRKH","NIRKH","NO","0402016","Durani High School","Awal Khil",NA,NA,"NO","NO","no change","Relocated",1525,1024,5,0,1000,0,0,11,8,500,192,308,1,0,192,309,501
+"04","MAYDANWARDAK","0402","NIRKH","NIRKH","NO","0402020","Speen Masjid Mosque","Sour Baghal",NA,NA,"NO","NO","no change","Relocated",1686,109,10,0,19,0,0,29,51,1577,1142,435,0,0,1142,435,1577
+"04","MAYDANWARDAK","0402","NIRKH","NIRKH","NO","0402022","Karmo Khil Yak School","Karmo Khil Yak",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"04","MAYDANWARDAK","0402","NIRKH","NIRKH","NO","0402025","Hassan Khil Village Clinic","Hasan Khil village",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"04","MAYDANWARDAK","0403","JALRIZ","JALRIZ","NO","0403031","Imam Mohammad Baqer High School","Qalla e Aslam",NA,NA,"NO","NO","no change","Old",1050,58,23,0,20,0,0,14,1,991,549,442,1,0,550,442,992
+"04","MAYDANWARDAK","0403","JALRIZ","JALRIZ","NO","0403036","Khwaja Mohammad Wali High School ","Zyarat Bazzar",NA,NA,"NO","NO","no change","Relocated",2244,138,8,0,17,0,0,89,24,2105,1655,450,1,0,1656,450,2106
+"04","MAYDANWARDAK","0404","CHAK","CHAK","NO","0404048","Zaman Khil Village Mosque","Zaman Khil village",NA,NA,"NO","NO","no change","Relocated",2346,172,4,0,9,0,0,122,37,2172,1716,456,2,0,1718,456,2174
+"04","MAYDANWARDAK","0404","CHAK","CHAK","NO","0404055","Private house of the Malik of the village","Mongyar Khil",NA,NA,"NO","NO","no change","Not Assessed",2310,76,6,0,15,0,0,36,19,2234,1689,545,0,0,1689,545,2234
+"04","MAYDANWARDAK","0405","SAYDABAD","SAYDABAD","NO","0405065","Lowarrah School","Lowarrah",NA,NA,"NO","NO","no change","Not Assessed",2082,105,10,1,16,0,0,13,65,1972,1697,275,5,0,1702,275,1977
+"04","MAYDANWARDAK","0405","SAYDABAD","SAYDABAD","NO","0405067","Tent in the Haft Aasya village","Haft Aasya",NA,NA,"NO","NO","no change","Old",2088,110,11,0,10,0,0,34,55,1975,1694,281,3,0,1697,281,1978
+"04","MAYDANWARDAK","0405","SAYDABAD","SAYDABAD","NO","0405068","Otarri School","Otarri",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"04","MAYDANWARDAK","0405","SAYDABAD","SAYDABAD","NO","0405070","Salar Jame Mosque","Salar",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"04","MAYDANWARDAK","0405","SAYDABAD","SAYDABAD","NO","0405071","Khalid Bin Waleed High School","Aka Khil Vilage",NA,NA,"NO","NO","no change","Relocated",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"04","MAYDANWARDAK","0405","SAYDABAD","SAYDABAD","NO","0405074","Saed Abad High School","Aman Khil",NA,NA,"NO","NO","no change","Old",2262,171,14,0,8,0,0,123,26,2091,1690,401,0,0,1690,401,2091
+"04","MAYDANWARDAK","0405","SAYDABAD","SAYDABAD","NO","0405076","Shater Mosque","Shater village",NA,NA,"NO","NO","no change","Relocated",2196,302,10,0,23,0,0,188,81,1893,1528,365,1,0,1529,365,1894
+"04","MAYDANWARDAK","0405","SAYDABAD","SAYDABAD","NO","0405082","Si Si village Mosque","Si Si Village ",NA,NA,"NO","NO","no change","Old",2208,255,8,0,12,0,0,206,29,1951,1545,406,2,0,1547,406,1953
+"04","MAYDANWARDAK","0405","SAYDABAD","SAYDABAD","NO","0405084","Shiekh Abad High School","Hashim Khil",NA,NA,"NO","NO","no change","Old",2700,369,59,0,21,0,0,272,17,2331,2036,295,0,0,2036,295,2331
+"04","MAYDANWARDAK","0405","SAYDABAD","SAYDABAD","NO","0405094","Shash Qalla School","Shash Qalla",NA,NA,"NO","NO","no change","Old",2166,213,5,0,8,0,0,64,136,1953,1591,362,0,0,1591,362,1953
+"04","MAYDANWARDAK","0406","DAYMIRDAD","DAYMIRDAD","NO","0406098","Meeran Clinic","Meeran Village",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"04","MAYDANWARDAK","0406","DAYMIRDAD","DAYMIRDAD","NO","0406099","Ghazi Abdul Kabir Khan High School","Babak Village",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"04","MAYDANWARDAK","0409","MARKAZ BIHSOD","MARKAZ BIHSOD","NO","0409146","Kardan Qadah Mosque","Kardan Qadah",NA,NA,"NO","NO","no change","Old",1200,850,9,0,831,0,0,0,10,350,128,222,0,0,128,222,350
+"05","LOGAR","0502","BARAKIBARAK","BARAKIBARAK","NO","0502031","Baraki Rajan High School","Baraki Rajan",NA,NA,"NO","NO","no change","Old",866,489,15,0,453,0,0,0,21,376,242,134,1,0,243,134,377
+"05","LOGAR","0503","CHARKH","CHARKH","NO","0503041","Mawlana Yaqoub Charkhi School ","Garam Aabah",NA,NA,"NO","NO","no change","Old",36,3,3,0,0,0,0,0,0,33,33,0,0,0,33,0,33
+"05","LOGAR","0505","MUHAMMADAGHA","MUHAMMADAGHA","NO","0505050","Surkhab School","Surkhab",NA,NA,"NO","NO","no change","Not Assessed",2999,124,10,0,40,0,0,25,49,2874,1721,1153,1,0,1722,1153,2875
+"05","LOGAR","0505","MUHAMMADAGHA","MUHAMMADAGHA","NO","0505064","Deh Naw School","Deh Naw",2,0,"YES","NO","no change","Old",4794,184,25,1,54,0,0,36,68,4607,3455,1152,3,0,3457,1153,4610
+"06","NANGARHAR","0603","SURKHROD","SURKHROD","NO","0603072","Gandah Chashmah Mosque","Gandah Chashmah",0,2,"NO","YES","no change","Old",1356,28,6,0,13,0,0,0,9,1277,562,715,51,0,591,737,1328
+"06","NANGARHAR","0603","SURKHROD","SURKHROD","NO","0603092","Shamspour Girls High School","Shamspour",0,3,"NO","YES","no change","Old",1212,98,41,0,31,0,0,11,15,1110,897,213,4,0,898,216,1114
+"06","NANGARHAR","0604","CHAPARHAR","CHAPARHAR","NO","0604105","Saparai Secondary School","Chaghra",NA,NA,"NO","NO","no change","Not Assessed",1200,45,15,0,12,0,0,3,15,1154,575,579,1,0,575,580,1155
+"06","NANGARHAR","0604","CHAPARHAR","CHAPARHAR","NO","0604106","Speen Jumat Mosque","Speen Jomat Campoona",NA,NA,"NO","NO","no change","Not Assessed",2331,114,15,0,56,0,0,0,43,2216,509,1707,1,0,509,1708,2217
+"06","NANGARHAR","0604","CHAPARHAR","CHAPARHAR","NO","0604111","Secondary School","Zagho Kalai",NA,NA,"NO","NO","no change","Relocated",1182,82,14,0,7,0,0,17,44,1099,549,550,1,0,550,550,1100
+"06","NANGARHAR","0604","CHAPARHAR","CHAPARHAR","NO","0604115","Ghulam Daag School","Darmango Kalai",NA,NA,"NO","NO","no change","Old",1800,76,9,0,20,0,0,0,47,1702,1129,573,22,0,1150,574,1724
+"06","NANGARHAR","0604","CHAPARHAR","CHAPARHAR","NO","0604120"," Salozai School","Zalozai",NA,NA,"NO","NO","no change","Old",2400,169,5,0,25,0,0,21,118,2214,1681,533,17,0,1697,534,2231
+"06","NANGARHAR","0604","CHAPARHAR","CHAPARHAR","NO","0604121"," Paterai School","Paterai Kalai",NA,NA,"NO","NO","no change","Relocated",1800,73,2,0,19,0,0,4,48,1695,1130,565,32,0,1161,566,1727
+"06","NANGARHAR","0608","KHOGYANI","KHOGYANI","NO","0608214"," Dargai Primary School","Dargai",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"06","NANGARHAR","0608","KHOGYANI","KHOGYANI","NO","0608218"," Do Aabah School","Do Aabah",NA,NA,"NO","NO","no change","Not Assessed",1800,71,2,0,11,0,0,5,53,1702,1152,550,27,0,1152,577,1729
+"06","NANGARHAR","0608","KHOGYANI","KHOGYANI","NO","0608219"," Tatang School","Tatang",NA,NA,"NO","NO","no change","Not Assessed",1200,32,6,0,5,0,0,10,11,1129,551,578,39,0,585,583,1168
+"06","NANGARHAR","0608","KHOGYANI","KHOGYANI","NO","0608220"," Tatang Clinic","Tatang",NA,NA,"NO","NO","no change","Not Assessed",1200,74,6,0,15,0,0,17,36,1092,514,578,34,0,546,580,1126
+"06","NANGARHAR","0609","BATIKOT","BATIKOT","NO","0609226"," Spagani Konj","Farm 2",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"06","NANGARHAR","0609","BATIKOT","BATIKOT","NO","0609230"," Garbawah Mosque","Garbawah",NA,NA,"NO","NO","no change","Not Assessed",2400,74,1,0,48,0,0,7,18,1992,1440,552,334,0,1745,581,2326
+"06","NANGARHAR","0614","GOSHTA","GOSHTA","NO","0614308"," Goshtah Girls Secondary School","Goshtah",0,2,"NO","YES","no change","Old",1200,37,7,0,10,0,0,3,17,1162,584,578,1,0,584,579,1163
+"06","NANGARHAR","0615","ACHEEN","ACHEEN","NO","0615321"," Zaree Khola Jomat Mosque","Zaree Kholah",NA,NA,"NO","NO","no change","Not Assessed",2796,107,2,0,22,0,0,15,68,2689,2098,591,0,0,2098,591,2689
+"06","NANGARHAR","0615","ACHEEN","ACHEEN","NO","0615339"," Zorr Jomat Mosque (OLD Mosque)","Lande Momand",NA,NA,"NO","NO","no change","Not Assessed",60,8,6,0,1,0,0,0,1,52,0,52,0,0,0,52,52
+"06","NANGARHAR","0616","SHINWAR","SHINWAR","NO","0616367"," 26 Weyalah High School","Weyalah 26",NA,NA,"NO","NO","no change","Old",732,38,14,0,8,0,0,4,12,682,564,118,12,0,564,130,694
+"06","NANGARHAR","0616","SHINWAR","SHINWAR","NO","0616369"," Golayee High School","Golayee Kalai",NA,NA,"NO","NO","no change","Old",348,12,5,0,2,0,0,3,2,146,94,52,190,0,194,142,336
+"06","NANGARHAR","0616","SHINWAR","SHINWAR","NO","0616370"," Syah Chob Mosque","Syah Chob ",NA,NA,"NO","NO","no change","Old",3600,55,12,0,9,0,0,21,13,3537,2357,1180,8,0,2362,1183,3545
+"06","NANGARHAR","0617","MUHMAND DARA","MUHMAND DARA","NO","0617375"," Utmanzai Mosque","Gardi Otmanzi",NA,NA,"NO","NO","no change","Old",3000,48,6,0,7,0,0,3,32,2914,1154,1760,38,0,1182,1770,2952
+"06","NANGARHAR","0617","MUHMAND DARA","MUHMAND DARA","NO","0617389"," Sagi Speen Jomat Mosque","Sagai",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"06","NANGARHAR","0618","LAL POOR","LAL POOR","NO","0618392"," Gul Daag High School","Gul Dag Kalai",NA,NA,"NO","NO","no change","Old",3248,66,7,0,22,0,0,9,28,3181,2207,974,1,0,2207,975,3182
+"06","NANGARHAR","0618","LAL POOR","LAL POOR","NO","0618393"," Chaknoor High School","Chaknoor Kalai",NA,NA,"NO","NO","no change","Not Assessed",3126,49,5,0,23,0,0,7,14,3074,1632,1442,3,0,1635,1442,3077
+"06","NANGARHAR","0620","NAZYAN","NAZYAN","NO","0620413"," Jai Sar Mosque","Morchal Kalai",NA,NA,"NO","NO","no change","Old",294,12,5,0,3,0,0,3,1,282,179,103,0,0,179,103,282
+"06","NANGARHAR","0620","NAZYAN","NAZYAN","NO","0620414"," Morchal Kali Maidan (Morchal village ground)","Morchal Kalai",NA,NA,"NO","NO","no change","Not Assessed",810,29,14,0,3,0,0,9,3,781,528,253,0,0,528,253,781
+"06","NANGARHAR","0623","SPIN GHAR","SPIN GHAR","NO","0623334","Marouf Cheenah Jame Mosque","Marouf Cheenah",NA,NA,"NO","NO","added",NA,3168,101,10,0,17,0,0,16,58,3047,2041,1006,20,0,2061,1006,3067
+"06","NANGARHAR","0623","SPIN GHAR","SPIN GHAR","NO","0623340","Zaree Kholah","Zaree Kholah Kalai",NA,NA,"NO","NO","added",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"06","NANGARHAR","0623","SPIN GHAR","SPIN GHAR","NO","0623352","Ilyas Ba Ba School","Wach Got",NA,NA,"NO","NO","added",NA,2082,105,5,0,14,0,0,6,80,1975,1133,842,2,0,1134,843,1977
+"06","NANGARHAR","0623","SPIN GHAR","SPIN GHAR","NO","0623354","Morgii Mosque","Morgai Kalai",NA,NA,"NO","NO","added",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"06","NANGARHAR","0623","SPIN GHAR","SPIN GHAR","NO","0623356","Momand Clinic","Showkanai",NA,NA,"NO","NO","added",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"07","LAGHMAN","0704","ALINGAR","ALINGAR","NO","0704094"," Sanderwa School","Sanderwa",NA,NA,"NO","NO","no change","Relocated",420,43,18,0,1,0,0,9,15,372,320,52,5,0,325,52,377
+"07","LAGHMAN","0705","DAWLATSHAH","DAWLATSHAH","NO","0705109"," Mosque","Gadyalah",NA,NA,"NO","NO","no change","Not Assessed",384,24,9,0,5,0,0,6,4,360,278,82,0,0,278,82,360
+"07","LAGHMAN","0705","DAWLATSHAH","DAWLATSHAH","NO","0705111"," Mosque","Kasheedor ",NA,NA,"NO","NO","no change","Not Assessed",666,97,18,0,12,0,0,27,40,565,515,50,4,0,519,50,569
+"07","LAGHMAN","0705","DAWLATSHAH","DAWLATSHAH","NO","0705112"," New Bala Deh School","New Bala Deh",NA,NA,"NO","NO","no change","Not Assessed",1056,86,12,0,13,0,0,24,37,870,753,117,100,0,851,119,970
+"07","LAGHMAN","0705","DAWLATSHAH","DAWLATSHAH","NO","0705113"," Keel Mosque","Keel",NA,NA,"NO","NO","no change","Old",1116,75,35,0,7,0,0,30,3,1041,599,442,0,0,599,442,1041
+"07","LAGHMAN","0705","DAWLATSHAH","DAWLATSHAH","NO","0705114"," Neel Khan Mosque","Neel Khan",NA,NA,"NO","NO","no change","Old",948,68,22,0,13,0,0,21,12,880,880,0,0,0,880,0,880
+"07","LAGHMAN","0705","DAWLATSHAH","DAWLATSHAH","NO","0705116"," Karak Mosque","Karak",NA,NA,"NO","NO","no change","Old",1602,84,19,0,16,0,0,14,35,1518,780,738,0,0,780,738,1518
+"07","LAGHMAN","0705","DAWLATSHAH","DAWLATSHAH","NO","0705117"," Chashdar School","Chashdar",NA,NA,"NO","NO","no change","Old",420,113,13,0,87,0,0,5,8,307,179,128,0,0,179,128,307
+"07","LAGHMAN","0705","DAWLATSHAH","DAWLATSHAH","NO","0705118"," Sang Peetak School","Sang Peetak",NA,NA,"NO","NO","no change","New",744,53,21,0,8,0,0,1,23,691,377,314,0,0,377,314,691
+"07","LAGHMAN","0705","DAWLATSHAH","DAWLATSHAH","NO","0705119"," Peetak Mosque","Peetak",NA,NA,"NO","NO","no change","Old",1608,123,43,0,20,0,0,16,44,1484,1041,443,1,0,1042,443,1485
+"07","LAGHMAN","0705","DAWLATSHAH","DAWLATSHAH","NO","0705120"," Gamandook Mosque","Gamandok",NA,NA,"NO","NO","no change","Old",516,18,12,0,2,0,0,0,4,498,388,110,0,0,388,110,498
+"09","BAGHLAN","0901","PULE KHUMRI","PULE KHUMRI","YES","0901019","Toor Shaheed School","Khalazai village",NA,NA,"NO","NO","no change","Old",1368,196,10,0,8,0,0,165,13,1154,718,436,18,0,736,436,1172
+"09","BAGHLAN","0901","PULE KHUMRI","PULE KHUMRI","YES","0901037","Kuhnah Masjid","Surkh Kotal School",NA,NA,"NO","NO","no change","Not Assessed",18,6,6,0,0,0,0,0,0,12,12,0,0,0,12,0,12
+"09","BAGHLAN","0901","PULE KHUMRI","PULE KHUMRI","YES","0901038","Chashma e Sheer School","Eisa Bye village",NA,NA,"NO","NO","no change","Old",138,9,7,0,0,0,0,1,1,124,117,7,5,0,122,7,129
+"09","BAGHLAN","0901","PULE KHUMRI","PULE KHUMRI","YES","0901040","Aljihad Mahajereen School","<Null>",NA,NA,"NO","NO","no change","Old",126,13,11,0,1,0,0,0,1,111,105,6,2,0,107,6,113
+"09","BAGHLAN","0901","PULE KHUMRI","PULE KHUMRI","YES","0901041","Khwajah Alwan camp, Pul e Khumri Mazar Shareef Ro*","Khwaja Alwan, Camp Kuhnah",NA,NA,"NO","NO","no change","Old",534,26,13,0,4,0,0,5,4,415,387,28,93,0,476,32,508
+"09","BAGHLAN","0903","DOSHI","DOSHI","NO","0903068","Kyan School","Markaz Kyan",NA,NA,"NO","NO","no change","Old",1800,26,4,0,4,0,0,7,11,1772,584,1188,2,0,584,1190,1774
+"09","BAGHLAN","0903","DOSHI","DOSHI","NO","0903081","Kuru village Jame Madrassah","Karoo village",NA,NA,"NO","NO","no change","Not Assessed",186,19,8,0,1,0,0,3,7,167,156,11,0,0,156,11,167
+"09","BAGHLAN","0903","DOSHI","DOSHI","NO","0903082","Saloon Ijtemai (Community Hall) Zard Sang","Zard Sang village",NA,NA,"NO","NO","no change","Old",823,45,9,0,16,0,0,1,19,777,390,387,1,0,391,387,778
+"09","BAGHLAN","0903","DOSHI","DOSHI","NO","0903083","Sang Surakh Secondary School","Sang Sorakh",NA,NA,"NO","NO","no change","Old",1380,51,21,0,11,0,0,12,7,1326,767,559,3,0,770,559,1329
+"09","BAGHLAN","0903","DOSHI","DOSHI","NO","0903085","Kelah Gai High School","Kelah Gai village",NA,NA,"NO","NO","no change","Old",2004,72,15,0,15,0,0,9,33,1930,1222,708,2,0,1224,708,1932
+"09","BAGHLAN","0903","DOSHI","DOSHI","NO","0903086","LarKhwab School","Darah e Larkhwab",NA,NA,"NO","NO","no change","Old",2304,69,19,0,24,0,0,3,23,2235,1152,1083,0,0,1152,1083,2235
+"09","BAGHLAN","0903","DOSHI","DOSHI","NO","0903087","Chehel Kapah School","Chehel Kapah",NA,NA,"NO","NO","no change","Old",2388,85,21,0,25,0,0,11,28,2283,1134,1149,20,0,1154,1149,2303
+"09","BAGHLAN","0904","NAHREEN","NAHREEN","NO","0904100","Syah Darah School","Aab Mazar",NA,NA,"NO","NO","no change","New",2863,66,17,0,19,0,0,10,20,2787,1610,1177,10,0,1619,1178,2797
+"09","BAGHLAN","0904","NAHREEN","NAHREEN","NO","0904107","Mir Mohammad Shaheed Ilhaqia School","Darah Gai Dasht e Qazi",NA,NA,"NO","NO","no change","New",906,228,21,0,166,0,0,8,33,677,523,154,1,0,524,154,678
+"09","BAGHLAN","0904","NAHREEN","NAHREEN","NO","0904109","Hazrat Usman School","Sarak Sayad",NA,NA,"NO","NO","no change","Old",924,48,24,0,6,0,0,3,15,876,652,224,0,0,652,224,876
+"09","BAGHLAN","0904","NAHREEN","NAHREEN","NO","0904116","Tali ha School","Tali ha",NA,NA,"NO","NO","no change","Old",3000,86,15,0,9,0,0,10,52,2909,1741,1168,5,0,1745,1169,2914
+"09","BAGHLAN","0905","BAGHLAN JADID","BAGHLAN JADID","NO","0905130","Nazukmeer Shaheed School","Sarak Hashtum  (Street 8)",NA,NA,"NO","NO","no change","Old",550,36,10,0,9,0,0,1,16,512,381,131,2,0,383,131,514
+"09","BAGHLAN","0905","BAGHLAN JADID","BAGHLAN JADID","NO","0905131","Khwajah Khan Baba School","Sarak 12 (Street 12) Khwajah Khan",NA,NA,"NO","NO","no change","Old",2586,140,9,0,56,0,0,20,55,1758,964,794,688,0,1298,1148,2446
+"09","BAGHLAN","0905","BAGHLAN JADID","BAGHLAN JADID","NO","0905147","Chahar Shanbah Tepah School","Tahiri ha village",NA,NA,"NO","NO","no change","Old",1752,286,1,0,26,0,0,1,258,1465,977,488,1,0,977,489,1466
+"09","BAGHLAN","0905","BAGHLAN JADID","BAGHLAN JADID","NO","0905150","Abu Had Jarkhushk School","Jar e Khushk",NA,NA,"NO","NO","no change","Old",2814,72,13,0,22,0,0,4,33,2613,1685,928,129,0,1760,982,2742
+"09","BAGHLAN","0905","BAGHLAN JADID","BAGHLAN JADID","NO","0905154","Shahi Khil Secondary School","Shahi Khil",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"09","BAGHLAN","0905","BAGHLAN JADID","BAGHLAN JADID","NO","0905155","Allauddin Jame Mosque","Shahi Khil village",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"09","BAGHLAN","0905","BAGHLAN JADID","BAGHLAN JADID","NO","0905156","Mangal Ha Boys High School","Mangal ha village",NA,NA,"NO","NO","no change","Old",4794,301,4,0,37,0,0,66,194,4486,2304,2182,7,0,2311,2182,4493
+"09","BAGHLAN","0905","BAGHLAN JADID","BAGHLAN JADID","NO","0905160","Arab ha village, on the left side of the Qasarkhil","Qeshlaq  (village) Arab ha",NA,NA,"NO","NO","no change","Old",1194,62,8,0,11,0,0,27,16,1129,754,375,3,0,756,376,1132
+"09","BAGHLAN","0905","BAGHLAN JADID","BAGHLAN JADID","NO","0905161","Qaisarkhil High School","Qaisarkhil",NA,NA,"NO","NO","no change","Old",1308,114,11,0,12,0,0,20,71,1194,757,437,0,0,757,437,1194
+"09","BAGHLAN","0910","BORKA","BORKA","NO","0910207","Sai Hazarah Secondary School","Haji Hazrat Shah village",NA,NA,"NO","NO","no change","Old",3438,121,14,1,20,0,0,35,51,3315,1666,1649,2,0,1667,1650,3317
+"09","BAGHLAN","0910","BORKA","BORKA","NO","0910212","Chappah School","Chapah",NA,NA,"NO","NO","no change","Old",1019,99,23,0,11,0,0,13,52,920,550,370,0,0,550,370,920
+"09","BAGHLAN","0911","TALA WA BARFAK","TALA WA BARFAK","NO","0911223","Amir Naziah Mosque","Dahana e Reshqab",NA,NA,"NO","NO","no change","Old",2400,114,10,0,14,0,0,3,87,2284,1137,1147,2,0,1138,1148,2286
+"09","BAGHLAN","0911","TALA WA BARFAK","TALA WA BARFAK","NO","0911224","Gardandah Jame Mosque","Gardandah",NA,NA,"NO","NO","no change","New",2400,91,11,0,34,0,0,22,24,2309,1160,1149,0,0,1160,1149,2309
+"09","BAGHLAN","0911","TALA WA BARFAK","TALA WA BARFAK","NO","0911227","Sang Paran Mosque","Sang Paran",NA,NA,"NO","NO","no change","New",1200,102,2,0,71,0,0,6,23,1098,545,553,0,0,545,553,1098
+"09","BAGHLAN","0911","TALA WA BARFAK","TALA WA BARFAK","NO","0911228","Kololah Sang Mosque","Kulula Sang",NA,NA,"NO","NO","no change","Old",2400,77,6,0,37,0,0,8,26,2322,1177,1145,1,0,1178,1145,2323
+"09","BAGHLAN","0911","TALA WA BARFAK","TALA WA BARFAK","NO","0911230","Khelar Secondary School","Khilar",NA,NA,"NO","NO","no change","New",1794,88,4,0,13,0,0,15,56,1705,566,1139,1,0,566,1140,1706
+"09","BAGHLAN","0911","TALA WA BARFAK","TALA WA BARFAK","NO","0911231","Wadu High School","Wadur",NA,NA,"NO","NO","no change","Old",600,29,3,0,5,0,0,14,7,571,571,0,0,0,571,0,571
+"09","BAGHLAN","0911","TALA WA BARFAK","TALA WA BARFAK","NO","0911232","Tarmesh School","Tarmesh",NA,NA,"NO","NO","no change","Relocated",1800,33,6,0,7,0,0,7,13,1767,582,1185,0,0,582,1185,1767
+"09","BAGHLAN","0911","TALA WA BARFAK","TALA WA BARFAK","NO","0911233","Bilandi Ashraf Madrassah","Bilandi Ashraf village",NA,NA,"NO","NO","no change","Old",1799,87,19,0,11,0,0,21,36,1712,1140,572,0,0,1140,572,1712
+"09","BAGHLAN","0911","TALA WA BARFAK","TALA WA BARFAK","NO","0911235","Talah Boys High School","Talah district center",NA,NA,"NO","NO","no change","Old",4800,228,14,0,63,0,0,63,88,4570,2246,2324,2,0,2248,2324,4572
+"09","BAGHLAN","0911","TALA WA BARFAK","TALA WA BARFAK","NO","0911236","Barfak Secondary School","Surkh Joi",NA,NA,"NO","NO","no change","Old",3000,250,30,1,137,0,0,31,51,2750,1701,1049,0,0,1701,1049,2750
+"09","BAGHLAN","0911","TALA WA BARFAK","TALA WA BARFAK","NO","0911237","Nomania Madrassah","Zer Bagh",NA,NA,"NO","NO","no change","Old",4200,166,11,0,79,0,0,28,48,4033,2338,1695,1,0,2338,1696,4034
+"09","BAGHLAN","0913","KHOST WA FERENG","KHOST WA FERENG","NO","0913257","Sabz Mohammad Khan High School","Farghanbel",NA,NA,"NO","NO","no change","Old",1416,133,16,0,11,0,0,33,73,1282,770,512,1,0,770,513,1283
+"09","BAGHLAN","0913","KHOST WA FERENG","KHOST WA FERENG","NO","0913266","Baharak Secondary School","Baharak",NA,NA,"NO","NO","no change","Old",504,51,23,0,5,0,0,8,15,453,383,70,0,0,383,70,453
+"09","BAGHLAN","0913","KHOST WA FERENG","KHOST WA FERENG","NO","0913271","Sachi Secondary School","Sachi",NA,NA,"NO","NO","no change","Old",1200,86,7,0,12,0,0,11,56,1114,547,567,0,0,547,567,1114
+"10","BAMYAN","1002","SHEBAR","SHEBAR","NO","1002046"," Sar e Qundi Baghak Madrassah","Imandab, Sar e Qundi Baghak",NA,NA,"NO","NO","no change","Old",702,51,32,0,9,0,0,0,10,651,359,292,0,0,359,292,651
+"12","PAKTIKA","1203","YOSUFKHEL","YOSUFKHEL","NO","1203028"," Aryana School"," Mashkhil",3,0,"YES","NO","no change","Relocated",1050,72,26,0,8,0,0,2,36,959,747,212,19,0,766,212,978
+"12","PAKTIKA","1203","YOSUFKHEL","YOSUFKHEL","NO","1203032"," Barat Khil Girls School"," Barat Khil",3,0,"YES","NO","no change","New",924,41,9,0,11,0,0,2,19,883,696,187,0,0,696,187,883
+"12","PAKTIKA","1205","SAR RAWZA","SAR RAWZA","NO","1205052"," Sultani High School"," Sultani",3,0,"YES","NO","no change","Relocated",1272,118,5,0,11,0,0,4,98,1152,941,211,2,0,943,211,1154
+"12","PAKTIKA","1207","ZARGHONSHAHR","ZARGHONSHAHR","NO","1207064"," Bi Bi Ayesh School"," Mili Zai",1,0,"YES","NO","no change","Relocated",600,54,0,1,13,0,0,13,27,545,545,0,1,0,546,0,546
+"12","PAKTIKA","1208","GOMAL","GOMAL","NO","1208094"," Sayed Khil Mosque"," Sayed Khil",NA,NA,"NO","NO","no change","Not Assessed",2400,43,0,0,8,0,0,3,32,2301,1720,581,56,0,1776,581,2357
+"12","PAKTIKA","1208","GOMAL","GOMAL","NO","1208097"," Eisa Jee School"," Menzai",NA,NA,"NO","NO","no change","Not Assessed",1578,47,10,0,13,0,0,5,19,1528,1528,0,3,0,1531,0,1531
+"12","PAKTIKA","1208","GOMAL","GOMAL","NO","1208101"," Mullah Dawlat Madrassah"," Zawlo Khil",NA,NA,"NO","NO","no change","Not Assessed",1434,59,3,0,8,0,0,13,35,1374,1374,0,1,0,1375,0,1375
+"12","PAKTIKA","1209","JANIKHEL","JANIKHEL","NO","1209111"," Shahturo Primary School"," Shah Tori",NA,NA,"NO","NO","no change","Relocated",3594,168,16,0,58,0,0,24,70,3036,2084,952,390,0,2257,1169,3426
+"12","PAKTIKA","1210","SAROBI","SAROBI","NO","1210116"," Ahmadya Secondary School"," Hebathi",1,0,"YES","NO","no change","Relocated",1200,80,0,0,17,0,0,19,44,1120,555,565,0,0,555,565,1120
+"12","PAKTIKA","1211","URGUN","URGUN","NO","1211134"," Ali Baz Melmastoon (Guest House)"," Pushte Village",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","PAKTIKA","1211","URGUN","URGUN","NO","1211142"," Dahane Secondary School"," Dahana village",2,0,"YES","NO","no change","New",558,36,6,0,6,0,0,4,20,522,505,17,0,0,505,17,522
+"12","PAKTIKA","1211","URGUN","URGUN","NO","1211149"," Urgoon old Girls School"," Zorr Urgoon ",3,0,"YES","NO","no change","Old",1284,80,15,0,14,0,0,16,35,1204,923,281,0,0,923,281,1204
+"12","PAKTIKA","1211","URGUN","URGUN","NO","1211151"," Ghoch School"," Qalla Jani",4,0,"YES","NO","no change","Old",2226,114,16,0,9,0,0,2,87,2094,1081,1013,18,0,1099,1013,2112
+"12","PAKTIKA","1214","BARAL","BARAL","NO","1214183"," Border Ahmadzai Mosque"," Ahmadzai Madrassah",2,0,"YES","NO","no change","Old",708,30,8,0,6,0,0,1,15,678,587,91,0,0,587,91,678
+"12","PAKTIKA","1216","DELA","DELA","NO","1216209"," Health Clinic"," District Center",NA,NA,"NO","NO","no change","Not Assessed",2353,54,9,0,10,0,0,12,23,2298,1714,584,1,0,1715,584,2299
+"12","PAKTIKA","1216","DELA","DELA","NO","1216210"," Akbar Jan Shop"," District Center",NA,NA,"NO","NO","no change","Not Assessed",1248,28,2,0,12,0,0,2,12,1219,1173,46,1,0,1174,46,1220
+"13","PAKTYA","1301","GARDEZ","GARDEZ","YES","1301008"," Ibrahim Khil School"," Ibrahim Khil",2,0,"YES","NO","no change","Old",144,18,5,0,4,0,0,5,4,126,102,24,0,0,102,24,126
+"13","PAKTYA","1302","AHMADABA","AHMADABA","NO","1302033"," Borgai School"," Borgaio Village village",NA,NA,"NO","NO","no change","Old",4199,99,3,1,24,0,0,27,44,4002,1113,2889,96,2,1158,2942,4100
+"13","PAKTYA","1302","AHMADABA","AHMADABA","NO","1302035"," Fazel Khil Jame Mosque"," Gharrak",NA,NA,"NO","NO","no change","Old",1200,56,6,0,9,0,0,0,41,1059,504,555,84,1,586,558,1144
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303037"," Shahi Kot School"," Armah Shahi Kot",NA,NA,"NO","NO","no change","Old",1859,84,4,0,26,0,0,35,19,1771,1720,51,4,0,1724,51,1775
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303038"," District Center Armah"," Armah ",NA,NA,"NO","NO","no change","Old",210,44,0,0,2,0,0,0,42,165,113,52,1,0,114,52,166
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303048"," Batoor High School"," Batoor",NA,NA,"NO","NO","no change","Old",1152,49,2,0,13,0,0,21,13,1103,1103,0,0,0,1103,0,1103
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303050"," Sahak Clinic"," Sahak",NA,NA,"NO","NO","no change","Old",1098,27,8,0,0,0,0,16,3,1009,936,73,62,0,998,73,1071
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303051"," Sahak High School"," Sahak",NA,NA,"NO","NO","no change","Old",2814,111,5,0,26,0,0,42,38,2689,2287,402,14,0,2301,402,2703
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303052"," Haibat School"," Haibat Khil",NA,NA,"NO","NO","no change","Relocated",2058,72,11,0,17,0,0,28,16,1946,1863,83,40,0,1903,83,1986
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303053"," Shamolzai School"," Shamolzai Sahak",NA,NA,"NO","NO","no change","Relocated",156,10,7,0,2,0,0,0,1,137,75,62,9,0,84,62,146
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303054"," Shagom Bala Madrassah"," Haibat Khil",NA,NA,"NO","NO","no change","Old",600,9,0,0,3,0,0,0,6,591,0,591,0,0,0,591,591
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303055"," Dagar Ji Mosque"," Gerji",NA,NA,"NO","NO","no change","Relocated",2562,99,14,0,20,0,0,39,26,2439,2092,347,24,0,2111,352,2463
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303056"," Dawlat Khan village Mosque"," Dawlat Khan",NA,NA,"NO","NO","no change","Old",696,14,1,0,7,0,0,6,0,596,538,58,86,0,586,96,682
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303057"," Kolalgo High School"," Kolalgu",NA,NA,"NO","NO","no change","Old",2592,129,3,0,31,0,0,45,50,2462,2270,192,1,0,2271,192,2463
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303058"," Itefaq School"," Jeghatyan Kolalgu",NA,NA,"NO","NO","no change","Old",2640,103,6,0,18,0,0,37,42,2530,2294,236,7,0,2301,236,2537
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303059"," Koti Khil School"," Koti Khil",NA,NA,"NO","NO","no change","Old",1063,33,4,0,14,0,0,1,14,717,631,86,313,0,944,86,1030
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303060"," Dawlat Zai High School"," Makawah Dawlat zai",NA,NA,"NO","NO","no change","Old",1200,56,2,0,5,0,0,2,47,837,411,426,307,0,551,593,1144
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303065"," Alozo School"," Alozo Kala, Sourkai",NA,NA,"NO","NO","no change","Old",1584,106,10,0,7,0,0,36,53,1478,1262,216,0,0,1262,216,1478
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303066"," Soorkai School"," Sourkai",NA,NA,"NO","NO","no change","Old",1506,122,7,0,10,0,0,26,79,1376,1144,232,8,0,1152,232,1384
+"13","PAKTYA","1303","ZURMAT","ZURMAT","NO","1303067"," Kam Jamali village Mosque"," Sourkai",NA,NA,"NO","NO","no change","Relocated",522,18,7,0,2,0,0,3,6,503,428,75,1,0,429,75,504
+"13","PAKTYA","1305","ZADRAN","ZADRAN","NO","1305072"," Adah Mosque"," Moti",NA,NA,"NO","NO","no change","Old",1500,36,6,0,10,0,0,10,10,1463,894,569,1,0,895,569,1464
+"13","PAKTYA","1305","ZADRAN","ZADRAN","NO","1305073"," Moti Mosque"," Ster Village Meti",NA,NA,"NO","NO","no change","Relocated",2394,35,1,0,6,0,0,5,23,2359,1190,1169,0,0,1190,1169,2359
+"13","PAKTYA","1305","ZADRAN","ZADRAN","NO","1305082"," Keen Lagad Mosque"," Keen Lagad",NA,NA,"NO","NO","no change","Relocated",1200,53,0,0,31,0,0,13,9,1146,583,563,1,0,584,563,1147
+"13","PAKTYA","1306","SAYEDKARAM","SAYEDKARAM","NO","1306091"," Boqar Mosque"," Usman Khil",NA,NA,"NO","NO","no change","Relocated",3600,117,11,0,35,0,0,5,66,3473,1717,1756,10,0,1724,1759,3483
+"13","PAKTYA","1306","SAYEDKARAM","SAYEDKARAM","NO","1306093"," Khan Khil School"," Khan Khil, Bar Kalgar",NA,NA,"NO","NO","no change","Old",2994,78,4,0,29,0,0,0,45,2916,1747,1169,0,0,1747,1169,2916
+"13","PAKTYA","1306","SAYEDKARAM","SAYEDKARAM","NO","1306094"," Khoshal Khil Madrassah"," Khoshal Khil",NA,NA,"NO","NO","no change","Old",792,46,4,0,10,0,0,1,31,742,521,221,4,0,525,221,746
+"13","PAKTYA","1306","SAYEDKARAM","SAYEDKARAM","NO","1306096"," Shajanak School"," Sajanak",NA,NA,"NO","NO","no change","Relocated",1200,64,1,0,28,0,0,9,26,1135,573,562,1,0,573,563,1136
+"13","PAKTYA","1306","SAYEDKARAM","SAYEDKARAM","NO","1306099"," Khand Khil School"," Khand Khil",NA,NA,"NO","NO","no change","Old",1668,69,9,0,14,0,0,23,23,1584,897,687,15,0,912,687,1599
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307105"," Kotkai Mosque"," Kotki",2,0,"YES","NO","no change","Old",2400,91,10,0,41,0,0,11,29,2307,1141,1166,2,0,1142,1167,2309
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307106"," Gul Ghundai Mosque"," Gul Ghondi",5,0,"YES","NO","no change","Old",4200,124,3,0,42,0,0,16,63,4074,2325,1749,2,0,2326,1750,4076
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307107"," Soor Gul School"," Sour Gul",4,0,"YES","NO","no change","Old",3600,75,14,0,34,0,0,3,24,3513,1748,1765,12,0,1759,1766,3525
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307108"," Mohammadullah School"," Belawoot",NA,NA,"NO","NO","no change","Old",2400,40,1,0,12,0,0,10,17,2359,1179,1180,1,0,1179,1181,2360
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307109"," Faqeer Baba School"," Lar Lewanai or Shareef Village",2,0,"YES","NO","no change","Old",4800,182,4,0,137,0,0,9,32,4601,2348,2253,16,1,2363,2255,4618
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307110"," Patlaw Clinic"," Ali Sangi",NA,NA,"NO","NO","no change","Relocated",2400,705,9,0,651,0,0,1,44,1694,757,937,1,0,758,937,1695
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307111"," Ali Sangai Clinic"," Ali Sangi Payan",1,0,"YES","NO","no change","Old",3600,112,1,0,36,0,0,7,68,3487,1750,1737,1,0,1750,1738,3488
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307112"," Ahmad Khil School"," Ghonzai Ahmad Khil",5,0,"YES","NO","no change","Old",3144,134,21,0,29,0,0,15,69,3010,2183,827,0,0,2183,827,3010
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307113"," Khwazi Khil Speen Masjid Mosque"," Khwazi Khil",2,0,"YES","NO","no change","Relocated",2400,203,17,0,39,0,0,7,140,2197,1068,1129,0,0,1068,1129,2197
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307114"," Kanna Khil School"," Kanna Khil",5,0,"YES","NO","no change","Old",3570,68,16,0,29,0,0,3,20,3500,1761,1739,0,2,1762,1740,3502
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307115"," Mahram Astya School"," Mahram Astya",2,0,"YES","NO","no change","Old",1200,24,2,0,10,0,0,4,8,1176,590,586,0,0,590,586,1176
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307116"," Sangar Mosque"," Ali Khil",NA,NA,"NO","NO","no change","Old",4464,91,4,0,25,0,0,25,37,4372,2194,2178,1,0,2195,2178,4373
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307118"," Badali School"," Badalah",5,0,"YES","NO","no change","Relocated",3000,247,13,0,195,0,0,11,28,2751,1622,1129,2,0,1624,1129,2753
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307119"," Zarakhil Madrassah"," Sheeshtah Village",3,0,"YES","NO","no change","Relocated",3162,228,6,0,26,0,0,7,189,2930,1554,1376,3,1,1555,1379,2934
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307120"," Saleh Koti Mosque"," Sheesjtah ",2,0,"YES","NO","no change","Relocated",2400,180,11,0,52,0,0,1,116,2218,1101,1117,1,1,1101,1119,2220
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307121"," Shagai Mosque"," Shagah",2,0,"YES","NO","no change","Relocated",2766,86,18,0,32,0,0,5,31,2677,1509,1168,2,1,1510,1170,2680
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307122"," Khairmani School"," Khair Manah",NA,NA,"NO","NO","no change","Old",4800,443,3,0,279,0,0,3,158,4355,2077,2278,2,0,2078,2279,4357
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307123"," Sarwan Khil School"," Sarwann Khil",3,0,"YES","NO","no change","Old",1800,95,3,0,16,0,0,2,74,1705,1120,585,0,0,1120,585,1705
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307124"," Mari Khil School"," Mari Khil",NA,NA,"NO","NO","no change","Old",1200,55,0,0,51,0,0,1,3,1143,587,556,2,0,589,556,1145
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307125"," Rokyano Madrassah"," Rokyan",NA,NA,"NO","NO","no change","Old",1200,82,8,0,18,0,0,1,55,1117,535,582,1,0,535,583,1118
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307126"," Hasan Algadi Mosque"," Hasan Lagadah",NA,NA,"NO","NO","no change","Old",1200,65,19,0,17,0,0,1,28,1134,581,553,1,0,581,554,1135
+"13","PAKTYA","1307","JAJEE","JAJEE","NO","1307127"," Kharloti Hospital"," Kharlotai",NA,NA,"NO","NO","no change","Old",1200,36,1,0,22,0,0,0,13,1164,585,579,0,0,585,579,1164
+"13","PAKTYA","1308","LEJA AHMADKHEL","LEJA AHMADKHEL","NO","1308128"," Moshkah Clinic"," Moshkah, Ahmad Khil",NA,NA,"NO","NO","no change","Old",1068,42,8,0,12,0,0,3,19,1025,617,408,0,1,617,409,1026
+"13","PAKTYA","1308","LEJA AHMADKHEL","LEJA AHMADKHEL","NO","1308130"," Dawlat Khil Mosque"," Sabat Khil, Ahmad Khil",NA,NA,"NO","NO","no change","Old",1896,80,9,0,10,0,0,3,58,1816,997,819,0,0,997,819,1816
+"13","PAKTYA","1308","LEJA AHMADKHEL","LEJA AHMADKHEL","NO","1308132"," Tarkanani Sikandar Khil Mosque"," Tarkanai",NA,NA,"NO","NO","no change","New",1440,69,10,0,3,0,0,0,56,1371,793,578,0,0,793,578,1371
+"13","PAKTYA","1308","LEJA AHMADKHEL","LEJA AHMADKHEL","NO","1308133"," Sikandar Khil High School"," Warsak Village, Ahmad Khil",NA,NA,"NO","NO","no change","Old",2394,38,1,0,11,0,0,3,23,2356,1170,1186,0,0,1170,1186,2356
+"13","PAKTYA","1308","LEJA AHMADKHEL","LEJA AHMADKHEL","NO","1308134"," Sikander Khil Girls School"," Warsak Village, Ahmad Khil",NA,NA,"NO","NO","no change","Relocated",2394,43,6,0,10,0,0,3,24,2351,1168,1183,0,0,1168,1183,2351
+"13","PAKTYA","1308","LEJA AHMADKHEL","LEJA AHMADKHEL","NO","1308135"," Moti School"," Moti Village, Sikandar Khil, Ahmad Khil",NA,NA,"NO","NO","no change","Old",2400,122,4,1,27,0,0,2,88,2278,1141,1137,0,0,1141,1137,2278
+"13","PAKTYA","1308","LEJA AHMADKHEL","LEJA AHMADKHEL","NO","1308136"," Sulaiman Khil Mosque"," Kondi Hasan Khil Village",NA,NA,"NO","NO","no change","Old",1896,135,12,0,16,0,0,2,105,1761,961,800,0,0,961,800,1761
+"13","PAKTYA","1308","LEJA AHMADKHEL","LEJA AHMADKHEL","NO","1308137"," Wanas Khil Mosque"," Kondi Hasan Khil Village",NA,NA,"NO","NO","no change","Old",2400,43,8,0,15,0,0,4,16,2355,1175,1180,2,0,1177,1180,2357
+"13","PAKTYA","1308","LEJA AHMADKHEL","LEJA AHMADKHEL","NO","1308138"," Jenaza Bagh Clinic"," Sabat Khil",NA,NA,"NO","NO","no change","Old",1800,24,1,0,10,0,0,0,13,1774,1186,588,2,0,1187,589,1776
+"13","PAKTYA","1309","JANIKHEL","JANIKHEL","NO","1309142"," Chinari Madrassah"," Tanga Paru Khil",NA,NA,"NO","NO","no change","Old",1086,25,3,0,12,0,0,3,7,1060,594,466,0,1,594,467,1061
+"13","PAKTYA","1309","JANIKHEL","JANIKHEL","NO","1309143"," Da Manzal Gadai Mosque"," Bal Khil",NA,NA,"NO","NO","no change","Old",3000,94,22,0,16,0,0,6,50,2905,1148,1757,1,0,1149,1757,2906
+"13","PAKTYA","1309","JANIKHEL","JANIKHEL","NO","1309144"," Mulla Gul Mosque"," Bal Khil",NA,NA,"NO","NO","no change","Old",2400,66,26,1,17,0,0,2,20,2332,1168,1164,2,0,1168,1166,2334
+"13","PAKTYA","1309","JANIKHEL","JANIKHEL","NO","1309145"," Da Drande Mosque"," Drandai , Bal khil",NA,NA,"NO","NO","no change","New",912,13,3,0,2,0,0,3,5,898,507,391,1,0,507,392,899
+"13","PAKTYA","1309","JANIKHEL","JANIKHEL","NO","1309146"," Da Drande Mosque"," Drandai, Bal Khil",NA,NA,"NO","NO","no change","Old",3000,79,20,0,26,0,0,8,25,2921,1744,1177,0,0,1744,1177,2921
+"13","PAKTYA","1309","JANIKHEL","JANIKHEL","NO","1309149"," Moti village Mosque"," Moti",NA,NA,"NO","NO","no change","Relocated",612,22,3,0,6,0,0,0,13,589,327,262,0,1,327,263,590
+"13","PAKTYA","1309","JANIKHEL","JANIKHEL","NO","1309150"," Awgur High School"," Awrgorr",NA,NA,"NO","NO","no change","Old",2400,79,21,0,13,0,0,0,45,2321,1165,1156,0,0,1165,1156,2321
+"13","PAKTYA","1309","JANIKHEL","JANIKHEL","NO","1309151"," Kotki Mosque"," Kotkai, Ster Village",NA,NA,"NO","NO","no change","Old",1800,23,0,0,8,0,0,1,14,1777,595,1182,0,0,595,1182,1777
+"13","PAKTYA","1311","DAND WA PATAN","DAND WA PATAN","NO","1311168"," Saltak Moqbil Secondary School"," Seltak Muqbil",NA,NA,"NO","NO","no change","Old",3598,26,7,0,11,0,0,1,7,3570,1786,1784,2,0,1788,1784,3572
+"13","PAKTYA","1311","DAND WA PATAN","DAND WA PATAN","NO","1311171"," Matawarkh Mosque"," Matawarkh village",4,0,"YES","NO","no change","Old",2376,58,18,0,15,0,0,2,23,2318,1142,1176,0,0,1142,1176,2318
+"13","PAKTYA","1312","LEJAMANGAL","LEJAMANGAL","NO","1312179"," Sharabak Primary School"," Sharabak , Lajjah Mangal ",2,0,"YES","NO","no change","Old",1200,43,14,0,7,0,0,0,22,1155,576,579,2,0,578,579,1157
+"13","PAKTYA","1312","LEJAMANGAL","LEJAMANGAL","NO","1312180"," Tushnak School"," Tushnak, Lajjah Mangal",NA,NA,"NO","NO","no change","Old",3600,168,14,0,26,0,0,23,105,3430,1723,1707,2,0,1724,1708,3432
+"13","PAKTYA","1312","LEJAMANGAL","LEJAMANGAL","NO","1312181"," Lalak Kahool Madrassah"," Lalak village",1,0,"YES","NO","no change","Old",3000,99,33,0,31,0,0,1,34,2900,1173,1727,1,0,1173,1728,2901
+"13","PAKTYA","1312","LEJAMANGAL","LEJAMANGAL","NO","1312182"," Khairani School"," Khairani , Lajjah Mangal ",3,0,"YES","NO","no change","Old",2820,129,53,0,19,0,0,6,51,2690,1447,1243,1,0,1448,1243,2691
+"13","PAKTYA","1312","LEJAMANGAL","LEJAMANGAL","NO","1312183"," Lajjah Primary School"," Lajjah Mangal Patakah",NA,NA,"NO","NO","no change","Relocated",2046,87,12,0,9,0,0,2,64,1959,822,1137,0,0,822,1137,1959
+"13","PAKTYA","1312","LEJAMANGAL","LEJAMANGAL","NO","1312186"," Dodi Mosque"," Kozah Dodah",2,0,"YES","NO","no change","Old",1200,33,12,0,7,0,0,0,14,1167,584,583,0,0,584,583,1167
+"13","PAKTYA","1312","LEJAMANGAL","LEJAMANGAL","NO","1312187"," Lajjah Mangal School"," Chergo village, Lajjah Mangal",4,0,"YES","NO","no change","Old",4200,176,20,0,55,0,0,4,97,4022,1759,2263,2,0,1760,2264,4024
+"13","PAKTYA","1313","MEARZAKA","MEARZAKA","NO","1313190"," Khalilan High School"," Khalilan , Mir Zakah",1,0,"YES","NO","no change","Old",1074,61,16,0,23,0,0,3,19,1012,436,576,0,1,436,577,1013
+"13","PAKTYA","1313","MEARZAKA","MEARZAKA","NO","1313192"," Chorarrkai School"," Chorrkai, Mir Zakah",2,0,"YES","NO","no change","Old",1716,1329,16,0,1307,0,0,3,3,387,194,193,0,0,194,193,387
+"13","PAKTYA","1313","MEARZAKA","MEARZAKA","NO","1313193"," Suhbati School"," Suhbati village Kajeerah, Mir Zakah",3,0,"YES","NO","no change","New",1476,771,5,0,762,0,0,1,3,705,631,74,0,0,631,74,705
+"13","PAKTYA","1315","ROHANI BABA","ROHANI BABA","NO","1315039","Nawai Madrassah","Armah Astogan",NA,NA,"NO","NO","added",NA,2718,108,12,0,22,0,0,36,38,2608,2301,307,2,0,2303,307,2610
+"13","PAKTYA","1315","ROHANI BABA","ROHANI BABA","NO","1315040","Saleh Khil Madrassah","Sourkai",NA,NA,"NO","NO","added",NA,2898,90,13,0,16,0,0,22,39,2761,2289,472,47,0,2334,474,2808
+"13","PAKTYA","1315","ROHANI BABA","ROHANI BABA","NO","1315041","Babul Khil village Mosque","Babul Khil",NA,NA,"NO","NO","added",NA,2844,106,6,0,9,0,0,26,65,2687,2267,420,51,0,2312,426,2738
+"13","PAKTYA","1315","ROHANI BABA","ROHANI BABA","NO","1315042","Menjawar Rouhani Ba Ba Mosque","Mejanjour Rouhani Ba Ba",NA,NA,"NO","NO","added",NA,1614,111,10,0,85,0,0,4,12,1293,1109,184,210,0,1110,393,1503
+"13","PAKTYA","1315","ROHANI BABA","ROHANI BABA","NO","1315043","Khar Mast Khilo Mosque","Armah Kharmast Khil",NA,NA,"NO","NO","added",NA,1026,111,14,1,49,0,0,29,18,915,850,65,0,0,850,65,915
+"13","PAKTYA","1315","ROHANI BABA","ROHANI BABA","NO","1315044","Mamozai Clinic","Armah Jainak Khil",NA,NA,"NO","NO","added",NA,348,18,6,0,1,0,0,4,7,288,202,86,42,0,244,86,330
+"13","PAKTYA","1315","ROHANI BABA","ROHANI BABA","NO","1315045","Shah Haider Mosque","Shahi Dar",NA,NA,"NO","NO","added",NA,480,21,4,0,5,0,0,4,8,428,316,112,31,0,347,112,459
+"14","KHOST","1401","KHOST (MATON)","KHOST (MATON)","YES","1401021"," Ghazi Abad Village Primary  School","Ghazi Abad",0,1,"NO","YES","no change","Old",1524,80,23,0,6,0,0,1,50,258,244,14,1186,0,1358,86,1444
+"14","KHOST","1401","KHOST (MATON)","KHOST (MATON)","YES","1401022"," Paste Pale Mosque"," Shamal Kharseen",1,0,"YES","NO","no change","Old",6,4,4,0,0,0,0,0,0,2,0,2,0,0,0,2,2
+"14","KHOST","1401","KHOST (MATON)","KHOST (MATON)","YES","1401033"," Kondaio village Mosque"," Kondaio Village",0,4,"NO","YES","no change","Relocated",1650,121,12,0,14,0,0,3,92,1529,1234,295,0,0,1234,295,1529
+"14","KHOST","1401","KHOST (MATON)","KHOST (MATON)","YES","1401035"," Khani Khwarr Mosque"," Khani Khor",0,2,"NO","YES","no change","Old",2604,70,16,0,8,0,0,16,30,1384,1253,131,1150,0,2234,300,2534
+"14","KHOST","1401","KHOST (MATON)","KHOST (MATON)","YES","1401036"," Mazghora village Mosque"," Mazghora village",0,2,"NO","YES","no change","Old",528,20,9,0,5,0,0,0,6,508,445,63,0,0,445,63,508
+"14","KHOST","1401","KHOST (MATON)","KHOST (MATON)","YES","1401042"," Khabshkhilo Mosque"," Habash Khil",0,3,"NO","YES","no change","Relocated",1980,365,16,0,34,0,0,3,312,1610,1173,437,5,0,1178,437,1615
+"14","KHOST","1405","MOSAKHEL","MOSAKHEL","NO","1405115"," Khoshamand Village Mosque"," Khoshmand Village",NA,NA,"NO","NO","no change","Relocated",2142,94,42,1,7,0,0,0,44,2047,1136,911,1,0,1137,911,2048
+"14","KHOST","1405","MOSAKHEL","MOSAKHEL","NO","1405116"," Hazrat Bilal Mosque"," Awzak village",NA,NA,"NO","NO","no change","Old",1434,109,34,0,3,0,0,3,69,1325,612,713,0,0,612,713,1325
+"14","KHOST","1405","MOSAKHEL","MOSAKHEL","NO","1405117"," Ajab Khan Mosque, Koseen Kholah"," Koseen Khowlah",NA,NA,"NO","NO","no change","Old",786,13,7,0,1,0,0,0,5,773,393,380,0,0,393,380,773
+"14","KHOST","1405","MOSAKHEL","MOSAKHEL","NO","1405118"," Wachkarrai village Mosque"," Wachkarrai Village",NA,NA,"NO","NO","no change","Relocated",1626,38,19,0,3,0,0,1,15,1588,730,858,0,0,730,858,1588
+"14","KHOST","1413","JAJIMAYDAN","JAJIMAYDAN","NO","1413183"," Zankhil Madrassah"," Zankhil",0,2,"NO","YES","no change","Old",1572,49,6,0,4,0,0,4,35,1521,1150,371,1,1,1152,371,1523
+"15","KUNARHA","1501","ASADABAD","ASADABAD","YES","1501049","Dandona High School","Dandona",NA,NA,"NO","NO","added",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","KUNARHA","1511","GHAZIABAD","GHAZIABAD","NO","1511098","Sonk Mosque","Sonk",NA,NA,"NO","NO","no change","New",6,5,5,0,0,0,0,0,0,1,1,0,0,0,1,0,1
+"16","NOORESTAN","1602","WAYGAL","WAYGAL","NO","1602013","Keegal Mosque","Keegal",NA,NA,"NO","NO","no change","Relocated",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1602","WAYGAL","WAYGAL","NO","1602014","Moldish Mosque","Moldish",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1602","WAYGAL","WAYGAL","NO","1602015","Irnes Mosque","Irnes",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1602","WAYGAL","WAYGAL","NO","1602023","Hamshoz Village School","Hamshoz Village",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1602","WAYGAL","WAYGAL","NO","1602024","Jamamish Mosque","Jamamish",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1602","WAYGAL","WAYGAL","NO","1602025","Nashi Gram School","Nashi Gram",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1603","WAMA","WAMA","NO","1603027","Kaam Gul Jami Mosque","Kaam Gul",2,0,"YES","NO","no change","Old",3486,2683,13,0,2638,0,0,7,25,802,316,486,1,0,316,487,803
+"16","NOORESTAN","1603","WAMA","WAMA","NO","1603032","Kordar Village Mosque","Kooz Kali Kordor",NA,NA,"NO","NO","no change","Old",1464,202,14,0,25,0,0,3,160,1262,869,393,0,0,869,393,1262
+"16","NOORESTAN","1604","NOORGERAM","NOORGERAM","NO","1604035","Gadalam Village Jami Mosque","Gadalam Village",NA,NA,"NO","NO","no change","Old",475,11,1,0,4,0,0,1,5,464,339,125,0,0,339,125,464
+"16","NOORESTAN","1604","NOORGERAM","NOORGERAM","NO","1604036","Culton School","Culton",NA,NA,"NO","NO","no change","Old",2887,2246,10,0,2219,0,0,11,6,641,343,298,0,0,343,298,641
+"16","NOORESTAN","1604","NOORGERAM","NOORGERAM","NO","1604037","Shaama","Cha-eel",4,0,"YES","NO","no change","Not Assessed",1920,115,3,0,14,0,0,32,66,1804,1226,578,1,0,1226,579,1805
+"16","NOORESTAN","1604","NOORGERAM","NOORGERAM","NO","1604038","Pashgar Health Clinic","Dostoo",4,0,"YES","NO","no change","Old",2236,202,3,0,72,0,0,33,94,2034,1633,401,0,0,1633,401,2034
+"16","NOORESTAN","1604","NOORGERAM","NOORGERAM","NO","1604039","Malak wa Mashook","Malak Village",NA,NA,"NO","NO","no change","Old",1967,335,6,0,245,0,0,53,31,1631,1145,486,1,0,1146,486,1632
+"16","NOORESTAN","1605","DOAB","DOAB","NO","1605042","Kor Gul Secondary School","Kor Gul",NA,NA,"NO","NO","no change","Not Assessed",539,42,3,0,8,0,0,4,27,497,396,101,0,0,396,101,497
+"16","NOORESTAN","1605","DOAB","DOAB","NO","1605043","Do Aab High School","District Center",NA,NA,"NO","NO","no change","Old",1517,70,5,0,16,0,0,29,20,1446,1177,269,1,0,1178,269,1447
+"16","NOORESTAN","1605","DOAB","DOAB","NO","1605044","Shah Dis Mosque","Shah Dis Bijigul",NA,NA,"NO","NO","no change","Old",4997,617,12,0,443,0,0,33,129,4375,3167,1208,5,0,3167,1213,4380
+"16","NOORESTAN","1605","DOAB","DOAB","NO","1605045","Dahan Mawi Clinic","Dahan Mawi",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1605","DOAB","DOAB","NO","1605046","Kalam","Sabzar Kalam",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1605","DOAB","DOAB","NO","1605047","Nilab Village School","Nilab Poka",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1605","DOAB","DOAB","NO","1605049","Jhonia School","Jhonia",NA,NA,"NO","NO","no change","Old",337,28,8,0,6,0,0,5,9,304,291,13,5,0,296,13,309
+"16","NOORESTAN","1606","KAMDESH","KAMDESH","NO","1606053","Gor Dish Village School","Gor Dish Village",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1607","MANDOL","MANDOL","NO","1607063","Bando Village Mosque","Bandol District Center",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1607","MANDOL","MANDOL","NO","1607064","Dooni Village Jami Mosque","Dooni Village",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1607","MANDOL","MANDOL","NO","1607071","Lenar Village School","Lenar Village",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","NOORESTAN","1608","BARGEMATAL","BARGEMATAL","NO","1608073","Shadgul Village Malik House","Shadgul Village",NA,NA,"NO","NO","no change","Old",96,8,2,0,0,0,0,0,6,88,0,88,0,0,0,88,88
+"16","NOORESTAN","1608","BARGEMATAL","BARGEMATAL","NO","1608077","Anaati Village Mosque","Anaati Village",2,0,"YES","NO","no change","Old",2399,220,3,0,95,0,0,46,76,2179,1100,1079,0,0,1100,1079,2179
+"17","BADAKHSHAN","1702","ARGO","ARGO","NO","1702029","Barlas Wakhian School","Barlas Wakhian",NA,NA,"NO","NO","no change","Old",854,135,10,0,9,0,0,111,5,719,513,206,0,0,513,206,719
+"17","BADAKHSHAN","1702","ARGO","ARGO","NO","1702030","Argtaal Primary School","Argtaal",NA,NA,"NO","NO","no change","New",1003,34,5,0,7,0,0,9,13,969,466,503,0,0,466,503,969
+"17","BADAKHSHAN","1713","SHAHR BUZORG","SHAHR BUZORG","NO","1713180","Gazanfar Payeen Mosque","Ghanghar Payan",NA,NA,"NO","NO","no change","Old",394,72,12,0,2,0,0,51,7,322,254,68,0,0,254,68,322
+"17","BADAKHSHAN","1715","KESHEM","KESHEM","NO","1715204","Dashti Khawrak School","Dashti Khawrak",NA,NA,"NO","NO","no change","Old",1154,299,15,0,45,0,0,154,85,853,617,236,2,0,618,237,855
+"17","BADAKHSHAN","1717","TAGAB","TAGAB","NO","1717226","Khambak Bala School","Khambak Bala",NA,NA,"NO","NO","no change","Old",485,87,2,0,4,0,0,62,19,398,205,193,0,0,205,193,398
+"17","BADAKHSHAN","1717","TAGAB","TAGAB","NO","1717229","Kori School","Kori",NA,NA,"NO","NO","no change","Old",775,72,12,0,6,0,0,36,18,703,517,186,0,0,517,186,703
+"17","BADAKHSHAN","1717","TAGAB","TAGAB","NO","1717230","Aajil Mosque","Aajil",NA,NA,"NO","NO","no change","Old",243,54,11,0,6,0,0,21,16,189,116,73,0,0,116,73,189
+"18","TAKHAR","1809","KHWAJAGHAR","KHWAJAGHAR","NO","1809106","Jokado Primary School","Jokado",NA,NA,"NO","NO","no change","Relocated",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","TAKHAR","1809","KHWAJAGHAR","KHWAJAGHAR","NO","1809107","Laklakan Primary School","Laklakan",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","TAKHAR","1809","KHWAJAGHAR","KHWAJAGHAR","NO","1809108","Haji Mirza Mohammad Secondary School","Jalom Khor",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","TAKHAR","1809","KHWAJAGHAR","KHWAJAGHAR","NO","1809109","Qarooq Primary School","Qarooq",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","TAKHAR","1809","KHWAJAGHAR","KHWAJAGHAR","NO","1809110","Haji Nazir Qul Primary School","Ming Choqor Mullah Qutbuddin",NA,NA,"NO","NO","no change","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","TAKHAR","1809","KHWAJAGHAR","KHWAJAGHAR","NO","1809111","Sobhani High School","Ming Choqor",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","TAKHAR","1812","DASHT QALA","DASHT QALA","NO","1812173","Arabkakul Secondary School","Arabkakul",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","TAKHAR","1812","DASHT QALA","DASHT QALA","NO","1812175","Bagh Bayan High School","Bagh Bayan",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","TAKHAR","1812","DASHT QALA","DASHT QALA","NO","1812176","Saksakol Secondary School","Saksakol",NA,NA,"NO","NO","no change","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","TAKHAR","1812","DASHT QALA","DASHT QALA","NO","1812177","Ay Khanum High School","Ay Khanum",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","TAKHAR","1812","DASHT QALA","DASHT QALA","NO","1812178","Girls High School","Shahri Kohna (Old City)",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","TAKHAR","1812","DASHT QALA","DASHT QALA","NO","1812179","Shahr Boys High School","Shahri Jadeed (New City)",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","TAKHAR","1814","KHWAJA BAHAUDIN","KHWAJA BAHAUDIN","NO","1814202","Shortoghi Mosque","Shortoghi",NA,NA,"NO","NO","no change","Old",648,13,7,0,1,0,0,0,5,635,439,196,0,0,439,196,635
+"18","TAKHAR","1814","KHWAJA BAHAUDIN","KHWAJA BAHAUDIN","NO","1814203","Kotak Jar Boys High School","Kotak Jar",NA,NA,"NO","NO","no change","Old",156,16,15,0,1,0,0,0,0,140,111,29,0,0,111,29,140
+"18","TAKHAR","1817","YANGI QALA","YANGI QALA","NO","1817232","Rahim Abad School","Rahim Abad",NA,NA,"NO","NO","no change","Old",2426,105,33,0,34,0,0,7,31,2321,1565,756,0,0,1565,756,2321
+"19","KUNDUZ","1901","KUNDUZ","KUNDUZ","YES","1901001","Chela Mazar School","Nahia 1",NA,NA,"NO","NO","no change","Old",2940,118,47,0,30,0,0,24,17,2821,1668,1153,1,0,1668,1154,2822
+"19","KUNDUZ","1901","KUNDUZ","KUNDUZ","YES","1901033","Qazaq Jami Mosque","Qoraq Village",NA,NA,"NO","NO","no change","Relocated",2076,41,4,0,5,0,0,9,23,2035,1585,450,0,0,1585,450,2035
+"19","KUNDUZ","1901","KUNDUZ","KUNDUZ","YES","1901036","Bagh Meerai High School","Bagh Meerai Payeen",NA,NA,"NO","NO","no change","Old",1722,101,11,0,5,0,0,66,19,1621,1595,26,0,0,1595,26,1621
+"19","KUNDUZ","1901","KUNDUZ","KUNDUZ","YES","1901054","Bagh e  Sharkat Secondary School","Bagh e  Sharkat",NA,NA,"NO","NO","no change","Old",229,26,15,0,0,0,0,4,7,198,134,64,5,0,138,65,203
+"19","KUNDUZ","1902","CHAHAR DARAH","CHAHAR DARAH","NO","1902059","Amir Mohammad Shinwari Mosque","Qatli Aam",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","KUNDUZ","1902","CHAHAR DARAH","CHAHAR DARAH","NO","1902063","Yateem Village School","Yateem Village",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","KUNDUZ","1903","ALI ABAD","ALI ABAD","NO","1903081","Arza Bege Girls High School","Qorekh Arzbegee",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","KUNDUZ","1904","KHAN ABAD","KHAN ABAD","NO","1904093","Char Sari Secondary School","Char Sari Village",NA,NA,"NO","NO","no change","Old",600,7,3,0,4,0,0,0,0,593,593,0,0,0,593,0,593
+"19","KUNDUZ","1905","EMAM SAHEB","EMAM SAHEB","NO","1905121","Abdul Rahman Turk Secondary School","Qorghan Tapa",NA,NA,"NO","NO","no change","Relocated",384,26,18,0,5,0,0,0,3,358,279,79,0,0,279,79,358
+"19","KUNDUZ","1905","EMAM SAHEB","EMAM SAHEB","NO","1905126","Jan Chashma School","Jan Chashma Village",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","KUNDUZ","1905","EMAM SAHEB","EMAM SAHEB","NO","1905130","Qalam Guzar High School","Qalam Guzar",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","KUNDUZ","1905","EMAM SAHEB","EMAM SAHEB","NO","1905131","Amo School","Puli Mudeer Jangal",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","KUNDUZ","1905","EMAM SAHEB","EMAM SAHEB","NO","1905132","Eski School","Qari Kamal",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","KUNDUZ","1905","EMAM SAHEB","EMAM SAHEB","NO","1905134","Aab Faroshan School","Aab Faroshan",NA,NA,"NO","NO","no change","Old",924,24,11,0,2,0,0,7,4,900,636,264,0,0,636,264,900
+"19","KUNDUZ","1905","EMAM SAHEB","EMAM SAHEB","NO","1905135","Jehon Primary School","Halqa Kol",NA,NA,"NO","NO","no change","Old",1302,37,16,0,3,0,0,13,5,1265,906,359,0,0,906,359,1265
+"19","KUNDUZ","1907","QALAE ZAL","QALAE ZAL","NO","1907179","Kolokh Tapa High School","Kolokh Tapa",NA,NA,"NO","NO","no change","Old",1831,50,13,0,6,0,0,2,29,1781,853,928,0,0,853,928,1781
+"19","KUNDUZ","1907","QALAE ZAL","QALAE ZAL","NO","1907180","Bagh e cha Secondary School","Bagh e cha",NA,NA,"NO","NO","no change","Old",420,38,18,0,3,0,0,0,17,382,184,198,0,0,184,198,382
+"19","KUNDUZ","1907","QALAE ZAL","QALAE ZAL","NO","1907181","Khisht Tapa Secondary School","Khisht Tapa",NA,NA,"NO","NO","no change","Old",432,10,8,0,1,0,0,0,1,421,207,214,1,0,207,215,422
+"19","KUNDUZ","1910","AQTASH","AQTASH","NO","1910210","Mehrab Bay Mosque","Basos Village",NA,NA,"NO","NO","no change","Relocated",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","KUNDUZ","1910","AQTASH","AQTASH","NO","1910213","Parcha Dasht School","Parcha Dasht Village",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","SAMANGAN","2005","ROYE DOAB","ROYE DOAB","NO","2005067"," Khwajah Zahid Madrassah"," Khwajah Zahid",2,0,"YES","NO","no change","Old",1122,105,11,0,11,0,0,1,82,1016,501,515,1,0,502,515,1017
+"20","SAMANGAN","2006","DARAE SOFE PAYEN","DARAE SOFE PAYEN","NO","2006074"," Daikundi Jame Mosque"," Daikundi village",NA,NA,"NO","NO","no change","Not Assessed",30,9,9,0,0,0,0,0,0,21,18,3,0,0,18,3,21
+"20","SAMANGAN","2006","DARAE SOFE PAYEN","DARAE SOFE PAYEN","NO","2006075"," Naizar Mosque"," Nai Zar village",NA,NA,"NO","NO","no change","Not Assessed",90,8,7,0,0,0,0,0,1,82,55,27,0,0,55,27,82
+"20","SAMANGAN","2006","DARAE SOFE PAYEN","DARAE SOFE PAYEN","NO","2006076"," Palez Payah Mosque"," Palez Paya village",NA,NA,"NO","NO","no change","Not Assessed",840,78,57,0,6,0,0,1,14,762,687,75,0,0,687,75,762
+"20","SAMANGAN","2006","DARAE SOFE PAYEN","DARAE SOFE PAYEN","NO","2006081"," Katah Qaq Secondary School"," Kata Qaq village",NA,NA,"NO","NO","no change","Relocated",1572,71,14,0,8,0,0,1,48,1500,901,599,1,0,901,600,1501
+"20","SAMANGAN","2006","DARAE SOFE PAYEN","DARAE SOFE PAYEN","NO","2006082"," Toqsun Secondary School"," Toqsan village",NA,NA,"NO","NO","no change","Old",1476,64,35,0,12,0,0,1,16,1412,1000,412,0,0,1000,412,1412
+"20","SAMANGAN","2006","DARAE SOFE PAYEN","DARAE SOFE PAYEN","NO","2006083"," Tolai Ghazi Mosque"," Tolai Ghazi village",NA,NA,"NO","NO","no change","Old",1608,76,12,0,11,0,0,3,50,1531,1158,373,1,0,1159,373,1532
+"20","SAMANGAN","2006","DARAE SOFE PAYEN","DARAE SOFE PAYEN","NO","2006087"," Khanah e Sangi Mosque"," Khanah Sangi village",NA,NA,"NO","NO","no change","Old",1476,73,32,0,13,0,0,1,27,1403,974,429,0,0,974,429,1403
+"20","SAMANGAN","2006","DARAE SOFE PAYEN","DARAE SOFE PAYEN","NO","2006090"," Numazgah Madrassah"," Namazgah village",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","BALKH","2102","NAHR SHAHI","NAHR SHAHI","NO","2102055"," Sharak Afghania School"," Shahrak Afghania",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","BALKH","2106","BALKH","BALKH","NO","2106104"," Elqichi School"," Elqechi village",NA,NA,"NO","NO","no change","Old",504,10,5,0,2,0,0,1,2,493,285,208,1,0,286,208,494
+"21","BALKH","2106","BALKH","BALKH","NO","2106105"," Arghandab Mosque"," Arghandab village",NA,NA,"NO","NO","no change","Old",378,14,9,0,0,0,0,4,1,364,223,141,0,0,223,141,364
+"21","BALKH","2106","BALKH","BALKH","NO","2106106"," Salarzai School"," Salarzai village",NA,NA,"NO","NO","no change","Old",1074,35,29,0,2,0,0,1,3,1038,373,665,1,0,374,665,1039
+"21","BALKH","2106","BALKH","BALKH","NO","2106107"," Walah Gai School"," Walagai (Khaspak) village",NA,NA,"NO","NO","no change","Old",660,17,12,0,4,0,0,0,1,640,548,92,3,0,551,92,643
+"21","BALKH","2106","BALKH","BALKH","NO","2106111"," Bokah School","Bokah village",NA,NA,"NO","NO","no change","Old",1855,90,49,0,6,0,0,23,12,1762,998,764,3,0,1000,765,1765
+"21","BALKH","2107","SHOLGARA","SHOLGARA","NO","2107147"," Kandali School"," Kandali village",NA,NA,"NO","NO","no change","Old",420,21,7,0,5,0,0,0,9,399,242,157,0,0,242,157,399
+"21","BALKH","2108","CHEMTAL","CHEMTAL","NO","2108151"," Machaldi Mosque"," Machaldi village",NA,NA,"NO","NO","no change","Not Assessed",360,6,4,0,2,0,0,0,0,354,231,123,0,0,231,123,354
+"21","BALKH","2108","CHEMTAL","CHEMTAL","NO","2108154"," Chiqnaq Clinic"," Chaqnaq village",NA,NA,"NO","NO","no change","Not Assessed",960,31,13,0,6,0,0,0,12,929,582,347,0,0,582,347,929
+"21","BALKH","2108","CHEMTAL","CHEMTAL","NO","2108155"," Haji Barfi School"," Haji Barfi village",NA,NA,"NO","NO","no change","Old",1872,54,18,0,17,0,0,3,16,1818,982,836,0,0,982,836,1818
+"21","BALKH","2108","CHEMTAL","CHEMTAL","NO","2108157"," Mulla Juma Khan School"," Mulla Juma Khan village",NA,NA,"NO","NO","no change","Old",1362,55,8,0,15,0,0,6,26,1307,723,584,0,0,723,584,1307
+"21","BALKH","2108","CHEMTAL","CHEMTAL","NO","2108170"," Jangal Girls High School"," Jangal village",NA,NA,"NO","NO","no change","Relocated",1368,57,22,0,8,0,0,5,22,1311,795,516,0,0,795,516,1311
+"21","BALKH","2109","DAWLATABAD","DAWLATABAD","NO","2109184"," Farukh Abad School"," Farukh Abad village",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","BALKH","2109","DAWLATABAD","DAWLATABAD","NO","2109188"," Chahi School"," Chahi village",NA,NA,"NO","NO","no change","Old",30,5,5,0,0,0,0,0,0,25,22,3,0,0,22,3,25
+"21","BALKH","2109","DAWLATABAD","DAWLATABAD","NO","2109191"," Khwalah Bachgan School"," Khowala Bachgan village",NA,NA,"NO","NO","no change","Old",1122,38,20,0,6,0,0,2,10,1084,639,445,0,0,639,445,1084
+"21","BALKH","2109","DAWLATABAD","DAWLATABAD","NO","2109194"," Afghania Jame Mosque"," Bye Mashhad Afghania",0,1,"NO","YES","no change","Old",600,16,8,0,7,0,0,0,1,583,583,0,1,0,584,0,584
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111222"," Yalman School"," Yalman village",NA,NA,"NO","NO","no change","Old",2616,87,22,0,18,0,0,12,35,2231,1180,1051,298,0,1369,1160,2529
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111223"," Aliabad School"," Ali Abad village",NA,NA,"NO","NO","no change","Old",720,29,11,0,1,0,0,2,15,691,494,197,0,0,494,197,691
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111224"," Nawai Kot School"," Nawai Kot (Yangareeq) village",NA,NA,"NO","NO","no change","Old",12,10,10,0,0,0,0,0,0,2,1,1,0,0,1,1,2
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111225"," Suryan village Jame Mosque"," Soryan village",NA,NA,"NO","NO","no change","Old",1134,103,3,0,14,0,0,76,10,1031,740,291,0,0,740,291,1031
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111231"," Chobah School"," Chobah village",NA,NA,"NO","NO","no change","Old",72,47,7,0,39,0,0,0,1,25,9,16,0,0,9,16,25
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111232"," Hamid Ba Ba School"," Teemorak village",NA,NA,"NO","NO","no change","Old",1482,70,16,0,16,0,0,0,38,1412,1064,348,0,0,1064,348,1412
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111233"," Badaee Balkhi School"," Teemorak village",NA,NA,"NO","NO","no change","Old",186,18,10,0,2,0,0,0,6,168,132,36,0,0,132,36,168
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111235"," Sikandar Khil Zhangoorah School"," Zhangoorah e Watani",NA,NA,"NO","NO","no change","Old",1134,22,10,0,4,0,0,2,6,1109,659,450,3,0,662,450,1112
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111236"," Tannah School"," Tannah village",NA,NA,"NO","NO","no change","Old",1968,28,12,0,5,0,0,5,6,1940,1235,705,0,0,1235,705,1940
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111237"," Mullah Shaheen village Mosque"," Mulla Shaheen village",NA,NA,"NO","NO","no change","Old",1800,179,4,0,14,0,0,7,154,994,412,582,627,0,1039,582,1621
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111238"," Development Council Building"," Zhangoorah Maawen Zaman village",NA,NA,"NO","NO","no change","Old",1194,255,6,2,122,0,0,10,115,863,352,511,76,0,373,566,939
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111241"," Shiekh Tash Taimoor School"," Shiekh Tash Temoor village",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111242"," Aadenah Jame Mosque"," Aadenah village Mosque",NA,NA,"NO","NO","no change","Old",612,28,8,0,5,0,0,3,12,584,364,220,0,0,364,220,584
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111246"," Mangoli School"," Mangoolo village",NA,NA,"NO","NO","no change","Old",354,17,9,0,1,0,0,1,6,337,263,74,0,0,263,74,337
+"21","BALKH","2111","CHARBOLAK","CHARBOLAK","NO","2111247"," Ahmad Abad School"," Ahmad Abad village",NA,NA,"NO","NO","no change","Old",414,21,9,0,1,0,0,0,11,393,299,94,0,0,299,94,393
+"21","BALKH","2112","SHORTEPA","SHORTEPA","NO","2112254"," Dali School"," Dali village ",NA,NA,"NO","NO","no change","Old",726,30,14,0,4,0,0,0,12,696,690,6,0,0,690,6,696
+"21","BALKH","2112","SHORTEPA","SHORTEPA","NO","2112255"," Shor Ariq School"," Shor Areq village",NA,NA,"NO","NO","no change","Old",948,92,15,0,3,0,0,0,74,856,856,0,0,0,856,0,856
+"21","BALKH","2114","KUSHENDEH","KUSHENDEH","NO","2114293"," Yarghan School"," Yarghan village",3,0,"YES","NO","no change","Old",1518,44,9,0,9,0,0,1,25,1473,1069,404,1,0,1070,404,1474
+"22","SARE PUL","2201","SARE PUL","SARE PUL","YES","2201013"," Balghali Girls High School"," Adrang village",NA,NA,"NO","NO","no change","Relocated",3000,594,523,0,18,0,0,5,48,2406,1986,420,0,0,1986,420,2406
+"22","SARE PUL","2202","SAYAD","SAYAD","NO","2202044"," Billand Ghor Kuhnah Primary School"," Billand Ghur Kuhnanh village",NA,NA,"NO","NO","no change","New",1200,567,555,0,4,0,0,5,3,633,488,145,0,0,488,145,633
+"22","SARE PUL","2202","SAYAD","SAYAD","NO","2202045"," Quflatoon Secondary School"," Quflaton village",NA,NA,"NO","NO","no change","Relocated",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","SARE PUL","2204","SOZMAQALA","SOZMAQALA","NO","2204092"," Du Aabah Boys High School"," Du Aabah",NA,NA,"NO","NO","no change","Old",120,12,5,0,3,0,0,0,4,108,86,22,0,0,86,22,108
+"22","SARE PUL","2205","SANCHARAK","SANCHARAK","NO","2205117"," Ideen Kol Primary School"," Aabdin Kol",NA,NA,"NO","NO","no change","Old",1062,39,9,0,7,0,0,7,16,1023,390,633,0,0,390,633,1023
+"22","SARE PUL","2205","SANCHARAK","SANCHARAK","NO","2205118"," Tabeer wa Taghai Khwajah High School","  Bahar Naw Tubra",NA,NA,"NO","NO","no change","Old",2064,67,20,0,15,0,0,3,29,1997,936,1061,0,0,936,1061,1997
+"22","SARE PUL","2205","SANCHARAK","SANCHARAK","NO","2205119"," Irfan Secondary School"," Gul Khanah Tafaikhor village",NA,NA,"NO","NO","no change","Old",1050,28,16,0,4,0,0,2,6,1022,440,582,0,0,440,582,1022
+"22","SARE PUL","2205","SANCHARAK","SANCHARAK","NO","2205120"," Qatar Darakht Mosque"," Qatar Derakht",NA,NA,"NO","NO","no change","Old",1302,33,20,0,3,0,0,4,6,1269,515,754,0,0,515,754,1269
+"22","SARE PUL","2206","GOSFANDI","GOSFANDI","NO","2206134"," Chaghdan Secondary School"," Chaghdan",NA,NA,"NO","NO","no change","Relocated",132,11,7,0,0,0,0,0,4,121,116,5,0,0,116,5,121
+"23","GHOR","2301","FEROZKOH (CHEGHCHERAN)","FEROZKOH (CHEGHCHERAN)","YES","2301011"," Sokhtah Sufla Mosque"," Soukhtah Sufla",NA,NA,"NO","NO","no change","Relocated",708,29,11,0,3,0,0,5,10,679,441,238,0,0,441,238,679
+"23","GHOR","2301","FEROZKOH (CHEGHCHERAN)","FEROZKOH (CHEGHCHERAN)","YES","2301012"," Amrotak Mosque"," Amrotak",NA,NA,"NO","NO","no change","Old",864,35,11,0,4,0,0,12,8,829,555,274,0,0,555,274,829
+"23","GHOR","2301","FEROZKOH (CHEGHCHERAN)","FEROZKOH (CHEGHCHERAN)","YES","2301019"," Haji Abdul Hakim Mosque"," Dahan Khak Mulla",NA,NA,"NO","NO","no change","New",1416,97,21,0,8,0,0,49,19,1316,714,602,3,0,717,602,1319
+"23","GHOR","2301","FEROZKOH (CHEGHCHERAN)","FEROZKOH (CHEGHCHERAN)","YES","2301020"," Aabul Bazar Secondary School"," Abol Ghaibi",NA,NA,"NO","NO","no change","Relocated",1314,193,9,0,21,0,0,120,43,1120,752,368,1,0,753,368,1121
+"23","GHOR","2301","FEROZKOH (CHEGHCHERAN)","FEROZKOH (CHEGHCHERAN)","YES","2301021"," Sar Tangi Mosque"," Sar Tangi",NA,NA,"NO","NO","no change","New",1590,199,1,0,10,0,0,169,19,1385,1105,280,6,0,1111,280,1391
+"23","GHOR","2301","FEROZKOH (CHEGHCHERAN)","FEROZKOH (CHEGHCHERAN)","YES","2301022"," Pullah Mosque"," Pullah village",NA,NA,"NO","NO","no change","New",1488,252,7,0,18,0,0,200,27,1236,970,266,0,0,970,266,1236
+"23","GHOR","2301","FEROZKOH (CHEGHCHERAN)","FEROZKOH (CHEGHCHERAN)","YES","2301023"," Raqeebi Bazar, old clinic"," Qeebi Dahana e Shor Qul",NA,NA,"NO","NO","no change","Old",1740,85,4,0,6,0,0,44,31,1650,1333,317,5,0,1338,317,1655
+"23","GHOR","2301","FEROZKOH (CHEGHCHERAN)","FEROZKOH (CHEGHCHERAN)","YES","2301024"," Khil Azam Mosque"," Khil Azam",NA,NA,"NO","NO","no change","Relocated",2035,131,1,0,10,0,0,11,109,1903,1336,567,1,0,1336,568,1904
+"23","GHOR","2301","FEROZKOH (CHEGHCHERAN)","FEROZKOH (CHEGHCHERAN)","YES","2301071","Shakh Mulan Mosque "," Shakh Malan, Chashmah Sakeenah",NA,NA,"NO","NO","no change","Old",216,26,16,0,1,0,0,4,5,190,181,9,0,0,181,9,190
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302074"," Arbab Ma’azullah Garmabak School"," Qalla Naqshi",NA,NA,"NO","NO","no change","Old",1733,199,14,0,7,0,0,112,66,1534,990,544,0,0,990,544,1534
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302075"," Sairzar School"," Serzar",NA,NA,"NO","NO","no change","New",772,111,17,0,8,0,0,40,46,659,478,181,2,0,480,181,661
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302076"," Girls School"," Dewar Safid",NA,NA,"NO","NO","no change","New",1770,161,28,0,8,0,0,96,29,1609,1064,545,0,0,1064,545,1609
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302077"," Shorba Mosque"," Shura Sufla",NA,NA,"NO","NO","no change","New",60,5,4,0,0,0,0,1,0,55,53,2,0,0,53,2,55
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302078"," Iskechi School"," Iskechi",NA,NA,"NO","NO","no change","New",493,66,4,0,2,0,0,51,9,426,283,143,1,0,283,144,427
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302079"," Khwajahgan Jame Mosque"," Khwajah Gan",NA,NA,"NO","NO","no change","Old",1019,125,13,0,2,0,0,69,41,893,491,402,1,0,492,402,894
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302080"," Salmeen School"," Salmeen",NA,NA,"NO","NO","no change","Old",822,81,22,0,13,0,0,31,15,741,387,354,0,0,387,354,741
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302081"," Razqan Mosque"," Rezqan",NA,NA,"NO","NO","no change","Relocated",432,25,15,0,3,0,0,2,5,407,170,237,0,0,170,237,407
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302082"," Dahan Ghal Mulla School"," Dahan Ghal Mulla",NA,NA,"NO","NO","no change","New",618,51,15,0,1,0,0,28,7,567,304,263,0,0,304,263,567
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302083"," Bazar Gellah Asyab"," Gellah Asyab",NA,NA,"NO","NO","no change","Old",3530,553,15,0,49,0,0,78,411,2976,2076,900,1,0,2077,900,2977
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302084"," Birinji School"," Berenji",NA,NA,"NO","NO","no change","New",596,87,31,0,6,0,0,32,18,509,396,113,0,0,396,113,509
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302086"," Shaheedan Jame Mosque"," Shaheedan",NA,NA,"NO","NO","no change","Old",1913,149,32,0,19,0,0,68,30,1762,1032,730,2,0,1034,730,1764
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302089"," Nasar Guzae Pahab Mosque"," Chashma e Safid",NA,NA,"NO","NO","no change","Relocated",1913,83,19,0,12,0,0,38,14,1830,973,857,0,0,973,857,1830
+"23","GHOR","2302","DOLAYNA","DOLAYNA","NO","2302093"," Gharak Ulya School"," Ghart Ulya",NA,NA,"NO","NO","no change","New",602,143,33,0,35,0,0,41,34,457,334,123,2,0,336,123,459
+"23","GHOR","2303","DAWLATYAR","DAWLATYAR","NO","2303103"," Pushtah e Noor Boys High School"," Joi Nesae village",NA,NA,"NO","NO","no change","Old",1405,131,9,0,7,0,0,103,12,1274,798,476,0,0,798,476,1274
+"23","GHOR","2303","DAWLATYAR","DAWLATYAR","NO","2303104"," Wazi Primary School"," Wazi village",NA,NA,"NO","NO","no change","New",263,37,7,0,5,0,0,21,4,225,117,108,1,0,118,108,226
+"23","GHOR","2304","CHARSADA","CHARSADA","NO","2304115"," Qalla Gowhar High School"," Qalla Gowhar",NA,NA,"NO","NO","no change","Old",1107,100,14,0,0,0,0,23,63,1007,698,309,0,0,698,309,1007
+"23","GHOR","2304","CHARSADA","CHARSADA","NO","2304116"," Maseen Jame Mosque"," Maseen",NA,NA,"NO","NO","no change","Old",1136,81,11,0,10,0,0,35,25,1055,712,343,0,0,712,343,1055
+"23","GHOR","2304","CHARSADA","CHARSADA","NO","2304120"," Malmanj Mosque"," Malmanj",NA,NA,"NO","NO","no change","Relocated",1586,71,3,0,4,0,0,49,15,1515,998,517,0,0,998,517,1515
+"23","GHOR","2305","PASABAND","PASABAND","NO","2305141"," Wari Mosque"," Wari ",NA,NA,"NO","NO","no change","New",585,66,23,0,5,0,0,31,7,519,300,219,0,0,300,219,519
+"23","GHOR","2305","PASABAND","PASABAND","NO","2305142"," Aspi Buz School"," Ispe Buz",NA,NA,"NO","NO","no change","Old",1037,74,22,0,4,0,0,36,12,962,442,520,1,0,442,521,963
+"23","GHOR","2305","PASABAND","PASABAND","NO","2305143"," Talmastan School"," Talmastan",NA,NA,"NO","NO","no change","Old",1241,109,22,0,5,0,0,42,40,1131,590,541,1,0,591,541,1132
+"23","GHOR","2306","SHAHRAK","SHAHRAK","NO","2306154"," Kharah Sang Mosque"," Kharah Sang",NA,NA,"NO","NO","no change","Not Assessed",1657,123,10,0,6,0,0,58,49,1532,986,546,2,0,986,548,1534
+"23","GHOR","2306","SHAHRAK","SHAHRAK","NO","2306174"," Oshan School"," Dahanah Du Tayee",NA,NA,"NO","NO","no change","Old",142,10,5,0,0,0,0,4,1,132,124,8,0,0,124,8,132
+"23","GHOR","2306","SHAHRAK","SHAHRAK","NO","2306175"," Kham Mosque"," Qalla Kodak",NA,NA,"NO","NO","no change","Old",153,29,13,0,1,0,0,14,1,124,114,10,0,0,114,10,124
+"23","GHOR","2309","TOLAK","TOLAK","NO","2309255"," Khameen Mosque"," Rubat",NA,NA,"NO","NO","no change","Relocated",2994,201,15,0,19,0,0,93,74,2791,2217,574,2,0,2218,575,2793
+"23","GHOR","2309","TOLAK","TOLAK","NO","2309256"," Durudi School"," Kheftah village",NA,NA,"NO","NO","no change","Old",3602,231,9,0,10,0,0,196,16,3367,2780,587,4,0,2783,588,3371
+"23","GHOR","2309","TOLAK","TOLAK","NO","2309258"," Kabotar Khan Primary School"," Kabotar Khan",NA,NA,"NO","NO","no change","Old",4200,125,0,0,23,0,0,19,83,4075,2324,1751,0,0,2324,1751,4075
+"23","GHOR","2309","TOLAK","TOLAK","NO","2309259"," Askwan Mosque"," Kah Deh Ru",NA,NA,"NO","NO","no change","Relocated",3599,167,2,0,9,0,0,57,99,3431,2849,582,1,0,2850,582,3432
+"23","GHOR","2309","TOLAK","TOLAK","NO","2309261"," Sang Khalq Primary School"," Sang Khalq",NA,NA,"NO","NO","no change","Old",660,48,10,0,1,0,0,34,3,612,366,246,0,0,366,246,612
+"23","GHOR","2309","TOLAK","TOLAK","NO","2309265"," Naw Charah Primary School"," NawCharah",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","URUZGAN","2501","TIRENKOT","TIRENKOT","YES","2501022"," Kotwal High School"," Kotwal",0,1,"NO","YES","no change","Not Assessed",336,45,7,0,2,0,0,31,5,291,291,0,0,0,291,0,291
+"26","ZABUL","2610","SHUMULZAY","SHUMULZAY","NO","2610091"," Qalla Rasheed village"," Rasheed Qalla Mosque",NA,NA,"NO","NO","no change","New",594,15,8,0,3,0,0,1,3,578,578,0,1,0,579,0,579
+"27","KANDAHAR","2707","KHAKREZ","KHAKREZ","NO","2707122"," Haji Gul School"," Haji Gul",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","KANDAHAR","2708","ARGHESTAN","ARGHESTAN","NO","2708128"," Tessan Village School"," Bala Zharrah",NA,NA,"NO","NO","no change","Old",600,38,0,0,3,0,0,0,35,562,562,0,0,0,562,0,562
+"27","KANDAHAR","2708","ARGHESTAN","ARGHESTAN","NO","2708129"," Tessan village School"," Tessan village",NA,NA,"NO","NO","no change","Old",600,15,0,0,5,0,0,2,8,585,585,0,0,0,585,0,585
+"27","KANDAHAR","2708","ARGHESTAN","ARGHESTAN","NO","2708130"," Ghbarge village Mosque"," Ghbargee village",NA,NA,"NO","NO","no change","New",708,38,1,0,7,0,0,1,29,670,566,104,0,0,566,104,670
+"28","JAWZJAN","2804","MENGAJEK","MENGAJEK","NO","2804051"," Mangeejak School "," Mangeejak",NA,NA,"NO","NO","no change","Old",300,10,10,0,0,0,0,0,0,290,254,36,0,0,254,36,290
+"28","JAWZJAN","2806","KHAMYAB","KHAMYAB","NO","2806070"," Sayed Ismael School "," Ismael Shayan village",NA,NA,"NO","NO","no change","New",54,7,7,0,0,0,0,0,0,47,36,11,0,0,36,11,47
+"28","JAWZJAN","2806","KHAMYAB","KHAMYAB","NO","2806071"," Khum Aab School "," Kham Aab",NA,NA,"NO","NO","no change","Old",78,9,9,0,0,0,0,0,0,69,55,14,0,0,55,14,69
+"28","JAWZJAN","2808","FAYZABAD","FAYZABAD","NO","2808093"," Char Bagh High School"," Chahar Bagh ",NA,NA,"NO","NO","no change","Old",6,5,5,0,0,0,0,0,0,1,1,0,0,0,1,0,1
+"28","JAWZJAN","2808","FAYZABAD","FAYZABAD","NO","2808095"," Shesha Khan Boys High School"," Sheesha Khanah Arabia",NA,NA,"NO","NO","no change","Old",852,58,26,0,4,0,0,1,27,794,519,275,0,0,519,275,794
+"28","JAWZJAN","2808","FAYZABAD","FAYZABAD","NO","2808096"," Gerjak Boys Secondary School"," Gurjak village",NA,NA,"NO","NO","no change","Old",402,27,19,0,5,0,0,0,3,375,192,183,0,0,192,183,375
+"28","JAWZJAN","2810","QARQEEN","QARQEEN","NO","2810112"," Joi Sarai Secondary School"," Joi Sarai",NA,NA,"NO","NO","no change","Old",539,26,17,0,6,0,0,0,3,513,319,194,0,0,319,194,513
+"29","FARYAB","2902","PASHTONKOT","PASHTONKOT","NO","2902028","Qala Sar Hawz Mosque","Sar Hawz",NA,NA,"NO","NO","no change","Not Assessed",3000,43,1,0,22,0,0,5,15,2956,2367,589,1,0,2367,590,2957
+"29","FARYAB","2902","PASHTONKOT","PASHTONKOT","NO","2902059","Gadai Qala Boys School","Gadai Qala",NA,NA,"NO","NO","no change","Not Assessed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","FARYAB","2903","KHWAJA SABZPOSH","KHWAJA SABZPOSH","NO","2903071","Deh Naw Boys High School Building","Deh Naw",NA,NA,"NO","NO","no change","Old",791,141,48,0,7,0,69,4,13,650,375,275,0,0,375,275,650
+"29","FARYAB","2903","KHWAJA SABZPOSH","KHWAJA SABZPOSH","NO","2903072","Badghisy Girls High School","Badghisy",NA,NA,"NO","NO","no change","Old",1074,45,24,0,11,0,0,2,8,1028,571,457,1,0,572,457,1029
+"29","FARYAB","2904","ALMAR","ALMAR","NO","2904085","Chaghatak Jami Mosque","Chaghatak",NA,NA,"NO","NO","no change","Old",750,22,6,0,2,0,0,8,6,728,450,278,0,0,450,278,728
+"29","FARYAB","2904","ALMAR","ALMAR","NO","2904086","Shaheed Alauddin Girls High School","Khodaymat Village",0,3,"NO","YES","no change","Relocated",2442,67,22,0,11,0,0,12,22,2375,1376,999,0,0,1376,999,2375
+"29","FARYAB","2904","ALMAR","ALMAR","NO","2904088","Jalgaldy Jami Mosque","Jalgaldy",NA,NA,"NO","NO","no change","New",3486,88,17,1,28,0,0,5,37,3395,1742,1653,3,0,1743,1655,3398
+"29","FARYAB","2904","ALMAR","ALMAR","NO","2904089","Haji Saeed Ahmad Jami Mosque","Bokhar Qala",NA,NA,"NO","NO","no change","Old",3126,142,17,0,25,0,0,15,85,2983,1961,1022,1,0,1962,1022,2984
+"29","FARYAB","2905","BELCHERAGH","BELCHERAGH","NO","2905096","Taghlams Boys School","Taghlams",NA,NA,"NO","NO","no change","Old",4200,244,41,0,29,0,0,5,169,3954,2274,1680,2,0,2275,1681,3956
+"29","FARYAB","2905","BELCHERAGH","BELCHERAGH","NO","2905104","Charamgari Boys Secondary School","Charamgari",NA,NA,"NO","NO","no change","New",4200,140,26,0,15,0,0,7,92,4058,2330,1728,2,0,2330,1730,4060
+"29","FARYAB","2905","BELCHERAGH","BELCHERAGH","NO","2905105","Markaz Balcharagh Madrasa","Balcharagh",NA,NA,"NO","NO","no change","Old",2982,151,70,0,23,0,0,7,51,2831,1613,1218,0,0,1613,1218,2831
+"29","FARYAB","2905","BELCHERAGH","BELCHERAGH","NO","2905106","Kenqol Boys and Girls Secondary School","Kenqol",NA,NA,"NO","NO","no change","New",3688,117,19,0,26,0,0,3,69,3570,1745,1825,1,0,1746,1825,3571
+"29","FARYAB","2906","SHIRINTAGAB","SHIRINTAGAB","NO","2906115","Qazi Qeshlaq Mosque","Qazi Qeshlaq",NA,NA,"NO","NO","no change","New",744,51,2,0,18,0,0,27,4,693,237,456,0,0,237,456,693
+"29","FARYAB","2906","SHIRINTAGAB","SHIRINTAGAB","NO","2906116","Koh Sayaad Girls High School","Koh Sayad Village",NA,NA,"NO","NO","no change","Old",1380,163,14,0,41,0,0,88,20,1217,616,601,0,0,616,601,1217
+"29","FARYAB","2907","QAYSAR","QAYSAR","NO","2907125","Sayad Borghan Jami Mosque","Sayad Borghan",NA,NA,"NO","NO","no change","Not Assessed",1098,70,25,0,13,0,0,1,31,1020,517,503,8,0,524,504,1028
+"29","FARYAB","2907","QAYSAR","QAYSAR","NO","2907128","Khwaja Tabjaq School","Khwaja Tabjaq",NA,NA,"NO","NO","no change","Not Assessed",3174,70,4,0,33,0,0,3,30,3104,1925,1179,0,0,1925,1179,3104
+"29","FARYAB","2907","QAYSAR","QAYSAR","NO","2907129","Sawr Jami Mosque","Sawr",NA,NA,"NO","NO","no change","Old",960,42,16,0,11,0,0,2,13,918,555,363,0,0,555,363,918
+"29","FARYAB","2907","QAYSAR","QAYSAR","NO","2907139","Berka Jami Mosque","Beraka",NA,NA,"NO","NO","no change","Old",2178,80,11,0,13,0,0,17,39,2075,1140,935,23,0,1161,937,2098
+"29","FARYAB","2907","QAYSAR","QAYSAR","NO","2907141","Zoriha Primary School","Zoriha",NA,NA,"NO","NO","no change","Old",4350,103,14,0,26,0,0,3,60,4244,2375,1869,3,0,2375,1872,4247
+"29","FARYAB","2907","QAYSAR","QAYSAR","NO","2907143","Chechakto Primary School","Chechakto",NA,NA,"NO","NO","no change","Old",2268,46,12,0,13,0,0,0,21,2222,1881,341,0,0,1881,341,2222
+"29","FARYAB","2907","QAYSAR","QAYSAR","NO","2907150","Charshamba Uzbakia Mosque","Charshamba Uzbakia Village",NA,NA,"NO","NO","no change","Not Assessed",3960,95,11,0,22,0,0,4,58,3865,2102,1763,0,0,2102,1763,3865
+"29","FARYAB","2907","QAYSAR","QAYSAR","NO","2907151","Hazara Qala Chalgazi Boys Primary School","Hazara Qala",NA,NA,"NO","NO","no change","Old",2796,52,7,0,12,0,0,1,32,2744,2153,591,0,0,2153,591,2744
+"29","FARYAB","2908","GURZIWAN","GURZIWAN","NO","2908167","Qala Tardi Girls Primary School","Qala Tordi",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","FARYAB","2911","QARAMQUL","QARAMQUL","NO","2911202","Yosof Mirzayee Girls School","Yosof Mirzayee",NA,NA,"NO","NO","no change","Old",1608,48,27,0,7,0,0,2,12,1559,678,881,1,0,678,882,1560
+"29","FARYAB","2911","QARAMQUL","QARAMQUL","NO","2911203","Aalti Bolak Boys and Girls High School","Aalti Bolak Payan",NA,NA,"NO","NO","no change","New",1734,86,68,0,8,0,0,1,9,1646,818,828,2,0,819,829,1648
+"29","FARYAB","2911","QARAMQUL","QARAMQUL","NO","2911204","Qechaq Secondary School","Qechaq",NA,NA,"NO","NO","no change","Old",708,47,33,0,7,0,0,0,7,661,291,370,0,0,291,370,661
+"29","FARYAB","2911","QARAMQUL","QARAMQUL","NO","2911205","Aalti Bolak Girls High School","Aalti Bolak ",NA,NA,"NO","NO","no change","Old",420,56,27,0,20,0,0,0,9,364,0,364,0,0,0,364,364
+"29","FARYAB","2911","QARAMQUL","QARAMQUL","NO","2911206","Aalti Bolak Bala Primary School","Aalti Bolak Bala",NA,NA,"NO","NO","no change","New",1032,48,36,0,0,0,0,1,11,984,383,601,0,0,383,601,984
+"29","FARYAB","2911","QARAMQUL","QARAMQUL","NO","2911208","Yaka Toot Primary School","Yaka Toot",NA,NA,"NO","NO","no change","New",1184,46,24,0,10,0,0,1,11,1138,449,689,0,0,449,689,1138
+"29","FARYAB","2911","QARAMQUL","QARAMQUL","NO","2911209","Sarban Secondary School","Sarband",NA,NA,"NO","NO","no change","Relocated",306,23,20,0,0,0,0,0,3,283,111,172,0,0,111,172,283
+"29","FARYAB","2912","QURGHAN","QURGHAN","NO","2912218","Mir Abad Boys High School","Mir Abad",2,0,"YES","NO","no change","Old",690,29,6,0,2,0,0,0,21,660,0,660,1,0,0,661,661
+"30","HELMAND","3004","NAHR SARAJ","NAHR SARAJ","NO","3004094","Saminar School","Dashte Saminar",NA,NA,"NO","NO","no change","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","HELMAND","3004","NAHR SARAJ","NAHR SARAJ","NO","3004095","Abazan School","Abazan School",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","BADGHIS","3101","QALAE NAW","QALAE NAW","YES","3101011","Nadami School"," Nadami",NA,NA,"NO","NO","no change","Old",340,72,22,0,2,0,0,43,5,268,232,36,0,0,232,36,268
+"31","BADGHIS","3101","QALAE NAW","QALAE NAW","YES","3101015","Laman High School"," Laman",NA,NA,"NO","NO","no change","Old",774,124,24,0,4,0,0,89,7,650,517,133,0,0,517,133,650
+"31","BADGHIS","3103","MUQUR","MUQUR","NO","3103061","Zad Ali High School"," Zad Ali",NA,NA,"NO","NO","no change","Old",22,6,4,0,1,0,0,1,0,16,16,0,0,0,16,0,16
+"31","BADGHIS","3103","MUQUR","MUQUR","NO","3103069","Sanjeetak village School"," Sanjeetak",1,0,"YES","NO","no change","Old",1091,241,78,0,2,0,0,160,1,849,355,494,1,0,356,494,850
+"31","BADGHIS","3104","QADEES","QADEES","NO","3104104","Zyarat village Jame Mosque"," Zyarat",NA,NA,"NO","NO","no change","Old",642,99,17,0,3,0,0,77,2,543,495,48,0,0,495,48,543
+"31","BADGHIS","3106","JAWAND","JAWAND","NO","3106160","Ghu Kalan village Mosque","Ghu Kalan ",NA,NA,"NO","NO","no change","Old",742,137,7,0,35,0,0,79,16,602,438,164,3,0,441,164,605
+"31","BADGHIS","3106","JAWAND","JAWAND","NO","3106161","Kazak village Mosque","Kazak",NA,NA,"NO","NO","no change","Old",1139,151,3,0,5,0,0,133,10,988,517,471,0,0,517,471,988
+"31","BADGHIS","3106","JAWAND","JAWAND","NO","3106183","Aab Khor School","Aab Khor ",NA,NA,"NO","NO","no change","Not Assessed",1778,279,8,0,44,0,0,205,22,1497,1004,493,2,0,1006,493,1499
+"31","BADGHIS","3106","JAWAND","JAWAND","NO","3106186","Khameen School","Khameen",NA,NA,"NO","NO","no change","Not Assessed",2204,302,0,0,31,0,0,248,23,1901,1041,860,1,0,1041,861,1902
+"31","BADGHIS","3107","GHORMACH","GHORMACH","NO","3107193","Aabgarmak","Aabgarmak",NA,NA,"NO","NO","no change","Not Assessed",4808,3136,23,0,1573,0,0,330,1210,1609,1208,401,63,0,1270,402,1672
+"31","BADGHIS","3107","GHORMACH","GHORMACH","NO","3107195","Pabtu village Mosque","Pabtu ",NA,NA,"NO","NO","no change","Not Assessed",3617,2081,21,0,1317,0,0,173,570,1516,1062,454,20,0,1071,465,1536
+"31","BADGHIS","3107","GHORMACH","GHORMACH","NO","3107196","Maktab Markaz (Center School)","Ghormach",NA,NA,"NO","NO","no change","Not Assessed",5378,3284,29,0,1779,0,0,236,1240,1797,1498,299,297,0,1723,371,2094
+"32","HERAT","3207","KUSHK","KUSHK","NO","3207199","Khalifa Rahmat School ","Khalifa Rahmat village ",NA,NA,"NO","NO","no change","Old",1086,62,18,0,2,0,0,35,7,1024,551,473,0,0,551,473,1024
+"32","HERAT","3207","KUSHK","KUSHK","NO","3207200","Jafar Baig Kawdani School ","Jafar Baig Kawdani village ",NA,NA,"NO","NO","no change","Old",346,17,6,0,1,0,0,7,3,329,197,132,0,0,197,132,329
+"32","HERAT","3207","KUSHK","KUSHK","NO","3207202","Khwajah Noor School","Khwajah Noor village ",NA,NA,"NO","NO","no change","Old",1754,83,10,0,17,0,0,43,13,1652,916,736,19,0,925,746,1671
+"32","HERAT","3207","KUSHK","KUSHK","NO","3207204","Lak Lak Khanah School","Lak Lak Khanah ",NA,NA,"NO","NO","no change","Old",536,28,10,0,2,0,0,13,3,508,282,226,0,0,282,226,508
+"32","HERAT","3207","KUSHK","KUSHK","NO","3207213","Yaka Toot School","Yaka Toot village ",NA,NA,"NO","NO","no change","Not Assessed",1415,69,17,0,14,0,0,31,7,1317,762,555,29,0,780,566,1346
+"32","HERAT","3207","KUSHK","KUSHK","NO","3207227","Alaf Haji Abdul Ahad School","Alaf Haji Abdul Ahad ",NA,NA,"NO","NO","no change","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","HERAT","3207","KUSHK","KUSHK","NO","3207229","Khwajah Sabz Posh School","Khwajah Sabz Posh ",NA,NA,"NO","NO","no change","Old",458,22,9,0,2,0,0,7,4,436,398,38,0,0,398,38,436
+"32","HERAT","3208","GULRAN","GULRAN","NO","3208254","Asyab Dew Mosque","Asyab Dew village ",NA,NA,"NO","NO","no change","Not Assessed",484,36,12,0,14,0,0,3,7,448,237,211,0,0,237,211,448
+"32","HERAT","3208","GULRAN","GULRAN","NO","3208256","Zerah Gai Kalan School","Zerah Gai Kalan ",NA,NA,"NO","NO","no change","Old",762,37,15,0,0,0,0,10,12,724,456,268,1,0,457,268,725
+"32","HERAT","3208","GULRAN","GULRAN","NO","3208258","Buzan Ulya School","Buzan ",NA,NA,"NO","NO","no change","Relocated",449,48,29,0,3,0,0,13,3,401,244,157,0,0,244,157,401
+"32","HERAT","3208","GULRAN","GULRAN","NO","3208260","Shakar Aab School","Shakar Aab ",NA,NA,"NO","NO","no change","Relocated",137,14,9,0,0,0,0,2,3,123,49,74,0,0,49,74,123
+"32","HERAT","3208","GULRAN","GULRAN","NO","3208262","Sang Kotal Afzal School","Sang Kotal Afzal ",NA,NA,"NO","NO","no change","Relocated",560,60,9,0,2,0,0,42,7,500,344,156,0,0,344,156,500
+"32","HERAT","3208","GULRAN","GULRAN","NO","3208263","Khwaja Mohammad Shor Aab Mosque","Khwaja Mohammad Shor Aab",NA,NA,"NO","NO","no change","Not Assessed",651,56,3,0,3,0,0,44,6,594,314,280,1,0,314,281,595
+"32","HERAT","3209","ADRASKAN","ADRASKAN","NO","3209272","Qalla Kharchan Primary School","Kharchan village",NA,NA,"NO","NO","no change","Old",90,14,5,0,3,0,0,3,3,76,35,41,0,0,35,41,76
+"32","HERAT","3211","GHORYAN","GHORYAN","NO","3211327","Sabol Jame Mosque","Sabol village ",6,0,"YES","NO","no change","Old",3024,110,87,0,10,0,0,7,6,2912,1486,1426,2,0,1487,1427,2914
+"32","HERAT","3212","OBI","OBI","NO","3212342","Koyan village Mosque","Koyan village ",NA,NA,"NO","NO","no change","New",957,44,15,0,8,0,0,14,7,913,711,202,0,0,711,202,913
+"32","HERAT","3214","SHEENDND","SHEENDND","NO","3214389","Abdullah Khan Mosque","Deh Mirza Qaem",2,0,"YES","NO","no change","Old",102,8,6,0,0,0,0,0,2,94,85,9,0,0,85,9,94
+"32","HERAT","3215","FARSI","FARSI","NO","3215392","Haji Bagh Mosque","Haji Bagh ",NA,NA,"NO","NO","no change","Not Assessed",846,31,4,0,6,0,0,7,14,815,576,239,0,0,576,239,815
+"32","HERAT","3215","FARSI","FARSI","NO","3215393","Community Development Council building","Pai Hesar",NA,NA,"NO","NO","no change","Not Assessed",1512,107,29,0,16,0,0,18,44,1405,1106,299,0,0,1106,299,1405
+"32","HERAT","3215","FARSI","FARSI","NO","3215396","Community Development Council building","Safedan village",NA,NA,"NO","NO","no change","Not Assessed",594,56,7,0,9,0,0,1,39,538,0,538,0,0,0,538,538
+"32","HERAT","3216","CHISHT SHAREF","CHISHT SHAREF","NO","3216404","Aarwej School","Aarwej ",2,0,"YES","NO","no change","Old",636,15,6,0,4,0,0,0,5,621,324,297,0,0,324,297,621
+"33","FARAH","3301","FARAH","FARAH","YES","3301035","Raj Boys High School","Raj ",NA,NA,"NO","NO","no change","Old",24,7,5,0,0,0,0,0,2,17,13,4,0,0,13,4,17
+"33","FARAH","3301","FARAH","FARAH","YES","3301036","Genahkan Boys High School","Genahkan ",NA,NA,"NO","NO","no change","Old",872,61,21,0,4,0,0,29,7,811,454,357,0,0,454,357,811
+"33","FARAH","3306","BALABLOK","BALABLOK","NO","3306109","Du Rahi Mosque","Du Rahi ",NA,NA,"NO","NO","no change","New",1090,116,0,0,1,0,0,113,2,974,974,0,0,0,974,0,974
+"33","FARAH","3306","BALABLOK","BALABLOK","NO","3306123","Nawabad Primary School","Nawabad ",NA,NA,"NO","NO","no change","New",596,65,3,0,2,0,0,60,0,531,531,0,0,0,531,0,531
+"33","FARAH","3311","PURCHAMAN","PURCHAMAN","NO","3311188","Qaryah Wal village School","Qaryah Wal ",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","FARAH","3311","PURCHAMAN","PURCHAMAN","NO","3311189","Nar Ghar Primary School","Nar Ghar ",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","FARAH","3311","PURCHAMAN","PURCHAMAN","NO","3311190","Arghaman School","Arghaman ",NA,NA,"NO","NO","no change","Relocated",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","FARAH","3311","PURCHAMAN","PURCHAMAN","NO","3311191","Rubat Larwand Primary School ","Rubat Larwand ",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","FARAH","3311","PURCHAMAN","PURCHAMAN","NO","3311192","Deh Turkan Mosque","Deh Turkan ",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","FARAH","3311","PURCHAMAN","PURCHAMAN","NO","3311206","Kamarak Bala Mosque","Kamarak Bala",NA,NA,"NO","NO","no change","Old",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","FARAH","3311","PURCHAMAN","PURCHAMAN","NO","3311224","Barfshar Mosque","Barfshar ",NA,NA,"NO","NO","no change","Old",45,3,2,0,0,0,0,1,0,42,42,0,0,0,42,0,42
