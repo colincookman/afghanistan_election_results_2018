@@ -32,27 +32,7 @@ For some keyfiles, see:
 For a brief explanation of some of the main variables used, please also see [this codebook](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/codebook.md). If you have questions about a variable definition or source, please feel free to [contact the author](https://github.com/colincookman/afghanistan_election_results_2018#contact-and-acknowledgements).
 
 ## Summary of results data
-The file **[all_pc_ps_candidate_vote_counts.csv](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/validity_checks/all_pc_ps_candidate_vote_counts.csv")** provides a summary count by province of polling centers, polling stations, candidates, and votes reported in the preliminary and final results. Although there is *substantial* inter- and intra-provincial variation within the dataset, some national-level summary statistics from the available results data:
-
-- **Total number of candidates reporting results:** 2543
-- **Percentage of incumbent Wolesi Jirga members seeking re-election:** ##
-- **Total votes recorded in preliminary results:** 3659470
-- **Total votes recorded for winning candidates:** 1302057 (35.58% of total)
-- **Total voters registered at polling centers planned to open:** 8778577
-- **Total votes recorded in preliminary results as a percentage of total voter registration (aka "turnout"):** 41.69%
-- **Number of polling centers planned to open:** 5106
-- **Number of planned polling centers not reporting votes:** 467 (9.14%)
-- **Voter registration for polling centers not reporting, as a share of total voter registration:** 6.72%
-- **Mean winning candidate's share of votes recorded for their constituency:** 5.32%
-- **Median winning candidate's share of votes recorded for their constituency:** 4.11%
-- **Mean share of votes recorded for all candidates in their respective constituencies:** 1.33%
-- **Median share of votes recorded for all candidates in their respective constituencies:** 0.41%
-- **Difference between mean first runner-up vote total and threshold required for a general election seat:** 562 votes
-- **Difference between median first runner-up vote total and threshold required for a general election seat:** 191 votes
-- **Difference between mean candidate vote total and threshhold required for a general election seat:** 3095 votes
-- **Difference between median candidate vote total and threshhold required for a general election seat:** 3236 votes
-
-Some initial visualizations and analysis of the available data can be found in the [graphics subfolder](https://github.com/colincookman/afghanistan_election_results_2018/tree/master/graphics).
+The file **[all_pc_ps_candidate_vote_counts.csv](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/validity_checks/all_pc_ps_candidate_vote_counts.csv")** provides a basic count by province of polling centers, polling stations, candidates, and votes reported in the preliminary and final results. There is substantial inter- and intra-provincial variation within the results dataset. For a constituency-level summary of major results, including variables on turnout against voter registration and population, average candidate vote shares, margin of victory thresholds, votes for winners and losers, votes for female and incumbent candidates, and distribution of votes between more urban and rural polling centers, see the **[constituency_summary_table.csv](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/data/constituency_summary_table.csv)** file. Some initial visualizations and analysis of the available data can also be found in the [graphics subfolder](https://github.com/colincookman/afghanistan_election_results_2018/tree/master/graphics).
 
 ## Background to the election
 The Wolesi Jirga's five-year term in office last expired in June 2015, but members' terms in office were [extended indefinitely](https://www.nytimes.com/2015/06/20/world/asia/afghan-parliaments-term-is-extended-after-squabbles-delay-elections.html) amidst [ongoing negotiations within the Afghan government](http://muse.jhu.edu/article/702129) over changes to election administration and other broader electoral reform debates. After multiple delays, the elections were ultimately held  on October 20 2018 in 33 provinces and for the  Kuchi (nomadic peoples) and Hindu / Sikh minority constituencies (for which there was [only one candidate](https://www.bbc.com/news/av/world-asia-45886493/afghanistan-elections-i-want-to-fulfil-my-slain-father-s-dreams)). (Kuchi and Sikh voters used the same polling center locations as other general voters but cast separate ballots for their respective nationwide constituencies.) 
