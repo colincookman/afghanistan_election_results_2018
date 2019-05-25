@@ -68,3 +68,5 @@ data/final_results/final_af_candidate_pc_data.csv
 data/final_af_candidate_ps_data_2018_lite.csv
 data/final_results/final_af_candidate_ps_data_2018_lite.csv
 .RDataTmp
+data/prelim_final_ps_candidate_net_vote_change.csv
+checkup.R
