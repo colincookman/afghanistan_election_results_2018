@@ -10,7 +10,7 @@ If you have questions about a variable definition or source, please feel free to
 - **results_date:**	Regardless of the date of publication, the IEC dated all preliminary results to November 23 2018, the beginning of its reporting process. (In actual practice, the preliminary results reporting process concluded on January 15 2019.) Final results reporting dates appear to accurately correspond with the date of release.
 - **results_status:** For use in differentiating preliminary and final election results.
 - **electorate:** Either general candidates (in which case the constituency is the province) or Kuchi or Sikh / Hindu candidates (in which case the constituency is nationwide).
-- **constituency_code:** Unique codes for each constituency, grouping provincial candidates and nationwide Kuchi and Sikh candidates.
+- **constituency_code:** Unique codes for each constituency, grouping provincial candidates (general electorate) and nationwide Kuchi and Sikh candidates.
 
 ## Province and District Variables
 - **province_code:** Two-digit IEC numeric code for province, reflecting the location where votes were cast (Kuchi and Sikh candidate results are listed under the location in the which votes were cast, but are aggregated into a single nationwide constituency by constituency_code). (Note: province codes do not correspond between election periods; see [district_code_keyfile.csv](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/data/district_data/district_code_keyfile.csv) to join.)
@@ -29,7 +29,7 @@ If you have questions about a variable definition or source, please feel free to
 - **pop_16_17_399_Landscan:** Landscan population estimate for 2016-17 for 407 districts, regrouped to 399 districts, via Map Sync.
 - **pop_17_18_399_iMMAP_AGCHO:** iMMAP population estimated for 2017-18 for 399 districts, via Map_Sync.
 
-## Polling Center and Polling Station Sariables
+## Polling Center and Polling Station Variables
 - **pc_code:** Seven-digit numeric code for a unique polling center, the local site for voters to cast ballots. The first two digits correspond to province_code, second two digits to district_code, and final three digits to a unique pc number within a province. Due to ommitted 0 prefixes for provinces 1-9, some datasets may require padding for accurate matches.
 - **pc_number:** Final three digits of the pc_code, corresponding to a unique polling center within a province. PC numbers are sequential within but not across provinces.
 - **pc_name_eng:** English-language name for the polling center, as provided by IEC.
@@ -42,7 +42,9 @@ If you have questions about a variable definition or source, please feel free to
 - **final_results_status:** Binary variable for whether the IEC reported results for the polling center in the final results data.
 - **assessment_status:** IEC categories for the polling center based on a security assessment conducted in January 2018, obtained by an election observer. (See [primary readme](https://github.com/colincookman/afghanistan_election_results_2018#polling-center-plans-and-voter-registration-data) for more.)
 - **pc_change_initial_final_plan:**	Comparison of the IEC's final polling center plan, published in late September 2018, with the earlier January 2018 assessment. "Added" PCs were added in the interim period, "dropped" were assessed previously but not included in the final plan, and otherwise "no change".
+- **planned_2018:** Binary variable for whether the polling center was planned to open prior to election day (i.e., all polling centers not categorized as 'dropped' in the January 2018 assessment).
 
+## Voter registration variables
 - **vr_prelim:** Preliminary total voter registration per polling station, as reported in an unpublished IEC dataset on voter registration obtained by an election observer. (See [primary readme](https://github.com/colincookman/afghanistan_election_results_2018/blob/master/README.md) for more.)
 - **vr_total_removed:**	Total voter registrations removed from the polling center rolls following an IEC voter registration review process conducted in early October 2018, as reported by IEC in voter registration dataset.
 - **vr_removed_spoiled_IDs:**	Voter registrations removed for spoiled voter IDs, as reported by IEC in voter registration dataset.
