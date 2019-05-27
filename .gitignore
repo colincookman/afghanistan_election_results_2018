@@ -42,8 +42,6 @@ data/past_elections/wj_2010/data/final_results/final_af_candidate_pc_data_2010.c
 data/past_elections/wj_2010/data/preliminary_results/prelim_af_candidate_pc_data_2010.csv
 data/past_elections/wj_2010/data/final_results/final_af_candidate_ps_data_2010.csv
 data/past_elections/wj_2010/raw/candidate_lists/wj_2010_candidate_list.gsheet
-graphics/net_change_plot.png
-graphics/winner_density_plot.png
 raw/old cleaning files/still_missing_candidate_code.gsheet
 raw/old cleaning files/candidate_codebook.gsheet
 raw/old cleaning files/party_names.gsheet
